@@ -9,12 +9,12 @@ theme_set(theme_light())
 ```
 
 
-### Introduction
+## Introduction
 
 Most "data analysis" has been focussed on quantitative methods, but in recent years text analysis and text mining methods have been developed in concert with natural language processing (NLP).
 
 ---
-### Theory and methods
+## Theory and methods
 
 Shawn Graham, Ian Milligan, and Scott Weingart (2015) "Topic Modeling: A Hands-On Adventure in Big Data", chapter four of [_Exploring Big Historical Data: The Historian's Macroscope_](http://www.themacroscope.org/?page_id=788). Imperial College Press.
 
@@ -24,14 +24,19 @@ Julia Silge and David Robinson (2016) [_Tidy Text Mining with R_](http://tidytex
 
 
 ---
-### R
+## R
 
-#### Some examples
+Super User, 2019-02-04, [An overview of the NLP ecosystem in R (#nlproc #textasdata)](https://www.r-bloggers.com/an-overview-of-the-nlp-ecosystem-in-r-nlproc-textasdata/)
+
+
+### Some examples
 
 David Robinson (2016) ["Text analysis of Trump's tweets confirms he writes only the (angrier) Android half"](http://varianceexplained.org/r/trump-tweets/) (2016-08-09)
 
 Julia Silge (2016) ["You Must Allow Me To Tell You How Ardently I Admire and Love Natural Language Processing"](http://juliasilge.com/blog/You-Must-Allow-Me/) (2016-03-08)
 
+
+### Packages
 
 
 #### `monkeylearn`
