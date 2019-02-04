@@ -1,1 +1,2 @@
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "Get Started" at https://bookdown.org/ for how to compile this example.
+An incomplete compendium (yes, that's an oxymoron) of resources that cover data science topics (a.k.a. statistics, econometrics, actuarial science, etc.). These will cover general theory, methodology, applications, and R tools and methods. The listing is not intended to be comprehensive, but will be resources I find as part of my projects or random happenstance. The emphasis will be on web resources, although published texts will also be included where appropriate.
+
