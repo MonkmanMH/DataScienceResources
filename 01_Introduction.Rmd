@@ -8,16 +8,27 @@ library(ggplot2)
 theme_set(theme_light())
 ```
 
-Data science is an expansive subject area, and the statistical programming language R has grown signficantly over the past few years and has, in the words of Roger Peng, "become the de facto programming language for data science. Its flexibility, power, sophistication, and expressiveness have made it an invaluable tool for data scientists around the world." [@Peng2018]
+It goes without saying that data science is an expansive subject area. A key tool supporting data science work is the statistical programming language R, which has grown signficantly over the past few years and has, in the words of Roger Peng, "become the de facto programming language for data science. Its flexibility, power, sophistication, and expressiveness have made it an invaluable tool for data scientists around the world." [@Peng2018]
 
-Proprietary tools (from word processors like Word to statistical programs like SAS, SPSS, and Stata) have had a one-version-at-a-time approach to development and release. With each release, new features are added, extending the functionality. These releases are scheduled big events; as one example, SAS has been releasing version updates roughly once a year since 2010.
+Proprietary tools (including statistical programs like SAS, SPSS, and Stata) have had a one-version-at-a-time approach to development and release. With each release, new features are added, extending the functionality. These releases are scheduled big events; as one example, SAS has been releasing version updates roughly once a year since 2010.
 
 The open source nature of R and its package-centric ecosystem has encouraged the expansion of functionality, and like the universe as a whole this expansion is in all directions and non-stop. There are no annual updates with the new features--new features are being applied to existing packages, and new packages are being released, every day.
 
-This makes it impossible to be an expert on all things R. It means that paper-based text books may be out-of-date before they get to the presses, and that somebody somewhere may have already dreamed up a creative solution.
+This makes it impossible to be an expert on all things R. It means that paper-based text books may be out-of-date before they get to the presses, and that somebody somewhere may have already dreamed up a creative solution to the problem you've encountered.
 
-Which is where the R community really shines. The spirit of open source tools extends to open data, open science, open research, and open development. Your friends in the R community around the world are making their tools and techniques available, and are using social media channels to tell one another about it.
+This is where the R community really shines. The spirit of open source tools extends to open data, open science, open research, and open development. Your friends in the R community around the world are making their tools and techniques available, and are using social media channels to tell one another about it, which spurs on collaboration and futher innovations, in a never-ending virtuous cycle.
 
-This compendium is simply my attempt to gather together pieces of R methods, based simply on what I've needed at a particular time. The above is a long-winded way of saying that I acknowledge that what's here is likely out of date! If you're aware of something newer, more streamlined or efficient, accurate, or just better, please don't hesitate to let me know.
+This compendium is simply my attempt to gather together pieces of R methods, based on what I've needed at a particular time. The paragraphs above are a long-winded way of saying that I acknowledge that what's here is woefully incomplete and likely out of date! If you're aware of something newer, more streamlined or efficient, accurate, or just better, please don't hesitate to let me know.
 
-And the 
+## Structure
+
+The book's layout is in three broad categories:
+
+### Data Science and R
+
+* **Chapter \@ref(practice)** is an overview of good research practice, from opinionated analysis design to script style.
+
+### Statistics and Quantitative Methods
+
+
+* **Chapter \@ref(textanalysis)** covers ways of tacking text mining, including natural language processing (NLP) and sentiment analysis.
