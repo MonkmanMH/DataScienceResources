@@ -1,0 +1,40 @@
+--- 
+title: "Data Science with R: A Resource Compendium"
+author: "Martin Monkman"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "A modest and very incomplete listing of resources for tackling data science problems in R."
+---
+
+# Preface
+
+This book grew out of my every-growing collection of reference materials that was saved as an expanding array of markdown files in a github repo. By assembling it as a book, it's hoped that it will be more accessible and useful to other R users.
+
+
+
+## Acknowledgements
+
+The author would like to acknowledge everyone who has contributed to the books, articles, blog posts, and R packages cited within.
+
+
+## Relevant details
+
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/2.5/ca/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png" /></a><br />This work by [Martin Monkman](https://github.com/MonkmanMH) is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/2.5/ca/">Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License</a>.
+
+
+
+This book is written in **Markdown**, using the **bookdown** package.
+
+
+```{r eval=FALSE}
+install.packages("bookdown")
+# or the development version
+# devtools::install_github("rstudio/bookdown")
+```
+
