@@ -63,7 +63,7 @@ Design Space of Data Visualization"](https://www.sciencedirect.com/science/artic
 
 * Michael Correll (2018-11-20) [What Does “Visualization Literacy” Mean, Anyway?](https://medium.com/multiple-views-visualization-research-explained/what-does-visualization-literacy-mean-anyway-22f3b3badc0) 
 
----
+
 
 ## R Resources
 
