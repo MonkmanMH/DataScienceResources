@@ -15,6 +15,8 @@ theme_set(theme_light())
 Naomi Robbins (2013), _Creating More Effective Graphs_, Chart House.
 
 
+---
+
 ### Box plots (a way to visualize distributions)
 
 R package [`boxplot`](https://stat.ethz.ch/R-manual/R-devel/library/graphics/html/boxplot.html)
@@ -28,10 +30,16 @@ Ron Pearson, 2011-01-29, [Boxplots and Beyond – Part I](https://www.r-bloggers
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+
+---
+
 ### Density plot
 
 * Jodie Burchell, 2016-03-16, [Creating plots in R using ggplot2 - part 8: density plots](http://t-redactyl.io/blog/2016/03/creating-plots-in-r-using-ggplot2-part-8-density-plots.html)
 
+
+
+---
 
 ### Dot plot (Cleveland dot plot, lollipop plot)
 
@@ -42,6 +50,9 @@ Ron Pearson, 2011-01-29, [Boxplots and Beyond – Part I](https://www.r-bloggers
 * [Datavis with R: Drawing a Cleveland dot plot with ggplot2](http://www.joyce-robbins.com/blog/2016/06/02/datavis-with-rdrawing-a-cleveland-dot-plot-with-ggplot2/)
 
 
+
+---
+
 ### Eikosograms
 
 > an eikosogram is a picture of probability. It visually partitions a unit square into rectangular regions whose areas give the numerical values of various probabilities. The construction is such that each rectangular region is identified with the value of one or more categorical variates. 
@@ -49,6 +60,9 @@ Ron Pearson, 2011-01-29, [Boxplots and Beyond – Part I](https://www.r-bloggers
 
 * R.W. Oldford (2018-08-16) [Introduction to eikosograms](https://cran.r-project.org/web/packages/eikosograms/vignettes/introduction.html)
 
+
+
+---
 
 ### Flow visualizations
 
@@ -65,16 +79,20 @@ Ron Pearson, 2011-01-29, [Boxplots and Beyond – Part I](https://www.r-bloggers
 [How to Make a D3 Sankey diagram in R](http://emapr.ceoas.oregonstate.edu/pages/education/how_to/sankey_diagram/sankey_diagram_to_visualize_landcover_change.html)
 
 
+---
 
 ### Heatmaps
+
 
 [The Heatmap function](https://www.r-graph-gallery.com/215-the-heatmap-function/) in the [R Graph Gallery](https://www.r-graph-gallery.com/)
 
 Rebecca L. Barter & Bin Yu, 2017-01-30, ["Superheat: An R package for creating beautiful and extendable heatmaps for visualizing complext data"](https://arxiv.org/pdf/1512.01524.pdf)
 
 
+---
 
 ### Histograms and their variants
+
 
 [Variable width column charts](https://learnr.wordpress.com/2009/03/29/ggplot2_marimekko_mosaic_chart/) (in ggplot2)
 
@@ -83,10 +101,15 @@ Rebecca L. Barter & Bin Yu, 2017-01-30, ["Superheat: An R package for creating b
 Aran Lunzer and Amelia McNamara, [What's so hard about histograms?](http://tinlizzie.org/histograms/)
 
 
+---
+
 ### Lexis diagrams
 
 Tim RiffeEmail author, Jonas Schöley and Francisco Villavicencio (2017) ["A unified framework of demographic time"](http://genus.springeropen.com/articles/10.1186/s41118-017-0024-4), _Genus: Journal of Population Sciences_, 2017 73:7
 
+
+
+---
 
 ### Network graphs
 
@@ -100,6 +123,7 @@ Tim RiffeEmail author, Jonas Schöley and Francisco Villavicencio (2017) ["A uni
 [ggnet2: network visualization with ggplot2](https://briatte.github.io/ggnet/) -- part of the [`GGally`](https://www.rdocumentation.org/packages/GGally/versions/1.3.2) package
 
 
+---
 
 ### Population Pyramids
 
@@ -148,6 +172,7 @@ Ilya Kashnitsky, 2017-03-31, ["Who is old? Visualizing the concept of prospectiv
 acarioli (2016-01-11) [Population pyramids in ggplot](https://aledemogr.wordpress.com/2016/01/11/population-pyramids-in-ggplot/)
 
 
+---
 
 ### Ridgeline plot
 
@@ -178,18 +203,36 @@ The over of Joy Division's debut album [_Unknown Pleasures_](https://en.wikipedi
 
 
 
+---
 
 ### Slopegraphs
 
-[Slopegraphs get their own page](Data_Visualization_Slopegraphs.md)
+
+A common visualization to show relative change between two time periods across different categories.
+
+#### Theory and methods
+
+Cole Nussbaumer Knaflic, 2015, _Storytelling with Data_, pp.47-49.
+
+#### R
+
+Kyle Walker, 2015-05-17, [Global population change with a slopegraph in ggplot2](https://rpubs.com/walkerke/slopegraph)
 
 
+#### `slopegraph`
+
+[github](https://github.com/leeper/slopegraph)
+
+
+
+---
 
 ### Ternary plots
 
 [`ggtern` - an extension to `ggplot2`](http://www.ggtern.com/) for plotting ternary diagrams.
 
 
+---
 
 ### Waffle plots
 
