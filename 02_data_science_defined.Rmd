@@ -14,7 +14,6 @@ theme_set(theme_light())
 
 ## What is this thing called "data science"?
 
----
 ### Theory
 
 David Donoho (2015) [_50 Years of Data Science_](http://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf), based on a presentation at the Tukey Centennial workshop, Princeton NJ Sept 18 2015.
@@ -34,7 +33,7 @@ David Robinson (2018-01-09) ["What's the difference between data science, machin
 
 Mango Solutions (2018-08-15) ["Demystifying Data Science Terminology"](https://www.mango-solutions.com/blog/demystifying-data-science-terminology)
 
----
+
 ### Philosophy
 
 Angela Bassa (2017) [Data Alone Isn’t Ground Truth … and why you should always carry a healthy dose of skepticism in your back pocket](https://medium.com/@angebassa/data-alone-isnt-ground-truth-9e733079dfd4)

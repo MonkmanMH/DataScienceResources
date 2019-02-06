@@ -161,7 +161,8 @@ Economics	&	Econometrics"](https://www.tse-fr.eu/sites/default/files/TSE/documen
 
 * Luis A. Apiolaza, 2017-11-11, [Reducing friction in R to avoid Excel](http://www.quantumforest.com/2017/11/reducing-friction-to-avoid-excel/)
 
----
+
+
 
 ## Collaboration
 
@@ -171,7 +172,6 @@ Economics	&	Econometrics"](https://www.tse-fr.eu/sites/default/files/TSE/documen
 * Peter Seibel, 2017-11-19, [Repo style wars: mono vs multi](http://www.gigamonkeys.com/mono-vs-multi/)
 
 
----
 
 ## Data Informed or Data Driven? Data Science at Work
 
@@ -182,13 +182,14 @@ Ricardo Bion, Robert Chang, and Jason Goodman (2017-08-23) [How R Helps Airbnb M
 
 Behavioural Insights Team (UK), 2017-12-14, [Using Data Science in Policy](http://www.behaviouralinsights.co.uk/publications/using-data-science-in-policy/)
 
----
+
 
 ## Agile practice
 
 [Agile Scrum Guide](http://agile-guide.pathfinder.bcgov/), BC Government DevEx
 
----
+
+
 
 ## Data Quality & Context Compatibility
 
@@ -198,7 +199,7 @@ Jacob Harris (2014) ["Distrust your data"](https://source.opennews.org/en-US/lea
 
 Roger Peng (2018) [Context Compatibility in Data Analysis](https://simplystatistics.org/2018/05/24/context-compatibility-in-data-analysis/), 2018-05-30
 
----
+
 
 ## File storage and naming conventions
 
@@ -289,7 +290,6 @@ Aimee Gott, 2015-07-16, [Developing a R Validation Framework](https://www.baselr
 
 Dani Marillas, 2017-01-25, ["Don’t document your code. Code your documentation."](https://dev.to/raddikx/dont-document-your-code-code-your-documentation)
 
----
 
 ## General research practice
 
@@ -352,7 +352,7 @@ Jesse Sadler, [Excel vs R: A Brief Introduction to R  (With examples using dplyr
 
 
 
----
+
 
 ## Tidy Tools
 
