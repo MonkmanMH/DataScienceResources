@@ -1,0 +1,200 @@
+# Chart Types {#charttypes}
+
+```{r echo = FALSE}
+library(knitr)
+opts_chunk$set(message = FALSE, warning = FALSE, cache = TRUE)
+options(width = 100, dplyr.width = 100)
+library(ggplot2)
+theme_set(theme_light())
+```
+
+
+## Chart types: theory and methods
+
+
+Naomi Robbins (2013), _Creating More Effective Graphs_, Chart House.
+
+
+### Box plots (a way to visualize distributions)
+
+R package [`boxplot`](https://stat.ethz.ch/R-manual/R-devel/library/graphics/html/boxplot.html)
+
+Laura DeCicco, 2018-08-10, [Exploring ggplot2 boxplots - Defining limits and adjusting style](https://owi.usgs.gov/blog/boxplots/)
+
+Ron Pearson, 2011-01-29, [Boxplots and Beyond – Part I](https://www.r-bloggers.com/boxplots-and-beyond-part-i/) (first in a multi-part series on various distribution plots)
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">More papers should use this plot type!! <a href="https://t.co/iEglulaMyM">pic.twitter.com/iEglulaMyM</a></p>&mdash; Johanna Rickne (@johannarickne) <a href="https://twitter.com/johannarickne/status/1028174230146478080?ref_src=twsrc%5Etfw">August 11, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+### Density plot
+
+* Jodie Burchell, 2016-03-16, [Creating plots in R using ggplot2 - part 8: density plots](http://t-redactyl.io/blog/2016/03/creating-plots-in-r-using-ggplot2-part-8-density-plots.html)
+
+
+### Dot plot (Cleveland dot plot, lollipop plot)
+
+* UC Business Analytics R Programming Guide, [Cleveland Dot Plots](https://uc-r.github.io/cleveland-dot-plots)
+
+* Nina Zumel (2013-02-18) [Revisiting Cleveland’s The Elements of Graphing Data in ggplot2](http://www.win-vector.com/blog/2013/02/revisiting-clevelands-the-elements-of-graphing-data-in-ggplot2/)
+
+* [Datavis with R: Drawing a Cleveland dot plot with ggplot2](http://www.joyce-robbins.com/blog/2016/06/02/datavis-with-rdrawing-a-cleveland-dot-plot-with-ggplot2/)
+
+
+### Eikosograms
+
+> an eikosogram is a picture of probability. It visually partitions a unit square into rectangular regions whose areas give the numerical values of various probabilities. The construction is such that each rectangular region is identified with the value of one or more categorical variates. 
+> _R.W. Oldford_
+
+* R.W. Oldford (2018-08-16) [Introduction to eikosograms](https://cran.r-project.org/web/packages/eikosograms/vignettes/introduction.html)
+
+
+### Flow visualizations
+
+**1. Circle plots**
+
+* a.k.a. [Circos plot](http://circos.ca/)
+
+* David Smith, [Global Migration, animated with R](http://blog.revolutionanalytics.com/2018/06/global-migration-animated-with-r.html), 2018-06-29
+
+**2. Sankey plots**
+
+[Interactive flow visualization in R](http://personal.tcu.edu/kylewalker/interactive-flow-visualization-in-r.html); Kyle Walker, 2016-06-26
+
+[How to Make a D3 Sankey diagram in R](http://emapr.ceoas.oregonstate.edu/pages/education/how_to/sankey_diagram/sankey_diagram_to_visualize_landcover_change.html)
+
+
+
+### Heatmaps
+
+[The Heatmap function](https://www.r-graph-gallery.com/215-the-heatmap-function/) in the [R Graph Gallery](https://www.r-graph-gallery.com/)
+
+Rebecca L. Barter & Bin Yu, 2017-01-30, ["Superheat: An R package for creating beautiful and extendable heatmaps for visualizing complext data"](https://arxiv.org/pdf/1512.01524.pdf)
+
+
+
+### Histograms and their variants
+
+[Variable width column charts](https://learnr.wordpress.com/2009/03/29/ggplot2_marimekko_mosaic_chart/) (in ggplot2)
+
+[Mosaic or Marimekko charts](https://learnr.wordpress.com/2009/03/29/ggplot2_marimekko_mosaic_chart/) (in ggplot2)
+
+Aran Lunzer and Amelia McNamara, [What's so hard about histograms?](http://tinlizzie.org/histograms/)
+
+
+### Lexis diagrams
+
+Tim RiffeEmail author, Jonas Schöley and Francisco Villavicencio (2017) ["A unified framework of demographic time"](http://genus.springeropen.com/articles/10.1186/s41118-017-0024-4), _Genus: Journal of Population Sciences_, 2017 73:7
+
+
+### Network graphs
+
+[DiagramR: Graph and network visualization using tabular data in R](DiagrammeR: Graph/Network Visualization)
+
+* [github repo](https://github.com/rich-iannone/DiagrammeR)
+
+* [DiagrammeRsvg: Export DiagrammeR Graphviz Graphs as SVG](https://cran.r-project.org/web/packages/DiagrammeRsvg/index.html)
+
+
+[ggnet2: network visualization with ggplot2](https://briatte.github.io/ggnet/) -- part of the [`GGally`](https://www.rdocumentation.org/packages/GGally/versions/1.3.2) package
+
+
+
+### Population Pyramids
+
+
+A common visualization in demography to show the age and gender distribution of a population.
+
+
+Lauren Boucher (2016-03-10) [What are the different types of population pyramids?](https://www.populationeducation.org/content/what-are-different-types-population-pyramids)
+
+
+#### Examples
+
+[Estimated U.S. Population Distribution, 1980 to 2050](https://www.reddit.com/r/dataisbeautiful/comments/73u5po/estimated_us_population_distribution_1980_to_2050/)
+
+#### R
+
+[Population Pyramids for Select Canadian Provinces, 2015-2035](https://github.com/atheriel/visualizations/tree/master/provincial-demography)
+
+* uses `ggplot2` to create pyramids
+
+[Simpler population pyramid in ggplot2](https://stackoverflow.com/questions/14680075/simpler-population-pyramid-in-ggplot2)
+
+
+
+** Kyle Walker's stuff **
+
+Kyle Walker (2014-06-07) [Interactive international population pyramids with R, rCharts](https://walkerke.github.io/2014/06/rcharts-pyramids/)
+
+Kyle Walker (2014-07-06) [International population pyramids with ggplot2](https://rpubs.com/walkerke/pyramids_ggplot2)
+
+Kyle Walker (2015-04-07) [Animated population pyramid of India with rcdimple](https://rpubs.com/walkerke/india_pyramid)
+
+Kyle Walker (2016-06-06) [idbr: access the US Census Bureau International Data Base in R](http://www.arilamstein.com/blog/2016/06/06/idbr-access-us-census-bureau-international-data-base-r/?utm_source=recurpost) (http://personal.tcu.edu/kylewalker/)
+
+* Example: ["Japan's aging population in R "](http://urbandemographics.blogspot.ca/2016/03/japans-aging-population-in-r.html)
+
+Arizona pyramids:
+
+* [gist](https://gist.github.com/walkerke/47414a289ccf8eca2a5281cc09b41077)
+
+
+Ilya Kashnitsky, 2017-03-31, ["Who is old? Visualizing the concept of prospective ageing with animated population pyramids"](https://ikashnitsky.github.io/2017/who-is-old/)
+
+* ["Visualizing the concept of prospective aging with R"](http://urbandemographics.blogspot.ca/2017/05/visualizing-concept-of-prospective.html)
+
+acarioli (2016-01-11) [Population pyramids in ggplot](https://aledemogr.wordpress.com/2016/01/11/population-pyramids-in-ggplot/)
+
+
+
+### Ridgeline plot
+
+
+** ridgeline plots in R **
+
+[`ggridges` package by Claus Wilke](https://cran.r-project.org/web/packages/ggridges/index.html) -- CRAN page
+
+Alex Whan, 2016-03-24, [ggplot2 and Joy Division](http://alexwhan.com/2016-03-24-joy-division-plot) - at Incrutable Errors
+
+Mauricio Vargas S., 2016-11-08, [Joy Division’s Unknown PleasuRes](https://www.r-bloggers.com/joy-divisions-unknown-pleasures/) - at R-Bloggers
+
+Henrik Lindberg, [Sports: Time of Day](https://github.com/halhen/viz-pub/tree/master/sports-time-of-day)
+
+* [plot code](https://github.com/halhen/viz-pub/blob/master/sports-time-of-day/2_gen_chart.R)
+
+
+
+** _Unknown Pleasures_ **
+
+The over of Joy Division's debut album [_Unknown Pleasures_](https://en.wikipedia.org/wiki/Unknown_Pleasures) (1979) is perhaps the most famous ridgeline plot.
+
+* Jen Christiansen, 2015-02-18, [Pop Culture Pulsar: Origin Story of Joy Division’s Unknown Pleasures Album Cover](https://blogs.scientificamerican.com/sa-visual/pop-culture-pulsar-origin-story-of-joy-division-s-unknown-pleasures-album-cover-video/) - _Scientific American_, [SA Visual](https://blogs.scientificamerican.com/sa-visual/) -- a great piece that traces the Joy Division album cover image directly back to the PhD dissertation of Harold D. Craft, Jr.
+
+  - Adam Cap, 2011-05-19 - 2016-02-13, [The History of Joy Division’s “Unknown Pleasures” Album Art](https://adamcap.com/2011/05/19/history-of-joy-division-unknown-pleasures-album-art/)
+
+  - [Data Visualization, Reinterpreted by VISUALIZED](https://vimeo.com/51365288): Peter Saville on the Design + Effect of Joy Division's "Unknown Pleasures" - ([from Visualized](https://vimeo.com/visualized))
+
+
+
+
+### Slopegraphs
+
+[Slopegraphs get their own page](Data_Visualization_Slopegraphs.md)
+
+
+
+### Ternary plots
+
+[`ggtern` - an extension to `ggplot2`](http://www.ggtern.com/) for plotting ternary diagrams.
+
+
+
+### Waffle plots
+
+[Infographic-style charts using the R waffle package](https://nsaunders.wordpress.com/2017/09/08/infographic-style-charts-using-the-r-waffle-package/amp/)
+
+
+
+-30-
