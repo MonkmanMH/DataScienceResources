@@ -56,9 +56,9 @@ Lucy D'Agostino McGowan, 2017-07-28, [R release names](https://livefreeordichoto
 
 ### Using R for Data Science
 
-Hadley Wickham & Garrett Grolemund (2016) [_R for Data Science_](http://r4ds.had.co.nz/)
+Hadley Wickham & Garrett Grolemund (2016) [_R for Data Science_](http://r4ds.had.co.nz/)[@Wickham_Grolemund2016]
 
-Roger Peng, [_R Programming for Data Science_](https://leanpub.com/rprogramming)
+Roger Peng, [_R Programming for Data Science_](https://leanpub.com/rprogramming)[@Peng2018]
 
 * Roger Peng's [other books on LeanPub](https://leanpub.com/u/rdpeng)
 

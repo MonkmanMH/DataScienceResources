@@ -13,7 +13,7 @@ theme_set(theme_light())
 
 Most "data analysis" has been focussed on quantitative methods, but in recent years text analysis and text mining methods have been developed in concert with natural language processing (NLP).
 
----
+
 ## Theory and methods
 
 Shawn Graham, Ian Milligan, and Scott Weingart (2015) "Topic Modeling: A Hands-On Adventure in Big Data", chapter four of [_Exploring Big Historical Data: The Historian's Macroscope_](http://www.themacroscope.org/?page_id=788). Imperial College Press.
@@ -22,7 +22,7 @@ Shawn Graham, Ian Milligan, and Scott Weingart (2015) "Topic Modeling: A Hands-O
 
 
 
----
+
 ## R
 
 **The definitive guide**

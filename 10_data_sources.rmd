@@ -16,7 +16,7 @@ theme_set(theme_light())
 
 What is data science without _data_?  Links to tools to import data from a variety of sources, along with a few indexes and compendiums of data sources.
 
----
+
 ### Sources
 
 #### listings
@@ -35,7 +35,6 @@ Simon Fraser University Library: [Gender, Sexuality & Women's Studies Informatio
 
 [Gapminder](https://www.gapminder.org/data/) - all indicators displayed in Gapminder World
 
----
 
 ### R packages
 
@@ -76,7 +75,7 @@ github: [CANSIM2R](https://github.com/MarcoLugo/CANSIM2R)
 [Lahman: Sean 'Lahman' Baseball Database](https://cran.r-project.org/web/packages/Lahman/)  Provides the tables from the 'Sean Lahman Baseball Database' as a set of R data.frames. It uses the data on pitching, hitting and fielding performance and other tables from 1871 through 2015, as recorded in the 2016 version of the database.
 
 
----
+
 ### R readers
 
 **articles**
