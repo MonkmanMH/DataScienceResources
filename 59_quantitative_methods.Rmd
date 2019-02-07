@@ -1,0 +1,652 @@
+# Specific techniques {#quantitativemethods2}
+
+```{r echo = FALSE}
+library(knitr)
+opts_chunk$set(message = FALSE, warning = FALSE, cache = TRUE)
+options(width = 100, dplyr.width = 100)
+library(ggplot2)
+theme_set(theme_light())
+```
+
+## Ecological inference
+
+Ecological inference is a method for inferring individual behavior from group-level data.
+
+
+### Theory and methods
+
+Gary King, [Ecological Inference](https://gking.harvard.edu/category/research-interests/methods/ecological-inference) -- topic page by a leader in the field, with links to assorted research and methodology papers.
+
+* Gary King, 1997, [_A Solution to the Ecological Inference Problem: Reconstructing Individual Behavior from Aggregate Data _](https://gking.harvard.edu/files/gking/files/part1.pdf); part 1 {PDF}
+
+Michael Stoto ["Ecological Inference in Public Health"](https://www.researchgate.net/publication/25121603_Gary_King's_A_Solution_to_the_Ecological_Inference_Problem), book review of King, _Ecological Inference_
+
+
+### R
+
+Arranged by package
+
+#### `ei`
+
+**package**
+
+CRAN page: [ei: Ecological Inference](https://cran.r-project.org/web/packages/ei/index.html)
+
+**articles**
+
+Gary King and Margaret Roberts, [EI: A(n R) Program for Ecological Inference](https://gking.harvard.edu/eiR) -- website with assorted resources
+
+
+
+
+##Forecasting
+
+Forecasting methods extrapolate past trends. There is a wealth of material supporting the theory and methods around this, much of it coming from econometrics.
+
+
+### Theory and methods
+
+Kamala Kanta Mishra, [Selecting Forecasting Methods in Data Science](http://www.datasciencecentral.com/profiles/blogs/selecting-forecasting-methods-in-data-science) (2017-02-13)
+
+
+### R
+
+Kostiantyn Kravchuk, ["Forecasting: Time Series Exploration Exercises (Part-1)"](https://www.r-bloggers.com/forecasting-time-series-exploration-exercises-part-1/) (2017-04-10)
+
+
+#### `prophet`
+
+**package**
+
+CRAN page: [prophet: Automatic Forecasting Procedure](https://cran.r-project.org/web/packages/prophet/index.html)
+
+documentation: [Prophet: forecasting at scale](https://facebookincubator.github.io/prophet/) 
+
+**articles**
+
+["Prophet: How Facebook operationalizes time series forecasting at scale"](http://blog.revolutionanalytics.com/2017/02/facebook-prophet.html) at Revolutions Analytics (2017-02-24)
+
+
+
+
+
+
+## Gini coefficient
+
+From the wikipedia entry:
+
+>The Gini coefficient (also known as the Gini index or Gini ratio) is a measure of statistical dispersion intended to represent the income distribution of a nation's residents, and is the most commonly used measure of inequality. It was developed by the Italian statistician and sociologist Corrado Gini and published in his 1912 paper "Variability and Mutability" (Italian: Variabilità e mutabilità).
+>
+>The Gini coefficient measures the inequality among values of a frequency distribution (for example, levels of income). A Gini coefficient of zero expresses perfect equality, where all values are the same (for example, where everyone has the same income). A Gini coefficient of 1 (or 100%) expresses maximal inequality among values (e.g., for a large number of people, where only one person has all the income or consumption, and all others have none, the Gini coefficient will be very nearly one).
+
+[Gini coefficient: wikipedia entry](https://en.wikipedia.org/wiki/Gini_coefficient), 2016-05-07
+
+#### Further reading
+
+Lamb, Evelyn (2012-11-12) ["Ask Gini: How to Measure Inequality"](http://www.scientificamerican.com/article/ask-gini/), Scientific American ["The Sciences"](http://www.scientificamerican.com/the-sciences/).
+
+World Bank (date unknown) ["Measuring Inequality"](http://go.worldbank.org/W2TRRD1PP0)
+
+### R
+
+#### `ineq`
+
+**package**
+
+
+
+
+## Imputation of missing data (or missing values)
+
+Missing data can pose a challenge for a data analysis, and can limit or compromise the models and conclusions that can be drawn.
+
+One method of dealing with missing data is through imputation.
+
+
+### Theory and methods
+
+[Missing data](https://en.wikipedia.org/wiki/Missing_data) -- wikipedia
+
+Allison, P. (2000). [Multiple Imputation for Missing Data: A Cautionary Tale](http://journals.sagepub.com/doi/abs/10.1177/0049124100028003003), _Sociological Methods and Research_, 28, 301-309. ([Preprint]((http://www.ssc.upenn.edu/~allison/MultInt99.pdf)))
+
+Fichman, Mark and Jonathon N. Cummings (2003) ["Multiple Imputation for Missing Data: Making the most of What you Know"](http://journals.sagepub.com/doi/abs/10.1177/1094428103255532), _Organizational Research Methods_, Volume: 6 issue: 3, page(s): 282-308.
+
+Gelman, Andrew and Jennifer Hill (2006) _Data Analysis Using Regression and Multilevel/Hierarchical Models_, Cambridge University Press.
+ * ["Chapter 25: Missing Data Imputation"](http://www.stat.columbia.edu/~gelman/arm/missing.pdf)
+
+Gelman, Andrew, et al. (2014) _Bayesian Data Analysis_, (3rd edition). (see chapter 18, "Models for missing data", pp.449-467)
+
+Karen Grace-Martin (2016?) ["Two Recommended Solutions for Missing Data: Multiple Imputation and Maximum Likelihood"](http://www.theanalysisfactor.com/missing-data-two-recommended-solutions/)
+
+Karen Grace-Martin, ["Two Recommended Solutions for Missing Data: Multiple Imputation and Maximum Likelihood"](http://www.theanalysisfactor.com/missing-data-two-recommended-solutions/)
+
+Neil J Perkins, Stephan R Cole, et al. (2017) ["Principled Approaches to Missing Data in Epidemiologic Studies"](https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwx348/4642951#.WhPyM47tFQc.twitter), _American Journal of Epidemiology_
+
+
+Karen, The Analysis Factor, [Multiple Imputation of Categorical Variables](https://www.theanalysisfactor.com/multiple-imputation-of-categorical-variables/)
+
+Jeff Meyer, The Analysis Factor, [Multiple Imputation for Missing Data: Indicator Variables versus Categorical Variables](https://www.theanalysisfactor.com/multiple-imputation-for-missing-data-indicator-variables-versus-categorical-variable/)
+
+
+### R
+
+Robert I. Kabacoff, (2011) [_R in Action: Data analysis and graphics with R_], Manning. (see chapter 15, "Advanced methods for missing data", pp.352-372)
+
+Joseph Rickert, ["Missing Values, Data Science and R"](https://rviews.rstudio.com/2016/11/30/missing-values-data-science-and-r/), 2016-11-30
+
+Thomas Leeper, [Multiple imputation](http://thomasleeper.com/Rcourse/Tutorials/mi.html) {tutorial for `Amelia`, `mi`, and `mice`}
+
+
+["Tutorial on 5 Powerful R Packages used for imputing missing values"](https://www.analyticsvidhya.com/blog/2016/03/tutorial-powerful-packages-imputing-missing-values/) {`MICE`, `Amelia`, `missForest`, `Hmisc`, `mi`}
+
+
+
+#### `Amelia`
+
+**package**
+
+CRAN page: [Amelia: A Program for Missing Data](https://cran.r-project.org/web/packages/Amelia/index.html)
+
+vignette: [Amelia II: A Package for Missing Data](https://cran.r-project.org/web/packages/Amelia/vignettes/amelia.pdf) {PDF version}
+
+description: [Amelia II: A Program for Missing Data](http://gking.harvard.edu/amelia)
+
+github page for [Amelia II](https://github.com/IQSS/Amelia)
+
+
+#### `BaBooN`
+
+CRAN page: [BaBooN: Bayesian Bootstrap Predictive Mean Matching - Multiple and Single Imputation for Discrete Data](https://cran.r-project.org/web/packages/BaBooN/index.html)
+
+
+
+#### `Hmisc`
+
+**package**
+
+CRAN page: [Hmisc: Harrell Miscellaneous](https://cran.r-project.org/web/packages/Hmisc/index.html)
+
+
+
+#### `mi`
+
+**package**
+
+CRAN page: [mi: Missing Data Imputation and Model Checking](https://cran.r-project.org/web/packages/mi/index.html)
+
+**articles**
+
+Su, Gelman, Hill and Yajima (2011) [Multiple Imputation with Diagnostics (mi) in R: Opening Windows into the Black Box](http://www.stat.columbia.edu/~gelman/research/published/mipaper.pdf), _Journal of Statistical Software_, vol. 45.
+
+Ben Goodrich and Jonathan Kropko, 2014-06-16, ["An Example of mi Usage"](https://cran.r-project.org/web/packages/mi/vignettes/mi_vignette.pdf)
+
+#### `mice`
+
+**package**
+
+CRAN page: [mice: Multivariate Imputation by Chained Equations](https://cran.r-project.org/web/packages/mice/index.html)
+
+**see also**
+
+package `miceadds` on CRAN: [miceadds: Some Additional Multiple Imputation Functions, Especially for 'mice'](https://cran.r-project.org/web/packages/miceadds/index.html)
+
+
+**articles**
+
+Stef van Buuren & Karin Groothuis-Oudshoorn, 2011-12-12, ["mice: Multivariate Imputation by Chained Equations in R"](https://www.jstatsoft.org/article/view/v045i03), _Journal of Statistical Software_, Vol 45, Issue 3.
+
+Michy Alice, ["Imputing missing data with R; MICE package"](https://www.r-bloggers.com/imputing-missing-data-with-r-mice-package/)
+
+* [original source](https://datascienceplus.com/imputing-missing-data-with-r-mice-package/)
+
+datascience+, 2015-10-04 and updated 2017-04-28, [Imputing Missing Data with R; MICE package](https://datascienceplus.com/imputing-missing-data-with-r-mice-package/)
+
+#### `missMDA`
+
+**package**
+
+CRAN page: [missMDA: Handling Missing Values with Multivariate Data Analysis](https://cran.r-project.org/web/packages/missMDA/index.html)
+
+**articles**
+
+francoishusson, 2017-08-15, [Multiple imputation for continuous and categorical data](https://www.r-bloggers.com/multiple-imputation-for-continuous-and-categorical-data/)
+
+
+
+#### `missForest`
+
+**package**
+
+CRAN page: [missForest: Nonparametric Missing Value Imputation using Random Forest](https://cran.r-project.org/web/packages/missForest/index.html)
+
+
+#### `NPBayesImpute`
+
+CRAN page: [NPBayesImpute: Non-Parametric Bayesian Multiple Imputation for Categorical Data](https://cran.r-project.org/web/packages/NPBayesImpute/index.html)
+
+
+#### `VIM`
+
+**package**
+
+CRAN page: [VIM: Visualization and Imputation of Missing Values](https://cran.r-project.org/web/packages/VIM/index.html)
+
+**articles**
+
+Alexander Kowarik, Matthias Templ (2016) ["Imputation with the R Package VIM"](https://www.jstatsoft.org/article/view/v074i07), _Journal of Statistical Software_, vol. 74.
+
+
+
+https://www.jstatsoft.org/article/view/v074i07
+
+
+
+
+
+## Machine Learning
+
+
+## Random walk
+
+From wikipedia entry on [random walk](https://en.wikipedia.org/wiki/Random_walk):
+
+> A random walk is a mathematical object, known as a stochastic or random process, that describes a path that consists of a succession of random steps on some mathematical space such as the integers.
+
+
+### Theory and methods
+
+Karl Pearson (1905). ["The Problem of the Random Walk"](http://www.nature.com/nature/journal/v72/n1865/pdf/072294b0.pdf?foxtrotcallback=true). _Nature_. 72 (1865): 294.
+
+> ** The Problem of the Random Walk **
+
+> Can any of your readers refer me to a work wherein I should find a solution of the following problem, or failing the knowledge of any existing solution provide me with an original one? I should be extremely grateful for aid in the matter.
+
+> A man starts from a point O and walks _l_ yards in a straight line; he then turns at any angle whatever and walks another _l_ yards in a second straight line. he repeats this process _n_ times. I require the probability that after these _n_ stretches he is at a distance between _r_ and _r + delta-r_ from his starting point, O.
+
+> The problem is one of considerable interest, but I have only succeeded in obtaining an integrated solution for _two_ stretches. I think, however, that a solution ought to be found, if only in the form of a series in powers of 1/_n_, where _n_ is large.
+
+> Karl Pearson
+
+> The Gables, East Ilsley, Berks.
+
+
+### R
+
+Zhijun Yang, ["Brownian Motion Simulation Project in R"](https://www.stat.berkeley.edu/~aldous/Research/Ugrad/ZY1.pdf)
+
+
+
+
+## Raking
+
+Also known as _iterative proportional fitting procedure_, or IPFP; uses include weighting survey responses to accurately match the population proportions)
+
+Includes post-stratification weights in surveying.
+
+
+### Theory and methods
+
+The primary method of raking is [iterative proportional fitting, or IPF](https://en.wikipedia.org/wiki/Iterative_proportional_fitting)
+
+[IPF resources](http://www.demog.berkeley.edu/~eddieh/datafitting.html)
+
+LCDR Lew Anderson and Dr. Ronald D. Fricker, Jr. ["Raking: An Important and Often Overlooked Survey Analysis Tool"](http://faculty.nps.edu/rdfricke/docs/RakingArticleV2.2.pdf) {PDF}
+
+Michael P. Battaglia, David Izrael, David C. Hoaglin, and Martin R. Frankel, ["Tips and Tricks for Raking Survey Data (a.k.a. Sample Balancing)"](http://www.amstat.org/sections/srms/Proceedings/y2004/files/Jsm2004-000074.pdf) {PDF}
+
+Andrew Gelman, [Tracking public opinion with biased polls](https://www.washingtonpost.com/news/monkey-cage/wp/2014/04/09/tracking-public-opinion-with-biased-polls/), _Washington Post_, 2014-04-09.
+
+Eddie Hunsinger, ["Iterative Proportional Fitting For A
+Two-Dimensional Table"](http://www.demog.berkeley.edu/~eddieh/IPFDescription/AKDOLWDIPFTWOD.pdf), May 2008
+
+Sven Kurras, ["Symmetric Iterative Proportional Fitting"](http://www.jmlr.org/proceedings/papers/v38/kurras15.pdf), Appearing in Proceedings of the 18th International Conference on Artificial Intelligence and Statistics (AISTATS) 2015, San Diego, CA, USA. JMLR: W&CP volume 38.
+
+Robin Lovelace, ["Population synthesis with R"](http://robinlovelace.net/spatial-microsim-book/smsim-in-R.html), from [_Spatial Microsimulation with R_](http://robinlovelace.net/spatial-microsim-book/)
+
+
+### R
+
+DIY Solution
+
+* Christopher Waldhauser (2014-04-13) [Survey: Computing Your Own Post-Stratification Weights in R](https://www.r-bloggers.com/survey-computing-your-own-post-stratification-weights-in-r/) (at R-Bloggers)
+
+#### `anesrake`
+
+**package**
+
+CRAN page: [anesrake: ANES Raking Implementation](https://cran.r-project.org/web/packages/anesrake/index.html)
+
+**articles**
+
+Josh Pasek (2010-03-15) ["ANES Weighting Algorithm: A Description"](https://web.stanford.edu/group/iriss/cgi-bin/anesrake/resources/RakingDescription.pdf) {PDF}
+
+Josh Pasek, Matthew DeBell, Jon A. Krosnick (2014-07-26) ["Standardizing!and!Democratizing!Survey!Weights: The ANES Weighting System and anesrake"](http://surveyinsights.org/wp-content/uploads/2014/07/Full-anesrake-paper.pdf) {PDF}
+
+[Raking weights with R](http://sdaza.com/survey/2012/08/25/raking/)
+
+#### `ipfp`
+
+**package**
+
+CRAN page: [ipfp: Fast Implementation of the Iterative Proportional Fitting Procedure in C](https://cran.r-project.org/web/packages/ipfp/)
+
+github page: [awblocker/ipfp](https://github.com/awblocker/ipfp)
+
+**articles**
+
+[Iterative proportional fitting in R (stackexchange)](http://stats.stackexchange.com/questions/59115/iterative-proportional-fitting-in-r)
+
+#### `survey`
+
+**package**
+
+CRAN page: [survey: analysis of complex survey samples](https://cran.r-project.org/web/packages/survey/index.html)
+
+homepage: [Survey analysis in R](http://r-survey.r-forge.r-project.org/survey/)
+
+**articles**
+
+Lumley, Thomas (2010) _Complex Surveys: A Guide to Analysis Using R_, John Wiley & Sons, Inc.
+
+#### `{rake}` function in `survey`
+
+**articles**
+
+[1/2 Social Science Goes R: Weighted Survey Data](http://tophcito.blogspot.ca/2014/04/social-science-goes-r-weighted-survey.html)
+
+[2/2 Survey: Computing Your Own Post-Stratification Weights in R](http://tophcito.blogspot.ca/2014/04/survey-computing-your-own-post.html)
+
+[rake {survey}: Raking of replicate weight design](http://faculty.washington.edu/tlumley/old-survey/html/rake.html)
+
+
+#### `weights`
+
+**package**
+
+CRAN page: [weights: Weighting and Weighted Statistics](https://cran.r-project.org/web/packages/weights/index.html)
+
+
+**articles**
+
+## Regression
+
+
+
+  - [Quantile regression](docs/QuantileRegression.md)
+
+
+
+## Seasonal adjustment
+
+From the wikipedia entry:
+
+>Seasonal adjustment is a statistical method for removing the seasonal component of a time series that exhibits a seasonal pattern. It is usually done when wanting to analyse the trend of a time series independently of the seasonal components. It is normal to report seasonally adjusted data for unemployment rates to reveal the underlying trends in labor markets. Many economic phenomena have seasonal cycles, such as agricultural production and consumer consumption, e.g. greater consumption leading up to Christmas. It is necessary to adjust for this component in order to understand what underlying trends are in the economy and so official statistics are often adjusted to remove seasonal components.
+
+[Seasonal adjustment: wikipedia entry](https://en.wikipedia.org/wiki/Seasonal_adjustment), 2016-05-07
+
+
+Statistics Canada, ["Seasonal adjustment and trend-cycle estimation"](http://www.statcan.gc.ca/pub/12-539-x/2009001/seasonal-saisonnal-eng.htm)  (part of Statistics Canada [Quality Guidelines](http://www.statcan.gc.ca/pub/12-539-x/12-539-x2009001-eng.htm), Catalogue 12-539-X)
+
+U.S. Census Bureau, [The X-13ARIMA-SEATS Seasonal Adjustment Program](https://www.census.gov/srd/www/x13as/)
+
+
+### R
+
+#### `ggsdc`
+
+**package**
+
+CRAN page: [ggseas: 'stats' for Seasonal Adjustment on the Fly with 'ggplot2'](https://cran.r-project.org/web/packages/ggseas/index.html)
+
+[Vignette](https://cran.r-project.org/web/packages/ggseas/vignettes/ggsdc.html)
+
+
+#### `ggseas`
+
+**package**
+
+CRAN page: [ggseas: 'stats' for Seasonal Adjustment on the Fly with 'ggplot2'](https://cran.r-project.org/web/packages/ggseas/)
+
+[Vignette](https://cran.r-project.org/web/packages/ggseas/vignettes/ggsdc.html)
+
+**articles**
+
+Ellis, Peter. 2016-10-12. ["Update of `ggseas` for seasonal decomposition on the fly"](http://ellisp.github.io/blog/2016/10/12/ggsdc-rents), blog entry
+
+Ellis, Peter. 2016-03-28. ["Seasonal decomposition in the ggplot2 universe with ggseas"](http://ellisp.github.io/blog/2016/03/28/ggseas-update/), blog entry.
+
+Ellis, Peter. 2016-02-08. ["ggseas package for seasonal adjustment on the fly with ggplot2"](http://ellisp.github.io/blog/2016/02/08/ggseas/), blog entry.
+
+
+#### `seasonal`
+
+**[seasonal: R-interface to X-13ARIMA-SEATS](http://www.seasonal.website/seasonal.html)**
+
+Packages the U.S. Census Bureau's gold-standard X13-SEATS-ARIMA for use in R.
+
+"...the best interface on the planet to the X13-SEATS-ARIMA time series analysis application from the US Census Department, which is the industry standard particularly for official statistics agencies doing seasonal adjustment." (Peter Ellis, [vignette for `ggsdc`](https://cran.r-project.org/web/packages/ggseas/vignettes/ggsdc.html.))
+
+**package**
+
+CRAN page: [seasonal: R Interface to X-13-ARIMA-SEATS'](https://cran.r-project.org/web/packages/seasonal/index.html)
+
+github page: [christophsax/seasonal](https://github.com/christophsax/seasonal)
+
+
+#### `x13binary`
+
+(US Census Bureau X-13, packaged for easy loading. Loads as a dependency for most of the other seasonal adjustment packages.)
+
+**package**
+
+CRAN page: [x13binary: Provide the 'x13ashtml' Seasonal Adjustment Binary](https://cran.r-project.org/web/packages/x13binary/index.html)
+
+
+
+
+
+
+
+
+## Small area estimation (SAE)
+
+Small area estimation (SAE) is an umbrella term to describe a number of approaches that provide "reliable small area statistics even when only very small samples are available for these areas." (Pfeffermann, 2002) The applications are often seen 
+
+Many of these approaches are based upon Bayesian hierarchical models (see Gómez-Rubio et al. as one example).
+
+
+### Theory and methods
+
+Australian Bureau of Statistics, Methodology Advisory Committee (2009) [Small Area Estimation with Simulated Samples from the Population Census](http://www.abs.gov.au/ausstats/abs@.nsf/mf/1352.0.55.106), research paper.
+
+BIAS Project. http://www.bias-project.org.uk
+
+Cadwell, Betsy L., Theodore J. Thompson, James P. Boyle and Lawrence E. Barker (2010) ["Bayesian Small Area Estimates of Diabetes Prevalence by U.S. County, 2005"](https://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwisj47SqsvPAhUUHGMKHa-9AB4QFggeMAA&url=http%3A%2F%2Fwww.jds-online.com%2Ffile_download%2F239%2FJDS-650.pdf&usg=AFQjCNG9xh-s5GcntozTl2vf-zWoNVFhKQ&sig2=hRZklC7V_USYwmbZdXzW4Q), _Journal of Data Science_, 8, 173-188.
+
+Chen, C.X., T. Lumley and J. Wakefield (?) ["The Use of Sampling Weights in Bayesian Hierarchical Models for Small Area Estimation"](https://www.stat.washington.edu/research/reports/2011/tr583.pdf)_, Technical Report no.583, Department of Statistics, University of Washington, Seattle.
+
+Ghosh, M. and J. N. K. Rao (1994). "Small area estimation: An appraisal." _Statistical Science_ 9(1), 55–76.
+
+Goldstein, H. and D. J. Spiegelhalter (1996). "League tables and their limitations: Statistical issues in comparisons of institutional performance (with discussion)." _Journal of the Royal Statistical Society_, Series A 159(3), 385–443.
+
+
+
+Gómez-Rubio, V., N. Best, S. Richardson and P. Clarke (2007) [_Bayesian Statistics, Small Area Estimation and why no one is poor in Sweden_](http://www.bias-project.org.uk/papers/RSS07.pdf), presentation to the Royal Statistical Society Conference, 2007-07-18.
+
+
+Gómez-Rubio, V., N. Best, S. Richardson and G. Li (2010) "[Bayesian Statistics for Small Area Estimation](http://www.bias-project.org.uk/papers/BayesianSAE.pdf)" [alternate source via ResearchGate](https://www.researchgate.net/publication/228918362_Bayesian_Statistics_Small_Area_Estimation)
+
+Hidiroglou, Michael (2007) "[Small-Area Estimation: Theory and Practice](https://ww2.amstat.org/sections/srms/Proceedings/y2007/Files/JSM2007-000789.pdf)", _Proceedings of the Joint Statistical Meetings: Section on Survey Research Methods_
+
+Holt, D. and Fernando A.S. Moura (1999) ["Small area estimation using multilevel models"](http://www5.statcan.gc.ca/olc-cel/olc.action?ObjId=12-001-X19990014714&ObjType=47&lang=en), _Survey Methodology_ (cat. 12-001-X), Statistics Canada, Vol.25 No.1,, pp.73-80, June 2015.
+
+Jiang, Jiming (2010) [_Large Sample Techniques for Statistics_](https://link.springer.com/chapter/10.1007%2F978-1-4419-6827-2_13) (Chapter 13, "Small-Area Estimation).
+
+Kim, Jae-kwang, Seunghwan Park and Seo-young Kim (2015) ["Small area estimation combining information from several sources"](http://www.statcan.gc.ca/pub/12-001-x/2015001/article/14150-eng.pdf), _Survey Methodology_ (cat. 12-001-X), Statistics Canada, Vol.41 No.1, June 2015.
+
+Longford, Nicholas T. (2005) _Missing Data and Small-Area Estimation: Modern Analytical Equipment for the Survey Statistician_. Springer.
+
+Longford, Nicholas T. (2006) ["Sample size calculation for small-area estimation"](http://www5.statcan.gc.ca/olc-cel/olc.action?ObjId=12-001-X20060019259&ObjType=47&lang=en), _Survey Methodology_ (cat. 12-001-X), Statistics Canada, Vol. 32, No. 1, pp. 87-96.
+
+Molina, Isabel, J.N.K. Rao and Gauri Sankar Datta (2015) ["Small area estimation under a Fay-Herriot model with preliminary testing for the presence of random area effects"](http://www.statcan.gc.ca/pub/12-001-x/2015001/article/14161-eng.htm), _Survey Methodology_ (cat. 12-001-X), Statistics Canada, Vol.41 No.1, June 2015.
+
+Pfeffermann, Danny (2002) ["Small Area Estimation – New Developments and Directions"](http://eprints.soton.ac.uk/38494/2/38494.pdf), International Statistical Review.
+
+Phadia, Eswar G. (2016) _Prior Processes and Their Applications: Nonparametric Bayesian Estimation (2nd ed.)_, Springer.
+
+Rahman, Azizur and Ann Harding (2017) [_Small Area Estimation and Microsimulation Modeling_](https://www.crcpress.com/Small-Area-Estimation-and-Microsimulation-Modeling/Rahman-Harding/p/book/9781482260724) (CRC Press page)
+
+Rao, J. N. K. (2003). _Small Area Estimation_. John Wiley & Sons, Inc., Hoboken, New Jersey.
+
+Seliske, L., T. A. Norwood, J. R. McLaughlin, S. Wang, C. Palleschi and E. Holowaty (2016) ["Estimating micro area behavioural risk factor prevalence from large population-based surveys: a full Bayesian approach"](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-016-3144-4), _BMC Public Health_.
+
+Song, Lin; Laina Mercer; Jon Wakefield; Amy Laurent; David Solet (2016) ["Using Small-Area Estimation to Calculate the Prevalence of Smoking by Subcounty Geographic Areas in King County, Washington, Behavioral Risk Factor Surveillance System, 2009–2013"](https://www.cdc.gov/pcd/issues/2016/15_0536.htm), _Preventing Chronic Disease_ 2016; 13:150536
+
+Whitworth, Adam (ed.) (2013) [_Evaluations and improvements in small area estimation methodologies_](http://eprints.ncrm.ac.uk/3210/)
+
+Wieczorek, Jerzy (2013) [Small Area Estimation resources](http://civilstat.com/2013/02/small-area-estimation-resources/), at [civilstat.com](http://civilstat.com/)
+
+Wieczorek, Jerzy (2015) [Small Area Estimation 101: old materials posted](http://civilstat.com/2015/04/small-area-estimation-101-old-materials-posted/), at [civilstat.com](http://civilstat.com/)
+
+
+
+Zhang, Xingyou, James B. Holt, Hua Lu, Anne G. Wheaton, Earl S. Ford, Kurt J. Greenlund and Janet B. Croft (2014) ["Multilevel Regression and Poststratification for Small-Area Estimation of Population Health Outcomes: A Case Study of Chronic Obstructive Pulmonary Disease Prevalence Using the Behavioral Risk Factor Surveillance System"](http://aje.oxfordjournals.org/content/179/8/1025), _American Journal of Epidemiology_, 179-8, pp.1025-1033.
+
+
+Zhou, Qian and Yong You (2011) [_Hierarchical Bayes small area estimation under a spatial model with application to health survey data_](http://www5.statcan.gc.ca/olc-cel/olc.action?ObjId=12-001-X201100111445&ObjType=47&lang=en), Statistics Canada, Survey Methodology Series (12-001-X)
+
+
+#### Conferences, symposia, and other confabs
+
+[Statistical Society of Canada annual meeting, May 29 to June 1, 2016](https://ssc.ca/en/session-schedule-monday-may-30-2016#D1-I1):  ["Small Area Estimation: New Developments"](https://ssc.ca/en/2016-small-area-estimation-new-developments), Statistical Society of Canada.
+
+U.S. Census Bureau, [Center for Statistical Research and Methodology: Small Area Estimation](https://www.census.gov/srd/csrm/SmallArea.html)
+
+[Fields Institute Symposium on the Analysis of Survey Data and Small Area Estimation](https://www.fields.utoronto.ca/programs/scientific/11-12/surveydata/abstracts.html), 2012
+
+
+#### Academic community
+
+[Mahmoud Torabi](http://umanitoba.ca/faculties/health_sciences/medicine/units/chs/faculty_and_staff/4837.html), University of Manitoba, Rady Faculty of Health Sciences.
+
+[Adam Whitworth](https://www.sheffield.ac.uk/geography/staff/whitworth_adam/ncrm)
+
+
+### R
+
+Arranged by package
+
+**resources**
+
+Bivand, Roger S., Edzer Pebesma and Virgilio Gómez-Rubio (2013) _Applied Spatial Data Analysis with R_, 2nd edition. Springer
+
+Gómez-Rubio, Virgilio (2016) [Small Area Estimation with R](http://user2016.org/tutorials/16.html), tutorial at the UseR 2016 Conference,  Stanford University.
+
+* earlier version: Gómez-Rubio, Virgilio (2008) [3-hour tutorial on Small Area Estimation](http://www.bias-project.org.uk/SAE_tutorial/), tutorial at the R User Conference, 2008, Technische Universität Dortmund, Germany.
+
+
+#### `sae`
+
+**package**
+
+CRAN page: [sae: Small Area Estimation](https://cran.r-project.org/web/packages/sae/index.html)
+
+**articles**
+
+Molina, Isabel and Yolanda Marhuenda (2015) ["sae: An R Package for Small Area Estimation"](https://journal.r-project.org/archive/2015-1/molina-marhuenda.pdf), _The R Journal_ Vol. 7/1, June 2015
+
+#### `sae2`
+
+**package**
+
+CRAN page: [sae2: Small Area Estimation: Time-series Models](https://cran.r-project.org/web/packages/sae2/index.html)
+
+**articles**
+
+
+
+## Structural equation modeling (SEM)
+
+### R
+
+Arranged by package
+
+#### `lavaan`
+
+**package**
+
+CRAN page: [lavaan: Latent Variable Analysis](https://cran.r-project.org/web/packages/lavaan/index.html)
+
+**articles**
+
+["The lavaan project"](http://lavaan.ugent.be/)
+
+Yves Rosseel, 2012-05-24, ["lavaan: An R Package for Structural Equation Modeling"](https://www.jstatsoft.org/article/view/v048i02), _Journal of Statistical Software_, Vol. 48, Issue 2.
+
+Grace Charles, 2015-05-20, [First Steps with Structural Equation Modeling](https://www.r-bloggers.com/first-steps-with-structural-equation-modeling/) -- blog post by Noam Ross, re: Charles' presention at Davis R Users' Group. 
+
+#### `sem`
+
+**package**
+
+CRAN page: [sem: Structural Equation Models](https://cran.r-project.org/web/packages/sem/)
+
+**articles**
+
+Jeremy Albright, 2015-02-26, ["Structural Equation Models Using the SEM Package in R"](https://www.methodsconsultants.com/tutorial/structural-equation-models-using-the-sem-package-in-r/)
+
+John Fox, ["Structural Equation Modeling With the `sem` Package in R"](http://socserv.socsci.mcmaster.ca/jfox/Misc/sem/SEM-paper.pdf) {PDF}
+
+["Structural Equation Modeling in R"](http://personality-project.org/r/r.sem.html)
+
+
+
+## Time series analysis
+
+A common theme in data analysis...comparing multiple points in time.
+
+See also
+
+* [Forecasting](Forecasting.md)
+
+* [Seasonal adjustment](SeasonalAdjustment.md)
+
+
+### Theory and methods
+
+Tavish Srivastava, 2015-12-16, ["A Complete Tutorial on Time Series Modeling in R"](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)
+
+
+
+### R
+
+#### `tsibble`
+
+**package**
+
+CRAN page: [tsibble: Tidy Temporal Data Frames and Tools](https://cran.r-project.org/web/packages/tsibble/index.html)
+
+github page: [tsibble`: Tidy Temporal Data Frames and Tools](https://github.com/tidyverts/tsibble)
+
+**articles**
+
+Earo Wang, 2018-12-20, ["Reintroducing tsibble: data tools that melt the clock"](https://blog.earo.me/2018/12/20/reintro-tsibble/)
+
+#### `padr`
+
+**package**
+
+CRAN page: [padr: Quickly Get Datetime Data Ready for Analysis](https://cran.r-project.org/web/packages/padr/index.html)
+
+**articles**
+
+Andrew Clark, 2017-07-19, [padr package example](https://www.mytinyshinys.com/2017/07/19/user2017-padr/)
+
+
+#### `zoo`
+
+**package**
+
+CRAN page: [zoo: S3 Infrastructure for Regular and Irregular Time Series (Z's Ordered Observations)](https://cran.r-project.org/web/packages/zoo/index.html)
+
+
