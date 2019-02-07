@@ -1,4 +1,7 @@
-# Data Science Defined {#datasciencedefined}
+# (PART) Data Science {-} 
+
+
+# This thing called "data science" {#datasciencedefined}
 
 ```{r echo = FALSE}
 library(knitr)

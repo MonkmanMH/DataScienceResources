@@ -1,3 +1,6 @@
+# (PART) Part IV {-} 
+
+
 # Text Analysis & Text Mining {#textanalysis}
 
 ```{r echo = FALSE}

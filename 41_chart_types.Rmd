@@ -1,4 +1,4 @@
-# Data Visualization II: Chart Types {#charttypes}
+# Chart types {#charttypes}
 
 ```{r echo = FALSE}
 library(knitr)
@@ -17,7 +17,7 @@ Naomi Robbins (2013), _Creating More Effective Graphs_, Chart House.
 
 
 
-### Box plots (a way to visualize distributions)
+## Box plots (a way to visualize distributions)
 
 R package [`boxplot`](https://stat.ethz.ch/R-manual/R-devel/library/graphics/html/boxplot.html)
 
@@ -33,7 +33,7 @@ Ron Pearson, 2011-01-29, [Boxplots and Beyond – Part I](https://www.r-bloggers
 
 
 
-### Density plot
+## Density plot
 
 * Jodie Burchell, 2016-03-16, [Creating plots in R using ggplot2 - part 8: density plots](http://t-redactyl.io/blog/2016/03/creating-plots-in-r-using-ggplot2-part-8-density-plots.html)
 
@@ -41,7 +41,7 @@ Ron Pearson, 2011-01-29, [Boxplots and Beyond – Part I](https://www.r-bloggers
 
 
 
-### Dot plot (Cleveland dot plot, lollipop plot)
+## Dot plot (Cleveland dot plot, lollipop plot)
 
 * UC Business Analytics R Programming Guide, [Cleveland Dot Plots](https://uc-r.github.io/cleveland-dot-plots)
 
@@ -53,7 +53,7 @@ Ron Pearson, 2011-01-29, [Boxplots and Beyond – Part I](https://www.r-bloggers
 
 
 
-### Eikosograms
+## Eikosograms
 
 > an eikosogram is a picture of probability. It visually partitions a unit square into rectangular regions whose areas give the numerical values of various probabilities. The construction is such that each rectangular region is identified with the value of one or more categorical variates. 
 > _R.W. Oldford_
@@ -64,7 +64,7 @@ Ron Pearson, 2011-01-29, [Boxplots and Beyond – Part I](https://www.r-bloggers
 
 
 
-### Flow visualizations
+## Flow visualizations
 
 **1. Circle plots**
 
@@ -81,7 +81,7 @@ Ron Pearson, 2011-01-29, [Boxplots and Beyond – Part I](https://www.r-bloggers
 
 
 
-### Heatmaps
+## Heatmaps
 
 
 [The Heatmap function](https://www.r-graph-gallery.com/215-the-heatmap-function/) in the [R Graph Gallery](https://www.r-graph-gallery.com/)
@@ -91,7 +91,7 @@ Rebecca L. Barter & Bin Yu, 2017-01-30, ["Superheat: An R package for creating b
 
 
 
-### Histograms and their variants
+## Histograms and their variants
 
 
 [Variable width column charts](https://learnr.wordpress.com/2009/03/29/ggplot2_marimekko_mosaic_chart/) (in ggplot2)
@@ -103,7 +103,7 @@ Aran Lunzer and Amelia McNamara, [What's so hard about histograms?](http://tinli
 
 
 
-### Lexis diagrams
+## Lexis diagrams
 
 Tim RiffeEmail author, Jonas Schöley and Francisco Villavicencio (2017) ["A unified framework of demographic time"](http://genus.springeropen.com/articles/10.1186/s41118-017-0024-4), _Genus: Journal of Population Sciences_, 2017 73:7
 
@@ -111,7 +111,7 @@ Tim RiffeEmail author, Jonas Schöley and Francisco Villavicencio (2017) ["A uni
 
 
 
-### Network graphs
+## Network graphs
 
 [DiagramR: Graph and network visualization using tabular data in R](DiagrammeR: Graph/Network Visualization)
 
@@ -125,7 +125,7 @@ Tim RiffeEmail author, Jonas Schöley and Francisco Villavicencio (2017) ["A uni
 
 
 
-### Population Pyramids
+## Population Pyramids
 
 
 A common visualization in demography to show the age and gender distribution of a population.
@@ -134,11 +134,11 @@ A common visualization in demography to show the age and gender distribution of 
 Lauren Boucher (2016-03-10) [What are the different types of population pyramids?](https://www.populationeducation.org/content/what-are-different-types-population-pyramids)
 
 
-#### Examples
+### Examples
 
 [Estimated U.S. Population Distribution, 1980 to 2050](https://www.reddit.com/r/dataisbeautiful/comments/73u5po/estimated_us_population_distribution_1980_to_2050/)
 
-#### R
+### R
 
 [Population Pyramids for Select Canadian Provinces, 2015-2035](https://github.com/atheriel/visualizations/tree/master/provincial-demography)
 
@@ -174,7 +174,7 @@ acarioli (2016-01-11) [Population pyramids in ggplot](https://aledemogr.wordpres
 
 
 
-### Ridgeline plot
+## Ridgeline plot
 
 
 ** ridgeline plots in R **
@@ -205,21 +205,21 @@ The over of Joy Division's debut album [_Unknown Pleasures_](https://en.wikipedi
 
 
 
-### Slopegraphs
+## Slopegraphs
 
 
 A common visualization to show relative change between two time periods across different categories.
 
-#### Theory and methods
+### Theory and methods
 
 Cole Nussbaumer Knaflic, 2015, _Storytelling with Data_, pp.47-49.
 
-#### R
+### R
 
 Kyle Walker, 2015-05-17, [Global population change with a slopegraph in ggplot2](https://rpubs.com/walkerke/slopegraph)
 
 
-#### `slopegraph`
+### `slopegraph`
 
 [github](https://github.com/leeper/slopegraph)
 
@@ -227,14 +227,14 @@ Kyle Walker, 2015-05-17, [Global population change with a slopegraph in ggplot2]
 
 
 
-### Ternary plots
+## Ternary plots
 
 [`ggtern` - an extension to `ggplot2`](http://www.ggtern.com/) for plotting ternary diagrams.
 
 
 
 
-### Waffle plots
+## Waffle plots
 
 [Infographic-style charts using the R waffle package](https://nsaunders.wordpress.com/2017/09/08/infographic-style-charts-using-the-r-waffle-package/amp/)
 

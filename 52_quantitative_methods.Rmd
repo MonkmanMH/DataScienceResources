@@ -1,0 +1,38 @@
+# Specific techniques {#quantitativemethods2}
+
+```{r echo = FALSE}
+library(knitr)
+opts_chunk$set(message = FALSE, warning = FALSE, cache = TRUE)
+options(width = 100, dplyr.width = 100)
+library(ggplot2)
+theme_set(theme_light())
+```
+
+* [Ecological inference](docs/EcologicalInference.Rmd)
+
+* [Forecasting](docs/Forecasting.md)
+
+* [Gini coefficient](docs/GiniCoefficient.md)
+
+* [Imputation of missing data (or missing values)](docs/MissingValue-Imputation.md)
+
+* [Machine Learning](docs/MachineLearning.md)
+
+* [Random walk](docs/RandomWalk.md)
+
+* [Raking](docs/Raking.md) (also known as _iterative proportional fitting procedure_, or IPFP; uses include weighting survey responses to accurately match the population proportions)
+
+* [Regression](docs/Regression.md)
+
+  - [Quantile regression](docs/QuantileRegression.md)
+
+* [Seasonal adjustment](docs/SeasonalAdjustment.md)
+
+* [Small area estimation (SAE)](docs/SmallAreaEstimation.md)
+
+* [Structural equation modeling (SEM)](docs/SEM.md)
+
+* [Time series analysis](docs/TimeSeries.md)
+
+
+https://stackoverflow.com/questions/25824795/how-to-combine-two-rmarkdown-rmd-files-into-a-single-output/51521542#51521542

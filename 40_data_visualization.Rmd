@@ -1,4 +1,7 @@
-# Data Visualization {#datavisualization}
+# (PART) Data Visualization {-} 
+
+
+# General {#datavisualization}
 
 ```{r echo = FALSE}
 library(knitr)
