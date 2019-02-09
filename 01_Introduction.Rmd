@@ -10,21 +10,23 @@ theme_set(theme_light())
 
 It goes without saying that data science is an expansive subject area. A key tool supporting data science work is the statistical programming language R, which has grown signficantly over the past few years and has, in the words of Roger Peng, "become the de facto programming language for data science. Its flexibility, power, sophistication, and expressiveness have made it an invaluable tool for data scientists around the world." [@Peng2018]
 
-Proprietary tools (including statistical programs like SAS, SPSS, and Stata) have had a one-version-at-a-time approach to development and release. With each release, new features are added, extending the functionality. These releases are scheduled big events; as one example, SAS has been releasing version updates roughly once a year since 2010.
+Proprietary tools (including statistical programs like SAS, SPSS, and Stata) have had a one-version-at-a-time approach to development and release. With each release, many new features are added, extending the functionality. These releases are scheduled big events; as one example, SAS has been releasing version updates roughly once a year since 2010.
 
-The open source nature of R and its package-centric ecosystem has encouraged the expansion of functionality, and like the universe as a whole, this expansion is in all directions simultaneously and non-stop. There are no annual updates with the latest bells and whistles--new features are being applied to existing R packages, and new packages are being released, every day.
+The open source nature of R and its package-centric ecosystem has encouraged the expansion of functionality, and like the universe as a whole, this expansion is in all directions simultaneously and non-stop. There are no annual updates with the latest bells and whistles--it sometimes seems that every day brings news that additional features are being applied to existing R packages, and new packages are being released.
 
-This makes it impossible to be an expert on all things R. It means that paper-based text books may be out-of-date before they get to the presses, and that somebody somewhere may have already found a creative solution to the problem you've just encountered.
+This "bazaar"[@Raymond_CatB] of development makes it impossible to be an expert on all things R, and that paper-based text books may be out-of-date before they get to the presses. More importantly, it also means that somebody somewhere may have already found a creative solution to the problem you've just encountered.
 
-This is where the R community really shines. The spirit of open source tools extends to open data, open science, open research, and open development. Your friends in the R community around the world are making their tools and techniques available, and are using social media channels to tell one another about it, which spurs on collaboration and futher innovations, in a never-ending virtuous cycle.
+This is where the R community really shines. The spirit of the bazaar extends to open data, open science, open research, and open development. Your friends in the R community around the world are making their tools and techniques available, and are using social media channels to tell one another about it, which spurs on collaboration and futher innovations, in a never-ending virtuous cycle.
 
-This compendium is simply my attempt to gather together pieces of R methods, based on what I've needed at a particular time. The paragraphs above are a long-winded way of saying that I acknowledge that what's here is woefully incomplete and likely out of date! If you're aware of something newer, more streamlined or efficient, accurate, or just better, please don't hesitate to let me know.
+This compendium is simply my attempt to gather together pieces of R methods, based on the problems I've confronted and the personal itch I've scratched, and what I've found at that particular time. 
+
+The paragraphs above are a long-winded way of saying that I acknowledge that what's here is woefully incomplete and likely out of date! If you're aware of something newer, more streamlined or efficient, accurate, or just better, please don't hesitate to let me know.
 
 ## Structure
 
-The book's layout is in three broad categories:
+The book's layout is in four broad categories:
 
-### Data Science and R
+### Data Science
 
 * **Chapter \@ref(practice): Statistical & Data Science Practice** is an overview of good research practice, from opinionated analysis design to script style.
 
@@ -36,10 +38,14 @@ The book's layout is in three broad categories:
 
 
 
-### Statistics and Quantitative Methods
+### Quantitative Methods
 
 
 * **Chapter \@ref(textanalysis): Text Analysis & Text Mining** covers ways of tackling text mining, including natural language processing (NLP) and sentiment analysis.
 
+
+### Other Topics
+
+Everything from spatial stats to text analytics
 
 -30-

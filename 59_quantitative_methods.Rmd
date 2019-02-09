@@ -620,6 +620,21 @@ Tavish Srivastava, 2015-12-16, ["A Complete Tutorial on Time Series Modeling in 
 
 ### R
 
+#### `tsfeatures`
+
+Methods for extracting various features from time series data
+
+**package**
+
+CRAN: [tsfeatures: Time Series Feature Extraction](https://cran.r-project.org/web/packages/tsfeatures/index.html)
+
+[package webpage](https://pkg.robjhyndman.com/tsfeatures/)
+
+**articles**
+
+[getting started article](https://pkg.robjhyndman.com/tsfeatures/articles/tsfeatures.html)
+
+
 #### `tsibble`
 
 **package**

@@ -14,6 +14,13 @@ theme_set(theme_light())
 
 ## Introduction
 
+"The plural of anecdote is data." -- Raymond Wolfinger, 1969-70
+
+* see [The plural of anecdote is data, after all](http://blog.revolutionanalytics.com/2011/04/the-plural-of-anecdote-is-data-after-all.html)
+
+
+
+
 What is data science without _data_?  Links to tools to import data from a variety of sources, along with a few indexes and compendiums of data sources.
 
 

@@ -48,6 +48,8 @@ Tim Davies and Mark Frank (2013) [‘There’s no such thing as raw data’. Exp
 * [alternate source 2](http://students.ecs.soton.ac.uk/mwra1g13/msc/comp6037/timed_ex_pdf/p75-davies.pdf)
 
 
+
+
 ## The Practice of Data Science
 
 ### R
@@ -59,9 +61,9 @@ Lucy D'Agostino McGowan, 2017-07-28, [R release names](https://livefreeordichoto
 
 ### Using R for Data Science
 
-Hadley Wickham & Garrett Grolemund (2016) [_R for Data Science_](http://r4ds.had.co.nz/)[@Wickham_Grolemund2016]
+Hadley Wickham & Garrett Grolemund (2016) [_R for Data Science_] [@Wickham_Grolemund2016]
 
-Roger Peng, [_R Programming for Data Science_](https://leanpub.com/rprogramming)[@Peng2018]
+Roger Peng, [_R Programming for Data Science_] [@Peng2018]
 
 * Roger Peng's [other books on LeanPub](https://leanpub.com/u/rdpeng)
 
@@ -86,14 +88,6 @@ Chester Ismay and Albert Y. Kim, 2017-08-02, [An Introduction to Statistical and
 ### Data Science Careers
 
 Jonny Brooks-Bartlett (2018-03-28) [Here’s why so many data scientists are leaving their jobs](https://towardsdatascience.com/why-so-many-data-scientists-are-leaving-their-jobs-a1f0329d7ea4) -- a splash of cold water realism in the face
-
-***
-
-## Data Science & Statistics Quotes
-
-"The plural of anecdote is data." -- Raymond Wolfinger, 1969-70
-
-* see [The plural of anecdote is data, after all](http://blog.revolutionanalytics.com/2011/04/the-plural-of-anecdote-is-data-after-all.html)
 
 
 ***
