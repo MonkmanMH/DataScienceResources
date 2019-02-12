@@ -1,4 +1,4 @@
-# Data Wrangling (emphasis on `dplyr`)
+# Data Wrangling (emphasis on `dplyr`) {#datawrangling}
 
 
 ```{r echo = FALSE}
@@ -8,6 +8,7 @@ options(width = 100, dplyr.width = 100)
 library(ggplot2)
 theme_set(theme_light())
 ```
+
 
 
 
