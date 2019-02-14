@@ -78,6 +78,8 @@ Design Space of Data Visualization"](https://www.sciencedirect.com/science/artic
 
 * Kieran Healy, [_Data Visualization for Social Science_](http://socviz.co/)
 
+* [R color cheatsheet](https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/colorPaletteCheatsheet.pdf)
+
 
 
 ### ggplot2 -- the pre-eminent way to create charts and graphs in R
