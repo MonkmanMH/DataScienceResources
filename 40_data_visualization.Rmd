@@ -55,6 +55,8 @@ Design Space of Data Visualization"](https://www.sciencedirect.com/science/artic
 
 * [Data Visualization Inventors, Founders, and Developers](https://policyviz.com/2019/01/09/data-visualization-inventors-founders-and-developers/) -- credit where credit is due
 
+* [Financial Times Visual Vocabulary](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary), "A poster (available in English, Japanese, traditional Chinese and simplified Chinese) and web site to assist designers and journalists to select the optimal symbology for data visualisations, by the Financial Times Visual Journalism Team."
+
 
 
 **Theory**

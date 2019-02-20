@@ -128,6 +128,8 @@ Economics	&	Econometrics"](https://www.tse-fr.eu/sites/default/files/TSE/documen
 
 * Daniel Barron (2018-08-13) [How Freely Should Scientists Share Their Data?](https://blogs.scientificamerican.com/observations/how-freely-should-scientists-share-their-data/), _Scientific American_ blog
 
+* Karl Broman (2019-02-17) [Collaboratingreproducibly](https://www.biostat.wisc.edu/~kbroman/presentations/rrcollab_aaas2019.pdf), slides for talk given at the AAAS meeting in Washington, DC. (See also  https://github.com/kbroman/Talk_AAAS2019)
+
 
 ### Reproducible research with R
 

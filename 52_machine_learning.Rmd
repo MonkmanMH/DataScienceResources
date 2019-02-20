@@ -11,6 +11,9 @@ theme_set(theme_light())
 
 Machine learning is a growing field of data analysis where the building of models is iterated automatically. This is particularly important in areas where new data is being collected on an on-going basis (examples often used are Netflix recommendations and amazon`s "Recommended for you").
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Machine learning is basically just a fancier version of y=mx+b <a href="https://t.co/lhrUJcjvmN">https://t.co/lhrUJcjvmN</a></p>&mdash; Medium (@Medium) <a href="https://twitter.com/Medium/status/1097681613666902017?ref_src=twsrc%5Etfw">February 19, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ### Theory and methods
 
