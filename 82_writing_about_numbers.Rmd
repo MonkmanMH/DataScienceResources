@@ -1,0 +1,20 @@
+# Writing About Numbers
+
+### Introduction
+
+While the fundamentals of writing about numbers are the same as any expository writing, there are enough nuances and specialized elements that it warrants special attention for data scientists. 
+
+---
+### Theory and methods
+
+Jane E. Miller (2004) [_The Chicago Guide to Writing About Numbers: The Effective Presenataion of Quantitative Information_], University of Chicago Press.
+
+Jane E. Miller (2007) [_The Chicago Guide to Writing about Multivariate Analysis], University of Chicago Press.
+
+
+
+***
+
+#### Technical elements
+
+Karim M. Abadir and Jan R. Magnus (2002) ["Notation in econometrics: a proposal for a standard"](http://www.principlesofeconometrics.com/poe4/writing/abadir_magnus.pdf), _Econometrics Journal_, vol. 5, pp.76-90.
