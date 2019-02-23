@@ -23,18 +23,18 @@ But start here:
 
 * Elijah Meeks, ["What Charts Do"](https://medium.com/@Elijah_Meeks/what-charts-do-48ed96f70a74), 2018-05-21
 
-* Naomi Robbins (2013), _Creating More Effective Graphs_, Chart House.
+* Naomi Robbins, _Creating More Effective Graphs_. [@Robbins_2013]
 
 
 ## General resources
 
-* Kieran Healy (2019, Princeton University Press) [_Data Visualization: A practical introduction_]
+* Kieran Healy _Data Visualization: A practical introduction_. [@Healy_2019]
     
     - [online version](http://socviz.co/)
 
 * Claus O. Wilke (2019, full draft) [_Fundamentals of Data Visualization_](http://serialmentor.com/dataviz/)
 
-  - Note that Wilke notes that this is a platform-agnostic book, but it was written in R's `bookdown` and uses `ggplot2` for all of the figures.
+  - Important: Wilke notes that this is a platform-agnostic book, but it was written in R's `bookdown` and uses `ggplot2` for all of the figures.
 
   - [the github repo for the book](https://github.com/clauswilke/dataviz) (in case you want to plagiarize the code for a specific figure)
 
