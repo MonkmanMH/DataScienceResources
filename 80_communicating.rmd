@@ -1,0 +1,101 @@
+# (PART) Part V {-} 
+
+
+# Communicating your results {#communicating}
+
+```{r echo = FALSE}
+library(knitr)
+opts_chunk$set(message = FALSE, warning = FALSE, cache = TRUE)
+options(width = 100, dplyr.width = 100)
+library(ggplot2)
+theme_set(theme_light())
+```
+
+
+## Introduction
+
+You've imported your data, tidied it, and then modelled and visualized it. You've now got an understanding of what it's telling you. Time to communicate your results!
+
+
+## Theory and methods
+
+Shawn Graham, Ian Milligan, and Scott Weingart (2015) "Topic Modeling: A Hands-On Adventure in Big Data", chapter four of [_Exploring Big Historical Data: The Historian's Macroscope_](http://www.themacroscope.org/?page_id=788). Imperial College Press.
+
+- See the companion website, [Exploring Big Historical Data: The Historian's Macroscope](http://www.themacroscope.org/2.0/)
+
+
+
+
+## R
+
+
+
+### Tables
+
+https://twitter.com/AllieSherier/status/1098988779833040903
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Does anyone regularly make publishable/exportable tables in R? I have approached this a few times over the last year, but I would really like to learn how to make tables efficiently. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> (Picture is a kind of example of tables I am talking about.) <a href="https://t.co/48zr1BIf1H">pic.twitter.com/48zr1BIf1H</a></p>&mdash; Allie Sherier (@AllieSherier) <a href="https://twitter.com/AllieSherier/status/1098988779833040903?ref_src=twsrc%5Etfw">February 22, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+### Packages
+
+
+#### `monkeylearn`
+
+**package**
+
+CRAN page: [monkeylearn: Accesses the Monkeylearn API for Text Classifiers and Extractors](https://cran.r-project.org/web/packages/monkeylearn/index.html)
+
+github page: [monkeylearn: R package for text analysis with Monkeylearn](https://github.com/ropensci/monkeylearn)
+
+**articles**
+
+
+
+#### `quanteda`
+
+[quanteda.io](http://quanteda.io/)
+
+
+**package**
+
+CRAN page: [quanteda: Quantitative Analysis of Textual Data](https://cran.r-project.org/web/packages/quanteda/index.html)
+
+
+**articles**
+
+["Getting Started with `quanteda`"](https://cran.r-project.org/web/packages/quanteda/vignettes/quickstart.html) (package vignette)
+
+
+#### `tidytext`
+
+**package**
+
+CRAN page: [tidytext: Text Mining using 'dplyr', 'ggplot2', and Other Tidy Tools](https://cran.r-project.org/web/packages/tidytext/)
+
+github repo: [tidytext on github](https://github.com/juliasilge/tidytext)
+
+**articles**
+
+Julia Silge, ["Term Frequency and tf-idf Using Tidy Data Principles"](http://juliasilge.com/blog/Term-Frequency-tf-idf/), 2016-06-27
+
+[]()
+
+Julia Silge and David Robinson (2016-10-27) ["Introduction to `tidytext`"](https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html) (package vignette)
+
+
+#### `tm`
+
+**package**
+
+CRAN page: [tm: Text Mining Package](https://cran.r-project.org/web/packages/tm/index.html)
+
+
+**articles**
+
+Inigo Feinerer (2015) ["Introduction to the `tm` Package: Text Mining in R"](https://cran.r-project.org/web/packages/tm/vignettes/tm.pdf) (package vignette)
+
+Ingo Feinerer, Kurt Hornik, David Meyer (2007) ["Text Mining Infrastructure in R"](https://www.jstatsoft.org/article/view/v025i05), _Journal of Statistical Software_, 25 (5).
+
+
