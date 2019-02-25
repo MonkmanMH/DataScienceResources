@@ -17,45 +17,51 @@ This is an _enormous_ topic.
 
 But start here: 
 
-* Alan Smith, ["Data visualisation: it is not all about technology"](https://www.ft.com/content/aba6c58e-5a8e-11e7-9bc8-8055f264aa8b?accessToken=zwAAAVz0i_FYkdOrpsWOWo4R59ObyIBV8mSqiw.MEQCIFBdm394GSC6W-YIMME93SN8BgAuLEfyK8nFshbAiyu-AiBx6Qx4Ivd3qh-VSfIlwrf5tYKdnbGId1n0pzxZFUwDsQ&sharetype=gift), _Financial Times_, 2017-06-28
+* Elijah Meeks, ["What Charts Do"](https://medium.com/@Elijah_Meeks/what-charts-do-48ed96f70a74), 2018-05-21
 
 * Cole Nussbaumer Knaflic, [_Storytelling with Data_] (Wiley). A great introduction to the fundamentals of good visualization. The [companion blog](https://www.storytellingwithdata.com/) has is an on-going series of further dives into the topic.
 
-* Elijah Meeks, ["What Charts Do"](https://medium.com/@Elijah_Meeks/what-charts-do-48ed96f70a74), 2018-05-21
-
 * Naomi Robbins, _Creating More Effective Graphs_. [@Robbins_2013]
+
+* Alan Smith, ["Data visualisation: it is not all about technology"](https://www.ft.com/content/aba6c58e-5a8e-11e7-9bc8-8055f264aa8b?accessToken=zwAAAVz0i_FYkdOrpsWOWo4R59ObyIBV8mSqiw.MEQCIFBdm394GSC6W-YIMME93SN8BgAuLEfyK8nFshbAiyu-AiBx6Qx4Ivd3qh-VSfIlwrf5tYKdnbGId1n0pzxZFUwDsQ&sharetype=gift), _Financial Times_, 2017-06-28
+
 
 
 ## General resources
 
+* [Enrico Bertini's homepage](http://enrico.bertini.io/) -- a plethora of articles and resources on data visualization
+
+* [Data Visualization Inventors, Founders, and Developers](https://policyviz.com/2019/01/09/data-visualization-inventors-founders-and-developers/) -- credit where credit is due
+
+* Richard Brath & Ebad Banissi, 2016, ["Using Typography to Expand the
+Design Space of Data Visualization"](https://www.sciencedirect.com/science/article/pii/S2405872616300107), _She Ji: The Journal of Design, Economics, and Innovation_, Vol. 2, Issue 1, Spring 2016
+
+* Karl Broman, [The top ten worst graphs](https://www.biostat.wisc.edu/~kbroman/topten_worstgraphs/)
+
+* [Financial Times Visual Vocabulary](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary), "A poster (available in English, Japanese, traditional Chinese and simplified Chinese) and web site to assist designers and journalists to select the optimal symbology for data visualisations, by the Financial Times Visual Journalism Team."
+
+
+
+* Steve Franconeri, [Chart Chooser](http://experception.net/)
+
 * Kieran Healy _Data Visualization: A practical introduction_. [@Healy_2019]
     
     - [online version](http://socviz.co/)
+
+
+
+* Kate Moran, 2017-08-06, ["How to Present Scientific Findings Online"](https://www.nngroup.com/articles/scientific-findings-online/) (file under: Know Your Audience)
+
+* Tamara Munzer, [list and links to talks](http://www.cs.ubc.ca/~tmm/talks.html?utm_content=bufferd5cd8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#cj16)
+
+* PolicyViz, [DataViz Cheatsheet](https://policyviz.com/2018/08/07/dataviz-cheatsheet/) (2018-08-07)
+
 
 * Claus O. Wilke (2019, full draft) [_Fundamentals of Data Visualization_](http://serialmentor.com/dataviz/)
 
   - Important: Wilke notes that this is a platform-agnostic book, but it was written in R's `bookdown` and uses `ggplot2` for all of the figures.
 
   - [the github repo for the book](https://github.com/clauswilke/dataviz) (in case you want to plagiarize the code for a specific figure)
-
-
-* Tamara Munzer, [list and links to talks](http://www.cs.ubc.ca/~tmm/talks.html?utm_content=bufferd5cd8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#cj16)
-
-
-* Kate Moran, 2017-08-06, ["How to Present Scientific Findings Online"](https://www.nngroup.com/articles/scientific-findings-online/) (file under: Know Your Audience)
-
-* Richard Brath & Ebad Banissi, 2016, ["Using Typography to Expand the
-Design Space of Data Visualization"](https://www.sciencedirect.com/science/article/pii/S2405872616300107), _She Ji: The Journal of Design, Economics, and Innovation_, Vol. 2, Issue 1, Spring 2016
-
-* Steve Franconeri, [Chart Chooser](http://experception.net/)
-
-* PolicyViz, [DataViz Cheatsheet](https://policyviz.com/2018/08/07/dataviz-cheatsheet/) (2018-08-07)
-
-* [Enrico Bertini's homepage](http://enrico.bertini.io/) -- a plethora of articles and resources on data visualization
-
-* [Data Visualization Inventors, Founders, and Developers](https://policyviz.com/2019/01/09/data-visualization-inventors-founders-and-developers/) -- credit where credit is due
-
-* [Financial Times Visual Vocabulary](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary), "A poster (available in English, Japanese, traditional Chinese and simplified Chinese) and web site to assist designers and journalists to select the optimal symbology for data visualisations, by the Financial Times Visual Journalism Team."
 
 
 
@@ -74,15 +80,20 @@ Design Space of Data Visualization"](https://www.sciencedirect.com/science/artic
 
 ### general
 
-* [R Graph Catalog](http://shiny.stat.ubc.ca/r-graph-catalog/) -- an unbeatable resource for making good graphs in R, described by the creators as "a complement to _Creating More Effective Graphs_ by Naomi Robbins." 
+* [R Graph Catalog](http://shiny.stat.ubc.ca/r-graph-catalog/) -- an unbeatable resource for making good graphs in R, described by the creators as "a complement to _Creating More Effective Graphs_ by Naomi Robbins."  [@Robbins_2013]
 
-* [Shiny apps for statistics](https://statistics.calpoly.edu/shiny) -- by the Statistics Department at CalPoly
+* Kieran Healy _Data Visualization: A practical introduction_. [@Healy_2019]
+    
+    - [online version](http://socviz.co/)
 
-* Kieran Healy, [_Data Visualization for Social Science_](http://socviz.co/)
 
 * [R color cheatsheet](https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/colorPaletteCheatsheet.pdf)
 
+* [Shiny apps for statistics](https://statistics.calpoly.edu/shiny) -- by the Statistics Department at CalPoly
 
+
+
+***
 
 ### ggplot2 -- the pre-eminent way to create charts and graphs in R
 
