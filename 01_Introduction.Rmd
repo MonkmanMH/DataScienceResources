@@ -48,4 +48,9 @@ The book's layout is in four broad categories:
 
 Everything from spatial stats to text analytics
 
+
+## Other notes
+
+Style and format: see ["Software information and conventions"](https://bookdown.org/yihui/blogdown/software-info.html) in Xie, Thomas & Presmanes Hill [@Xie_etal_blogdown_2019]
+
 -30-
