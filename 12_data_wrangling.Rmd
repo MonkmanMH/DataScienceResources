@@ -1,4 +1,4 @@
-# Data Wrangling (emphasis on `dplyr`) {#datawrangling}
+# Data Wrangling (emphasis on **dplyr**) {#datawrangling}
 
 
 ```{r echo = FALSE}
@@ -25,7 +25,7 @@ Data is rarely in condition to use it...there's invariably something amiss.  Dat
 
 ### Tidy evaluation
 
-* programming with `dplyr`
+* programming with **dplyr**
 
 Edwin Thoen, 2017-08-25 [Tidy evaluation, most common actions](https://edwinth.github.io/blog/dplyr-recipes/)
 
@@ -44,7 +44,7 @@ Luis D. Verde, 2018-12-14, [Tidyeval meets PDF table hell](http://luisdva.github
 
 Arranged by package
 
-### `dplyr`
+### **dplyr**
 
 **package**
 
@@ -54,14 +54,14 @@ github: [hadley/dplyr](https://github.com/hadley/dplyr)
 
 **articles**
 
-* [Introduction to dplyr](http://stat545.com/block009_dplyr-intro.html), part of the UBC [STAT545: Data wrangling, exploration, and analysis with R](http://stat545.com/index.html) course materials
+* [Introduction to **dplyr**](http://stat545.com/block009_dplyr-intro.html), part of the UBC [STAT545: Data wrangling, exploration, and analysis with R](http://stat545.com/index.html) course materials
 
 
-* Gary Hutson, 2018-05-24, [DPLYR: A Beginners Guide](https://www.r-bloggers.com/dplyr-a-beginners-guide/)
+* Gary Hutson, 2018-05-24, [**DPLYR**: A Beginners Guide](https://www.r-bloggers.com/dplyr-a-beginners-guide/)
 
 
 
-### `forcats`
+### **forcats**
 
 [reference page](https://forcats.tidyverse.org/)
 

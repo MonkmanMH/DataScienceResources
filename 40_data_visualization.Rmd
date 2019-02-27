@@ -59,7 +59,7 @@ Design Space of Data Visualization"](https://www.sciencedirect.com/science/artic
 
 * Claus O. Wilke (2019, full draft) [_Fundamentals of Data Visualization_](http://serialmentor.com/dataviz/)
 
-  - Important: Wilke notes that this is a platform-agnostic book, but it was written in R's `bookdown` and uses `ggplot2` for all of the figures.
+  - Important: Wilke notes that this is a platform-agnostic book, but it was written in R's **bookdown** and uses **ggplot2** for all of the figures.
 
   - [the github repo for the book](https://github.com/clauswilke/dataviz) (in case you want to plagiarize the code for a specific figure)
 
@@ -95,36 +95,38 @@ Design Space of Data Visualization"](https://www.sciencedirect.com/science/artic
 
 ***
 
-### ggplot2 -- the pre-eminent way to create charts and graphs in R
+## **ggplot2** -- the pre-eminent way to create charts and graphs in R
 
-* [ggplot2: part of the tidyverse](http://ggplot2.tidyverse.org/index.html) -- reference materials, examples, etc etc. Start here.
+* [**ggplot2**: part of the tidyverse](http://ggplot2.tidyverse.org/index.html) -- reference materials, examples, etc etc. Start here.
 
-* [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
+* [Top 50 **ggplot2** Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
 
 * [A Compendium of Clean Graphs in R](http://shinyapps.org/apps/RGraphCompendium/index.php), by Eric-Jan Wagenmakers and Quentin F. Gronau
 
 * [BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/)
 
-   - [`bbplot`](https://github.com/bbc/bbplot), a package with their templates etc.
+   - [**bbplot**](https://github.com/bbc/bbplot), a package with their templates etc.
    
    - ["How the BBC Visual and Data Journalism team works with graphics in R"](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535)
 
 
-#### extensions
+### extensions
 
-Gallery of `ggplot2` extensions: [ggplot2-exts.org/gallery/](ggplot2 extensions - gallery )
+**ggplot2** extensions, catalogued at [www.ggplot2-exts.org](https://www.ggplot2-exts.org/index.html)
+
+* Gallery of **ggplot2** extensions: [ggplot2-exts.org/gallery/](ggplot2 extensions - gallery )
 
 
-#### tips and tricks
+### tips and tricks
 
-* Simon Jackson, 2016-08-11, [Plotting background data for groups with ggplot2](https://drsimonj.svbtle.com/plotting-background-data-for-groups-with-ggplot2)
+* Simon Jackson, 2016-08-11, [Plotting background data for groups with **ggplot2**](https://drsimonj.svbtle.com/plotting-background-data-for-groups-with-ggplot2)
 
-* Laura Ellis, 2018-08-01, [Highlighting with ggplot2: The Old School and New School Way](https://www.littlemissdata.com/blog/highlight)
+* Laura Ellis, 2018-08-01, [Highlighting with **ggplot2**: The Old School and New School Way](https://www.littlemissdata.com/blog/highlight)
 
 
 ** _Note:_**
 
-There are many extension packages that allow you to make other visualizaitons in `ggplot2`; they are referenced below.
+There are many extension packages that allow you to make other visualizaitons in **ggplot2**; they are referenced below.
 
 
 ### Plotly
