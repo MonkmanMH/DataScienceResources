@@ -51,6 +51,15 @@ Ron Pearson, 2011-01-29, [Boxplots and Beyond – Part I](https://www.r-bloggers
 
 
 
+## Dynamite plots
+
+A.K.A. bar and line graphs. Don't use them!
+
+* Rafael Irizarry, 2019/02/21, ["Open letter to journal editors: dynamite plots must die"](https://simplystatistics.org/2019/02/21/dynamite-plots-must-die/)
+
+* GB Drummond and SL Vowler, 2011, ["Show the data, don't conceal them"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3087125/), _British Journal of Pharmacology_, 2011 May; 163(2): 208–210.
+
+
 
 
 ## Eikosograms
