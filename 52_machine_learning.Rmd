@@ -30,6 +30,9 @@ Nicholas Harvey, [CPSC 531H: Machine Learning Theory](https://www.cs.ubc.ca/~nic
 * "This is a graduate course on some theoretical aspects of machine learning. The emphasis is on foundations and on results with rigorous proofs. The viewpoint is much more computational than statistical."
 
 
+Audrey Lorberfeld, 2019-03-01, [Machine Learning Algorithms In Layman’s Terms, Part 1](https://towardsdatascience.com/machine-learning-algorithms-in-laymans-terms-part-1-d0368d769a7b)
+
+
 ### R
 
 Laurent Gatto, 2017-10-18, [An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html)
