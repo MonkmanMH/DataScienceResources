@@ -19,7 +19,7 @@ Giving presentations--talks, lectures, keynotes--is something that every data sc
 
 I always recommend two books when I get asked about this topic: Garr Reynold's _Presentation Zen_ [@Reynolds_2008] and Nancy Duarte's _slide:ology_ [@Duarte_2008]. There's an ever-so-small amount of overlap between the two, just enough to reinforce the other.
 
-The sub-title of Reynold's book is "simple ideas on presentation design and delivery", and that's as succicnt a description as you could hope for. The associated website has further details, including this post on the website which has the following ["10 tips for Improving Your Presentations Today "](https://www.presentationzen.com/presentationzen/2014/11/10-tips-for-improving-your-presentations-lectures-speeches.html):
+The sub-title of Reynold's book is "simple ideas on presentation design and delivery", and that's as succicnt a description as you could hope for. The associated website has further details, including this post on the website which has the following ["10 tips for Improving Your Presentations Today "](https://www.presentationzen.com/presentationzen/2014/11/10-tips-for-improving-your-presentations-lectures-speeches.html) (actually 11 tips):
 
 1. Turn off the computer
 
@@ -40,6 +40,8 @@ The sub-title of Reynold's book is "simple ideas on presentation design and deli
 9. Show or do the unexpected
 
 10. Make 'em feel
+
+11. Be authentic
 
 
 Nancy Duarte's book delves deeper into the technical elements of good presentations, from layout to the use of colour. These design elements support the structural ideas that Reynolds promotes; hand in hand, the two books cover the core requirements for making great presentations.
