@@ -1,0 +1,106 @@
+# How to Read Data {#dataformat}
+
+
+```{r echo = FALSE}
+library(knitr)
+opts_chunk$set(message = FALSE, warning = FALSE, cache = TRUE)
+options(width = 100, dplyr.width = 100)
+library(ggplot2)
+theme_set(theme_light())
+```
+
+
+
+
+## Introduction
+
+"The plural of anecdote is data." -- Raymond Wolfinger, 1969-70
+
+* see [The plural of anecdote is data, after all](http://blog.revolutionanalytics.com/2011/04/the-plural-of-anecdote-is-data-after-all.html)
+
+
+
+
+What is data science without _data_?  Links to tools to import data from a variety of sources, along with a few indexes and compendiums of data sources.
+
+### Labelled data
+
+In particular, survey data
+
+* Marta Kołczyńska, 2019-03-03, [Searchable codebook from labelled data in R](https://martakolczynska.com/post/codebook-labelled-data/)
+
+
+### R readers
+
+**articles**
+
+[R database interfaces](http://www.burns-stat.com/r-database-interfaces/)
+
+
+#### `rio`
+
+**package**
+
+CRAN page: _currently only development version_, see tidyverse link below 
+
+vignette: [Import, Export, and Convert Data Files](https://cran.r-project.org/web/packages/rio/vignettes/rio.html)
+
+
+
+#### `googledrive`
+
+**package**
+
+CRAN page: _currently only development version_, see tidyverse link below 
+
+tidyverse page: [`googledrive`](https://tidyverse.github.io/googledrive/)
+
+
+
+#### `foreign`
+
+**package**
+
+CRAN page: [foreign: Read Data Stored by Minitab, S, SAS, SPSS, Stata, Systat, Weka, dBase, ...]( https://CRAN.R-project.org/package=foreign)
+
+**articles**
+
+* [How to open an SPSS file into R](http://www.milanor.net/blog/how-to-open-an-spss-file-into-r/), by Davide Massidda (2014-03-26)
+
+
+
+#### Stata files
+
+**package `read.dta`**
+
+Reads a file in Stata version 5–12 binary format into a data frame.
+
+CRAN page: [`read.dta`: Read Stata Binary Files](http://stat.ethz.ch/R-manual/R-devel/library/foreign/html/read.dta.html)
+
+
+**package readstata13**
+
+Function to read and write the 'Stata' file format.
+
+CRAN Page: [readstata13: Import 'Stata' Data Files](readstata13: Import 'Stata' Data Files)
+
+
+
+
+
+#### `TSdbi` and related packages
+
+**package**
+
+CRAN page: [TSdbi: Time Series Database Interface]( https://CRAN.R-project.org/package=TSdbi)
+
+Note: `TSdbi` has some related extension packages:
+
+* CRAN page: [TSdata: 'TSdbi' Illustration](https://cran.r-project.org/web/packages/TSdata/index.html)
+*  This package gives an overview and usage examples for all the `TSdbi` family of packages
+
+* CRAN page: [TSPostgreSQL: 'TSdbi' Extensions for 'PostgreSQL'](https://cran.r-project.org/web/packages/TSPostgreSQL/index.html)
+
+* CRAN page: [TSsdmx: 'TSdbi' Extension to Connect with 'SDMX'](https://cran.r-project.org/web/packages/TSsdmx/index.html)
+
+
