@@ -17,9 +17,13 @@ This is an _enormous_ topic.
 
 But start here: 
 
-* Elijah Meeks, ["What Charts Do"](https://medium.com/@Elijah_Meeks/what-charts-do-48ed96f70a74), 2018-05-21
+* Alberto Cairo, _The Functional Art_ [@Cairo_2013] and _The Truthful Art_ [@Cairo_2016] are framed in the context of Cairo's professional expertise in "data journalism".
 
-* Cole Nussbaumer Knaflic, [_Storytelling with Data_] (Wiley). A great introduction to the fundamentals of good visualization. The [companion blog](https://www.storytellingwithdata.com/) has is an on-going series of further dives into the topic.
+* William S. Cleveland's books, _Visualizing Data_ [@Cleveland_1993] and _The Elements of Graphing Data_ [@Cleveland_1994], are classics in the field of statistical graphics.
+
+* Elijah Meeks, ["What Charts Do"](https://medium.com/@Elijah_Meeks/what-charts-do-48ed96f70a74) (2018-05-21) is a succinct summary that's worth reading.
+
+* Cole Nussbaumer Knaflic, [_Storytelling with Data_] [@NussbaumerKnaflic_2015]. A great introduction to the fundamentals of good visualization. The [companion blog](https://www.storytellingwithdata.com/) has is an on-going series of further dives into the topic.
 
 * Naomi Robbins, _Creating More Effective Graphs_. [@Robbins_2013]
 
