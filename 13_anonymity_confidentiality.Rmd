@@ -1,5 +1,5 @@
 # Anonymity and Confidentiality
-## _Or,_ Statistical Disclosure Control, Masking, and De-Identification
+**_Or,_ Statistical Disclosure Control, Masking, and De-Identification**
 
 
 ```{r echo = FALSE}
@@ -30,6 +30,8 @@ A related topic is data masking, "the process of hiding original data with rando
 [Data masking page at Wikipedia](https://en.wikipedia.org/wiki/Data_masking)
 
 
+***
+
 **Sidebar: The Mosaic Effect**
 
 Often bandied about is the term "the mosaic effect". A good definition comes from Vivek Kundra, who at the time was the U.S. Government's Chief Information Officer:
@@ -40,12 +42,13 @@ Further reading: ["Sorry, your data can still be identified even if it’s anony
 
 Aggregation, masking, and other SDC methods should reduce (if not entirely eliminate) a "mosaic effect". More research into this topic is required.
 
+***
+
 
 ## Laws, Ethics, and Morals
 
 The Canadian [Panel on Research Ethics](http://www.pre.ethics.gc.ca/eng/index/) had created a policy document that includes a chapter on [Privacy and Confidentiality](http://www.pre.ethics.gc.ca/eng/policy-politique/initiatives/tcps2-eptc2/chapter5-chapitre5/), covering the full range of concerns about the use of individual data.
 
-***
 
 ## Discussion
 
@@ -75,7 +78,7 @@ Gregory J. Matthews, Pétala Gardênia da Silva Estrela Tuy, and Robert K. Arthu
 ["An examination of statistical disclosure issues related to publication of aggregate statistics in the presence of a known subset of the dataset using Baseball Hall of Fame ballots"](https://www.degruyter.com/view/j/jqas.2017.13.issue-1/jqas-2016-0085/jqas-2016-0085.xml), _Journal of Quantitative Analysis in Sports_, 2017
 
 
-***
+
 
 ## Statistical agencies: principles and practices 
 
@@ -111,7 +114,6 @@ Census Bureau: [Statistical Disclosure Control (SDC)](http://www.census.gov/srd/
 * "Links and conventional references to research sponsored by the U.S. Census Bureau in the areas of statistical disclosure control, confidentiality, and disclosurelimitation."
 
 
-***
 
 ## Other resources
 
@@ -149,7 +151,6 @@ Leon Willenborg and Ton de Wall, 1996: [_Statistical Disclosure Control in Pract
 Sharon Hewitt, ["Making Test Data Realistic – Without Taking It from Production"](http://www.iri.com/blog/test-data/making-realistic-test-data-production/) (iri.com)
 
 
-***
 
 ## Specific methods
 
@@ -180,7 +181,6 @@ Meghan O’Malley, Lawrence R. Ernst, ["Practical Considerations in Applying the
 
 
 
-***
 
 ## R
 
