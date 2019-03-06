@@ -23,21 +23,21 @@ theme_set(theme_light())
 
 What is data science without _data_?  Links to tools to import data from a variety of sources, along with a few indexes and compendiums of data sources.
 
-### Labelled data
+## Labelled data
 
 In particular, survey data
 
 * Marta Kołczyńska, 2019-03-03, [Searchable codebook from labelled data in R](https://martakolczynska.com/post/codebook-labelled-data/)
 
 
-### R readers
+## R readers
 
 **articles**
 
 [R database interfaces](http://www.burns-stat.com/r-database-interfaces/)
 
 
-#### `rio`
+### **rio**
 
 **package**
 
@@ -47,7 +47,7 @@ vignette: [Import, Export, and Convert Data Files](https://cran.r-project.org/we
 
 
 
-#### `googledrive`
+### **googledrive**
 
 **package**
 
@@ -57,7 +57,7 @@ tidyverse page: [`googledrive`](https://tidyverse.github.io/googledrive/)
 
 
 
-#### `foreign`
+### **foreign**
 
 **package**
 
@@ -69,16 +69,16 @@ CRAN page: [foreign: Read Data Stored by Minitab, S, SAS, SPSS, Stata, Systat, W
 
 
 
-#### Stata files
+### Stata files
 
-**package `read.dta`**
+**`read.dta`**
 
 Reads a file in Stata version 5–12 binary format into a data frame.
 
 CRAN page: [`read.dta`: Read Stata Binary Files](http://stat.ethz.ch/R-manual/R-devel/library/foreign/html/read.dta.html)
 
 
-**package readstata13**
+**readstata13**
 
 Function to read and write the 'Stata' file format.
 
@@ -88,7 +88,7 @@ CRAN Page: [readstata13: Import 'Stata' Data Files](readstata13: Import 'Stata' 
 
 
 
-#### `TSdbi` and related packages
+### **TSdbi** and related packages
 
 **package**
 
