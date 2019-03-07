@@ -1,7 +1,7 @@
 # (PART) Quantitative methods {-} 
 
 
-# General {#quantitativemethods1}
+# Introduction {#quantitativemethods1}
 
 ```{r echo = FALSE}
 library(knitr)

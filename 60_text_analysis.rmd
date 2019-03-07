@@ -1,4 +1,4 @@
-# (PART) Part IV {-} 
+# (PART) Other methods {-} 
 
 
 # Text Analysis & Text Mining {#textanalysis}
