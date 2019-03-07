@@ -24,11 +24,14 @@ The paragraphs above are a long-winded way of saying that I acknowledge that wha
 
 ## Structure
 
-The book's layout is in four broad categories:
+The book's layout is currently in six broad categories:
 
-### Data Science
+### Data Science \@ref(DataScience)
 
-* **Chapter \@ref(practice): Statistical & Data Science Practice** is an overview of good research practice, from opinionated analysis design to script style.
+Combining chapters about the scope and definitions of data science (Chapter \@ref(datasciencedefined): This thing called "data science"), along with overviews of good research practice, from opinionated analysis design to script style (Chapter \@ref(practice): Statistical & Data Science Practice).
+
+
+### Data
 
 
 
@@ -44,9 +47,12 @@ The book's layout is in four broad categories:
 * **Chapter \@ref(textanalysis): Text Analysis & Text Mining** covers ways of tackling text mining, including natural language processing (NLP) and sentiment analysis.
 
 
-### Other Topics
+### Other Methods
 
-Everything from spatial stats to text analytics
+Text analytics and spatial statistics.
+
+
+### Communication
 
 
 ## Other notes
