@@ -4,8 +4,6 @@
 # This thing called "data science" {#datasciencedefined}
 
 
-***
-
 ## Theory
 
 David Donoho (2015) [_50 Years of Data Science_](http://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf), based on a presentation at the Tukey Centennial workshop, Princeton NJ Sept 18 2015.
@@ -39,7 +37,11 @@ Tim Davies and Mark Frank (2013) [‘There’s no such thing as raw data’. Exp
 
 
 
-## The Practice of Data Science
+## The Practice of Data Science & Statistics
+
+Steph de Silva and John Ormerod, [The Bayesian and The Frequentist](https://www.thebayesianandthefrequentist.com/2019/03/12/to-whom-it-may-concern/) {blog}
+
+
 
 ### R
 
