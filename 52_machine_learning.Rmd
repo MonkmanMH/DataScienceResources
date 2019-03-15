@@ -26,6 +26,12 @@ Nicholas Harvey, [CPSC 531H: Machine Learning Theory](https://www.cs.ubc.ca/~nic
 Audrey Lorberfeld, 2019-03-01, [Machine Learning Algorithms In Layman’s Terms, Part 1](https://towardsdatascience.com/machine-learning-algorithms-in-laymans-terms-part-1-d0368d769a7b)
 
 
+#### Deep learning 
+
+Sigrid Keydana, 2019-03-14, [Math, code, concepts: A third road to deep learning](https://blogs.rstudio.com/tensorflow/posts/2019-03-15-concepts-way-to-dl/) {at the [TensorFlow for R](https://blogs.rstudio.com/tensorflow/) blog}
+
+
+
 ### R
 
 Laurent Gatto, 2017-10-18, [An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html)

@@ -237,8 +237,15 @@ https://www.jstatsoft.org/article/view/v074i07
 
 
 
-## Machine Learning
+## Moving Window (for raster data)
 
+### **grainchanger**
+
+"The **grainchanger** package provides functionality for data aggregation to a grid via moving-window or direct methods."
+
+- [reference site](https://laurajanegraham.github.io/grainchanger/)
+
+- github: [grainchanger: Data aggregation methods for raster data](https://github.com/laurajanegraham/grainchanger)
 
 
 

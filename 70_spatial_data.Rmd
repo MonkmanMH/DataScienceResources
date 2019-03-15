@@ -1,9 +1,6 @@
 # Spatial Data (including mapping)
 
 
-
-
-
 ## Introduction
 
 Cartographic design principles
@@ -42,16 +39,22 @@ Choropleth maps
 
 ## R
 
-### Mapping in R: tutorials, etc.
+### Spatial Data in R: text books
+
+
+Roger S. Bivand, Edzer J. Pebesma, and Virgilio Gómez-Rubio (2008) [_Applied Spatial Data Analysis with R_](http://gis.humboldt.edu/OLM/r/Spatial%20Analysis%20With%20R.pdf) {PDF version of text book}
+
+Robin Lovelace, Jakub Nowosad, and Jannes Muenchow, [_Geocomputation with R_](https://geocompr.robinlovelace.net/)
 
 Edzer Pebesma and Roger Bivand, [_Spatial Data Science_](https://keen-swartz-3146c4.netlify.com/) -- textbook, work in progress.
+
+
+### Spatial Data in R: blogposts, tutorials, etc.
 
 Andrew Tran, 2019, [Mapping with R NICAR19 session](https://github.com/andrewbtran/NICAR/tree/master/2019/mapping)
 
 
 Aleszu Bajak, 2018-12-20, ["How to map point data and polygon shapefiles in R"](http://www.storybench.org/how-to-map-point-data-and-polygon-shapefiles-in-r/)
-
-Roger S. Bivand, Edzer J. Pebesma, and Virgilio Gómez-Rubio (2008) [_Applied Spatial Data Analysis with R_](http://gis.humboldt.edu/OLM/r/Spatial%20Analysis%20With%20R.pdf) {PDF version of text book}
 
 Frank Davenport (2012) ["Notes from A Recent Spatial R Class I Gave"](http://davenportspatialanalytics.squarespace.com/blog/2012/6/19/notes-from-a-recent-spatial-r-class-i-gave.html)
 
@@ -63,9 +66,7 @@ Tomislav Hengl, [_A Practical Guide to Geostatistical Mapping_](http://spatial-a
 
 Robin Lovelace (2014) ["R, an Integrated Statistical Programming Environment and GIS"](http://robinlovelace.net/r/2014/11/28/r-as-a-gis-geoinformatics.html) {blog post}
 
-Robin Lovelace, James Cheshire and others, 2015-, [_Introduction to visualising spatial data in R_](https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf) {or up-to-date version on github, [Robinlovelace/Creating-maps-in-R](https://github.com/Robinlovelace/Creating-maps-in-R)}
-
-Robin Lovelace and Jakub Nowosad, 2017-08-16, [_Geocomputation with R_](http://robinlovelace.net/geocompr/)
+Robin Lovelace, James Cheshire and others, 2015-, [_Introduction to visualising spatial data in R_](https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf) {or up-to-date version on github, [Robinlovelace/Creating-maps-in-R](https://github.com/Robinlovelace/Creating-maps-in-R) {tutorial}
 
 Sharon Machlis (2016) [Create maps in R in 10 (fairly) easy steps](http://www.computerworld.com/article/3038270/data-analytics/create-maps-in-r-in-10-fairly-easy-steps.html), Computerworld (2016-03-01)
 
