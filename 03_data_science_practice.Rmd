@@ -11,6 +11,7 @@ First, an excellent list of data science resources:
 
 How does one approach a statistics or data science project?
 
+
 ### A theory of data analysis
 
 Roger Peng, 2018-12-11, ["The Role of Theory in Data Analysis"](https://simplystatistics.org/2018/12/11/the-role-of-theory-in-data-analysis/)
