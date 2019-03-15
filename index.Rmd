@@ -25,7 +25,17 @@ The author would like to acknowledge everyone who has contributed to the books, 
 
 ## Some important details {-}
 
+**License**
+
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/2.5/ca/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png" /></a><br />This work by [Martin Monkman](https://github.com/MonkmanMH) is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/2.5/ca/">Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License</a>.
+
+
+**Source code**
+
+The source code for this ebook can be found at this github repository: https://github.com/MonkmanMH/DataScienceResources 
+
+
+**Cover image**
 
 For the cover, I wanted to use a photo of the Main Hall of the old Cincinnati Library, which one can find all over the internet. But going to source, I see that it's _not_ offered by the Public Library of Cincinnati under an open license. But you can follow [this link and see it there](https://www.flickr.com/photos/cincinnatipubliclibrary/3357891281).
 
