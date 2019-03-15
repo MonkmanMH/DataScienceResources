@@ -3,15 +3,6 @@
 
 # This thing called "data science" {#datasciencedefined}
 
-```{r echo = FALSE}
-library(knitr)
-opts_chunk$set(message = FALSE, warning = FALSE, cache = TRUE)
-options(width = 100, dplyr.width = 100)
-library(ggplot2)
-theme_set(theme_light())
-```
-
-
 
 ***
 
@@ -30,7 +21,7 @@ Hadley Wickham (2018) [Readings in Applied Data Science](https://github.com/hadl
 David Robinson (2018-01-09) ["What's the difference between data science, machine learning, and artificial intelligence?"](http://varianceexplained.org/r/ds-ml-ai/)
 
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Let&#39;s try that again <a href="https://t.co/1G4wHvGvdd">pic.twitter.com/1G4wHvGvdd</a></p>&mdash; Data Science Renee (@BecomingDataSci) <a href="https://twitter.com/BecomingDataSci/status/773001808096661504?ref_src=twsrc%5Etfw">September 6, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Let&#39;s try that again <a href="https://t.co/1G4wHvGvdd">pic.twitter.com/1G4wHvGvdd</a></p>&mdash; Data Science Renee (/@/BecomingDataSci) <a href="https://twitter.com/BecomingDataSci/status/773001808096661504?ref_src=twsrc%5Etfw">September 6, 2016</a></blockquote>
 
 Mango Solutions (2018-08-15) ["Demystifying Data Science Terminology"](https://www.mango-solutions.com/blog/demystifying-data-science-terminology)
 
@@ -128,7 +119,7 @@ Samantha Leonard, ["6 Must-Have Skills For Data Analysts"](https://www.northeast
 
 ### Statistics and other quantitative methods: courses and text books
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">R advice needed - I am (thinking of) switching my undergrad &#39;metrics class from Stata to R.  2 questions: 1 - what exactly do my students (and I!) need to download to use R  2 - what introductory tutorial is most helpful for students (and me)</p>&mdash; Amanda Agan (@amandayagan) <a href="https://twitter.com/amandayagan/status/1078392069503229958?ref_src=twsrc%5Etfw">December 27, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">R advice needed - I am (thinking of) switching my undergrad &#39;metrics class from Stata to R.  2 questions: 1 - what exactly do my students (and I!) need to download to use R  2 - what introductory tutorial is most helpful for students (and me)</p>&mdash; Amanda Agan (/@/amandayagan) <a href="https://twitter.com/amandayagan/status/1078392069503229958?ref_src=twsrc%5Etfw">December 27, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 

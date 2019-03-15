@@ -1,12 +1,6 @@
 # Specific techniques {#quantitativemethods2}
 
-```{r echo = FALSE}
-library(knitr)
-opts_chunk$set(message = FALSE, warning = FALSE, cache = TRUE)
-options(width = 100, dplyr.width = 100)
-library(ggplot2)
-theme_set(theme_light())
-```
+
 
 ## Ecological inference
 
@@ -250,7 +244,7 @@ https://www.jstatsoft.org/article/view/v074i07
 
 ## Principal Component Analysis (PCA)
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">New Video!<br>PCA (Principal Component Analysis), enjoy and share if you like it!<a href="https://t.co/9jvOIE4xAh">https://t.co/9jvOIE4xAh</a></p>&mdash; Luis G. Serrano (@luis_likes_math) <a href="https://twitter.com/luis_likes_math/status/1094479228035313664?ref_src=twsrc%5Etfw">February 10, 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">New Video!<br>PCA (Principal Component Analysis), enjoy and share if you like it!<a href="https://t.co/9jvOIE4xAh">https://t.co/9jvOIE4xAh</a></p>&mdash; Luis G. Serrano (/@/luis_likes_math) <a href="https://twitter.com/luis_likes_math/status/1094479228035313664?ref_src=twsrc%5Etfw">February 10, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 

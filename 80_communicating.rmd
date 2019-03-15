@@ -3,13 +3,7 @@
 
 # Communicating your results {#communicating}
 
-```{r echo = FALSE}
-library(knitr)
-opts_chunk$set(message = FALSE, warning = FALSE, cache = TRUE)
-options(width = 100, dplyr.width = 100)
-library(ggplot2)
-theme_set(theme_light())
-```
+
 
 
 ## Introduction
@@ -34,7 +28,7 @@ Shawn Graham, Ian Milligan, and Scott Weingart (2015) "Topic Modeling: A Hands-O
 
 https://twitter.com/AllieSherier/status/1098988779833040903
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Does anyone regularly make publishable/exportable tables in R? I have approached this a few times over the last year, but I would really like to learn how to make tables efficiently. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> (Picture is a kind of example of tables I am talking about.) <a href="https://t.co/48zr1BIf1H">pic.twitter.com/48zr1BIf1H</a></p>&mdash; Allie Sherier (@AllieSherier) <a href="https://twitter.com/AllieSherier/status/1098988779833040903?ref_src=twsrc%5Etfw">February 22, 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Does anyone regularly make publishable/exportable tables in R? I have approached this a few times over the last year, but I would really like to learn how to make tables efficiently. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> (Picture is a kind of example of tables I am talking about.) <a href="https://t.co/48zr1BIf1H">pic.twitter.com/48zr1BIf1H</a></p>&mdash; Allie Sherier (/@/AllieSherier) <a href="https://twitter.com/AllieSherier/status/1098988779833040903?ref_src=twsrc%5Etfw">February 22, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 

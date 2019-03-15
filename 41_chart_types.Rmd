@@ -1,12 +1,5 @@
 # Chart types {#charttypes}
 
-```{r echo = FALSE}
-library(knitr)
-opts_chunk$set(message = FALSE, warning = FALSE, cache = TRUE)
-options(width = 100, dplyr.width = 100)
-library(ggplot2)
-theme_set(theme_light())
-```
 
 
 ## Chart types: theory and methods
@@ -26,7 +19,7 @@ Laura DeCicco, 2018-08-10, [Exploring ggplot2 boxplots - Defining limits and adj
 Ron Pearson, 2011-01-29, [Boxplots and Beyond – Part I](https://www.r-bloggers.com/boxplots-and-beyond-part-i/) (first in a multi-part series on various distribution plots)
 
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">More papers should use this plot type!! <a href="https://t.co/iEglulaMyM">pic.twitter.com/iEglulaMyM</a></p>&mdash; Johanna Rickne (@johannarickne) <a href="https://twitter.com/johannarickne/status/1028174230146478080?ref_src=twsrc%5Etfw">August 11, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">More papers should use this plot type!! <a href="https://t.co/iEglulaMyM">pic.twitter.com/iEglulaMyM</a></p>&mdash; Johanna Rickne (/@/johannarickne) <a href="https://twitter.com/johannarickne/status/1028174230146478080?ref_src=twsrc%5Etfw">August 11, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 

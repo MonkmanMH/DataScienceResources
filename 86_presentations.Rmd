@@ -1,14 +1,6 @@
 # Presentations {#presentations}
 
 
-```{r echo = FALSE}
-library(knitr)
-opts_chunk$set(message = FALSE, warning = FALSE, cache = TRUE)
-options(width = 100, dplyr.width = 100)
-library(ggplot2)
-theme_set(theme_light())
-```
-
 
 ## Introduction
 
@@ -60,7 +52,7 @@ Jessica Calarco, July 31, 2018-07-31, [Conference Talks](http://www.jessicacalar
 
 **general tips and pointers**
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Some of my tips for new JSM speakers: <br><br>🔘 Avoid complete sentences on slides. They are only cues. You are a speaker, not a reader.<br><br>🔘 Try not to spend too much time on background. Your focus should be YOUR work, not others’ <br><br>🔘 Spend the most time describing plots <a href="https://twitter.com/hashtag/JSM2018?src=hash&amp;ref_src=twsrc%5Etfw">#JSM2018</a></p>&mdash; Dr. Sam Tyner (@sctyner) <a href="https://twitter.com/sctyner/status/1024776569271668736?ref_src=twsrc%5Etfw">August 1, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Some of my tips for new JSM speakers: <br><br>🔘 Avoid complete sentences on slides. They are only cues. You are a speaker, not a reader.<br><br>🔘 Try not to spend too much time on background. Your focus should be YOUR work, not others’ <br><br>🔘 Spend the most time describing plots <a href="https://twitter.com/hashtag/JSM2018?src=hash&amp;ref_src=twsrc%5Etfw">#JSM2018</a></p>&mdash; Dr. Sam Tyner (/@/sctyner) <a href="https://twitter.com/sctyner/status/1024776569271668736?ref_src=twsrc%5Etfw">August 1, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
@@ -100,7 +92,7 @@ Steven V. Miller, 2018-02-03, [Make Your Presentations Fun in Xaringan](http://s
 
 **xaringan tips and tricks**
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;m not a ninja, but sharing my favorite <a href="https://twitter.com/hashtag/xaringan?src=hash&amp;ref_src=twsrc%5Etfw">#xaringan</a> tricks we talked about in the Advanced R Markdown workshop at <a href="https://twitter.com/hashtag/rstudioconf?src=hash&amp;ref_src=twsrc%5Etfw">#rstudioconf</a>. Slides are here: <a href="https://t.co/z4FZ1cgRuJ">https://t.co/z4FZ1cgRuJ</a><br><br>First up: name your slides! Makes it easier to link out and cross reference within deck <a href="https://t.co/zVswMzkivf">https://t.co/zVswMzkivf</a> <a href="https://t.co/HrOF4t5juG">pic.twitter.com/HrOF4t5juG</a></p>&mdash; Alison Hill (@apreshill) <a href="https://twitter.com/apreshill/status/1085659933238976513?ref_src=twsrc%5Etfw">January 16, 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;m not a ninja, but sharing my favorite <a href="https://twitter.com/hashtag/xaringan?src=hash&amp;ref_src=twsrc%5Etfw">#xaringan</a> tricks we talked about in the Advanced R Markdown workshop at <a href="https://twitter.com/hashtag/rstudioconf?src=hash&amp;ref_src=twsrc%5Etfw">#rstudioconf</a>. Slides are here: <a href="https://t.co/z4FZ1cgRuJ">https://t.co/z4FZ1cgRuJ</a><br><br>First up: name your slides! Makes it easier to link out and cross reference within deck <a href="https://t.co/zVswMzkivf">https://t.co/zVswMzkivf</a> <a href="https://t.co/HrOF4t5juG">pic.twitter.com/HrOF4t5juG</a></p>&mdash; Alison Hill (/@/apreshill) <a href="https://twitter.com/apreshill/status/1085659933238976513?ref_src=twsrc%5Etfw">January 16, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [Advanced R Markdown training](http://arm.rbind.io/) - from RStudio conference, 2019-01-15/16
@@ -108,7 +100,7 @@ Steven V. Miller, 2018-02-03, [Make Your Presentations Fun in Xaringan](http://s
 
 **CSS tips and tricks**
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This is one of the best explanations I&#39;ve seen of the CSS background-size properties contain vs cover: <a href="https://t.co/D5dzSmvbs0">https://t.co/D5dzSmvbs0</a><br><br>If you are an <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/xaringan?src=hash&amp;ref_src=twsrc%5Etfw">#xaringan</a> user (remark.js), this is *very* helpful for understanding when to use which size property with a background image! <a href="https://t.co/SLI2jMEPf7">pic.twitter.com/SLI2jMEPf7</a></p>&mdash; Alison Hill (@apreshill) <a href="https://twitter.com/apreshill/status/1075239136691277824?ref_src=twsrc%5Etfw">December 19, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This is one of the best explanations I&#39;ve seen of the CSS background-size properties contain vs cover: <a href="https://t.co/D5dzSmvbs0">https://t.co/D5dzSmvbs0</a><br><br>If you are an <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/xaringan?src=hash&amp;ref_src=twsrc%5Etfw">#xaringan</a> user (remark.js), this is *very* helpful for understanding when to use which size property with a background image! <a href="https://t.co/SLI2jMEPf7">pic.twitter.com/SLI2jMEPf7</a></p>&mdash; Alison Hill (/@/apreshill) <a href="https://twitter.com/apreshill/status/1075239136691277824?ref_src=twsrc%5Etfw">December 19, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 

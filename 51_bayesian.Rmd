@@ -1,12 +1,5 @@
 # Bayesian Methods {#bayesian}
 
-```{r echo = FALSE}
-library(knitr)
-opts_chunk$set(message = FALSE, warning = FALSE, cache = TRUE)
-options(width = 100, dplyr.width = 100)
-library(ggplot2)
-theme_set(theme_light())
-```
 
 
 
@@ -14,14 +7,14 @@ theme_set(theme_light())
 
 [Bayesian statistics: Wikipedia page](https://en.wikipedia.org/wiki/Bayesian_statistics)
 
-Andrew Gelman, John B. Carlin, Hal S. Stern, David B. Dunson, Aki Vehtari, and Donald B. Rubin, 2014, _Bayesian Data Analysis_ (third edition), CRC Press.
+Andrew Gelman et al., _Bayesian Data Analysis_ (third edition) [@Gelman_etal_2014].
 
 Robert Grant (2018-08-07) [How (not) to introduce newcomers to Bayesian analysis](https://robertgrantstats.wordpress.com/2018/08/07/how-not-to-introduce-newcomers-to-bayesian-analysis/)
 
 
 #### R-based
 
-Richard McElreath, 2016, _Statistical Rethinking: A Bayesian Course with Examples in R and Stan_, CRC Press.
+Richard McElreath, 2016, _Statistical Rethinking: A Bayesian Course with Examples in R and Stan_ [@McElreath_2016].
 
 * [`rethinking`](https://github.com/rmcelreath/rethinking), the companion R package
 
@@ -29,7 +22,7 @@ Richard McElreath, 2016, _Statistical Rethinking: A Bayesian Course with Example
 
 
 
-Jim Albert, 2009, _Bayesian Computation with R_ (second edition), Springer
+Jim Albert, _Bayesian Computation with R_ [@Albert_2009]
 
 
 David Robinson, [_Introduction to Empirical Bayes_](https://gumroad.com/l/empirical-bayes)

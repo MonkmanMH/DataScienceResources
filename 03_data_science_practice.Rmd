@@ -1,15 +1,6 @@
 # Statistical & Data Science Practice {#practice}
 
 
-```{r echo = FALSE}
-library(knitr)
-opts_chunk$set(message = FALSE, warning = FALSE, cache = TRUE)
-options(width = 100, dplyr.width = 100)
-library(ggplot2)
-theme_set(theme_light())
-```
-
-
 
 First, an excellent list of data science resources:
 
@@ -98,7 +89,7 @@ An over-arching structure of what a project could (or should?) look like can be 
 
 * Emily Robinson, [Red Flags in Data Science Interviews](http://hookedondata.org/Red-Flags-in-Data-Science-Interviews/)
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">New blog post, co-written with <a href="https://twitter.com/skyetetra?ref_src=twsrc%5Etfw">@skyetetra</a>! 12 red flags to watch out for in data science interviews 🚩<a href="https://t.co/hM2E7I46Da">https://t.co/hM2E7I46Da</a> <a href="https://t.co/jFVA7mmjjU">pic.twitter.com/jFVA7mmjjU</a></p>&mdash; Emily Robinson (@robinson_es) <a href="https://twitter.com/robinson_es/status/1014164367292747778?ref_src=twsrc%5Etfw">July 3, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">New blog post, co-written with <a href="https://twitter.com/skyetetra?ref_src=twsrc%5Etfw">/@/skyetetra</a>! 12 red flags to watch out for in data science interviews 🚩<a href="https://t.co/hM2E7I46Da">https://t.co/hM2E7I46Da</a> <a href="https://t.co/jFVA7mmjjU">pic.twitter.com/jFVA7mmjjU</a></p>&mdash; Emily Robinson (/@/robinson_es) <a href="https://twitter.com/robinson_es/status/1014164367292747778?ref_src=twsrc%5Etfw">July 3, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
@@ -106,7 +97,7 @@ An over-arching structure of what a project could (or should?) look like can be 
 
 ## Reproducible research
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This is the future. Show. Your. Damn. Work. <a href="https://t.co/4GWFdXSs17">https://t.co/4GWFdXSs17</a></p>&mdash; Chris Albon (@chrisalbon) <a href="https://twitter.com/chrisalbon/status/953078784084754433?ref_src=twsrc%5Etfw">January 16, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This is the future. Show. Your. Damn. Work. <a href="https://t.co/4GWFdXSs17">https://t.co/4GWFdXSs17</a></p>&mdash; Chris Albon (/@/chrisalbon) <a href="https://twitter.com/chrisalbon/status/953078784084754433?ref_src=twsrc%5Etfw">January 16, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
@@ -145,7 +136,7 @@ Economics	&	Econometrics"](https://www.tse-fr.eu/sites/default/files/TSE/documen
 
 ### spreadsheets: the anti-reproducible research
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I read &quot;Data analysis without scripting&quot; as &quot;Dystopian moonscape of unrecorded user actions&quot;. I may not be Tableau&#39;s target market. <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a></p>&mdash; Gordon Shotwell (@gshotwell) <a href="https://twitter.com/gshotwell/status/577485681146097664">March 16, 2015</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I read &quot;Data analysis without scripting&quot; as &quot;Dystopian moonscape of unrecorded user actions&quot;. I may not be Tableau&#39;s target market. <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a></p>&mdash; Gordon Shotwell (/@/gshotwell) <a href="https://twitter.com/gshotwell/status/577485681146097664">March 16, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
@@ -154,7 +145,7 @@ Economics	&	Econometrics"](https://www.tse-fr.eu/sites/default/files/TSE/documen
   
 * Ignasi Bartomeus and F Rodriguez-Sanchez,  _Non-reproducible workflows: a horror movie_ :
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">That awesome video on reproducibility with <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> by <a href="https://twitter.com/ibartomeus?ref_src=twsrc%5Etfw">@ibartomeus</a> and <a href="https://twitter.com/frod_san?ref_src=twsrc%5Etfw">@frod_san</a> you can find here: <a href="https://t.co/indBflvupv">https://t.co/indBflvupv</a> <a href="https://t.co/QcdonwVTk8">https://t.co/QcdonwVTk8</a></p>&mdash; David Smith (@revodavid) <a href="https://twitter.com/revodavid/status/917779772385656832?ref_src=twsrc%5Etfw">October 10, 2017</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">That awesome video on reproducibility with <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> by <a href="https://twitter.com/ibartomeus?ref_src=twsrc%5Etfw">/@/ibartomeus</a> and <a href="https://twitter.com/frod_san?ref_src=twsrc%5Etfw">/@/frod_san</a> you can find here: <a href="https://t.co/indBflvupv">https://t.co/indBflvupv</a> <a href="https://t.co/QcdonwVTk8">https://t.co/QcdonwVTk8</a></p>&mdash; David Smith (/@/revodavid) <a href="https://twitter.com/revodavid/status/917779772385656832?ref_src=twsrc%5Etfw">October 10, 2017</a></blockquote>
 
     - with more at [Reproducibilidad](http://ecoinfaeet.github.io/2016/07/06/reproducibilidad/)
 
@@ -221,7 +212,7 @@ Reproducible Science Workshop, 2015
 * Karl Broman and Kara Woo, ["Data organization in spreadsheets"](http://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989), _The American Statistician_, 2017-09-29.
 
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">For data scientists thinking about biases in your data, don&#39;t start by reading the computer science literature. Read epidemiology instead. You need data street smarts, not mathy book smarts. Otherwise the first data set you meet is going to beat you up and take your lunch money!</p>&mdash; Kareem ❤️ statistics (@kareem_carr) <a href="https://twitter.com/kareem_carr/status/1094993530097991680?ref_src=twsrc%5Etfw">February 11, 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">For data scientists thinking about biases in your data, don&#39;t start by reading the computer science literature. Read epidemiology instead. You need data street smarts, not mathy book smarts. Otherwise the first data set you meet is going to beat you up and take your lunch money!</p>&mdash; Kareem ❤️ statistics (/@/kareem_carr) <a href="https://twitter.com/kareem_carr/status/1094993530097991680?ref_src=twsrc%5Etfw">February 11, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
@@ -238,7 +229,7 @@ Hadley Wickham, [The tidyverse style guide](https://style.tidyverse.org/)
 
 Hadley Wickham, ["Style Guide"](http://adv-r.had.co.nz/Style.html) chapter from [_Advanced R_](http://adv-r.had.co.nz/)
 
-[Coding etiquette](https://ourcodingclub.github.io/2017/04/25/etiquette.html), a guide to writing clear, informative and easy-to-use #RStats code by @CodingClub 
+[Coding etiquette](https://ourcodingclub.github.io/2017/04/25/etiquette.html), a guide to writing clear, informative and easy-to-use #RStats code by /@/CodingClub 
 
 
 Joel Lee, 2017-12=22, [The Weirdest Programming Principles You’ve Never Heard Of](https://www.makeuseof.com/tag/weird-programming-principles/)
@@ -252,7 +243,7 @@ John D. Blischak, Emily R. Davenport, Greg Wilson (2016-01-19) ["A Quick Introdu
 
 ### Documentation
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Writing documentation is all about making future you remember things that present you knows future you will forget&quot; -- <a href="https://twitter.com/data_stephanie?ref_src=twsrc%5Etfw">@data_stephanie</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/Rladies?src=hash&amp;ref_src=twsrc%5Etfw">#Rladies</a></p>&mdash; R-Ladies Chicago (@RLadiesChicago) <a href="https://twitter.com/RLadiesChicago/status/963576859152744456?ref_src=twsrc%5Etfw">February 14, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Writing documentation is all about making future you remember things that present you knows future you will forget&quot; -- <a href="https://twitter.com/data_stephanie?ref_src=twsrc%5Etfw">/@/data_stephanie</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/Rladies?src=hash&amp;ref_src=twsrc%5Etfw">#Rladies</a></p>&mdash; R-Ladies Chicago (/@/RLadiesChicago) <a href="https://twitter.com/RLadiesChicago/status/963576859152744456?ref_src=twsrc%5Etfw">February 14, 2018</a></blockquote>
 
 
 
@@ -299,7 +290,7 @@ Dani Marillas, 2017-01-25, ["Don’t document your code. Code your documentation
 
 ## General research practice
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I didn&#39;t think my &quot;start-up&quot; document for my grad students (the resources I wish *I* had when I started a PhD) would prove to be so popular, so I figured I would share them here. So, here&#39;s what I&#39;ve compiled so far. <a href="https://twitter.com/hashtag/hiddencurriculum?src=hash&amp;ref_src=twsrc%5Etfw">#hiddencurriculum</a> 1/12</p>&mdash; Matt Hauer (@thehauer) <a href="https://twitter.com/thehauer/status/1021179403680862218?ref_src=twsrc%5Etfw">July 22, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I didn&#39;t think my &quot;start-up&quot; document for my grad students (the resources I wish *I* had when I started a PhD) would prove to be so popular, so I figured I would share them here. So, here&#39;s what I&#39;ve compiled so far. <a href="https://twitter.com/hashtag/hiddencurriculum?src=hash&amp;ref_src=twsrc%5Etfw">#hiddencurriculum</a> 1/12</p>&mdash; Matt Hauer (/@/thehauer) <a href="https://twitter.com/thehauer/status/1021179403680862218?ref_src=twsrc%5Etfw">July 22, 2018</a></blockquote>
 
 
 
