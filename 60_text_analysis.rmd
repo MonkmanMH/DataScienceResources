@@ -41,6 +41,13 @@ Julia Silge (2016) ["You Must Allow Me To Tell You How Ardently I Admire and Lov
 ### Packages
 
 
+#### CRAN Task View: NLP
+
+[CRAN Task View: Natural Language Processing](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html)
+
+- "This CRAN task view collects relevant R packages that support computational linguists in conducting analysis of speech and language on a variety of levels - setting focus on words, syntax, semantics, and pragmatics."
+
+
 #### `monkeylearn`
 
 **package**
