@@ -60,4 +60,18 @@ Working with factors
 [Be the boss of your factors](https://stat545.com/block029_factors.html#change-order-of-the-levels-because-i-said-so)
 
 
+
+
+### **purrr**
+
+[reference page](https://purrr.tidyverse.org/)
+
+
+Jenny Bryan, [purrr tutorial](https://jennybc.github.io/purrr-tutorial/index.html)
+
+- including a section on [list columns](https://jennybc.github.io/purrr-tutorial/ls13_list-columns.html), i.e. a column within a dataframe that contains a general vector, that is a list of values, as opposed to an atomic vector.
+
+- and here's the related ["Putting square pegs in round holes: using list-cols in your dataframe"](https://speakerdeck.com/jennybc/putting-square-pegs-in-round-holes-using-list-cols-in-your-dataframe)
+
+
 -30-
