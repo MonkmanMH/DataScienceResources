@@ -66,12 +66,22 @@ Working with factors
 
 [reference page](https://purrr.tidyverse.org/)
 
+CRAN: [purrr: Functional Programming Tools](https://cran.r-project.org/web/packages/purrr/index.html)
+
+
+**tutorials**
 
 Jenny Bryan, [purrr tutorial](https://jennybc.github.io/purrr-tutorial/index.html)
 
-- including a section on [list columns](https://jennybc.github.io/purrr-tutorial/ls13_list-columns.html), i.e. a column within a dataframe that contains a general vector, that is a list of values, as opposed to an atomic vector.
+- including a section on the remarkable [list columns](https://jennybc.github.io/purrr-tutorial/ls13_list-columns.html), i.e. a column within a dataframe that contains a general vector, that is a list of values, as opposed to an atomic vector.
 
 - and here's the related ["Putting square pegs in round holes: using list-cols in your dataframe"](https://speakerdeck.com/jennybc/putting-square-pegs-in-round-holes-using-list-cols-in-your-dataframe)
+
+["Iteration"](https://r4ds.had.co.nz/iteration.html) in _R for Data Science_ [@Wickham_Grolemund2016]
+
+Emorie D Beck, [Intro to purrr](https://emoriebeck.github.io/R-tutorials/purrr/)
+
+Sharon Machlis, [R Tip: Access nested list items with purrr](https://www.infoworld.com/video/90327/r-tip-access-nested-list-items-with-purrr) {video}
 
 
 -30-
