@@ -1,0 +1,121 @@
+# Small Area Estimation (SAE)  {#sae}
+
+## Small area estimation (SAE)
+
+Small area estimation (SAE) is an umbrella term to describe a number of approaches that provide "reliable small area statistics even when only very small samples are available for these areas." (Pfeffermann, 2002) The applications are often seen 
+
+Many of these approaches are based upon Bayesian hierarchical models (see Gómez-Rubio et al. as one example).
+
+
+### Theory and methods
+
+Australian Bureau of Statistics, Methodology Advisory Committee (2009) [Small Area Estimation with Simulated Samples from the Population Census](http://www.abs.gov.au/ausstats/abs@.nsf/mf/1352.0.55.106), research paper.
+
+BIAS Project. http://www.bias-project.org.uk
+
+Cadwell, Betsy L., Theodore J. Thompson, James P. Boyle and Lawrence E. Barker (2010) ["Bayesian Small Area Estimates of Diabetes Prevalence by U.S. County, 2005"](https://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwisj47SqsvPAhUUHGMKHa-9AB4QFggeMAA&url=http%3A%2F%2Fwww.jds-online.com%2Ffile_download%2F239%2FJDS-650.pdf&usg=AFQjCNG9xh-s5GcntozTl2vf-zWoNVFhKQ&sig2=hRZklC7V_USYwmbZdXzW4Q), _Journal of Data Science_, 8, 173-188.
+
+Chen, C.X., T. Lumley and J. Wakefield (?) ["The Use of Sampling Weights in Bayesian Hierarchical Models for Small Area Estimation"](https://www.stat.washington.edu/research/reports/2011/tr583.pdf)_, Technical Report no.583, Department of Statistics, University of Washington, Seattle.
+
+Ghosh, M. and J. N. K. Rao (1994). "Small area estimation: An appraisal." _Statistical Science_ 9(1), 55–76.
+
+Goldstein, H. and D. J. Spiegelhalter (1996). "League tables and their limitations: Statistical issues in comparisons of institutional performance (with discussion)." _Journal of the Royal Statistical Society_, Series A 159(3), 385–443.
+
+
+
+Gómez-Rubio, V., N. Best, S. Richardson and P. Clarke (2007) [_Bayesian Statistics, Small Area Estimation and why no one is poor in Sweden_](http://www.bias-project.org.uk/papers/RSS07.pdf), presentation to the Royal Statistical Society Conference, 2007-07-18.
+
+
+Gómez-Rubio, V., N. Best, S. Richardson and G. Li (2010) "[Bayesian Statistics for Small Area Estimation](http://www.bias-project.org.uk/papers/BayesianSAE.pdf)" [alternate source via ResearchGate](https://www.researchgate.net/publication/228918362_Bayesian_Statistics_Small_Area_Estimation)
+
+Hidiroglou, Michael (2007) "[Small-Area Estimation: Theory and Practice](https://ww2.amstat.org/sections/srms/Proceedings/y2007/Files/JSM2007-000789.pdf)", _Proceedings of the Joint Statistical Meetings: Section on Survey Research Methods_
+
+Holt, D. and Fernando A.S. Moura (1999) ["Small area estimation using multilevel models"](http://www5.statcan.gc.ca/olc-cel/olc.action?ObjId=12-001-X19990014714&ObjType=47&lang=en), _Survey Methodology_ (cat. 12-001-X), Statistics Canada, Vol.25 No.1,, pp.73-80, June 2015.
+
+Jiang, Jiming (2010) [_Large Sample Techniques for Statistics_](https://link.springer.com/chapter/10.1007%2F978-1-4419-6827-2_13) (Chapter 13, "Small-Area Estimation).
+
+Kim, Jae-kwang, Seunghwan Park and Seo-young Kim (2015) ["Small area estimation combining information from several sources"](http://www.statcan.gc.ca/pub/12-001-x/2015001/article/14150-eng.pdf), _Survey Methodology_ (cat. 12-001-X), Statistics Canada, Vol.41 No.1, June 2015.
+
+Longford, Nicholas T. (2005) _Missing Data and Small-Area Estimation: Modern Analytical Equipment for the Survey Statistician_. Springer.
+
+Longford, Nicholas T. (2006) ["Sample size calculation for small-area estimation"](http://www5.statcan.gc.ca/olc-cel/olc.action?ObjId=12-001-X20060019259&ObjType=47&lang=en), _Survey Methodology_ (cat. 12-001-X), Statistics Canada, Vol. 32, No. 1, pp. 87-96.
+
+Molina, Isabel, J.N.K. Rao and Gauri Sankar Datta (2015) ["Small area estimation under a Fay-Herriot model with preliminary testing for the presence of random area effects"](http://www.statcan.gc.ca/pub/12-001-x/2015001/article/14161-eng.htm), _Survey Methodology_ (cat. 12-001-X), Statistics Canada, Vol.41 No.1, June 2015.
+
+Pfeffermann, Danny (2002) ["Small Area Estimation – New Developments and Directions"](http://eprints.soton.ac.uk/38494/2/38494.pdf), International Statistical Review.
+
+Phadia, Eswar G. (2016) _Prior Processes and Their Applications: Nonparametric Bayesian Estimation (2nd ed.)_, Springer.
+
+Rahman, Azizur and Ann Harding (2017) [_Small Area Estimation and Microsimulation Modeling_](https://www.crcpress.com/Small-Area-Estimation-and-Microsimulation-Modeling/Rahman-Harding/p/book/9781482260724) (CRC Press page)
+
+Rao, J. N. K. (2003). _Small Area Estimation_. John Wiley & Sons, Inc., Hoboken, New Jersey.
+
+Seliske, L., T. A. Norwood, J. R. McLaughlin, S. Wang, C. Palleschi and E. Holowaty (2016) ["Estimating micro area behavioural risk factor prevalence from large population-based surveys: a full Bayesian approach"](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-016-3144-4), _BMC Public Health_.
+
+Song, Lin; Laina Mercer; Jon Wakefield; Amy Laurent; David Solet (2016) ["Using Small-Area Estimation to Calculate the Prevalence of Smoking by Subcounty Geographic Areas in King County, Washington, Behavioral Risk Factor Surveillance System, 2009–2013"](https://www.cdc.gov/pcd/issues/2016/15_0536.htm), _Preventing Chronic Disease_ 2016; 13:150536
+
+Whitworth, Adam (ed.) (2013) [_Evaluations and improvements in small area estimation methodologies_](http://eprints.ncrm.ac.uk/3210/)
+
+Wieczorek, Jerzy (2013) [Small Area Estimation resources](http://civilstat.com/2013/02/small-area-estimation-resources/), at [civilstat.com](http://civilstat.com/)
+
+Wieczorek, Jerzy (2015) [Small Area Estimation 101: old materials posted](http://civilstat.com/2015/04/small-area-estimation-101-old-materials-posted/), at [civilstat.com](http://civilstat.com/)
+
+
+
+Zhang, Xingyou, James B. Holt, Hua Lu, Anne G. Wheaton, Earl S. Ford, Kurt J. Greenlund and Janet B. Croft (2014) ["Multilevel Regression and Poststratification for Small-Area Estimation of Population Health Outcomes: A Case Study of Chronic Obstructive Pulmonary Disease Prevalence Using the Behavioral Risk Factor Surveillance System"](http://aje.oxfordjournals.org/content/179/8/1025), _American Journal of Epidemiology_, 179-8, pp.1025-1033.
+
+
+Zhou, Qian and Yong You (2011) [_Hierarchical Bayes small area estimation under a spatial model with application to health survey data_](http://www5.statcan.gc.ca/olc-cel/olc.action?ObjId=12-001-X201100111445&ObjType=47&lang=en), Statistics Canada, Survey Methodology Series (12-001-X)
+
+
+#### Conferences, symposia, and other confabs
+
+[Statistical Society of Canada annual meeting, May 29 to June 1, 2016](https://ssc.ca/en/session-schedule-monday-may-30-2016#D1-I1):  ["Small Area Estimation: New Developments"](https://ssc.ca/en/2016-small-area-estimation-new-developments), Statistical Society of Canada.
+
+U.S. Census Bureau, [Center for Statistical Research and Methodology: Small Area Estimation](https://www.census.gov/srd/csrm/SmallArea.html)
+
+[Fields Institute Symposium on the Analysis of Survey Data and Small Area Estimation](https://www.fields.utoronto.ca/programs/scientific/11-12/surveydata/abstracts.html), 2012
+
+
+#### Academic community
+
+[Mahmoud Torabi](http://umanitoba.ca/faculties/health_sciences/medicine/units/chs/faculty_and_staff/4837.html), University of Manitoba, Rady Faculty of Health Sciences.
+
+[Adam Whitworth](https://www.sheffield.ac.uk/geography/staff/whitworth_adam/ncrm)
+
+
+### R
+
+Arranged by package
+
+**resources**
+
+Bivand, Roger S., Edzer Pebesma and Virgilio Gómez-Rubio (2013) _Applied Spatial Data Analysis with R_, 2nd edition. Springer
+
+Gómez-Rubio, Virgilio (2016) [Small Area Estimation with R](http://user2016.org/tutorials/16.html), tutorial at the UseR 2016 Conference,  Stanford University.
+
+* earlier version: Gómez-Rubio, Virgilio (2008) [3-hour tutorial on Small Area Estimation](http://www.bias-project.org.uk/SAE_tutorial/), tutorial at the R User Conference, 2008, Technische Universität Dortmund, Germany.
+
+
+#### `sae`
+
+**package**
+
+CRAN page: [sae: Small Area Estimation](https://cran.r-project.org/web/packages/sae/index.html)
+
+**articles**
+
+Molina, Isabel and Yolanda Marhuenda (2015) ["sae: An R Package for Small Area Estimation"](https://journal.r-project.org/archive/2015-1/molina-marhuenda.pdf), _The R Journal_ Vol. 7/1, June 2015
+
+#### `sae2`
+
+**package**
+
+CRAN page: [sae2: Small Area Estimation: Time-series Models](https://cran.r-project.org/web/packages/sae2/index.html)
+
+**articles**
+
+
+
+
+-30-

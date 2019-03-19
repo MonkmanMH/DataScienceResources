@@ -1,4 +1,4 @@
-# Spatial Data (including mapping)
+# Spatial Data (including mapping) {#spatial_data}
 
 
 ## Introduction
@@ -38,6 +38,7 @@ Choropleth maps
 ***
 
 ## R
+
 
 ### Spatial Data in R: text books
 
