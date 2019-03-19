@@ -40,11 +40,19 @@ Longford, Nicholas T. (2005) _Missing Data and Small-Area Estimation: Modern Ana
 
 Longford, Nicholas T. (2006) ["Sample size calculation for small-area estimation"](http://www5.statcan.gc.ca/olc-cel/olc.action?ObjId=12-001-X20060019259&ObjType=47&lang=en), _Survey Methodology_ (cat. 12-001-X), Statistics Canada, Vol. 32, No. 1, pp. 87-96.
 
+Marton, Krisztina and Jennifer C. Karberg, Rapporteurs, [_The Future of Federal Household Surveys: Summary of a Workshop_](https://www.nap.edu/read/13174/chapter/1), The National Academies Press
+
+* [Chapter 6: "Small-Area Estimation: Finding the Boundaries: When do Direct Survey Estimates Meet Small-Area Needs?"](https://www.nap.edu/read/13174/chapter/7)
+
 Molina, Isabel, J.N.K. Rao and Gauri Sankar Datta (2015) ["Small area estimation under a Fay-Herriot model with preliminary testing for the presence of random area effects"](http://www.statcan.gc.ca/pub/12-001-x/2015001/article/14161-eng.htm), _Survey Methodology_ (cat. 12-001-X), Statistics Canada, Vol.41 No.1, June 2015.
+
+Petrucci, Alessandra, Monica Pratesi, and Nicola Salvati (2005) ["Geographic Information in Small Area Estimation: Small Area Models and Spatially Correlated Random Area Effects"](https://www.researchgate.net/publication/228758984_Geographic_Information_in_Small_Area_Estimation_Small_Area_Models_and_Spatially_Correlated_Random_Area_Effects), January 2005, researchgate.net
 
 Pfeffermann, Danny (2002) ["Small Area Estimation – New Developments and Directions"](https://core.ac.uk/download/pdf/30120.pdf) [@Pfeffermann_2002]
 
 Phadia, Eswar G. (2016) _Prior Processes and Their Applications: Nonparametric Bayesian Estimation (2nd ed.)_, Springer.
+
+Public Health Ontario (2018) [_Small Area Analysis: A primer for Public Health Units_](https://www.publichealthontario.ca/-/media/documents/saa-guidance.pdf?la=en)
 
 Rahman, Azizur and Ann Harding (2017) [_Small Area Estimation and Microsimulation Modeling_](https://www.crcpress.com/Small-Area-Estimation-and-Microsimulation-Modeling/Rahman-Harding/p/book/9781482260724) (CRC Press page)
 
@@ -53,6 +61,8 @@ Rao, J. N. K. (2003). _Small Area Estimation_. John Wiley & Sons, Inc., Hoboken,
 Seliske, L., T. A. Norwood, J. R. McLaughlin, S. Wang, C. Palleschi and E. Holowaty (2016) ["Estimating micro area behavioural risk factor prevalence from large population-based surveys: a full Bayesian approach"](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-016-3144-4), _BMC Public Health_.
 
 Song, Lin; Laina Mercer; Jon Wakefield; Amy Laurent; David Solet (2016) ["Using Small-Area Estimation to Calculate the Prevalence of Smoking by Subcounty Geographic Areas in King County, Washington, Behavioral Risk Factor Surveillance System, 2009–2013"](https://www.cdc.gov/pcd/issues/2016/15_0536.htm), _Preventing Chronic Disease_ 2016; 13:150536
+
+Sperling, Jonathan (2012) ["The Tyranny of Census Geography: Small-Area Data and Neighborhood Statistics"], _Cityscape_, 14(2), pp.219-223, www.jstor.org/stable/41581107.
 
 Whitworth, Adam (ed.) (2013) [_Evaluations and improvements in small area estimation methodologies_](http://eprints.ncrm.ac.uk/3210/)
 
@@ -96,6 +106,9 @@ Gómez-Rubio, Virgilio (2016) [Small Area Estimation with R](http://user2016.org
 
 * earlier version: Gómez-Rubio, Virgilio (2008) [3-hour tutorial on Small Area Estimation](http://www.bias-project.org.uk/SAE_tutorial/), tutorial at the R User Conference, 2008, Technische Universität Dortmund, Germany.
 
+Andrés Gutiérrez, 2017-04-16, _Small Area Estimation 101_(https://hagutierrezro.blogspot.com/2017/04/small-area-estimation-101.html) 
+
+* alternate via [R-Bloggers](https://www.r-bloggers.com/small-area-estimation-101/))
 
 #### `sae`
 
