@@ -1,11 +1,11 @@
 # Writing About Numbers
 
-### Introduction
+## Introduction
 
 While the fundamentals of writing about numbers are the same as any expository writing, there are enough nuances and specialized elements that it warrants special attention for data scientists. 
 
 
-### Theory and methods
+## Theory and methods
 
 Jane E. Miller (2004) [_The Chicago Guide to Writing About Numbers: The Effective Presenataion of Quantitative Information_], University of Chicago Press.
 
@@ -13,8 +13,18 @@ Jane E. Miller (2007) [_The Chicago Guide to Writing about Multivariate Analysis
 
 
 
+## Data journalism
 
-### Technical elements
+Andrew Ba Tran, [_R for Journalists_](https://learn.r-journalism.com/en/)
+
+[.Rddj](https://rddj.info/): "Hand-curated, high quality resources for doing data journalism with R"
+
+Storybench, [Welcome to Data Journalism in R](http://www.storybench.org/welcome-to-data-journalism-in-r-2/) at Northeastern University's School of Journalism
+
+David Smith, 2016-07-27, [Data Journalism with R at FiveThirtyEight](https://blog.revolutionanalytics.com/2016/07/data-journalism-with-r-at-538.html), at [Revolutions blog](https://blog.revolutionanalytics.com/)
+
+
+## Technical elements
 
 Karim M. Abadir and Jan R. Magnus (2002) ["Notation in econometrics: a proposal for a standard"](http://www.principlesofeconometrics.com/poe4/writing/abadir_magnus.pdf), _Econometrics Journal_, vol. 5, pp.76-90.
 
