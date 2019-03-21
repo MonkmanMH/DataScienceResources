@@ -13,7 +13,7 @@ Most "data analysis" has been focussed on quantitative methods, but in recent ye
 
 ## Theory and methods
 
-Shawn Graham, Ian Milligan, and Scott Weingart (2015) "Topic Modeling: A Hands-On Adventure in Big Data", chapter four of [_Exploring Big Historical Data: The Historian's Macroscope_](http://www.themacroscope.org/?page_id=788). Imperial College Press.
+Shawn Graham, Ian Milligan, and Scott Weingart (2015) "Topic Modeling: A Hands-On Adventure in Big Data", chapter four of [@Graham_etal_2015]
 
 - See the companion website, [Exploring Big Historical Data: The Historian's Macroscope](http://www.themacroscope.org/2.0/)
 

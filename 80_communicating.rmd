@@ -11,13 +11,6 @@
 You've imported your data, tidied it, and then modelled and visualized it. You've now got an understanding of what it's telling you. Time to communicate your results!
 
 
-## Theory and methods
-
-Shawn Graham, Ian Milligan, and Scott Weingart (2015) "Topic Modeling: A Hands-On Adventure in Big Data", chapter four of [_Exploring Big Historical Data: The Historian's Macroscope_](http://www.themacroscope.org/?page_id=788). Imperial College Press.
-
-- See the companion website, [Exploring Big Historical Data: The Historian's Macroscope](http://www.themacroscope.org/2.0/)
-
-
 
 
 ## R

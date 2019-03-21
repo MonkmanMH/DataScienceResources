@@ -33,9 +33,11 @@ Gary King and Margaret Roberts, [EI: A(n R) Program for Ecological Inference](ht
 
 
 
-##Forecasting
+## Forecasting
 
 Forecasting methods extrapolate past trends. There is a wealth of material supporting the theory and methods around this, much of it coming from econometrics.
+
+* See also [Time series analysis] and [Seasonal adjustment]
 
 
 ### Theory and methods
@@ -395,6 +397,11 @@ From the wikipedia entry:
 [Seasonal adjustment: wikipedia entry](https://en.wikipedia.org/wiki/Seasonal_adjustment), 2016-05-07
 
 
+* see also [Forecasting] and [Time series analysis]
+
+
+### Theory and methods
+
 Statistics Canada, ["Seasonal adjustment and trend-cycle estimation"](http://www.statcan.gc.ca/pub/12-539-x/2009001/seasonal-saisonnal-eng.htm)  (part of Statistics Canada [Quality Guidelines](http://www.statcan.gc.ca/pub/12-539-x/12-539-x2009001-eng.htm), Catalogue 12-539-X)
 
 U.S. Census Bureau, [The X-13ARIMA-SEATS Seasonal Adjustment Program](https://www.census.gov/srd/www/x13as/)
@@ -497,9 +504,9 @@ A common theme in data analysis...comparing multiple points in time.
 
 See also
 
-* [Forecasting](Forecasting.md)
+* [Forecasting]
 
-* [Seasonal adjustment](SeasonalAdjustment.md)
+* [Seasonal adjustment]
 
 
 ### Theory and methods
