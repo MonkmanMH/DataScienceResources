@@ -1,7 +1,7 @@
 # (PART) Other methods {-} 
 
 
-# Text Analysis & Text Mining {#textanalysis}
+# Text Analysis and Text Mining {#textanalysis}
 
 
 
