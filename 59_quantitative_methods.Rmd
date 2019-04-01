@@ -1,6 +1,31 @@
 # Specific techniques {#quantitativemethods2}
 
 
+## Activity-Based Costing (ABC)
+
+Usually seen in the context of management accounting, ABC is a method that measures the cost and volume of inputs required to produce a fixed amount of output.
+
+* [Wikipedia page](https://en.wikipedia.org/wiki/Activity-based_costing)
+
+### Theory and methods
+
+[Activity-Based Costing](https://www.inc.com/encyclopedia/activity-based-costing.html), at Inc.com
+
+Robert S. Kaplan and Steven R. Anderson, Time-Driven Activity-Based Costing (November 2003). Available at SSRN: https://ssrn.com/abstract=485443 or http://dx.doi.org/10.2139/ssrn.485443
+
+* https://hbr.org/2004/11/time-driven-activity-based-costing
+
+Robert S. Kaplan and Steven R. Anderson, [Rethinking Activity-Based Costing](https://hbswk.hbs.edu/item/rethinking-activity-based-costing), 2005-01-24
+
+
+Fariborz Y.Partovi, [An analytic hierarchy approach to activity-based costing](https://www.sciencedirect.com/science/article/pii/092552739190007G), _International Journal of Production Economics_, 1991, 151-161
+
+### R
+
+Ryan K McBain, et al., ["Activity-based costing of health-care delivery, Haiti"](https://www.who.int/bulletin/volumes/96/1/17-198663/en/), _Bulletin of the World Health Organization_, 2018; 96:10-17.
+
+* [Shiny app](https://htdata.pih-emr.org/dhis/shiny/)
+
 
 ## Ecological inference
 
