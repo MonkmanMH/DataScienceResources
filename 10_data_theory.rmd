@@ -18,4 +18,7 @@
 What is data science without _data_?  Links to tools to import data from a variety of sources, along with a few indexes and compendiums of data sources.
 
 
+## Bias
+
+Harini Suresh and John V. Guttag, [A Framework for Understanding Unintended Consequences of Machine Learning](https://arxiv.org/abs/1901.10002), arXiv:1901.10002v1  [cs.LG]  28 Jan 2019
 
