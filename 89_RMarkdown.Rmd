@@ -4,7 +4,7 @@
 
 ## Introduction
 
-A brief description of the subject
+This section provides links to resources for using the various packages that use R Markdown.
 
 
 ### R Markdown
