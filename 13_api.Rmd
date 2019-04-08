@@ -1,0 +1,44 @@
+# APIs in R
+
+
+
+
+## Introduction
+
+
+Shana Pearlman (2016-09-07), [What are APIs and how do APIs work?](https://blogs.mulesoft.com/biz/tech-ramblings-biz/what-are-apis-how-do-apis-work/)
+
+
+### General resources
+
+
+[Zapier course: An Introduction to APIs](https://zapier.com/learn/apis/)
+
+
+
+***
+
+
+
+## APIs in R
+
+Amanda Gadrow, [Using Web APIs from R](https://www.rstudio.com/resources/videos/using-web-apis-from-r/) {RStudio conference 2017 presentation}
+
+Christoph Waldhauser (2015-11-22), [Accessing APIs from R (and a little R programming)](https://www.r-bloggers.com/accessing-apis-from-r-and-a-little-r-programming/)
+
+
+
+
+Jose Gonzalez, [Using Google Maps API and R](https://gist.github.com/josecarlosgonz/6417633)
+
+
+### Packages
+
+#### `httr`
+
+CRAN: [httr: Tools for Working with URLs and HTTP](https://cran.r-project.org/web/packages/httr/)
+
+Vignette: [Best practices for API packages](https://cran.r-project.org/web/packages/httr/vignettes/api-packages.html)
+
+
+
