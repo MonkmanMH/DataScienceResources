@@ -1,4 +1,4 @@
-# How to Read Data {#dataformat}
+# How to Read Data {#dataread}
 
 
 You've got some data, now you need to get it into your R environment.

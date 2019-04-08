@@ -107,6 +107,8 @@ Census Bureau: [Statistical Disclosure Control (SDC)](http://www.census.gov/srd/
 * "Links and conventional references to research sponsored by the U.S. Census Bureau in the areas of statistical disclosure control, confidentiality, and disclosurelimitation."
 
 
+John Abowd, [Tweetorial: Reconstruction-abetted re-identification attacks and other traditional vulnerabilities](https://threadreaderapp.com/thread/1114942180278272000.html) {unrolled twitter thread}
+
 
 ## Other resources
 
