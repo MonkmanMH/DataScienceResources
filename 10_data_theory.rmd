@@ -22,3 +22,18 @@ What is data science without _data_?  Links to tools to import data from a varie
 
 Harini Suresh and John V. Guttag, [A Framework for Understanding Unintended Consequences of Machine Learning](https://arxiv.org/abs/1901.10002), arXiv:1901.10002v1  [cs.LG]  28 Jan 2019
 
+
+Tim Harford (2019-03-08) [Black holes in data affect health and wealth](http://timharford.com/2019/04/black-holes-in-data-affect-health-and-wealth/), blogpost at timharford.com
+
+
+Cathy O'Neil (2016) _Weapons of Math Destruction_ [@ONeil_2016]
+
+
+Caroline Criado Perez (2019) _Invisible Women_ [@Perez_2019]
+ 
+* Lulu Garcia-Navarro, [interview with Caroline Criado Perez](https://www.npr.org/2019/03/17/704209639/caroline-criado-perez-on-data-bias-and-invisible-women), 2019-03-17
+
+* Angela Chen (2019-03-05) [A journalist explains the dangerous consequences of a world built for men](https://www.theverge.com/2019/3/5/18251570/caroline-criado-perez-invisible-women-data-bias-science-gender), [theverge.com]
+
+
+ 
