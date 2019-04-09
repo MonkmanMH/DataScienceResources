@@ -45,7 +45,7 @@ An over-arching structure of what a project could (or should?) look like can be 
 
 
 
-### General practice and workflow
+## General practice and workflow
 
 **Jenny Bryan on workflow:**
 
@@ -70,8 +70,12 @@ An over-arching structure of what a project could (or should?) look like can be 
 * Ray Li (2016) ["7 habits of highly effective data analysis"](http://dataconomy.com/2016/02/7-habits-of-highly-effective-data-analysis/). [Dataconomy.com](Dataconomy.com), 2016-02-16.
 
 
-
 * Noble, William Stafford (2009-07-31) [A Quick Guide to Organizing Computational Biology Projects](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424),  _PLoS Comput Biol_ 5(7): e1000424. 
+
+
+### R-specific workflow
+
+
 
 * Gabe Becker (2017) [Enhancing reproducibility, comparability and discoverability of results in multi-analyst settings](https://www.slideshare.net/GabrielBecker11/enhancing-reproducibility-comparability-and-discoverability-of-results-in-multianalyst-settings), presentation at EARL (Enterprise Applications of R Language), San Francisco, June 5-7, 2017
 
@@ -92,6 +96,11 @@ An over-arching structure of what a project could (or should?) look like can be 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">New blog post, co-written with <a href="https://twitter.com/skyetetra?ref_src=twsrc%5Etfw">/@/skyetetra</a>! 12 red flags to watch out for in data science interviews 🚩<a href="https://t.co/hM2E7I46Da">https://t.co/hM2E7I46Da</a> <a href="https://t.co/jFVA7mmjjU">pic.twitter.com/jFVA7mmjjU</a></p>&mdash; Emily Robinson (/@/robinson_es) <a href="https://twitter.com/robinson_es/status/1014164367292747778?ref_src=twsrc%5Etfw">July 3, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+#### `packrat` package
+
+* Miles McBain (2019-04-09) [A workflow for lightweight R dependency management](https://milesmcbain.xyz/packrat-lite/)
 
 
 
