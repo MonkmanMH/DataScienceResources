@@ -96,6 +96,14 @@ See the companion chapter on the topics of [Text Analysis and Text Mining].
 
 * Charlotte Wickham, [purr tutorial](https://github.com/cwickham/purrr-tutorial) -- github
 
+
+##### `usethis`
+
+[usethis 1.5.0](https://www.tidyverse.org/articles/2019/04/usethis-1.5.0/) (April 2019)
+
+
+***
+
 ### more about tidy data
 
 * Hadley Wickham & Garrett Grolemund, [_R for Data Science_](http://r4ds.had.co.nz/)
