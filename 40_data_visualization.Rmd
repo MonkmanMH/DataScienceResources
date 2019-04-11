@@ -61,6 +61,9 @@ Design Space of Data Visualization"](https://www.sciencedirect.com/science/artic
 * PolicyViz, [DataViz Cheatsheet](https://policyviz.com/2018/08/07/dataviz-cheatsheet/) (2018-08-07)
 
 
+* Rougier NP, Droettboom M, Bourne PE (2014) Ten Simple Rules for Better Figures. PLOS Computational Biology 10(9): e1003833. https://doi.org/10.1371/journal.pcbi.1003833
+
+
 * Claus O. Wilke (2019, full draft) [_Fundamentals of Data Visualization_](http://serialmentor.com/dataviz/)
 
   - Important: Wilke notes that this is a platform-agnostic book, but it was written in R's **bookdown** and uses **ggplot2** for all of the figures.
