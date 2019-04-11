@@ -56,6 +56,13 @@ Edzer Pebesma and Roger Bivand, [_Spatial Data Science_](https://keen-swartz-314
 
 ### Spatial Data in R: blogposts, tutorials, etc.
 
+
+twitter thread on "geocomputation in R":
+
+* https://twitter.com/deanmarchiori/status/1116143933656981504
+
+
+
 Andrew Tran, 2019, [Mapping with R NICAR19 session](https://github.com/andrewbtran/NICAR/tree/master/2019/mapping)
 
 
