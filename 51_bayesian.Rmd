@@ -55,7 +55,7 @@ CRAN page: [rjags: Bayesian Graphical Models using MCMC](https://cran.r-project.
 
 **articles**
 
-DataCamp course: [Bayesian modeling with `rjags`](https://www.datacamp.com/courses/bayesian-modeling-with-rjags)
+Alicia Johnson: [Bayesian modeling with `rjags`] {link to DataCamp course removed}
 
 
 #### `tidybayes`

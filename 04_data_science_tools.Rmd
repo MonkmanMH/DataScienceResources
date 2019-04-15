@@ -64,7 +64,7 @@ Jesse Sadler, [Excel vs R: A Brief Introduction to R  (With examples using dplyr
 
 #### Categorical data
 
-Emily Robinson, DataCamp course, [Categorical Data in the Tidyverse](https://www.datacamp.com/courses/categorical-data-in-the-tidyverse)
+Emily Robinson, _Categorical data in the tidyverse_ {link to DataCamp course removed}
 
 
 #### Tidy text

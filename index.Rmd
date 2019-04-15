@@ -14,7 +14,7 @@ description: "A modest and very incomplete listing of resources for tackling dat
 
 # Preface {-}
 
-_Draft, version 2_
+_Draft, version 3_
 
 This book grew out of my evergrowing collection of reference materials that was saved as an expanding array of markdown files in a github repo. By assembling it as a book, I hope that it will be more accessible and useful to other R users.
 
