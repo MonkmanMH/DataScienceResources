@@ -47,6 +47,17 @@ Tarek Amr, ["Experimenting the Bayesian way"](https://www.datascience.com/blog/e
 Arranged by package
 
 
+#### `bayestestR`
+
+**package**
+
+GitHub page: [bayestestR: Utilities for analyzing Bayesian models and posterior distributions](https://github.com/easystats/bayestestR)
+
+**articles**
+
+easystats (2019-04-15) [Describe and understand Bayesian models and posteriors using bayestestR](https://easystats.github.io/blog/posts/bayestestr_presentation/)
+
+
 #### `rjags`
 
 **package**
