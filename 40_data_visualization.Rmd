@@ -77,7 +77,7 @@ Design Space of Data Visualization"](https://www.sciencedirect.com/science/artic
 * Kennedy Elliot (2016-05-02) [39 studies about human perception in 30 minutes](https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73)
 
 
-**"Visualization literacy"
+**"Visualization literacy"**
 
 * Michael Correll (2018-11-20) [What Does “Visualization Literacy” Mean, Anyway?](https://medium.com/multiple-views-visualization-research-explained/what-does-visualization-literacy-mean-anyway-22f3b3badc0) 
 

@@ -98,6 +98,11 @@ An over-arching structure of what a project could (or should?) look like can be 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+#### `janitor` package
+
+* [**janitor**](sfirke.github.io/janitor/index.html) -- "has simple functions for examining and cleaning dirty data. It was built with beginning and intermediate R users in mind and is optimized for user-friendliness. Advanced R users can already do everything covered here, but with janitor they can do it faster and save their thinking for the fun stuff."
+
+
 #### `packrat` package
 
 * Miles McBain (2019-04-09) [A workflow for lightweight R dependency management](https://milesmcbain.xyz/packrat-lite/)
