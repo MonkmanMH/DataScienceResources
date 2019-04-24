@@ -275,6 +275,17 @@ https://www.jstatsoft.org/article/view/v074i07
 - github: [grainchanger: Data aggregation methods for raster data](https://github.com/laurajanegraham/grainchanger)
 
 
+## Multivariate Analysis
+
+(_Not to be confused with multi_variable_ analysis)
+
+
+**explor**: [GitHub page](https://juba.github.io/explor/) -- "an R package to allow interactive exploration of multivariate analysis results."
+
+* Covers Principal Component Analysis, Correspondence Analysis, Multiple Correspondence Analysis, among other methods.
+
+
+
 
 ## Principal Component Analysis (PCA)
 
