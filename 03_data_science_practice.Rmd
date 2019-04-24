@@ -151,11 +151,17 @@ Economics	&	Econometrics"](https://www.tse-fr.eu/sites/default/files/TSE/documen
 
 ### spreadsheets: the anti-reproducible research
 
+* Karl Broman and Kara Woo, ["Data organization in spreadsheets"] [@Broman_Woo_2017].
+
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I read &quot;Data analysis without scripting&quot; as &quot;Dystopian moonscape of unrecorded user actions&quot;. I may not be Tableau&#39;s target market. <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a></p>&mdash; Gordon Shotwell (/@/gshotwell) <a href="https://twitter.com/gshotwell/status/577485681146097664">March 16, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 * Jenny Bryan's [spreadsheets](https://speakerdeck.com/jennybc/spreadsheets) talk given May & June 2016 reframes Shotwell as "Spreadsheets: a dystopian moonscape of unrecorded user actions."
+
+![https://speakerdeck.com/jennybc/spreadsheets?slide=4](dystopian_moonscape.jpg)
+
   - live in-person (https://pbs.twimg.com/media/CmDykgRWAAE-_MP.jpg)
   
 * Ignasi Bartomeus and F Rodriguez-Sanchez,  _Non-reproducible workflows: a horror movie_ :
@@ -224,7 +230,7 @@ Reproducible Science Workshop, 2015
 
 * Karl Broman, [data organization](http://kbroman.org/dataorg/)
 
-* Karl Broman and Kara Woo, ["Data organization in spreadsheets"](http://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989), _The American Statistician_, 2017-09-29.
+* Karl Broman and Kara Woo, ["Data organization in spreadsheets"] [@Broman_Woo_2017].
 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">For data scientists thinking about biases in your data, don&#39;t start by reading the computer science literature. Read epidemiology instead. You need data street smarts, not mathy book smarts. Otherwise the first data set you meet is going to beat you up and take your lunch money!</p>&mdash; Kareem ❤️ statistics (/@/kareem_carr) <a href="https://twitter.com/kareem_carr/status/1094993530097991680?ref_src=twsrc%5Etfw">February 11, 2019</a></blockquote>
