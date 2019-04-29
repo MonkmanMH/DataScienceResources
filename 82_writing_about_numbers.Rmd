@@ -29,4 +29,8 @@ David Smith, 2016-07-27, [Data Journalism with R at FiveThirtyEight](https://blo
 Karim M. Abadir and Jan R. Magnus (2002) ["Notation in econometrics: a proposal for a standard"](http://www.principlesofeconometrics.com/poe4/writing/abadir_magnus.pdf), _Econometrics Journal_, vol. 5, pp.76-90.
 
 
+Andrew M. Edwards & Marie Auger‐Méthé, ["Some guidance on using mathematical notation in ecology"]
+(https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13105), _Methods in Ecology and Evolution_, Vol. 10, Issue 1 (January 2019), pp.92-99.
+
+
 -30-
