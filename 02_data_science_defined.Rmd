@@ -82,6 +82,9 @@ Chester Ismay and Albert Y. Kim, 2017-08-02, [An Introduction to Statistical and
 Jonny Brooks-Bartlett (2018-03-28) [Here’s why so many data scientists are leaving their jobs](https://towardsdatascience.com/why-so-many-data-scientists-are-leaving-their-jobs-a1f0329d7ea4) -- a splash of cold water realism in the face
 
 
+Nate Oostendorp (2019-03-01) ["Radical Change Is Coming To Data Science Jobs"](https://www.forbes.com/sites/forbestechcouncil/2019/03/01/radical-change-is-coming-to-data-science-jobs/#5755e19bdfcc), forbes.com
+
+
 ***
 
 ## The skills of data science

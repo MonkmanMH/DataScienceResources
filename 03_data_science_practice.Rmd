@@ -16,6 +16,8 @@ How does one approach a statistics or data science project?
 
 Roger Peng, 2018-12-11, ["The Role of Theory in Data Analysis"](https://simplystatistics.org/2018/12/11/the-role-of-theory-in-data-analysis/)
 
+Stephanie C. Hicks and Roger Peng, 2019-03-18, ["Elements and Principles of Data Analysis"](https://arxiv.org/abs/1903.07639v1), arXiv.org [@Hicks_Peng_2019]
+
 
 ### The function of data science: solving business problems
 
@@ -246,14 +248,21 @@ Reproducible Science Workshop, 2015
 
 ## Coding practice
 
-Hadley Wickham, [The tidyverse style guide](https://style.tidyverse.org/)
-
-Hadley Wickham, ["Style Guide"](http://adv-r.had.co.nz/Style.html) chapter from [_Advanced R_](http://adv-r.had.co.nz/)
-
 [Coding etiquette](https://ourcodingclub.github.io/2017/04/25/etiquette.html), a guide to writing clear, informative and easy-to-use #RStats code by /@/CodingClub 
 
 
 Joel Lee, 2017-12=22, [The Weirdest Programming Principles You’ve Never Heard Of](https://www.makeuseof.com/tag/weird-programming-principles/)
+
+
+### Style guides for code
+
+Hadley Wickham, [The tidyverse style guide](https://style.tidyverse.org/)
+
+Hadley Wickham, ["Style Guide"](http://adv-r.had.co.nz/Style.html) chapter from [_Advanced R_](http://adv-r.had.co.nz/)
+
+Henrik Bengtsson, [_R Coding Conventions (RCC) - a draft](https://docs.google.com/document/d/1esDVxyWvH8AsX-VJa-8oqWaHLs4stGlIbk8kLc5VlII/edit) (2009)
+
+[_Google's R Style Guide_](https://google.github.io/styleguide/Rguide.xml)
 
 
 ### Version control
