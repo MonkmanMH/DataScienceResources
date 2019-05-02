@@ -62,7 +62,7 @@ easystats (2019-04-15) [Describe and understand Bayesian models and posteriors u
 
 **package**
 
-CRAN page: [rjags: Bayesian Graphical Models using MCMC](https://cran.r-project.org/web/packages/rjags/index.html)
+CRAN page: [rjags: Bayesian Graphical Models using MCMC](https://cran.r-project.org/package=rjags)
 
 **articles**
 
@@ -73,7 +73,7 @@ Alicia Johnson: [Bayesian modeling with `rjags`] {link to DataCamp course remove
 
 **package**
 
-CRAN page: [tidybayes: Tidy Data and 'Geoms' for Bayesian Models](https://cran.r-project.org/web/packages/tidybayes/index.html)
+CRAN page: [tidybayes: Tidy Data and 'Geoms' for Bayesian Models](https://cran.r-project.org/package=tidybayes)
 
 GitHub page: [Bayesian analysis + tidy data + geoms (R package)](https://github.com/mjskay/tidybayes)
 

@@ -114,7 +114,7 @@ Andrés Gutiérrez, 2017-04-16, _Small Area Estimation 101_(https://hagutierrezr
 
 **package**
 
-CRAN page: [sae: Small Area Estimation](https://cran.r-project.org/web/packages/sae/index.html)
+CRAN page: [sae: Small Area Estimation](https://cran.r-project.org/package=sae)
 
 **articles**
 
@@ -124,7 +124,7 @@ Molina, Isabel and Yolanda Marhuenda (2015) ["sae: An R Package for Small Area E
 
 **package**
 
-CRAN page: [sae2: Small Area Estimation: Time-series Models](https://cran.r-project.org/web/packages/sae2/index.html)
+CRAN page: [sae2: Small Area Estimation: Time-series Models](https://cran.r-project.org/package=sae2)
 
 **articles**
 

@@ -36,9 +36,9 @@ Jose Gonzalez, [Using Google Maps API and R](https://gist.github.com/josecarlosg
 
 #### `httr`
 
-CRAN: [httr: Tools for Working with URLs and HTTP](https://cran.r-project.org/web/packages/httr/)
+CRAN: [httr: Tools for Working with URLs and HTTP](https://cran.r-project.org/package=httr/)
 
-Vignette: [Best practices for API packages](https://cran.r-project.org/web/packages/httr/vignettes/api-packages.html)
+Vignette: [Best practices for API packages](https://cran.r-project.org/package=httr/vignettes/api-packages.html)
 
 
 

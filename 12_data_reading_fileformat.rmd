@@ -29,7 +29,7 @@ In particular, survey data
 
 CRAN page: _currently only development version_, see tidyverse link below 
 
-vignette: [Import, Export, and Convert Data Files](https://cran.r-project.org/web/packages/rio/vignettes/rio.html)
+vignette: [Import, Export, and Convert Data Files](https://cran.r-project.org/package=rio/vignettes/rio.html)
 
 
 
@@ -82,11 +82,11 @@ CRAN page: [TSdbi: Time Series Database Interface]( https://CRAN.R-project.org/p
 
 Note: `TSdbi` has some related extension packages:
 
-* CRAN page: [TSdata: 'TSdbi' Illustration](https://cran.r-project.org/web/packages/TSdata/index.html)
+* CRAN page: [TSdata: 'TSdbi' Illustration](https://cran.r-project.org/package=TSdata)
 *  This package gives an overview and usage examples for all the `TSdbi` family of packages
 
-* CRAN page: [TSPostgreSQL: 'TSdbi' Extensions for 'PostgreSQL'](https://cran.r-project.org/web/packages/TSPostgreSQL/index.html)
+* CRAN page: [TSPostgreSQL: 'TSdbi' Extensions for 'PostgreSQL'](https://cran.r-project.org/package=TSPostgreSQL)
 
-* CRAN page: [TSsdmx: 'TSdbi' Extension to Connect with 'SDMX'](https://cran.r-project.org/web/packages/TSsdmx/index.html)
+* CRAN page: [TSsdmx: 'TSdbi' Extension to Connect with 'SDMX'](https://cran.r-project.org/package=TSsdmx)
 
 

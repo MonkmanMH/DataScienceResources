@@ -46,7 +46,7 @@ This won't solve things like inconsistent values and colour-coded cells, but it 
 For more about the principles of tidy data, see Hadley Wickham's article "Tidy data", in _The Journal of Statistical Software_ [@tidydata]
 
   + [alternate link:](http://vita.had.co.nz/papers/tidy-data.html)
-  + [informal and code-heavy version](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)
+  + [informal and code-heavy version](https://cran.r-project.org/package=tidyr/vignettes/tidy-data.html)
  
 
 ### Other tidyverse references

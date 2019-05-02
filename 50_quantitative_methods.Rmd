@@ -50,14 +50,14 @@ CRAN page: [Random {base}: Random number generation](http://stat.ethz.ch/R-manua
 
 **package**
 
-CRAN page: [random: True Random Numbers using RANDOM.ORG](https://cran.r-project.org/web/packages/random/)
+CRAN page: [random: True Random Numbers using RANDOM.ORG](https://cran.r-project.org/package=random/)
 
 
 #### `sampling`
 
 **package**
 
-CRAN page: [sampling: Survey Sampling](https://cran.r-project.org/web/packages/sampling/index.html)
+CRAN page: [sampling: Survey Sampling](https://cran.r-project.org/package=sampling)
 
 **articles**
 

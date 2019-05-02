@@ -64,7 +64,7 @@ Jessica Calarco, July 31, 2018-07-31, [Conference Talks](http://www.jessicacalar
 
 **package**
 
-CRAN: [xaringan: Presentation Ninja](https://cran.r-project.org/web/packages/xaringan/index.html)
+CRAN: [xaringan: Presentation Ninja](https://cran.r-project.org/package=xaringan)
 
 github: [`xaringan`](https://github.com/yihui/xaringan)
 

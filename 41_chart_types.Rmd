@@ -60,7 +60,7 @@ A.K.A. bar and line graphs. Don't use them!
 > an eikosogram is a picture of probability. It visually partitions a unit square into rectangular regions whose areas give the numerical values of various probabilities. The construction is such that each rectangular region is identified with the value of one or more categorical variates. 
 > _R.W. Oldford_
 
-* R.W. Oldford (2018-08-16) [Introduction to eikosograms](https://cran.r-project.org/web/packages/eikosograms/vignettes/introduction.html)
+* R.W. Oldford (2018-08-16) [Introduction to eikosograms](https://cran.r-project.org/package=eikosograms/vignettes/introduction.html)
 
 
 
@@ -119,7 +119,7 @@ Tim RiffeEmail author, Jonas Schöley and Francisco Villavicencio (2017) ["A uni
 
 * [github repo](https://github.com/rich-iannone/DiagrammeR)
 
-* [DiagrammeRsvg: Export DiagrammeR Graphviz Graphs as SVG](https://cran.r-project.org/web/packages/DiagrammeRsvg/index.html)
+* [DiagrammeRsvg: Export DiagrammeR Graphviz Graphs as SVG](https://cran.r-project.org/package=DiagrammeRsvg)
 
 
 [ggnet2: network visualization with ggplot2](https://briatte.github.io/ggnet/) -- part of the [`GGally`](https://www.rdocumentation.org/packages/GGally/versions/1.3.2) package
@@ -181,7 +181,7 @@ acarioli (2016-01-11) [Population pyramids in ggplot](https://aledemogr.wordpres
 
 ** ridgeline plots in R **
 
-[`ggridges` package by Claus Wilke](https://cran.r-project.org/web/packages/ggridges/index.html) -- CRAN page
+[`ggridges` package by Claus Wilke](https://cran.r-project.org/package=ggridges) -- CRAN page
 
 Alex Whan, 2016-03-24, [ggplot2 and Joy Division](http://alexwhan.com/2016-03-24-joy-division-plot) - at Incrutable Errors
 

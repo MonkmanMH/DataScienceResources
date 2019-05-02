@@ -128,7 +128,7 @@ github page: [cartography](https://github.com/riatelab/cartography)
 
 **package**
 
-CRAN page: [choroplethr: Simplify the Creation of Choropleth Maps in R](https://cran.r-project.org/web/packages/choroplethr/index.html)
+CRAN page: [choroplethr: Simplify the Creation of Choropleth Maps in R](https://cran.r-project.org/package=choroplethr)
 
 **articles**
 
@@ -149,7 +149,7 @@ CRAN page: [choroplethr: Simplify the Creation of Choropleth Maps in R](https://
 **package**
 
 CRAN page: [ggmap: Spatial Visualization with ggplot2]
-(https://cran.r-project.org/web/packages/ggmap/index.html)
+(https://cran.r-project.org/package=ggmap)
 
 **articles**
 
@@ -170,7 +170,7 @@ CRAN page: [ggmap: Spatial Visualization with ggplot2]
 **package**
 
 CRAN page: [ggspatial: Spatial Data Framework for ggplot2]
-(https://cran.r-project.org/web/packages/ggspatial/index.html)
+(https://cran.r-project.org/package=ggspatial)
 
 gihub page: [A ggplot2 R extension for plotting Spatial objects](https://github.com/paleolimbot/ggspatial)
 
@@ -180,7 +180,7 @@ gihub page: [A ggplot2 R extension for plotting Spatial objects](https://github.
 **package**
 
 CRAN page: [GISTools: Some further GIS capabilities for R]
-(https://cran.r-project.org/web/packages/GISTools/index.html)
+(https://cran.r-project.org/package=GISTools)
 
 **articles**
 
@@ -188,7 +188,7 @@ CRAN page: [GISTools: Some further GIS capabilities for R]
 
 **package**
 
-CRAN page: [idbr: R Interface to the US Census Bureau International Data Base API](https://cran.r-project.org/web/packages/idbr/)
+CRAN page: [idbr: R Interface to the US Census Bureau International Data Base API](https://cran.r-project.org/package=idbr/)
 
 github page: [idbr](https://github.com/walkerke/idbr)
 
@@ -201,7 +201,7 @@ Kyle Walker, [Visualizing international demographic indicators with idbr and Plo
 
 **package**
 
-CRAN: [leaflet: Create Interactive Web Maps with the JavaScript 'Leaflet' Library](https://cran.r-project.org/web/packages/leaflet/index.html)
+CRAN: [leaflet: Create Interactive Web Maps with the JavaScript 'Leaflet' Library](https://cran.r-project.org/package=leaflet)
 
 RStudio on github: [rstudio/leaflet](https://github.com/rstudio/leaflet)
 
@@ -222,7 +222,7 @@ Kyle Walker (2016) ["Using a new Mapbox Studio map in an R Leaflet project"](htt
 
 **package**
 
-CRAN: [sf: Simple Features for R](https://cran.r-project.org/web/packages/sf/index.html)
+CRAN: [sf: Simple Features for R](https://cran.r-project.org/package=sf)
 
 
 
@@ -231,9 +231,9 @@ CRAN: [sf: Simple Features for R](https://cran.r-project.org/web/packages/sf/ind
 
 **package**
 
-CRAN: [sp: Classes and Methods for Spatial Data](https://cran.r-project.org/web/packages/sp/index.html)
+CRAN: [sp: Classes and Methods for Spatial Data](https://cran.r-project.org/package=sp)
 
-vignettes: Edzer Pebesma and Roger S. Bivand (2005): [Classes and Methods for Spatial Data: the sp Package](https://cran.r-project.org/web/packages/sp/vignettes/intro_sp.pdf)
+vignettes: Edzer Pebesma and Roger S. Bivand (2005): [Classes and Methods for Spatial Data: the sp Package](https://cran.r-project.org/package=sp/vignettes/intro_sp.pdf)
 
 
 **articles**
@@ -245,9 +245,9 @@ Edzer Pebesma (2008) [Introduction to R and package sp](http://pebesma.staff.ifg
 
 **package**
 
-CRAN: [tmap: Thematic Maps](https://cran.r-project.org/web/packages/tmap/index.html)
+CRAN: [tmap: Thematic Maps](https://cran.r-project.org/package=tmap)
 
-vignettes: [tmap in a nutshell](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-nutshell.html)
+vignettes: [tmap in a nutshell](https://cran.r-project.org/package=tmap/vignettes/tmap-nutshell.html)
 
 GitHub: [`tmap`](https://github.com/mtennekes/tmap)
 
