@@ -75,6 +75,15 @@ Kamala Kanta Mishra, [Selecting Forecasting Methods in Data Science](http://www.
 Kostiantyn Kravchuk, ["Forecasting: Time Series Exploration Exercises (Part-1)"](https://www.r-bloggers.com/forecasting-time-series-exploration-exercises-part-1/) (2017-04-10)
 
 
+#### `fable`
+
+"...provides methods and tools for displaying and analysing univariate time series forecasts including exponential smoothing via state space models and automatic ARIMA modelling. Data, model and forecast objects are all stored in a tidy format."
+
+**package**
+
+documentation: [`fable`](https://fable.tidyverts.org/)
+
+
 #### `prophet`
 
 **package**
@@ -553,6 +562,13 @@ Tavish Srivastava, 2015-12-16, ["A Complete Tutorial on Time Series Modeling in 
 
 ### R
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Work w/ time series? Check out <a href="https://twitter.com/earowang?ref_src=twsrc%5Etfw">@earowang</a>&#39;s 🌟 talk from <a href="https://twitter.com/hashtag/rstudioconf?src=hash&amp;ref_src=twsrc%5Etfw">#rstudioconf</a>:<br>⏰ &quot;Melt the clock: tidy time series analysis&quot;<br>📽 <a href="https://t.co/5xkkMpAsxn">https://t.co/5xkkMpAsxn</a><br>📺 <a href="https://t.co/yvyU6RpW8U">https://t.co/yvyU6RpW8U</a><br>{tsibble} <a href="https://t.co/Gth8ZimfOz">https://t.co/Gth8ZimfOz</a><br>{fable} <a href="https://t.co/YTfWMo4VYV">https://t.co/YTfWMo4VYV</a><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/timeseries?src=hash&amp;ref_src=twsrc%5Etfw">#timeseries</a> <a href="https://t.co/CtCHnChzA6">pic.twitter.com/CtCHnChzA6</a></p>&mdash; Mara Averick (@dataandme) <a href="https://twitter.com/dataandme/status/1104019464222330977?ref_src=twsrc%5Etfw">March 8, 2019</a></blockquote>
+
+
+Earo Wang, ["Melt the clock: Tidy time series analysis"](https://resources.rstudio.com/rstudio-conf-2019/melt-the-clock-tidy-time-series-analysis) (presentation at RStudio conference, 2019)
+
+
+
 #### `tsfeatures`
 
 Methods for extracting various features from time series data
@@ -579,6 +595,9 @@ github page: [tsibble`: Tidy Temporal Data Frames and Tools](https://github.com/
 **articles**
 
 Earo Wang, 2018-12-20, ["Reintroducing tsibble: data tools that melt the clock"](https://blog.earo.me/2018/12/20/reintro-tsibble/)
+
+Earo Wang and Dianne Cook and Rob J Hyndman, January 2019, "A new tidy data structure to support exploration and modeling of temporal data"[@wang-tsibble-2019]
+
 
 #### `padr`
 
