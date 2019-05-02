@@ -128,6 +128,9 @@ Samantha Leonard, ["6 Must-Have Skills For Data Analysts"](https://www.northeast
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+Andrew Bruce and Peter Bruce, [Practical Statistics for Data Scientists](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/)
+
+
 Christoph Hanck, Martin Arnold, Alexander Gerber and Martin Schmelzer, [Introduction to Econometrics with R](https://www.econometrics-with-r.org/index.html)
 
 Chester Ismay and Albert Y. Kim, [An Introduction to Statistical and Data Sciences via R](https://moderndive.com/index.html)
@@ -135,6 +138,8 @@ Chester Ismay and Albert Y. Kim, [An Introduction to Statistical and Data Scienc
 Danielle Navarro, [Learning Statistics with R](https://learningstatisticswithr.com/)
 
 Danielle Navarro, [Learning Statistics with R: A tutorial for psychology students and other beginners](https://open.umn.edu/opentextbooks/textbooks/learning-statistics-with-r-a-tutorial-for-psychology-students-and-other-beginners)
+
+
 
 
 -30-

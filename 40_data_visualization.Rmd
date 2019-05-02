@@ -48,6 +48,8 @@ Design Space of Data Visualization"](https://www.sciencedirect.com/science/artic
 
 * Steve Franconeri, [Chart Chooser](http://experception.net/)
 
+    - background: ["Multiple views on how to choose a visualization"](https://medium.com/multiple-views-visualization-research-explained/multiple-views-on-how-to-choose-a-visualization-b3ffc99fcddc), 2019-04-24, at medium.com
+
 * Kieran Healy _Data Visualization: A practical introduction_. [@Healy_2019]
     
     - [online version](http://socviz.co/)

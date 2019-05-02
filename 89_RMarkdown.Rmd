@@ -38,6 +38,10 @@ Malcolm Barrett, [Move R Markdown HTML slides to Blogdown and Push to Web](https
 Yihui Xie, [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
 
 
+## Shiny
+
+Colin Fay, 2019-04-29, [Building a Shiny App as a Package](https://www.r-bloggers.com/building-a-shiny-app-as-a-package/) (via [R-bloggers.com](https://www.r-bloggers.com/))
+
 ***
 
 ### Other reference materials
