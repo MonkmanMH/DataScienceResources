@@ -18,7 +18,7 @@ But start here:
 
 * Elijah Meeks, ["What Charts Do"](https://medium.com/@Elijah_Meeks/what-charts-do-48ed96f70a74) (2018-05-21) is a succinct summary that's worth reading.
 
-* Cole Nussbaumer Knaflic, [_Storytelling with Data_] [@NussbaumerKnaflic_2015]. A great introduction to the fundamentals of good visualization. The [companion blog](https://www.storytellingwithdata.com/) has is an on-going series of further dives into the topic.
+* Cole Nussbaumer Knaflic, _Storytelling with Data_ [@NussbaumerKnaflic_2015]. A great introduction to the fundamentals of good visualization. The [companion blog](https://www.storytellingwithdata.com/) has an on-going series of further dives into the topic.
 
 * Naomi Robbins, _Creating More Effective Graphs_. [@Robbins_2013]
 
@@ -49,6 +49,10 @@ Design Space of Data Visualization"](https://www.sciencedirect.com/science/artic
 * Steve Franconeri, [Chart Chooser](http://experception.net/)
 
     - background: ["Multiple views on how to choose a visualization"](https://medium.com/multiple-views-visualization-research-explained/multiple-views-on-how-to-choose-a-visualization-b3ffc99fcddc), 2019-04-24, at medium.com
+
+
+* Michael Friendly, [DataVis.ca](http://datavis.ca/) -- a variety of resources, including the "Milestones Project" (significant events in the history of data visualization), books, courses, papers, and R materials.
+
 
 * Kieran Healy _Data Visualization: A practical introduction_. [@Healy_2019]
     
@@ -91,6 +95,8 @@ Design Space of Data Visualization"](https://www.sciencedirect.com/science/artic
 
 * [R Graph Catalog](http://shiny.stat.ubc.ca/r-graph-catalog/) -- an unbeatable resource for making good graphs in R, described by the creators as "a complement to _Creating More Effective Graphs_ by Naomi Robbins."  [@Robbins_2013]
 
+* Michael Friendly and David Meyer (2016) _Discrete Data Analysis with R_ [@Friendly_Meyer_2016]
+
 * Kieran Healy _Data Visualization: A practical introduction_. [@Healy_2019]
     
     - [online version](http://socviz.co/)
@@ -121,7 +127,7 @@ Design Space of Data Visualization"](https://www.sciencedirect.com/science/artic
 
 ### extensions
 
-**ggplot2** extensions, catalogued at [www.ggplot2-exts.org](https://www.ggplot2-exts.org/index.html)
+There are many extension packages that allow you to make other visualizations in **ggplot2**. Some are catalogued at [www.ggplot2-exts.org](https://www.ggplot2-exts.org/index.html).
 
 * Gallery of **ggplot2** extensions: [ggplot2-exts.org/gallery/](ggplot2 extensions - gallery )
 
@@ -135,7 +141,6 @@ Design Space of Data Visualization"](https://www.sciencedirect.com/science/artic
 
 ** _Note:_**
 
-There are many extension packages that allow you to make other visualizaitons in **ggplot2**; they are referenced below.
 
 
 ### Plotly

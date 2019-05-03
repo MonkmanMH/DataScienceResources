@@ -39,10 +39,10 @@ The source code for this ebook can be found at this github repository: https://g
 
 **Cover image**
 
-For the cover, I wanted to use a photo of the Main Hall of the old Cincinnati Library, which one can find all over the internet. But going to source, I see that it's _not_ offered by the Public Library of Cincinnati under an open license. But you can follow [this link and see it there](https://www.flickr.com/photos/cincinnatipubliclibrary/3357891281).
+For the cover, I wanted to use a photo of the Main Hall of the old Cincinnati Library, which one can find all over the internet. But going to the source, I see that it's _not_ offered by the Public Library of Cincinnati under an open license. But you can follow [this link and see it there](https://www.flickr.com/photos/cincinnatipubliclibrary/3357891281).
 
 
-This book is written in **Markdown**, using the **bookdown** package.
+This book is written in **Markdown**, using the [**bookdown**](https://bookdown.org/yihui/bookdown/) package, and published to the web at [bookdown.org](https://bookdown.org/).
 
 
 ```{r eval=FALSE}
