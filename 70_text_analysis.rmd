@@ -106,3 +106,7 @@ Inigo Feinerer (2015) ["Introduction to the `tm` Package: Text Mining in R"](htt
 Ingo Feinerer, Kurt Hornik, David Meyer (2007) ["Text Mining Infrastructure in R"](https://www.jstatsoft.org/article/view/v025i05), _Journal of Statistical Software_, 25 (5).
 
 
+
+***
+
+
