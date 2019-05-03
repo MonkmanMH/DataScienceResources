@@ -28,33 +28,35 @@ The book's layout is currently in seven broad categories:
 
 ### Data Science 
 
-Combining chapters about the scope and definitions of data science (Chapter \@ref(datasciencedefined): This thing called "data science"), along with overviews of good research practice, from opinionated analysis design to script style (Chapter \@ref(practice): Statistical & Data Science Practice).
+* Combining chapters about the scope and definitions of data science **(Chapter \@ref(datasciencedefined): This thing called "data science")**, along with overviews of good research practice, from opinionated analysis design to script style **(Chapter \@ref(practice): Statistical & Data Science Practice)**, and some high-level materials on **[Using R]**.
 
 
 ### Data 
+
+* What is data science with data? This section covers topics from **[Bias]** to **[Anonymity and Confidentiality]**.
 
 
 
 ### Data Visualization
 
-* **Chapter \@ref(datavisualization): Data Visualization** points to some key resources on data visualization theory and practice, and data visualization in R, with a focus on the package `ggplot2` and its related extension packages.
+* The **Data Visualization** section points to some key resources on data visualization theory and practice, and data visualization in R, with a focus on the package **ggplot2** and its related extension packages.
 
 
 
 ### Quantitative Methods
 
 
-* **Chapter \@ref(textanalysis): Text Analysis & Text Mining** covers ways of tackling text mining, including natural language processing (NLP) and sentiment analysis.
+* This section covers a variety of methods of analyzing and modeling data, from **[Bayesian Methods]** (which, along with some other approaches, gets its own chapter) to **[Time series analysis]**.
 
 
 ### Spatial Data
 
-* Chapters on mapping and Small Area Estimation
+* Chapters on **[Spatial Data (including mapping)]** and **[Small Area Estimation]**.
 
 
 ### Other Methods
 
-Text analytics.
+* **Chapter \@ref(textanalysis): Text Analysis & Text Mining** covers ways of tackling text mining, including natural language processing (NLP) and sentiment analysis.
 
 
 
@@ -66,4 +68,6 @@ Text analytics.
 
 Style and format: see ["Software information and conventions"](https://bookdown.org/yihui/blogdown/software-info.html) in Xie, Thomas & Presmanes Hill [@Xie_etal_blogdown_2019]
 
--30-
+
+***
+

@@ -1,4 +1,4 @@
-# Using R {#using_r}
+# Using R 
 
 
 
@@ -118,6 +118,5 @@ See the companion chapter on the topics of [Text Analysis and Text Mining].
   
 
 
+***
 
-
--30-

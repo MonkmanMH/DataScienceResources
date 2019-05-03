@@ -141,6 +141,5 @@ Danielle Navarro, [Learning Statistics with R: A tutorial for psychology student
 
 
 
-
--30-
+***
 

@@ -1,4 +1,4 @@
-# Bayesian Methods {#bayesian}
+# Bayesian Methods
 
 
 

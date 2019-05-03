@@ -1,4 +1,4 @@
-# Small Area Estimation (SAE)  {#sae}
+# Small Area Estimation  {#sae}
 
 ## Small area estimation (SAE)
 
