@@ -19,6 +19,9 @@ Roger Peng, 2018-12-11, ["The Role of Theory in Data Analysis"](https://simplyst
 Stephanie C. Hicks and Roger Peng, 2019-03-18, ["Elements and Principles of Data Analysis"](https://arxiv.org/abs/1903.07639v1), arXiv.org [@Hicks_Peng_2019]
 
 
+Stephanie C. Hicks and Roger Peng, 2019-04-26, ["Evaluating the Success of a Data Analysis"](https://arxiv.org/abs/1904.11907), arXiv.org [@Hicks_Peng_2019b]
+
+
 ### The function of data science: solving business problems
 
 Emily Robinson, 2017-09-27, [Managing Business Challenges In Data Science](https://robinsones.github.io/Managing-Business-Challenges-in-Data-Science/)
