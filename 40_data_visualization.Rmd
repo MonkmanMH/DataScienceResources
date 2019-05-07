@@ -77,15 +77,20 @@ Design Space of Data Visualization"](https://www.sciencedirect.com/science/artic
   - [the github repo for the book](https://github.com/clauswilke/dataviz) (in case you want to plagiarize the code for a specific figure)
 
 
+### Data Visualization Society (Medium)
 
-**Theory**
+Medium's [Data Visualization Society](https://medium.com/data-visualization-society) "Data Visualization Society aims to collect and establish best practices, fostering a community that supports members as they grow and develop data visualization skills."
+
+
+* Allen Hillery, 2019-05-06, [W.E.B Du Bois and Four Essential Steps to Effective Persuasion](https://medium.com/data-visualization-society/w-e-b-dubois-and-four-essential-steps-to-effective-persuasion-6108a70a5708?sk=467b19142f3bec315582ac4f100d9db6)
+
+
+* Michael Correll (2018-11-20) [What Does “Visualization Literacy” Mean, Anyway?](https://medium.com/multiple-views-visualization-research-explained/what-does-visualization-literacy-mean-anyway-22f3b3badc0) 
+
 
 * Kennedy Elliot (2016-05-02) [39 studies about human perception in 30 minutes](https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73)
 
 
-**"Visualization literacy"**
-
-* Michael Correll (2018-11-20) [What Does “Visualization Literacy” Mean, Anyway?](https://medium.com/multiple-views-visualization-research-explained/what-does-visualization-literacy-mean-anyway-22f3b3badc0) 
 
 
 
