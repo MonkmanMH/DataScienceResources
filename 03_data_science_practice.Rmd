@@ -103,12 +103,27 @@ An over-arching structure of what a project could (or should?) look like can be 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-#### `janitor` package
+### R packages supporting robust workflow
 
-* [**janitor**](sfirke.github.io/janitor/index.html) -- "has simple functions for examining and cleaning dirty data. It was built with beginning and intermediate R users in mind and is optimized for user-friendliness. Advanced R users can already do everything covered here, but with janitor they can do it faster and save their thinking for the fun stuff."
+#### {janitor}
+
+* [{janitor}](sfirke.github.io/janitor/index.html) -- "has simple functions for examining and cleaning dirty data. It was built with beginning and intermediate R users in mind and is optimized for user-friendliness. Advanced R users can already do everything covered here, but with janitor they can do it faster and save their thinking for the fun stuff."
+
+CRAN: [janitor: Simple Tools for Examining and Cleaning Dirty Data](https://cran.r-project.org/web/packages/janitor/index.html)
+
+GitHub: [sfirke/janitor](https://github.com/sfirke/janitor)
 
 
-#### `packrat` package
+#### {packrat}
+
+* [Packrat is a dependency management system for R](http://rstudio.github.io/packrat/)
+
+
+CRAN: [packrat: A Dependency Management System for Projects and their R Package Dependencies](https://cran.r-project.org/web/packages/packrat/index.html)
+
+GitHub: [rstudio/packrat](https://github.com/rstudio/packrat)
+
+** Articles**
 
 * Miles McBain (2019-04-09) [A workflow for lightweight R dependency management](https://milesmcbain.xyz/packrat-lite/)
 

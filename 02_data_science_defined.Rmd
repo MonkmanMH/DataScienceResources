@@ -43,11 +43,22 @@ Steph de Silva and John Ormerod, [The Bayesian and The Frequentist](https://www.
 
 
 
-### R
+### R Release Names
+
+"All of the release names are references to Peanuts strips/films." 
 
 Lucy D'Agostino McGowan, 2017-07-28, [R release names](https://livefreeordichotomize.com/2017/09/28/r-release-names/)
 
-* update: v. 3.5.2 ["Eggshell Igloos"](https://www.gocomics.com/peanuts/1960/01/25) 
+
+Releases since 2017-07-28:
+
+* R 3.5.2 ["Eggshell Igloos"](https://www.gocomics.com/peanuts/1960/01/25) (original strip: 1960-01-25)
+
+* R 3.5.3 ["Great Truth"](https://www.gocomics.com/peanuts/1959/03/11) (original strip: 1959-03-11)
+
+* R 3.6.0 ["Planting of a Tree"](https://www.gocomics.com/peanuts/1963/03/03) (original strip: 1963-03-03)
+
+(Another source for the strips is the [peanuts.fandom.com comics archive](https://peanuts.fandom.com/wiki/Category:Comic_strips))
 
 
 ### Using R for Data Science
