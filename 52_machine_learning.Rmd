@@ -46,7 +46,9 @@ Karlijn Willems, [Machine Learning in R for beginners] {link to DataCamp course 
 
 Jason Brownlee, 2016-02-23, [Your First Machine Learning Project in R Step-By-Step (tutorial and template for future projects)](https://machinelearningmastery.com/machine-learning-in-r-step-by-step/)
 
-#### `h2o`
+
+
+#### {h2o}
 
 **package**
 

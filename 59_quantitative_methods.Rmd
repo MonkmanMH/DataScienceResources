@@ -27,6 +27,9 @@ Ryan K McBain, et al., ["Activity-based costing of health-care delivery, Haiti"]
 * [Shiny app](https://htdata.pih-emr.org/dhis/shiny/)
 
 
+
+***
+
 ## Ecological inference
 
 Ecological inference is a method for inferring individual behavior from group-level data.
@@ -45,7 +48,7 @@ Michael Stoto ["Ecological Inference in Public Health"](https://www.researchgate
 
 Arranged by package
 
-#### `ei`
+#### {ei}
 
 **package**
 
@@ -56,7 +59,7 @@ CRAN page: [ei: Ecological Inference](https://cran.r-project.org/web/packages/ei
 Gary King and Margaret Roberts, [EI: A(n R) Program for Ecological Inference](https://gking.harvard.edu/eiR) -- website with assorted resources
 
 
-
+***
 
 ## Forecasting
 
@@ -75,7 +78,7 @@ Kamala Kanta Mishra, [Selecting Forecasting Methods in Data Science](http://www.
 Kostiantyn Kravchuk, ["Forecasting: Time Series Exploration Exercises (Part-1)"](https://www.r-bloggers.com/forecasting-time-series-exploration-exercises-part-1/) (2017-04-10)
 
 
-#### `fable`
+#### {fable}
 
 "...provides methods and tools for displaying and analysing univariate time series forecasts including exponential smoothing via state space models and automatic ARIMA modelling. Data, model and forecast objects are all stored in a tidy format."
 
@@ -84,7 +87,7 @@ Kostiantyn Kravchuk, ["Forecasting: Time Series Exploration Exercises (Part-1)"]
 documentation: [`fable`](https://fable.tidyverts.org/)
 
 
-#### `prophet`
+#### {prophet}
 
 **package**
 
@@ -99,7 +102,7 @@ documentation: [Prophet: forecasting at scale](https://facebookincubator.github.
 
 
 
-
+***
 
 ## Gini coefficient
 
@@ -119,12 +122,14 @@ World Bank (date unknown) ["Measuring Inequality"](http://go.worldbank.org/W2TRR
 
 ### R
 
-#### `ineq`
+#### {ineq}
 
 **package**
 
+CRAN: [ineq: Measuring Inequality, Concentration, and Poverty](https://cran.r-project.org/web/packages/ineq/index.html)
 
 
+***
 
 ## Imputation of missing data (or missing values)
 
@@ -171,7 +176,7 @@ Thomas Leeper, [Multiple imputation](http://thomasleeper.com/Rcourse/Tutorials/m
 
 
 
-#### `Amelia`
+#### {Amelia}
 
 **package**
 
@@ -184,13 +189,13 @@ description: [Amelia II: A Program for Missing Data](http://gking.harvard.edu/am
 github page for [Amelia II](https://github.com/IQSS/Amelia)
 
 
-#### `BaBooN`
+#### {BaBooN}
 
 CRAN page: [BaBooN: Bayesian Bootstrap Predictive Mean Matching - Multiple and Single Imputation for Discrete Data](https://cran.r-project.org/web/packages/BaBooN/index.html)
 
 
 
-#### `Hmisc`
+#### {Hmisc}
 
 **package**
 
@@ -198,7 +203,7 @@ CRAN page: [Hmisc: Harrell Miscellaneous](https://cran.r-project.org/web/package
 
 
 
-#### `mi`
+#### {mi}
 
 **package**
 
@@ -210,7 +215,8 @@ Su, Gelman, Hill and Yajima (2011) [Multiple Imputation with Diagnostics (mi) in
 
 Ben Goodrich and Jonathan Kropko, 2014-06-16, ["An Example of mi Usage"](https://cran.r-project.org/web/packages/mi/vignettes/mi_vignette.pdf)
 
-#### `mice`
+
+#### {mice}
 
 **package**
 
@@ -231,7 +237,7 @@ Michy Alice, ["Imputing missing data with R; MICE package"](https://www.r-blogge
 
 datascience+, 2015-10-04 and updated 2017-04-28, [Imputing Missing Data with R; MICE package](https://datascienceplus.com/imputing-missing-data-with-r-mice-package/)
 
-#### `missMDA`
+#### {missMDA}
 
 **package**
 
@@ -243,19 +249,19 @@ francoishusson, 2017-08-15, [Multiple imputation for continuous and categorical 
 
 
 
-#### `missForest`
+#### {missForest}
 
 **package**
 
 CRAN page: [missForest: Nonparametric Missing Value Imputation using Random Forest](https://cran.r-project.org/web/packages/missForest/index.html)
 
 
-#### `NPBayesImpute`
+#### {NPBayesImpute}
 
 CRAN page: [NPBayesImpute: Non-Parametric Bayesian Multiple Imputation for Categorical Data](https://cran.r-project.org/web/packages/NPBayesImpute/index.html)
 
 
-#### `VIM`
+#### {VIM}
 
 **package**
 
@@ -271,30 +277,36 @@ https://www.jstatsoft.org/article/view/v074i07
 
 
 
-
+***
 
 ## Moving Window (for raster data)
 
-### **grainchanger**
+### {grainchanger}
 
-"The **grainchanger** package provides functionality for data aggregation to a grid via moving-window or direct methods."
+"The grainchanger package provides functionality for data aggregation to a grid via moving-window or direct methods."
 
 - [reference site](https://laurajanegraham.github.io/grainchanger/)
 
 - github: [grainchanger: Data aggregation methods for raster data](https://github.com/laurajanegraham/grainchanger)
 
 
+
+***
+
 ## Multivariate Analysis
 
 (_Not to be confused with multi_variable_ analysis)
 
 
-**explor**: [GitHub page](https://juba.github.io/explor/) -- "an R package to allow interactive exploration of multivariate analysis results."
+### {explor} 
+
+[GitHub page](https://juba.github.io/explor/) -- "an R package to allow interactive exploration of multivariate analysis results."
 
 * Covers Principal Component Analysis, Correspondence Analysis, Multiple Correspondence Analysis, among other methods.
 
 
 
+***
 
 ## Principal Component Analysis (PCA)
 
@@ -302,6 +314,7 @@ https://www.jstatsoft.org/article/view/v074i07
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+***
 
 ## Random walk
 
@@ -332,6 +345,7 @@ Karl Pearson (1905). ["The Problem of the Random Walk"](http://www.nature.com/na
 Zhijun Yang, ["Brownian Motion Simulation Project in R"](https://www.stat.berkeley.edu/~aldous/Research/Ugrad/ZY1.pdf)
 
 
+***
 
 
 ## Raking
@@ -367,7 +381,7 @@ DIY Solution
 
 * Christopher Waldhauser (2014-04-13) [Survey: Computing Your Own Post-Stratification Weights in R](https://www.r-bloggers.com/survey-computing-your-own-post-stratification-weights-in-r/) (at R-Bloggers)
 
-#### `anesrake`
+#### {anesrake}
 
 **package**
 
@@ -381,7 +395,8 @@ Josh Pasek, Matthew DeBell, Jon A. Krosnick (2014-07-26) ["Standardizing!and!Dem
 
 [Raking weights with R](http://sdaza.com/survey/2012/08/25/raking/)
 
-#### `ipfp`
+
+#### {ipfp}
 
 **package**
 
@@ -393,7 +408,8 @@ github page: [awblocker/ipfp](https://github.com/awblocker/ipfp)
 
 [Iterative proportional fitting in R (stackexchange)](http://stats.stackexchange.com/questions/59115/iterative-proportional-fitting-in-r)
 
-#### `survey`
+
+#### {survey}
 
 **package**
 
@@ -405,7 +421,8 @@ homepage: [Survey analysis in R](http://r-survey.r-forge.r-project.org/survey/)
 
 Lumley, Thomas (2010) _Complex Surveys: A Guide to Analysis Using R_, John Wiley & Sons, Inc.
 
-#### `{rake}` function in `survey`
+
+#### rake() function in {survey}
 
 **articles**
 
@@ -416,21 +433,15 @@ Lumley, Thomas (2010) _Complex Surveys: A Guide to Analysis Using R_, John Wiley
 [rake {survey}: Raking of replicate weight design](http://faculty.washington.edu/tlumley/old-survey/html/rake.html)
 
 
-#### `weights`
+#### {weights}
 
 **package**
 
 CRAN page: [weights: Weighting and Weighted Statistics](https://cran.r-project.org/web/packages/weights/index.html)
 
 
-**articles**
 
-## Regression
-
-
-
-  - [Quantile regression](docs/QuantileRegression.md)
-
+***
 
 
 ## Seasonal adjustment
@@ -454,7 +465,7 @@ U.S. Census Bureau, [The X-13ARIMA-SEATS Seasonal Adjustment Program](https://ww
 
 ### R
 
-#### `ggsdc`
+#### {ggsdc}
 
 **package**
 
@@ -463,7 +474,7 @@ CRAN page: [ggseas: 'stats' for Seasonal Adjustment on the Fly with 'ggplot2'](h
 [Vignette](https://cran.r-project.org/web/packages/ggseas/vignettes/ggsdc.html)
 
 
-#### `ggseas`
+#### {ggseas}
 
 **package**
 
@@ -480,7 +491,7 @@ Ellis, Peter. 2016-03-28. ["Seasonal decomposition in the ggplot2 universe with 
 Ellis, Peter. 2016-02-08. ["ggseas package for seasonal adjustment on the fly with ggplot2"](http://ellisp.github.io/blog/2016/02/08/ggseas/), blog entry.
 
 
-#### `seasonal`
+#### {seasonal}
 
 **[seasonal: R-interface to X-13ARIMA-SEATS](http://www.seasonal.website/seasonal.html)**
 
@@ -495,7 +506,7 @@ CRAN page: [seasonal: R Interface to X-13-ARIMA-SEATS'](https://cran.r-project.o
 github page: [christophsax/seasonal](https://github.com/christophsax/seasonal)
 
 
-#### `x13binary`
+#### {x13binary}
 
 (US Census Bureau X-13, packaged for easy loading. Loads as a dependency for most of the other seasonal adjustment packages.)
 
@@ -505,7 +516,7 @@ CRAN page: [x13binary: Provide the 'x13ashtml' Seasonal Adjustment Binary](https
 
 
 
-
+***
 
 ## Structural equation modeling (SEM)
 
@@ -513,7 +524,7 @@ CRAN page: [x13binary: Provide the 'x13ashtml' Seasonal Adjustment Binary](https
 
 Arranged by package
 
-#### `lavaan`
+#### {lavaan}
 
 **package**
 
@@ -527,7 +538,8 @@ Yves Rosseel, 2012-05-24, ["lavaan: An R Package for Structural Equation Modelin
 
 Grace Charles, 2015-05-20, [First Steps with Structural Equation Modeling](https://www.r-bloggers.com/first-steps-with-structural-equation-modeling/) -- blog post by Noam Ross, re: Charles' presention at Davis R Users' Group. 
 
-#### `sem`
+
+#### {sem}
 
 **package**
 
@@ -542,6 +554,7 @@ John Fox, ["Structural Equation Modeling With the `sem` Package in R"](http://so
 ["Structural Equation Modeling in R"](http://personality-project.org/r/r.sem.html)
 
 
+***
 
 ## Time series analysis
 
@@ -569,7 +582,7 @@ Earo Wang, ["Melt the clock: Tidy time series analysis"](https://resources.rstud
 
 
 
-#### `tsfeatures`
+#### {tsfeatures}
 
 Methods for extracting various features from time series data
 
@@ -584,7 +597,8 @@ CRAN: [tsfeatures: Time Series Feature Extraction](https://cran.r-project.org/we
 [getting started article](https://pkg.robjhyndman.com/tsfeatures/articles/tsfeatures.html)
 
 
-#### `tsibble`
+
+#### {tsibble}
 
 **package**
 
@@ -599,7 +613,7 @@ Earo Wang, 2018-12-20, ["Reintroducing tsibble: data tools that melt the clock"]
 Earo Wang and Dianne Cook and Rob J Hyndman, January 2019, "A new tidy data structure to support exploration and modeling of temporal data"[@wang-tsibble-2019]
 
 
-#### `padr`
+#### {padr}
 
 **package**
 
@@ -610,10 +624,12 @@ CRAN page: [padr: Quickly Get Datetime Data Ready for Analysis](https://cran.r-p
 Andrew Clark, 2017-07-19, [padr package example](https://www.mytinyshinys.com/2017/07/19/user2017-padr/)
 
 
-#### `zoo`
+#### {zoo}
 
 **package**
 
 CRAN page: [zoo: S3 Infrastructure for Regular and Irregular Time Series (Z's Ordered Observations)](https://cran.r-project.org/web/packages/zoo/index.html)
 
+
+***
 
