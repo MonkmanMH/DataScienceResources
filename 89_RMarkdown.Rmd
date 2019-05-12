@@ -7,7 +7,7 @@
 This section provides links to resources for using the various packages that use R Markdown.
 
 
-### R Markdown
+## R Markdown
 
 Yihui Xie, J. J. Allaire, Garrett Grolemund (2018) [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) 
 
@@ -28,17 +28,30 @@ Pete Mohanty (2017-11-07) [Automating Summary of Surveys with RMarkdown](https:/
 Andrew MacDonald (2018-02-09) [How I use Rmarkdown](http://thestudyofthehousehold.com/post/how-i-use-rmarkdown/) -- three handy tips on how to use markdown.
 
 
-### blogdown
+### {blogdown}
 
 Malcolm Barrett, [Move R Markdown HTML slides to Blogdown and Push to Web](https://gist.github.com/malcolmbarrett/7c5935d1734016dcb0b2c81b9bc3b549)
 
 
-### bookdown
+### {bookdown}
 
 Yihui Xie, [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
 
 
-## Shiny
+
+### {redoc}
+
+[redoc - Reversible Reproducible Documents](https://noamross.github.io/redoc/)
+
+* "a package to enable a two-way R Markdown Microsoft Word workflow. It generates Word documents that can be de-rendered back into R Markdown, retaining edits on the Word document, including tracked changes."
+
+GitHub: [noamross/redoc](https://github.com/noamross/redoc)
+
+
+
+***
+
+## {Shiny}
 
 Colin Fay, 2019-04-29, [Building a Shiny App as a Package](https://www.r-bloggers.com/building-a-shiny-app-as-a-package/) (via [R-bloggers.com](https://www.r-bloggers.com/))
 
@@ -47,3 +60,7 @@ Colin Fay, 2019-04-29, [Building a Shiny App as a Package](https://www.r-blogger
 ### Other reference materials
 
 Dean Attalli (2015-03-24) [Knitr's best hidden gem: spin](http://deanattali.com/2015/03/24/knitrs-best-hidden-gem-spin/)
+
+
+***
+
