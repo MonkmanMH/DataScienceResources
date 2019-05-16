@@ -92,7 +92,7 @@ Medium's [Data Visualization Society](https://medium.com/data-visualization-soci
 
 
 
-
+***
 
 ## R Resources
 
@@ -113,8 +113,6 @@ Medium's [Data Visualization Society](https://medium.com/data-visualization-soci
 
 
 
-***
-
 ## **ggplot2** -- the pre-eminent way to create charts and graphs in R
 
 * [**ggplot2**: part of the tidyverse](http://ggplot2.tidyverse.org/index.html) -- reference materials, examples, etc etc. Start here.
@@ -128,6 +126,10 @@ Medium's [Data Visualization Society](https://medium.com/data-visualization-soci
    - [**bbplot**](https://github.com/bbc/bbplot), a package with their templates etc.
    
    - ["How the BBC Visual and Data Journalism team works with graphics in R"](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535)
+
+
+* Gina Reynolds, 2019-01-31, [the ggplot flipbook](https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html#1)
+
 
 
 ### extensions
