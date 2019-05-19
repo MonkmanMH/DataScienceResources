@@ -47,18 +47,18 @@ http://andrewgelman.com/2017/03/04/interpret-confidence-intervals/
 
 #### {broom}
 
-CRAN: [broom: Convert Statistical Analysis Objects into Tidy Tibbles](https://cran.r-project.org/web/packages/broom/index.html)
+CRAN: [broom: Convert Statistical Analysis Objects into Tidy Tibbles](https://cran.r-project.org/package=broom)
 
 [github page](https://github.com/tidymodels/broom)
 
-[Introduction to broom](https://cran.r-project.org/web/packages/broom/vignettes/broom.html)
+[Introduction to broom](https://cran.r-project.org/package=broom/vignettes/broom.html)
 
 David Robinson (2015-03-19) [broom: a package for tidying statistical models into data frames](http://varianceexplained.org/r/broom-intro/)
 
 
 #### {brms}
 
-[brms: Bayesian Regression Models using Stan](https://cran.r-project.org/web/packages/brms/index.html)
+[brms: Bayesian Regression Models using Stan](https://cran.r-project.org/package=brms)
 
 "...an interface to fit Bayesian generalized (non-)linear multivariate multilevel models using Stan"
 
@@ -103,11 +103,11 @@ University of Virginia Library Research Data Services, ["Getting Started with Qu
 
 **package**
 
-CRAN page: [quantreg: Quantile Regression](https://cran.r-project.org/web/packages/quantreg/)
+CRAN page: [quantreg: Quantile Regression](https://cran.r-project.org/package=quantreg/)
 
 **articles**
 
-Koenker, Roger. (?) ["Quantile Regression in R: A Vignette"](https://cran.r-project.org/web/packages/quantreg/vignettes/rq.pdf).
+Koenker, Roger. (?) ["Quantile Regression in R: A Vignette"](https://cran.r-project.org/package=quantreg/vignettes/rq.pdf).
 
 
 

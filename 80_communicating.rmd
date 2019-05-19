@@ -32,7 +32,7 @@ https://twitter.com/AllieSherier/status/1098988779833040903
 
 **package**
 
-CRAN page: [kableExtra: Construct Complex Table with 'kable' and Pipe Syntax](https://cran.r-project.org/web/packages/kableExtra/index.html)
+CRAN page: [kableExtra: Construct Complex Table with 'kable' and Pipe Syntax](https://cran.r-project.org/package=kableExtra)
 
 github page: [Construct Complex Table with knitr::kable() + pipe](https://github.com/haozhu233/kableExtra)
 

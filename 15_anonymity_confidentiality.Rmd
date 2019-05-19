@@ -188,7 +188,7 @@ John Mount (1012) ["Modeling Trick: Masked Variables"](http://www.win-vector.com
 
 **package**
 
-CRAN page: [sdcMicro: Statistical Disclosure Control Methods for Anonymization of Microdata and Risk Estimation](https://cran.r-project.org/web/packages/sdcMicro/index.html)
+CRAN page: [sdcMicro: Statistical Disclosure Control Methods for Anonymization of Microdata and Risk Estimation](https://cran.r-project.org/package=sdcMicro)
 
 github page: [sdcMicro](https://github.com/sdcTools) (note: this is a sub-page for for a broader set of SDC tools)
 
@@ -199,7 +199,7 @@ github page: [sdcMicro](https://github.com/sdcTools) (note: this is a sub-page f
 
 Matthias Templ, ["Statistical Disclosure Control for Microdata Using the R-Package sdcMicro"](http://www.tdp.cat/issues/tdp.a004a08.pdf), _Transactions on Data Privacy_ 1 (2008) 67–85.
 
-Matthias Templ, Bernhard Meindl and Alexander Kowarik, [Introduction to Statistical Disclosure Control (SDC)](https://cran.r-project.org/web/packages/sdcMicro/vignettes/sdc_guidelines.pdf), 2015/2017
+Matthias Templ, Bernhard Meindl and Alexander Kowarik, [Introduction to Statistical Disclosure Control (SDC)](https://cran.r-project.org/package=sdcMicro/vignettes/sdc_guidelines.pdf), 2015/2017
 
 Matthias Templ, Alexander Kowarik, Bernhard Meindl (2015) ["Statistical Disclosure Control for Micro-Data Using the R Package sdcMicro"](https://www.jstatsoft.org/article/view/v067i04), _Journal of Statistical Software_, Vol.67 No.4 
 
@@ -213,26 +213,26 @@ Daniel Abril, Guillermo Navarro-Arribas and Vicenç Torra (2015) ["Data Privacy 
 
 **package**
 
-CRAN page: [sdcMicroGUI: Graphical User Interface for Package 'sdcMicro'](https://cran.r-project.org/web/packages/sdcMicroGUI/index.html)
+CRAN page: [sdcMicroGUI: Graphical User Interface for Package 'sdcMicro'](https://cran.r-project.org/package=sdcMicroGUI)
 
 **articles**
 
-Matthias Templ, Bernhard Meindl and Alexander Kowarik, [Tutorial for sdcMicroGUI (and sdcMicro)](https://cran.r-project.org/web/packages/sdcMicroGUI/vignettes/gui_tutorial.pdf), 2015
+Matthias Templ, Bernhard Meindl and Alexander Kowarik, [Tutorial for sdcMicroGUI (and sdcMicro)](https://cran.r-project.org/package=sdcMicroGUI/vignettes/gui_tutorial.pdf), 2015
 
 
 
 ### **sdcTable**
 
-CRAN page: [sdcTable: Methods for Statistical Disclosure Control in Tabular Data](https://cran.r-project.org/web/packages/sdcTable/index.html)
+CRAN page: [sdcTable: Methods for Statistical Disclosure Control in Tabular Data](https://cran.r-project.org/package=sdcTable)
 
 
 ### **easySdcTable**
 
 ** package**
 
-CRAN page: [easySdcTable: Easy Interface to the Statistical Disclosure Control Package 'sdcTable'](https://cran.r-project.org/web/packages/easySdcTable/)
+CRAN page: [easySdcTable: Easy Interface to the Statistical Disclosure Control Package 'sdcTable'](https://cran.r-project.org/package=easySdcTable/)
 
-vignette: [`easySdcTable` Vignette](https://cran.r-project.org/web/packages/easySdcTable/vignettes/easySdcTableVignette.html)
+vignette: [`easySdcTable` Vignette](https://cran.r-project.org/package=easySdcTable/vignettes/easySdcTableVignette.html)
 
 
 
@@ -240,7 +240,7 @@ vignette: [`easySdcTable` Vignette](https://cran.r-project.org/web/packages/easy
 
 **package**
 
-CRAN page: [digest: Create Compact Hash Digests of R Objects](https://cran.r-project.org/web/packages/digest/index.html)
+CRAN page: [digest: Create Compact Hash Digests of R Objects](https://cran.r-project.org/package=digest)
 
 **articles**
 

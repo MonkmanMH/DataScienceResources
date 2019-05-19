@@ -52,7 +52,7 @@ Jason Brownlee, 2016-02-23, [Your First Machine Learning Project in R Step-By-St
 
 **package**
 
-CRAN page: [h2o: R Interface for H2O](https://cran.r-project.org/web/packages/h2o/index.html)
+CRAN page: [h2o: R Interface for H2O](https://cran.r-project.org/package=h2o)
 
 **articles**
 

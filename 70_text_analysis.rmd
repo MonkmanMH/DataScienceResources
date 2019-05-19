@@ -52,7 +52,7 @@ Julia Silge (2016) ["You Must Allow Me To Tell You How Ardently I Admire and Lov
 
 **package**
 
-CRAN page: [monkeylearn: Accesses the Monkeylearn API for Text Classifiers and Extractors](https://cran.r-project.org/web/packages/monkeylearn/index.html)
+CRAN page: [monkeylearn: Accesses the Monkeylearn API for Text Classifiers and Extractors](https://cran.r-project.org/package=monkeylearn)
 
 github page: [monkeylearn: R package for text analysis with Monkeylearn](https://github.com/ropensci/monkeylearn)
 
@@ -67,19 +67,19 @@ github page: [monkeylearn: R package for text analysis with Monkeylearn](https:/
 
 **package**
 
-CRAN page: [quanteda: Quantitative Analysis of Textual Data](https://cran.r-project.org/web/packages/quanteda/index.html)
+CRAN page: [quanteda: Quantitative Analysis of Textual Data](https://cran.r-project.org/package=quanteda)
 
 
 **articles**
 
-["Getting Started with `quanteda`"](https://cran.r-project.org/web/packages/quanteda/vignettes/quickstart.html) (package vignette)
+["Getting Started with `quanteda`"](https://cran.r-project.org/package=quanteda/vignettes/quickstart.html) (package vignette)
 
 
 #### `tidytext`
 
 **package**
 
-CRAN page: [tidytext: Text Mining using 'dplyr', 'ggplot2', and Other Tidy Tools](https://cran.r-project.org/web/packages/tidytext/)
+CRAN page: [tidytext: Text Mining using 'dplyr', 'ggplot2', and Other Tidy Tools](https://cran.r-project.org/package=tidytext/)
 
 github repo: [tidytext on github](https://github.com/juliasilge/tidytext)
 
@@ -89,19 +89,19 @@ Julia Silge, ["Term Frequency and tf-idf Using Tidy Data Principles"](http://jul
 
 []()
 
-Julia Silge and David Robinson (2016-10-27) ["Introduction to `tidytext`"](https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html) (package vignette)
+Julia Silge and David Robinson (2016-10-27) ["Introduction to `tidytext`"](https://cran.r-project.org/package=tidytext/vignettes/tidytext.html) (package vignette)
 
 
 #### `tm`
 
 **package**
 
-CRAN page: [tm: Text Mining Package](https://cran.r-project.org/web/packages/tm/index.html)
+CRAN page: [tm: Text Mining Package](https://cran.r-project.org/package=tm)
 
 
 **articles**
 
-Inigo Feinerer (2015) ["Introduction to the `tm` Package: Text Mining in R"](https://cran.r-project.org/web/packages/tm/vignettes/tm.pdf) (package vignette)
+Inigo Feinerer (2015) ["Introduction to the `tm` Package: Text Mining in R"](https://cran.r-project.org/package=tm/vignettes/tm.pdf) (package vignette)
 
 Ingo Feinerer, Kurt Hornik, David Meyer (2007) ["Text Mining Infrastructure in R"](https://www.jstatsoft.org/article/view/v025i05), _Journal of Statistical Software_, 25 (5).
 

@@ -66,7 +66,7 @@ Working with factors
 
 [reference page](https://purrr.tidyverse.org/)
 
-CRAN: [purrr: Functional Programming Tools](https://cran.r-project.org/web/packages/purrr/index.html)
+CRAN: [purrr: Functional Programming Tools](https://cran.r-project.org/package=purrr)
 
 
 **tutorials**
