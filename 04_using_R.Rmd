@@ -9,6 +9,12 @@ In addition to there being many resources available for using R to solve statist
 This chapter compiles what I consider to be the essential texts; articles and blog posts will be at a minimum.
 
 
+## General & all-encompassing resources
+
+David Smale, [Free R Reading Material](https://committedtotape.shinyapps.io/freeR/),  A Shiny app collection "of books about the R programming language and Data Science, that you can read for free!"
+
+
+
 ## R as a programming environment
 
 Colin Gillespie and Robin Lovelace, _Efficient R Programming_ [@Gillespie_Lovelace_2017]
