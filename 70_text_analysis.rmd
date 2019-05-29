@@ -48,7 +48,7 @@ Julia Silge (2016) ["You Must Allow Me To Tell You How Ardently I Admire and Lov
 - "This CRAN task view collects relevant R packages that support computational linguists in conducting analysis of speech and language on a variety of levels - setting focus on words, syntax, semantics, and pragmatics."
 
 
-#### `monkeylearn`
+#### {monkeylearn}
 
 **package**
 
@@ -60,7 +60,7 @@ github page: [monkeylearn: R package for text analysis with Monkeylearn](https:/
 
 
 
-#### `quanteda`
+#### {quanteda}
 
 [quanteda.io](http://quanteda.io/)
 
@@ -75,7 +75,7 @@ CRAN page: [quanteda: Quantitative Analysis of Textual Data](https://cran.r-proj
 ["Getting Started with `quanteda`"](https://cran.r-project.org/package=quanteda/vignettes/quickstart.html) (package vignette)
 
 
-#### `tidytext`
+#### {tidytext}
 
 **package**
 
@@ -92,7 +92,7 @@ Julia Silge, ["Term Frequency and tf-idf Using Tidy Data Principles"](http://jul
 Julia Silge and David Robinson (2016-10-27) ["Introduction to `tidytext`"](https://cran.r-project.org/package=tidytext/vignettes/tidytext.html) (package vignette)
 
 
-#### `tm`
+#### {tm}
 
 **package**
 

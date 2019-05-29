@@ -83,6 +83,15 @@ A.K.A. bar and line graphs. Don't use them!
 
 
 
+## Genealogical data
+
+Package: {ggeneology}
+
+* Lindsay Rutter, Susan VanderPlas, Dianne Cook, Michelle A. Graham (2019) ["ggenealogy: An R Package for Visualizing Genealogical Data"](https://www.jstatsoft.org/article/view/v089i13), _Journal of Statistical Software_, Vol 89 (13)
+
+* CRAN page: [ggenealogy: Visualization Tools for Genealogical Data](https://cran.r-project.org/package=ggenealogy)
+
+
 ## Heatmaps
 
 
@@ -115,11 +124,11 @@ Tim RiffeEmail author, Jonas Schöley and Francisco Villavicencio (2017) ["A uni
 
 ## Network graphs
 
-[DiagramR: Graph and network visualization using tabular data in R](DiagrammeR: Graph/Network Visualization)
+{DiagramR}: Graph and network visualization using tabular data in R
 
 * [github repo](https://github.com/rich-iannone/DiagrammeR)
 
-* [DiagrammeRsvg: Export DiagrammeR Graphviz Graphs as SVG](https://cran.r-project.org/package=DiagrammeRsvg)
+* CRAN page: [DiagrammeRsvg: Export DiagrammeR Graphviz Graphs as SVG](https://cran.r-project.org/package=DiagrammeRsvg)
 
 
 [ggnet2: network visualization with ggplot2](https://briatte.github.io/ggnet/) -- part of the [`GGally`](https://www.rdocumentation.org/packages/GGally/versions/1.3.2) package

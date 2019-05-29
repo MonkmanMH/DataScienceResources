@@ -78,6 +78,10 @@ Matthias Forkel (2015) [Analysis of spatial data in R](ftp://ftp.bgc-jena.mpg.de
 
 Tomislav Hengl, [_A Practical Guide to Geostatistical Mapping_](http://spatial-analyst.net/book/) {PDF ebook available via Lulu}
 
+Jacinta Holloway, [raster2data](https://github.com/thejholloway/raster2data)
+
+* "This repository provides some introductory guidance for working with spatial image files, like rasters, and converting these to dataframes in R in order to perform statistical analyses. Includes an example satellite image and R code."
+
 Robin Lovelace (2014) ["R, an Integrated Statistical Programming Environment and GIS"](http://robinlovelace.net/r/2014/11/28/r-as-a-gis-geoinformatics.html) {blog post}
 
 Robin Lovelace, James Cheshire and others, 2015-, [_Introduction to visualising spatial data in R_](https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf) {or up-to-date version on github, [Robinlovelace/Creating-maps-in-R](https://github.com/Robinlovelace/Creating-maps-in-R) {tutorial}
@@ -119,12 +123,12 @@ Sharp Sight Labs, [Simple practice: basic maps with the Tidyverse](http://sharps
 
 ## R Packages
 
-### **cartography*`**
+### {cartography}
 
 github page: [cartography](https://github.com/riatelab/cartography)
 
 
-### **choroplethr**
+### {choroplethr}
 
 **package**
 
@@ -144,7 +148,7 @@ CRAN page: [choroplethr: Simplify the Creation of Choropleth Maps in R](https://
 
 
 
-### **ggmap*`**
+### {ggmap}
 
 **package**
 
@@ -165,7 +169,7 @@ CRAN page: [ggmap: Spatial Visualization with ggplot2]
 
 
 
-### **ggspatial**
+### {ggspatial}
 
 **package**
 
@@ -175,7 +179,7 @@ CRAN page: [ggspatial: Spatial Data Framework for ggplot2]
 gihub page: [A ggplot2 R extension for plotting Spatial objects](https://github.com/paleolimbot/ggspatial)
 
 
-### **GISTools**
+### {GISTools}
 
 **package**
 
@@ -184,7 +188,8 @@ CRAN page: [GISTools: Some further GIS capabilities for R]
 
 **articles**
 
-### **idbr**
+
+### {idbr}
 
 **package**
 
@@ -197,7 +202,7 @@ github page: [idbr](https://github.com/walkerke/idbr)
 Kyle Walker, [Visualizing international demographic indicators with idbr and Plotly](http://walkerke.github.io/2016/01/idbr/)
 
 
-### **leaflet**
+### {leaflet}
 
 **package**
 
@@ -218,7 +223,7 @@ Kyle Walker (2016) ["Using a new Mapbox Studio map in an R Leaflet project"](htt
 [Leaflet: an open-source JavaScript library for mobile-friendly interactive maps](http://leafletjs.com/)
 
 
-### **sf**
+### {sf}
 
 **package**
 
@@ -227,7 +232,7 @@ CRAN: [sf: Simple Features for R](https://cran.r-project.org/package=sf)
 
 
 
-### **sp**
+### {sp}
 
 **package**
 
@@ -241,7 +246,7 @@ vignettes: Edzer Pebesma and Roger S. Bivand (2005): [Classes and Methods for Sp
 Edzer Pebesma (2008) [Introduction to R and package sp](http://pebesma.staff.ifgi.de/Aufbaukurs/R/slides_R.pdf)
 
 
-### **tmap**
+### {tmap}
 
 **package**
 
@@ -258,7 +263,7 @@ Corentin M. Barbu, 2015-11-06, ["tmap R package"](http://spatcontrol.net/Spatial
 
 
 
-### **urbnmapr**
+### {urbnmapr}
 
 **articles**
 
