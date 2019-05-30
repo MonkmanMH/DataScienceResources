@@ -39,6 +39,17 @@ Yihui Xie, [bookdown: Authoring Books and Technical Documents with R Markdown](h
 
 
 
+### {posterdown}
+
+For academic conference-style posters.
+
+[github page](https://github.com/brentthorne/posterdown/blob/master/README.md)
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">My hyper-minimalist attempt at a “1-minute research poster.” (Main finding can be read in ~10 seconds, more detail in sidebar can be read in ~45seconds). <a href="https://twitter.com/hashtag/posterposter?src=hash&amp;ref_src=twsrc%5Etfw">#posterposter</a> (1/2) <a href="https://t.co/VcCcZwK9Xd">pic.twitter.com/VcCcZwK9Xd</a></p>&mdash; Mike Morrison (@mikemorrison) <a href="https://twitter.com/mikemorrison/status/1132687984938106882?ref_src=twsrc%5Etfw">May 26, 2019</a></blockquote>
+
+
+
 ### {redoc}
 
 [redoc - Reversible Reproducible Documents](https://noamross.github.io/redoc/)
