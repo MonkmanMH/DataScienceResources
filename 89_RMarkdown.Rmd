@@ -66,9 +66,17 @@ GitHub: [noamross/redoc](https://github.com/noamross/redoc)
 
 Colin Fay, 2019-04-29, [Building a Shiny App as a Package](https://www.r-bloggers.com/building-a-shiny-app-as-a-package/) (via [R-bloggers.com](https://www.r-bloggers.com/))
 
+
+### shinyapps.io
+
+RStudio's cloud hosting of your shiny apps
+
+*[shinyapps.io user guide](https://docs.rstudio.com/shinyapps.io/index.html)
+
+
 ***
 
-### Other reference materials
+## Other reference materials
 
 Dean Attalli (2015-03-24) [Knitr's best hidden gem: spin](http://deanattali.com/2015/03/24/knitrs-best-hidden-gem-spin/)
 
