@@ -130,6 +130,7 @@ Medium's [Data Visualization Society](https://medium.com/data-visualization-soci
 
 * Gina Reynolds, 2019-01-31, [the ggplot flipbook](https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html#1)
 
+* Will Chase, 2019-05-29, [R you ready to make charts?](https://www.williamrchase.com/slides/ggplot_intro.html#64), Philly dataviz meetup
 
 
 ### extensions
