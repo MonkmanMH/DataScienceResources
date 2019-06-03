@@ -24,6 +24,9 @@ David Robinson (2018-01-09) ["What's the difference between data science, machin
 Mango Solutions (2018-08-15) ["Demystifying Data Science Terminology"](https://www.mango-solutions.com/blog/demystifying-data-science-terminology)
 
 
+Martin Monkman (2019-06-02) ["Same name, different bird"](https://bayesball.blogspot.com/2019/06/same-name-different-bird.html) at [bayesball.blogspot.com](bayesball.blogspot.com)
+
+
 ## Philosophy
 
 Angela Bassa (2017) [Data Alone Isn’t Ground Truth … and why you should always carry a healthy dose of skepticism in your back pocket](https://medium.com/@angebassa/data-alone-isnt-ground-truth-9e733079dfd4)
@@ -105,7 +108,7 @@ Of course, how you set out to learn data science hinges on how you define data s
 
 ### Data science leadership
 
-Thomas H. Davenport and Jeanne G. Harris, [_Competing on Analytics: The New Science of Winning_], Harvard Business School Press, January 2007. [@Davenport_Harris_2007]
+Thomas H. Davenport and Jeanne G. Harris, _Competing on Analytics: The New Science of Winning_, Harvard Business School Press, January 2007. [@Davenport_Harris_2007]
 
 
 * Thomas H. Davenport, ["Competing on Analytics"](https://hbr.org/2006/01/competing-on-analytics), _Harvard Business Review_, January 2006.
