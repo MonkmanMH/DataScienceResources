@@ -123,6 +123,10 @@ Armando B. Mendes, ["Dominance Analysis"](http://sk.sagepub.com/books/the-sage-d
 
 [Dominance Analysis: Overview](https://rmc.ehe.osu.edu/files/2018/08/DominanceAnalysisFeb2018.pdf), Research Methodology Center, 2018.
 
+S. Yasaman Amirkiae (2016) [Dominance Analysis: A Necessity of Paying Attention to Relative Importance of Predictors in Decision Making Issues](http://www.swdsi.org/proceedings/2016/Papers/Papers/PA027.pdf)
+
+Paywalled articles:
+
 * Budescu, D. V. (1993). Dominance analysis: A new approach to the problem of relative importance of predictors in multiple regression. Psychological Bulletin, 114(3), 542-551. https://doi.org/10.1037/0033-2909.114.3.542
 
 * Azen, R., & Budescu, D. V. (2003). The dominance analysis approach for comparing predictors in multiple regression. Psychological Methods, 8(2), 129-148. https://doi.org/10.1037/1082-989X.8.2.129
@@ -133,7 +137,6 @@ Armando B. Mendes, ["Dominance Analysis"](http://sk.sagepub.com/books/the-sage-d
 
 * Luo, W., & Azen, R. (2013). Determining Predictor Importance in Hierarchical Linear Models Using Dominance Analysis. Journal of Educational and Behavioral Statistics, 38(1), 3-31. https://doi.org/10.3102/1076998612458319
 
-* S. Yasaman Amirkiae (2016) [Dominance Analysis: A Necessity of Paying Attention to Relative Importance of Predictors in Decision Making Issues](http://www.swdsi.org/proceedings/2016/Papers/Papers/PA027.pdf)
 
 
 ### R
