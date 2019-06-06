@@ -4,12 +4,36 @@
 # Introduction {#quantitativemethods1}
 
 
+## Statistics and other quantitative methods: courses and text books
 
-## Business analytics 
+### Statistics in R
 
-* a catch-all for the quantification, analysis, and modeling of organization performance
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">R advice needed - I am (thinking of) switching my undergrad &#39;metrics class from Stata to R.  2 questions: 1 - what exactly do my students (and I!) need to download to use R  2 - what introductory tutorial is most helpful for students (and me)</p>&mdash; Amanda Agan (/@/amandayagan) <a href="https://twitter.com/amandayagan/status/1078392069503229958?ref_src=twsrc%5Etfw">December 27, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+Andrew Bruce and Peter Bruce, [Practical Statistics for Data Scientists](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/)
+
+
+Christoph Hanck, Martin Arnold, Alexander Gerber and Martin Schmelzer, [Introduction to Econometrics with R](https://www.econometrics-with-r.org/index.html)
+
+Chester Ismay and Albert Y. Kim, [An Introduction to Statistical and Data Sciences via R](https://moderndive.com/index.html)
+
+Danielle Navarro, [Learning Statistics with R](https://learningstatisticswithr.com/)
+
+Danielle Navarro, [Learning Statistics with R: A tutorial for psychology students and other beginners](https://open.umn.edu/opentextbooks/textbooks/learning-statistics-with-r-a-tutorial-for-psychology-students-and-other-beginners)
+
+
+### Statistics: general and other tools
+
+Minitab Express Support, [Help and How-To](https://support.minitab.com/en-us/minitab-express/1/help-and-how-to/help-and-how-to/)
+
+* essentially an introduction to descriptive and inferential statistics
+
+
+
+
+***
 
 ## Distributions
 
