@@ -1,0 +1,635 @@
+# Specific techniques {#quantitativemethods2}
+
+
+## Activity-Based Costing (ABC)
+
+Usually seen in the context of management accounting, ABC is a method that measures the cost and volume of inputs required to produce a fixed amount of output.
+
+* [Wikipedia page](https://en.wikipedia.org/wiki/Activity-based_costing)
+
+### Theory and methods
+
+[Activity-Based Costing](https://www.inc.com/encyclopedia/activity-based-costing.html), at Inc.com
+
+Robert S. Kaplan and Steven R. Anderson, Time-Driven Activity-Based Costing (November 2003). Available at SSRN: https://ssrn.com/abstract=485443 or http://dx.doi.org/10.2139/ssrn.485443
+
+* https://hbr.org/2004/11/time-driven-activity-based-costing
+
+Robert S. Kaplan and Steven R. Anderson, [Rethinking Activity-Based Costing](https://hbswk.hbs.edu/item/rethinking-activity-based-costing), 2005-01-24
+
+
+Fariborz Y.Partovi, [An analytic hierarchy approach to activity-based costing](https://www.sciencedirect.com/science/article/pii/092552739190007G), _International Journal of Production Economics_, 1991, 151-161
+
+### R
+
+Ryan K McBain, et al., ["Activity-based costing of health-care delivery, Haiti"](https://www.who.int/bulletin/volumes/96/1/17-198663/en/), _Bulletin of the World Health Organization_, 2018; 96:10-17.
+
+* [Shiny app](https://htdata.pih-emr.org/dhis/shiny/)
+
+
+
+***
+
+## Ecological inference
+
+Ecological inference is a method for inferring individual behavior from group-level data.
+
+
+### Theory and methods
+
+Gary King, [Ecological Inference](https://gking.harvard.edu/category/research-interests/methods/ecological-inference) -- topic page by a leader in the field, with links to assorted research and methodology papers.
+
+* Gary King, 1997, [_A Solution to the Ecological Inference Problem: Reconstructing Individual Behavior from Aggregate Data _](https://gking.harvard.edu/files/gking/files/part1.pdf); part 1 {PDF}
+
+Michael Stoto ["Ecological Inference in Public Health"](https://www.researchgate.net/publication/25121603_Gary_King's_A_Solution_to_the_Ecological_Inference_Problem), book review of King, _Ecological Inference_
+
+
+### R
+
+Arranged by package
+
+#### {ei}
+
+**package**
+
+CRAN page: [ei: Ecological Inference](https://cran.r-project.org/package=ei)
+
+**articles**
+
+Gary King and Margaret Roberts, [EI: A(n R) Program for Ecological Inference](https://gking.harvard.edu/eiR) -- website with assorted resources
+
+
+***
+
+## Forecasting
+
+Forecasting methods extrapolate past trends. There is a wealth of material supporting the theory and methods around this, much of it coming from econometrics.
+
+* See also [Time series analysis] and [Seasonal adjustment]
+
+
+### Theory and methods
+
+Kamala Kanta Mishra, [Selecting Forecasting Methods in Data Science](http://www.datasciencecentral.com/profiles/blogs/selecting-forecasting-methods-in-data-science) (2017-02-13)
+
+
+### R
+
+Kostiantyn Kravchuk, ["Forecasting: Time Series Exploration Exercises (Part-1)"](https://www.r-bloggers.com/forecasting-time-series-exploration-exercises-part-1/) (2017-04-10)
+
+
+#### {fable}
+
+"...provides methods and tools for displaying and analysing univariate time series forecasts including exponential smoothing via state space models and automatic ARIMA modelling. Data, model and forecast objects are all stored in a tidy format."
+
+**package**
+
+documentation: [`fable`](https://fable.tidyverts.org/)
+
+
+#### {prophet}
+
+**package**
+
+CRAN page: [prophet: Automatic Forecasting Procedure](https://cran.r-project.org/package=prophet)
+
+documentation: [Prophet: forecasting at scale](https://facebookincubator.github.io/prophet/) 
+
+**articles**
+
+["Prophet: How Facebook operationalizes time series forecasting at scale"](http://blog.revolutionanalytics.com/2017/02/facebook-prophet.html) at Revolutions Analytics (2017-02-24)
+
+
+
+
+***
+
+## Gini coefficient
+
+From the wikipedia entry:
+
+>The Gini coefficient (also known as the Gini index or Gini ratio) is a measure of statistical dispersion intended to represent the income distribution of a nation's residents, and is the most commonly used measure of inequality. It was developed by the Italian statistician and sociologist Corrado Gini and published in his 1912 paper "Variability and Mutability" (Italian: Variabilità e mutabilità).
+>
+>The Gini coefficient measures the inequality among values of a frequency distribution (for example, levels of income). A Gini coefficient of zero expresses perfect equality, where all values are the same (for example, where everyone has the same income). A Gini coefficient of 1 (or 100%) expresses maximal inequality among values (e.g., for a large number of people, where only one person has all the income or consumption, and all others have none, the Gini coefficient will be very nearly one).
+
+[Gini coefficient: wikipedia entry](https://en.wikipedia.org/wiki/Gini_coefficient), 2016-05-07
+
+#### Further reading
+
+Lamb, Evelyn (2012-11-12) ["Ask Gini: How to Measure Inequality"](http://www.scientificamerican.com/article/ask-gini/), Scientific American ["The Sciences"](http://www.scientificamerican.com/the-sciences/).
+
+World Bank (date unknown) ["Measuring Inequality"](http://go.worldbank.org/W2TRRD1PP0)
+
+### R
+
+#### {ineq}
+
+**package**
+
+CRAN: [ineq: Measuring Inequality, Concentration, and Poverty](https://cran.r-project.org/web/packages/ineq/index.html)
+
+
+***
+
+## Imputation of missing data (or missing values)
+
+Missing data can pose a challenge for a data analysis, and can limit or compromise the models and conclusions that can be drawn.
+
+One method of dealing with missing data is through imputation.
+
+
+### Theory and methods
+
+[Missing data](https://en.wikipedia.org/wiki/Missing_data) -- wikipedia
+
+Allison, P. (2000). [Multiple Imputation for Missing Data: A Cautionary Tale](http://journals.sagepub.com/doi/abs/10.1177/0049124100028003003), _Sociological Methods and Research_, 28, 301-309. ([Preprint]((http://www.ssc.upenn.edu/~allison/MultInt99.pdf)))
+
+Fichman, Mark and Jonathon N. Cummings (2003) ["Multiple Imputation for Missing Data: Making the most of What you Know"](http://journals.sagepub.com/doi/abs/10.1177/1094428103255532), _Organizational Research Methods_, Volume: 6 issue: 3, page(s): 282-308.
+
+Gelman, Andrew and Jennifer Hill (2006) _Data Analysis Using Regression and Multilevel/Hierarchical Models_, Cambridge University Press.
+ * ["Chapter 25: Missing Data Imputation"](http://www.stat.columbia.edu/~gelman/arm/missing.pdf)
+
+Gelman, Andrew, et al. (2014) _Bayesian Data Analysis_, (3rd edition). (see chapter 18, "Models for missing data", pp.449-467)
+
+Karen Grace-Martin (2016?) ["Two Recommended Solutions for Missing Data: Multiple Imputation and Maximum Likelihood"](http://www.theanalysisfactor.com/missing-data-two-recommended-solutions/)
+
+Karen Grace-Martin, ["Two Recommended Solutions for Missing Data: Multiple Imputation and Maximum Likelihood"](http://www.theanalysisfactor.com/missing-data-two-recommended-solutions/)
+
+Neil J Perkins, Stephan R Cole, et al. (2017) ["Principled Approaches to Missing Data in Epidemiologic Studies"](https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwx348/4642951#.WhPyM47tFQc.twitter), _American Journal of Epidemiology_
+
+
+Karen, The Analysis Factor, [Multiple Imputation of Categorical Variables](https://www.theanalysisfactor.com/multiple-imputation-of-categorical-variables/)
+
+Jeff Meyer, The Analysis Factor, [Multiple Imputation for Missing Data: Indicator Variables versus Categorical Variables](https://www.theanalysisfactor.com/multiple-imputation-for-missing-data-indicator-variables-versus-categorical-variable/)
+
+
+### R
+
+Robert I. Kabacoff, (2011) [_R in Action: Data analysis and graphics with R_], Manning. (see chapter 15, "Advanced methods for missing data", pp.352-372)
+
+Joseph Rickert, ["Missing Values, Data Science and R"](https://rviews.rstudio.com/2016/11/30/missing-values-data-science-and-r/), 2016-11-30
+
+Thomas Leeper, [Multiple imputation](http://thomasleeper.com/Rcourse/Tutorials/mi.html) {tutorial for `Amelia`, `mi`, and `mice`}
+
+
+["Tutorial on 5 Powerful R Packages used for imputing missing values"](https://www.analyticsvidhya.com/blog/2016/03/tutorial-powerful-packages-imputing-missing-values/) {`MICE`, `Amelia`, `missForest`, `Hmisc`, `mi`}
+
+
+
+#### {Amelia}
+
+**package**
+
+CRAN page: [Amelia: A Program for Missing Data](https://cran.r-project.org/package=Amelia)
+
+vignette: [Amelia II: A Package for Missing Data](https://cran.r-project.org/package=Amelia/vignettes/amelia.pdf) {PDF version}
+
+description: [Amelia II: A Program for Missing Data](http://gking.harvard.edu/amelia)
+
+github page for [Amelia II](https://github.com/IQSS/Amelia)
+
+
+#### {BaBooN}
+
+CRAN page: [BaBooN: Bayesian Bootstrap Predictive Mean Matching - Multiple and Single Imputation for Discrete Data](https://cran.r-project.org/package=BaBooN)
+
+
+
+#### {Hmisc}
+
+**package**
+
+CRAN page: [Hmisc: Harrell Miscellaneous](https://cran.r-project.org/package=Hmisc)
+
+
+
+#### {mi}
+
+**package**
+
+CRAN page: [mi: Missing Data Imputation and Model Checking](https://cran.r-project.org/package=mi)
+
+**articles**
+
+Su, Gelman, Hill and Yajima (2011) [Multiple Imputation with Diagnostics (mi) in R: Opening Windows into the Black Box](http://www.stat.columbia.edu/~gelman/research/published/mipaper.pdf), _Journal of Statistical Software_, vol. 45.
+
+Ben Goodrich and Jonathan Kropko, 2014-06-16, ["An Example of mi Usage"](https://cran.r-project.org/package=mi/vignettes/mi_vignette.pdf)
+
+
+#### {mice}
+
+**package**
+
+CRAN page: [mice: Multivariate Imputation by Chained Equations](https://cran.r-project.org/package=mice)
+
+**see also**
+
+package `miceadds` on CRAN: [miceadds: Some Additional Multiple Imputation Functions, Especially for 'mice'](https://cran.r-project.org/package=miceadds)
+
+
+**articles**
+
+Stef van Buuren & Karin Groothuis-Oudshoorn, 2011-12-12, ["mice: Multivariate Imputation by Chained Equations in R"](https://www.jstatsoft.org/article/view/v045i03), _Journal of Statistical Software_, Vol 45, Issue 3.
+
+Michy Alice, ["Imputing missing data with R; MICE package"](https://www.r-bloggers.com/imputing-missing-data-with-r-mice-package/)
+
+* [original source](https://datascienceplus.com/imputing-missing-data-with-r-mice-package/)
+
+datascience+, 2015-10-04 and updated 2017-04-28, [Imputing Missing Data with R; MICE package](https://datascienceplus.com/imputing-missing-data-with-r-mice-package/)
+
+#### {missMDA}
+
+**package**
+
+CRAN page: [missMDA: Handling Missing Values with Multivariate Data Analysis](https://cran.r-project.org/package=missMDA)
+
+**articles**
+
+francoishusson, 2017-08-15, [Multiple imputation for continuous and categorical data](https://www.r-bloggers.com/multiple-imputation-for-continuous-and-categorical-data/)
+
+
+
+#### {missForest}
+
+**package**
+
+CRAN page: [missForest: Nonparametric Missing Value Imputation using Random Forest](https://cran.r-project.org/package=missForest)
+
+
+#### {NPBayesImpute}
+
+CRAN page: [NPBayesImpute: Non-Parametric Bayesian Multiple Imputation for Categorical Data](https://cran.r-project.org/package=NPBayesImpute)
+
+
+#### {VIM}
+
+**package**
+
+CRAN page: [VIM: Visualization and Imputation of Missing Values](https://cran.r-project.org/package=VIM)
+
+**articles**
+
+Alexander Kowarik, Matthias Templ (2016) ["Imputation with the R Package VIM"](https://www.jstatsoft.org/article/view/v074i07), _Journal of Statistical Software_, vol. 74.
+
+
+
+https://www.jstatsoft.org/article/view/v074i07
+
+
+
+***
+
+## Moving Window (for raster data)
+
+### {grainchanger}
+
+"The grainchanger package provides functionality for data aggregation to a grid via moving-window or direct methods."
+
+- [reference site](https://laurajanegraham.github.io/grainchanger/)
+
+- github: [grainchanger: Data aggregation methods for raster data](https://github.com/laurajanegraham/grainchanger)
+
+
+
+***
+
+## Multivariate Analysis
+
+(_Not to be confused with multi_variable_ analysis)
+
+
+### {explor} 
+
+[GitHub page](https://juba.github.io/explor/) -- "an R package to allow interactive exploration of multivariate analysis results."
+
+* Covers Principal Component Analysis, Correspondence Analysis, Multiple Correspondence Analysis, among other methods.
+
+
+
+***
+
+## Principal Component Analysis (PCA)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">New Video!<br>PCA (Principal Component Analysis), enjoy and share if you like it!<a href="https://t.co/9jvOIE4xAh">https://t.co/9jvOIE4xAh</a></p>&mdash; Luis G. Serrano (/@/luis_likes_math) <a href="https://twitter.com/luis_likes_math/status/1094479228035313664?ref_src=twsrc%5Etfw">February 10, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+***
+
+## Random walk
+
+From wikipedia entry on [random walk](https://en.wikipedia.org/wiki/Random_walk):
+
+> A random walk is a mathematical object, known as a stochastic or random process, that describes a path that consists of a succession of random steps on some mathematical space such as the integers.
+
+
+### Theory and methods
+
+Karl Pearson (1905). ["The Problem of the Random Walk"](http://www.nature.com/nature/journal/v72/n1865/pdf/072294b0.pdf?foxtrotcallback=true). _Nature_. 72 (1865): 294.
+
+> ** The Problem of the Random Walk **
+
+> Can any of your readers refer me to a work wherein I should find a solution of the following problem, or failing the knowledge of any existing solution provide me with an original one? I should be extremely grateful for aid in the matter.
+
+> A man starts from a point O and walks _l_ yards in a straight line; he then turns at any angle whatever and walks another _l_ yards in a second straight line. he repeats this process _n_ times. I require the probability that after these _n_ stretches he is at a distance between _r_ and _r + delta-r_ from his starting point, O.
+
+> The problem is one of considerable interest, but I have only succeeded in obtaining an integrated solution for _two_ stretches. I think, however, that a solution ought to be found, if only in the form of a series in powers of 1/_n_, where _n_ is large.
+
+> Karl Pearson
+
+> The Gables, East Ilsley, Berks.
+
+
+### R
+
+Zhijun Yang, ["Brownian Motion Simulation Project in R"](https://www.stat.berkeley.edu/~aldous/Research/Ugrad/ZY1.pdf)
+
+
+***
+
+
+## Raking
+
+Also known as _iterative proportional fitting procedure_, or IPFP; uses include weighting survey responses to accurately match the population proportions)
+
+Includes post-stratification weights in surveying.
+
+
+### Theory and methods
+
+The primary method of raking is [iterative proportional fitting, or IPF](https://en.wikipedia.org/wiki/Iterative_proportional_fitting)
+
+[IPF resources](http://www.demog.berkeley.edu/~eddieh/datafitting.html)
+
+LCDR Lew Anderson and Dr. Ronald D. Fricker, Jr. ["Raking: An Important and Often Overlooked Survey Analysis Tool"](http://faculty.nps.edu/rdfricke/docs/RakingArticleV2.2.pdf) {PDF}
+
+Michael P. Battaglia, David Izrael, David C. Hoaglin, and Martin R. Frankel, ["Tips and Tricks for Raking Survey Data (a.k.a. Sample Balancing)"](http://www.amstat.org/sections/srms/Proceedings/y2004/files/Jsm2004-000074.pdf) {PDF}
+
+Andrew Gelman, [Tracking public opinion with biased polls](https://www.washingtonpost.com/news/monkey-cage/wp/2014/04/09/tracking-public-opinion-with-biased-polls/), _Washington Post_, 2014-04-09.
+
+Eddie Hunsinger, ["Iterative Proportional Fitting For A
+Two-Dimensional Table"](http://www.demog.berkeley.edu/~eddieh/IPFDescription/AKDOLWDIPFTWOD.pdf), May 2008
+
+Sven Kurras, ["Symmetric Iterative Proportional Fitting"](http://www.jmlr.org/proceedings/papers/v38/kurras15.pdf), Appearing in Proceedings of the 18th International Conference on Artificial Intelligence and Statistics (AISTATS) 2015, San Diego, CA, USA. JMLR: W&CP volume 38.
+
+Robin Lovelace, ["Population synthesis with R"](http://robinlovelace.net/spatial-microsim-book/smsim-in-R.html), from [_Spatial Microsimulation with R_](http://robinlovelace.net/spatial-microsim-book/)
+
+
+### R
+
+DIY Solution
+
+* Christopher Waldhauser (2014-04-13) [Survey: Computing Your Own Post-Stratification Weights in R](https://www.r-bloggers.com/survey-computing-your-own-post-stratification-weights-in-r/) (at R-Bloggers)
+
+#### {anesrake}
+
+**package**
+
+CRAN page: [anesrake: ANES Raking Implementation](https://cran.r-project.org/package=anesrake)
+
+**articles**
+
+Josh Pasek (2010-03-15) ["ANES Weighting Algorithm: A Description"](https://web.stanford.edu/group/iriss/cgi-bin/anesrake/resources/RakingDescription.pdf) {PDF}
+
+Josh Pasek, Matthew DeBell, Jon A. Krosnick (2014-07-26) ["Standardizing!and!Democratizing!Survey!Weights: The ANES Weighting System and anesrake"](http://surveyinsights.org/wp-content/uploads/2014/07/Full-anesrake-paper.pdf) {PDF}
+
+[Raking weights with R](http://sdaza.com/survey/2012/08/25/raking/)
+
+
+#### {ipfp}
+
+**package**
+
+CRAN page: [ipfp: Fast Implementation of the Iterative Proportional Fitting Procedure in C](https://cran.r-project.org/package=ipfp/)
+
+github page: [awblocker/ipfp](https://github.com/awblocker/ipfp)
+
+**articles**
+
+[Iterative proportional fitting in R (stackexchange)](http://stats.stackexchange.com/questions/59115/iterative-proportional-fitting-in-r)
+
+
+#### {survey}
+
+**package**
+
+CRAN page: [survey: analysis of complex survey samples](https://cran.r-project.org/package=survey)
+
+homepage: [Survey analysis in R](http://r-survey.r-forge.r-project.org/survey/)
+
+**articles**
+
+Lumley, Thomas (2010) _Complex Surveys: A Guide to Analysis Using R_, John Wiley & Sons, Inc.
+
+
+#### rake() function in {survey}
+
+**articles**
+
+[1/2 Social Science Goes R: Weighted Survey Data](http://tophcito.blogspot.ca/2014/04/social-science-goes-r-weighted-survey.html)
+
+[2/2 Survey: Computing Your Own Post-Stratification Weights in R](http://tophcito.blogspot.ca/2014/04/survey-computing-your-own-post.html)
+
+[rake {survey}: Raking of replicate weight design](http://faculty.washington.edu/tlumley/old-survey/html/rake.html)
+
+
+#### {weights}
+
+**package**
+
+CRAN page: [weights: Weighting and Weighted Statistics](https://cran.r-project.org/package=weights)
+
+
+
+***
+
+
+## Seasonal adjustment
+
+From the wikipedia entry:
+
+>Seasonal adjustment is a statistical method for removing the seasonal component of a time series that exhibits a seasonal pattern. It is usually done when wanting to analyse the trend of a time series independently of the seasonal components. It is normal to report seasonally adjusted data for unemployment rates to reveal the underlying trends in labor markets. Many economic phenomena have seasonal cycles, such as agricultural production and consumer consumption, e.g. greater consumption leading up to Christmas. It is necessary to adjust for this component in order to understand what underlying trends are in the economy and so official statistics are often adjusted to remove seasonal components.
+
+[Seasonal adjustment: wikipedia entry](https://en.wikipedia.org/wiki/Seasonal_adjustment), 2016-05-07
+
+
+* see also [Forecasting] and [Time series analysis]
+
+
+### Theory and methods
+
+Statistics Canada, ["Seasonal adjustment and trend-cycle estimation"](http://www.statcan.gc.ca/pub/12-539-x/2009001/seasonal-saisonnal-eng.htm)  (part of Statistics Canada [Quality Guidelines](http://www.statcan.gc.ca/pub/12-539-x/12-539-x2009001-eng.htm), Catalogue 12-539-X)
+
+U.S. Census Bureau, [The X-13ARIMA-SEATS Seasonal Adjustment Program](https://www.census.gov/srd/www/x13as/)
+
+
+### R
+
+#### {ggsdc}
+
+**package**
+
+CRAN page: [ggseas: 'stats' for Seasonal Adjustment on the Fly with 'ggplot2'](https://cran.r-project.org/package=ggseas)
+
+[Vignette](https://cran.r-project.org/package=ggseas/vignettes/ggsdc.html)
+
+
+#### {ggseas}
+
+**package**
+
+CRAN page: [ggseas: 'stats' for Seasonal Adjustment on the Fly with 'ggplot2'](https://cran.r-project.org/package=ggseas/)
+
+[Vignette](https://cran.r-project.org/package=ggseas/vignettes/ggsdc.html)
+
+**articles**
+
+Ellis, Peter. 2016-10-12. ["Update of `ggseas` for seasonal decomposition on the fly"](http://ellisp.github.io/blog/2016/10/12/ggsdc-rents), blog entry
+
+Ellis, Peter. 2016-03-28. ["Seasonal decomposition in the ggplot2 universe with ggseas"](http://ellisp.github.io/blog/2016/03/28/ggseas-update/), blog entry.
+
+Ellis, Peter. 2016-02-08. ["ggseas package for seasonal adjustment on the fly with ggplot2"](http://ellisp.github.io/blog/2016/02/08/ggseas/), blog entry.
+
+
+#### {seasonal}
+
+**[seasonal: R-interface to X-13ARIMA-SEATS](http://www.seasonal.website/seasonal.html)**
+
+Packages the U.S. Census Bureau's gold-standard X13-SEATS-ARIMA for use in R.
+
+"...the best interface on the planet to the X13-SEATS-ARIMA time series analysis application from the US Census Department, which is the industry standard particularly for official statistics agencies doing seasonal adjustment." (Peter Ellis, [vignette for `ggsdc`](https://cran.r-project.org/package=ggseas/vignettes/ggsdc.html.))
+
+**package**
+
+CRAN page: [seasonal: R Interface to X-13-ARIMA-SEATS'](https://cran.r-project.org/package=seasonal)
+
+github page: [christophsax/seasonal](https://github.com/christophsax/seasonal)
+
+
+#### {x13binary}
+
+(US Census Bureau X-13, packaged for easy loading. Loads as a dependency for most of the other seasonal adjustment packages.)
+
+**package**
+
+CRAN page: [x13binary: Provide the 'x13ashtml' Seasonal Adjustment Binary](https://cran.r-project.org/package=x13binary)
+
+
+
+***
+
+## Structural equation modeling (SEM)
+
+### R
+
+Arranged by package
+
+#### {lavaan}
+
+**package**
+
+CRAN page: [lavaan: Latent Variable Analysis](https://cran.r-project.org/package=lavaan)
+
+**articles**
+
+["The lavaan project"](http://lavaan.ugent.be/)
+
+Yves Rosseel, 2012-05-24, ["lavaan: An R Package for Structural Equation Modeling"](https://www.jstatsoft.org/article/view/v048i02), _Journal of Statistical Software_, Vol. 48, Issue 2.
+
+Grace Charles, 2015-05-20, [First Steps with Structural Equation Modeling](https://www.r-bloggers.com/first-steps-with-structural-equation-modeling/) -- blog post by Noam Ross, re: Charles' presention at Davis R Users' Group. 
+
+
+#### {sem}
+
+**package**
+
+CRAN page: [sem: Structural Equation Models](https://cran.r-project.org/package=sem/)
+
+**articles**
+
+Jeremy Albright, 2015-02-26, ["Structural Equation Models Using the SEM Package in R"](https://www.methodsconsultants.com/tutorial/structural-equation-models-using-the-sem-package-in-r/)
+
+John Fox, ["Structural Equation Modeling With the `sem` Package in R"](http://socserv.socsci.mcmaster.ca/jfox/Misc/sem/SEM-paper.pdf) {PDF}
+
+["Structural Equation Modeling in R"](http://personality-project.org/r/r.sem.html)
+
+
+***
+
+## Time series analysis
+
+A common theme in data analysis...comparing multiple points in time.
+
+See also
+
+* [Forecasting]
+
+* [Seasonal adjustment]
+
+
+### Theory and methods
+
+Tavish Srivastava, 2015-12-16, ["A Complete Tutorial on Time Series Modeling in R"](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)
+
+
+
+### R
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Work w/ time series? Check out <a href="https://twitter.com/earowang?ref_src=twsrc%5Etfw">@earowang</a>&#39;s 🌟 talk from <a href="https://twitter.com/hashtag/rstudioconf?src=hash&amp;ref_src=twsrc%5Etfw">#rstudioconf</a>:<br>⏰ &quot;Melt the clock: tidy time series analysis&quot;<br>📽 <a href="https://t.co/5xkkMpAsxn">https://t.co/5xkkMpAsxn</a><br>📺 <a href="https://t.co/yvyU6RpW8U">https://t.co/yvyU6RpW8U</a><br>{tsibble} <a href="https://t.co/Gth8ZimfOz">https://t.co/Gth8ZimfOz</a><br>{fable} <a href="https://t.co/YTfWMo4VYV">https://t.co/YTfWMo4VYV</a><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/timeseries?src=hash&amp;ref_src=twsrc%5Etfw">#timeseries</a> <a href="https://t.co/CtCHnChzA6">pic.twitter.com/CtCHnChzA6</a></p>&mdash; Mara Averick (@dataandme) <a href="https://twitter.com/dataandme/status/1104019464222330977?ref_src=twsrc%5Etfw">March 8, 2019</a></blockquote>
+
+
+Earo Wang, ["Melt the clock: Tidy time series analysis"](https://resources.rstudio.com/rstudio-conf-2019/melt-the-clock-tidy-time-series-analysis) (presentation at RStudio conference, 2019)
+
+
+
+#### {tsfeatures}
+
+Methods for extracting various features from time series data
+
+**package**
+
+CRAN: [tsfeatures: Time Series Feature Extraction](https://cran.r-project.org/package=tsfeatures)
+
+[package webpage](https://pkg.robjhyndman.com/tsfeatures/)
+
+**articles**
+
+[getting started article](https://pkg.robjhyndman.com/tsfeatures/articles/tsfeatures.html)
+
+
+
+#### {tsibble}
+
+**package**
+
+CRAN page: [tsibble: Tidy Temporal Data Frames and Tools](https://cran.r-project.org/package=tsibble)
+
+github page: [tsibble`: Tidy Temporal Data Frames and Tools](https://github.com/tidyverts/tsibble)
+
+**articles**
+
+Earo Wang, 2018-12-20, ["Reintroducing tsibble: data tools that melt the clock"](https://blog.earo.me/2018/12/20/reintro-tsibble/)
+
+Earo Wang and Dianne Cook and Rob J Hyndman, January 2019, "A new tidy data structure to support exploration and modeling of temporal data"[@wang-tsibble-2019]
+
+
+#### {padr}
+
+**package**
+
+CRAN page: [padr: Quickly Get Datetime Data Ready for Analysis](https://cran.r-project.org/package=padr)
+
+**articles**
+
+Andrew Clark, 2017-07-19, [padr package example](https://www.mytinyshinys.com/2017/07/19/user2017-padr/)
+
+
+#### {zoo}
+
+**package**
+
+CRAN page: [zoo: S3 Infrastructure for Regular and Irregular Time Series (Z's Ordered Observations)](https://cran.r-project.org/package=zoo)
+
+
+***
+
