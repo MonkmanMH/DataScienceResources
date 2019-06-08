@@ -51,8 +51,10 @@ Neil Collins, _How to Create Reports In R Markdown_, a series of blog posts
 
 ### {blogdown}
 
-Yihui Xie, Amber Thomas, Alison Presmanes Hill, [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
+Yihui Xie, Amber Thomas, Alison Presmanes Hill, [blogdown: Creating Websites with R Markdown][@Xie_etal_blogdown_2019]
 
+
+#### building a blog using {blogdown}
 
 Esteban Moro, _Setting up your blog with RStudio and blogdown_
 
@@ -63,12 +65,10 @@ Esteban Moro, _Setting up your blog with RStudio and blogdown_
 * [III: modify your theme](http://estebanmoro.org/post/2019-02-04-setting-up-your-blog-with-rstudio-and-blogdown-iii-modify-your-theme/)
 
 
+Yin-Ting Chou, 2018-05-06, [Jekyll Website with Github, Github Pages and R Markdown](https://yintingchou.com/posts/jekyll-website-with-github-github-pages-and-r-markdown/)
+
 Malcolm Barrett, [Move R Markdown HTML slides to Blogdown and Push to Web](https://gist.github.com/malcolmbarrett/7c5935d1734016dcb0b2c81b9bc3b549)
 
-
-#### building a blog using {blogdown}
-
-* Yin-Ting Chou, 2018-05-06, [Jekyll Website with Github, Github Pages and R Markdown](https://yintingchou.com/posts/jekyll-website-with-github-github-pages-and-r-markdown/)
 
 
 
