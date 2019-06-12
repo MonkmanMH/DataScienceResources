@@ -53,6 +53,8 @@ Neil Collins, _How to Create Reports In R Markdown_, a series of blog posts
 
 Yihui Xie, Amber Thomas, Alison Presmanes Hill, [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
 
+[Summer of blogdown](https://summer-of-blogdown.netlify.com/) -- series of blogposts with a step-by-step creation of a blog using blogdown
+
 
 Esteban Moro, _Setting up your blog with RStudio and blogdown_
 
