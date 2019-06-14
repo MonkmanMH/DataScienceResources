@@ -108,6 +108,12 @@ GitHub: [noamross/redoc](https://github.com/noamross/redoc)
 Colin Fay, 2019-04-29, [Building a Shiny App as a Package](https://www.r-bloggers.com/building-a-shiny-app-as-a-package/) (via [R-bloggers.com](https://www.r-bloggers.com/))
 
 
+
+Carson Sievert, [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/) (2019-05-14)
+
+
+
+
 ### shinyapps.io
 
 RStudio's cloud hosting of your shiny apps
