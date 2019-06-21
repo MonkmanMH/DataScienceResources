@@ -480,7 +480,7 @@ CRAN page: [ggseas: 'stats' for Seasonal Adjustment on the Fly with 'ggplot2'](h
 
 CRAN page: [ggseas: 'stats' for Seasonal Adjustment on the Fly with 'ggplot2'](https://cran.r-project.org/package=ggseas/)
 
-[Vignette](https://cran.r-project.org/package=ggseas/vignettes/ggsdc.html)
+[Vignette](https://cran.r-project.org/web/packages/ggseas/vignettes/ggseas.html)
 
 **articles**
 
