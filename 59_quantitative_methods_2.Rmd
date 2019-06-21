@@ -563,7 +563,15 @@ See also
 
 Tavish Srivastava, 2015-12-16, ["A Complete Tutorial on Time Series Modeling in R"](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)
 
+[R - Time Series Analysis tutorial](https://www.tutorialspoint.com/r/r_time_series_analysis.htm)
 
+Troy Walters, _Time Series Analysis in R_ (series of blog posts at datascienceplus.com 
+
+* [Part 1: The Time Series Object](https://datascienceplus.com/time-series-analysis-in-r-part-1-the-time-series-object/)
+
+* [Part 2: Time Series Transformations](https://datascienceplus.com/time-series-analysis-in-r-part-2-time-series-transformations/)
+
+* [Part 3: Getting Data from Quandl](https://datascienceplus.com/time-series-analysis-in-r-part-3-getting-data-from-quandl/)
 
 ### R
 
