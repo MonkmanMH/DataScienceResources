@@ -465,14 +465,6 @@ U.S. Census Bureau, [The X-13ARIMA-SEATS Seasonal Adjustment Program](https://ww
 
 ### R
 
-#### {ggsdc}
-
-**package**
-
-CRAN page: [ggseas: 'stats' for Seasonal Adjustment on the Fly with 'ggplot2'](https://cran.r-project.org/package=ggseas)
-
-[Vignette](https://cran.r-project.org/package=ggseas/vignettes/ggsdc.html)
-
 
 #### {ggseas}
 
