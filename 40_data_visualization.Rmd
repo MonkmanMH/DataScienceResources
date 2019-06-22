@@ -30,6 +30,8 @@ But start here:
 
 ## General resources
 
+* F.J. Anscombe, "Graphs in Statistical Analysis" -- the classic paper that introduced the justifiably-famous [_Anscombe's Quartet_](https://en.wikipedia.org/wiki/Anscombe%27s_quartet) [@Anscombe_1973]
+
 * [Enrico Bertini's homepage](http://enrico.bertini.io/) -- a plethora of articles and resources on data visualization
 
 * [Data Visualization Inventors, Founders, and Developers](https://policyviz.com/2019/01/09/data-visualization-inventors-founders-and-developers/) -- credit where credit is due
@@ -38,6 +40,8 @@ But start here:
 Design Space of Data Visualization"](https://www.sciencedirect.com/science/article/pii/S2405872616300107), _She Ji: The Journal of Design, Economics, and Innovation_, Vol. 2, Issue 1, Spring 2016
 
 * Karl Broman, [The top ten worst graphs](https://www.biostat.wisc.edu/~kbroman/topten_worstgraphs/)
+
+* William Cleveland & Robert McGill, "Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods" [@Cleveland_and_McGill_1984]
 
 * Keith Collins (2015-12-23), [The most misleading charts of 2015, fixed](https://qz.com/580859/the-most-misleading-charts-of-2015-fixed/); good discussion of problematic choices with axis scales.
 
@@ -69,6 +73,8 @@ Design Space of Data Visualization"](https://www.sciencedirect.com/science/artic
 
 * Rougier NP, Droettboom M, Bourne PE (2014) Ten Simple Rules for Better Figures. PLOS Computational Biology 10(9): e1003833. https://doi.org/10.1371/journal.pcbi.1003833
 
+
+* Howard Wainer, "How to Display data Badly" [@Wainer_1984]
 
 * Claus O. Wilke (2019, full draft) [_Fundamentals of Data Visualization_](http://serialmentor.com/dataviz/)
 
