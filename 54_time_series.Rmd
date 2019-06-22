@@ -148,6 +148,7 @@ Statistics Canada, ["Seasonal adjustment and trend-cycle estimation"](http://www
 
 * Statistics Canada, _Statistical Methodology Research and Development Program Achievements, 2017/2018_ [2.2 Time Series Research and Analysis Centre (TSRAC)](https://www150.statcan.gc.ca/n1/pub/12-206-x/2018001/02-eng.htm) 
 
+* Feldpausch, Roxanne M.; Hood, Catherine C. (2003) ["Some properties of the seasonal adjustment diagnostics in X-12-ARIMA"](https://www150.statcan.gc.ca/n1/en/catalogue/11-522-X20030017694), _Statistics Canada International Symposium Series: Proceedings_, Issue 2003001.
 
 U.S. Census Bureau, [The X-13ARIMA-SEATS Seasonal Adjustment Program](https://www.census.gov/srd/www/x13as/)
 
@@ -185,6 +186,20 @@ Packages the U.S. Census Bureau's gold-standard X13-SEATS-ARIMA for use in R.
 CRAN page: [seasonal: R Interface to X-13-ARIMA-SEATS'](https://cran.r-project.org/package=seasonal)
 
 github page: [christophsax/seasonal](https://github.com/christophsax/seasonal)
+
+
+
+#### {x12}
+
+**package**
+
+CRAN page: [x12: Interface to 'X12-ARIMA'/'X13-ARIMA-SEATS' and Structure for Batch Processing of Seasonal Adjustment](https://cran.r-project.org/package=x12)
+
+
+**articles**
+
+Rytis (2013-02-08) [_Using X12-ARIMA with R_](https://blogs.fsfe.org/rytis/2013/02/08/using-x12-arima-with-r/
+
 
 
 #### {x13binary}
