@@ -1,0 +1,205 @@
+# Time series 
+
+***
+
+## Time series analysis
+
+A common theme in data analysis...comparing multiple points in time.
+
+See also
+
+* [Forecasting]
+
+* [Seasonal adjustment]
+
+
+### Theory and methods
+
+Tavish Srivastava, 2015-12-16, ["A Complete Tutorial on Time Series Modeling in R"](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)
+
+[R - Time Series Analysis tutorial](https://www.tutorialspoint.com/r/r_time_series_analysis.htm)
+
+Troy Walters, _Time Series Analysis in R_ (series of blog posts at datascienceplus.com 
+
+* [Part 1: The Time Series Object](https://datascienceplus.com/time-series-analysis-in-r-part-1-the-time-series-object/)
+
+* [Part 2: Time Series Transformations](https://datascienceplus.com/time-series-analysis-in-r-part-2-time-series-transformations/)
+
+* [Part 3: Getting Data from Quandl](https://datascienceplus.com/time-series-analysis-in-r-part-3-getting-data-from-quandl/)
+
+
+### R
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Work w/ time series? Check out <a href="https://twitter.com/earowang?ref_src=twsrc%5Etfw">@earowang</a>&#39;s 🌟 talk from <a href="https://twitter.com/hashtag/rstudioconf?src=hash&amp;ref_src=twsrc%5Etfw">#rstudioconf</a>:<br>⏰ &quot;Melt the clock: tidy time series analysis&quot;<br>📽 <a href="https://t.co/5xkkMpAsxn">https://t.co/5xkkMpAsxn</a><br>📺 <a href="https://t.co/yvyU6RpW8U">https://t.co/yvyU6RpW8U</a><br>{tsibble} <a href="https://t.co/Gth8ZimfOz">https://t.co/Gth8ZimfOz</a><br>{fable} <a href="https://t.co/YTfWMo4VYV">https://t.co/YTfWMo4VYV</a><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/timeseries?src=hash&amp;ref_src=twsrc%5Etfw">#timeseries</a> <a href="https://t.co/CtCHnChzA6">pic.twitter.com/CtCHnChzA6</a></p>&mdash; Mara Averick (@dataandme) <a href="https://twitter.com/dataandme/status/1104019464222330977?ref_src=twsrc%5Etfw">March 8, 2019</a></blockquote>
+
+
+Earo Wang, ["Melt the clock: Tidy time series analysis"](https://resources.rstudio.com/rstudio-conf-2019/melt-the-clock-tidy-time-series-analysis) (presentation at RStudio conference, 2019)
+
+
+
+#### {tsfeatures}
+
+Methods for extracting various features from time series data
+
+**package**
+
+CRAN: [tsfeatures: Time Series Feature Extraction](https://cran.r-project.org/package=tsfeatures)
+
+[package webpage](https://pkg.robjhyndman.com/tsfeatures/)
+
+**articles**
+
+[getting started article](https://pkg.robjhyndman.com/tsfeatures/articles/tsfeatures.html)
+
+
+
+#### {tsibble}
+
+**package**
+
+CRAN page: [tsibble: Tidy Temporal Data Frames and Tools](https://cran.r-project.org/package=tsibble)
+
+github page: [tsibble`: Tidy Temporal Data Frames and Tools](https://github.com/tidyverts/tsibble)
+
+**articles**
+
+Earo Wang, 2018-12-20, ["Reintroducing tsibble: data tools that melt the clock"](https://blog.earo.me/2018/12/20/reintro-tsibble/)
+
+Earo Wang and Dianne Cook and Rob J Hyndman, January 2019, "A new tidy data structure to support exploration and modeling of temporal data"[@wang-tsibble-2019]
+
+
+#### {padr}
+
+**package**
+
+CRAN page: [padr: Quickly Get Datetime Data Ready for Analysis](https://cran.r-project.org/package=padr)
+
+**articles**
+
+Andrew Clark, 2017-07-19, [padr package example](https://www.mytinyshinys.com/2017/07/19/user2017-padr/)
+
+
+#### {zoo}
+
+**package**
+
+CRAN page: [zoo: S3 Infrastructure for Regular and Irregular Time Series (Z's Ordered Observations)](https://cran.r-project.org/package=zoo)
+
+
+***
+
+## Forecasting
+
+Forecasting methods extrapolate past trends. There is a wealth of material supporting the theory and methods around this, much of it coming from econometrics.
+
+
+
+### Theory and methods
+
+Kamala Kanta Mishra, [Selecting Forecasting Methods in Data Science](http://www.datasciencecentral.com/profiles/blogs/selecting-forecasting-methods-in-data-science) (2017-02-13)
+
+
+### R
+
+Kostiantyn Kravchuk, ["Forecasting: Time Series Exploration Exercises (Part-1)"](https://www.r-bloggers.com/forecasting-time-series-exploration-exercises-part-1/) (2017-04-10)
+
+
+#### {fable}
+
+"...provides methods and tools for displaying and analysing univariate time series forecasts including exponential smoothing via state space models and automatic ARIMA modelling. Data, model and forecast objects are all stored in a tidy format."
+
+**package**
+
+documentation: [`fable`](https://fable.tidyverts.org/)
+
+
+#### {prophet}
+
+**package**
+
+CRAN page: [prophet: Automatic Forecasting Procedure](https://cran.r-project.org/package=prophet)
+
+documentation: [Prophet: forecasting at scale](https://facebookincubator.github.io/prophet/) 
+
+**articles**
+
+["Prophet: How Facebook operationalizes time series forecasting at scale"](http://blog.revolutionanalytics.com/2017/02/facebook-prophet.html) at Revolutions Analytics (2017-02-24)
+
+
+
+
+***
+
+
+## Seasonal adjustment
+
+From the wikipedia entry:
+
+>Seasonal adjustment is a statistical method for removing the seasonal component of a time series that exhibits a seasonal pattern. It is usually done when wanting to analyse the trend of a time series independently of the seasonal components. It is normal to report seasonally adjusted data for unemployment rates to reveal the underlying trends in labor markets. Many economic phenomena have seasonal cycles, such as agricultural production and consumer consumption, e.g. greater consumption leading up to Christmas. It is necessary to adjust for this component in order to understand what underlying trends are in the economy and so official statistics are often adjusted to remove seasonal components.
+
+[Seasonal adjustment: wikipedia entry](https://en.wikipedia.org/wiki/Seasonal_adjustment), 2016-05-07
+
+
+
+
+### Theory and methods
+
+Statistics Canada, ["Seasonal adjustment and trend-cycle estimation"](http://www.statcan.gc.ca/pub/12-539-x/2009001/seasonal-saisonnal-eng.htm)  (part of Statistics Canada [Quality Guidelines](http://www.statcan.gc.ca/pub/12-539-x/12-539-x2009001-eng.htm), Catalogue 12-539-X)
+
+* Statistics Canada, _Statistical Methodology Research and Development Program Achievements, 2017/2018_ [2.2 Time Series Research and Analysis Centre (TSRAC)](https://www150.statcan.gc.ca/n1/pub/12-206-x/2018001/02-eng.htm) 
+
+
+U.S. Census Bureau, [The X-13ARIMA-SEATS Seasonal Adjustment Program](https://www.census.gov/srd/www/x13as/)
+
+
+### R
+
+
+#### {ggseas}
+
+**package**
+
+CRAN page: [ggseas: 'stats' for Seasonal Adjustment on the Fly with 'ggplot2'](https://cran.r-project.org/package=ggseas/)
+
+[Vignette](https://cran.r-project.org/web/packages/ggseas/vignettes/ggseas.html)
+
+**articles**
+
+Ellis, Peter. 2016-10-12. ["Update of `ggseas` for seasonal decomposition on the fly"](http://ellisp.github.io/blog/2016/10/12/ggsdc-rents), blog entry
+
+Ellis, Peter. 2016-03-28. ["Seasonal decomposition in the ggplot2 universe with ggseas"](http://ellisp.github.io/blog/2016/03/28/ggseas-update/), blog entry.
+
+Ellis, Peter. 2016-02-08. ["ggseas package for seasonal adjustment on the fly with ggplot2"](http://ellisp.github.io/blog/2016/02/08/ggseas/), blog entry.
+
+
+#### {seasonal}
+
+**[seasonal: R-interface to X-13ARIMA-SEATS](http://www.seasonal.website/seasonal.html)**
+
+Packages the U.S. Census Bureau's gold-standard X13-SEATS-ARIMA for use in R.
+
+"...the best interface on the planet to the X13-SEATS-ARIMA time series analysis application from the US Census Department, which is the industry standard particularly for official statistics agencies doing seasonal adjustment." (Peter Ellis, [vignette for `ggsdc`](https://cran.r-project.org/package=ggseas/vignettes/ggsdc.html.))
+
+**package**
+
+CRAN page: [seasonal: R Interface to X-13-ARIMA-SEATS'](https://cran.r-project.org/package=seasonal)
+
+github page: [christophsax/seasonal](https://github.com/christophsax/seasonal)
+
+
+#### {x13binary}
+
+(US Census Bureau X-13, packaged for easy loading. Loads as a dependency for most of the other seasonal adjustment packages.)
+
+**package**
+
+CRAN page: [x13binary: Provide the 'x13ashtml' Seasonal Adjustment Binary](https://cran.r-project.org/package=x13binary)
+
+
+
+
+
+***
+
+
+-30-
