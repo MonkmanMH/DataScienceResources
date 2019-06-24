@@ -14,6 +14,11 @@ This chapter compiles what I consider to be the essential texts; articles and bl
 David Smale, [Free R Reading Material](https://committedtotape.shinyapps.io/freeR/),  A Shiny app collection "of books about the R programming language and Data Science, that you can read for free!"
 
 
+## R Introductions
+
+Nathaniel D. Phillips, [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/)
+
+
 
 ## R as a programming environment
 
