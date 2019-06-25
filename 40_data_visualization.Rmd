@@ -147,6 +147,15 @@ There are many extension packages that allow you to make other visualizations in
 
 * Gallery of {ggplot2} extensions: [ggplot2-exts.org/gallery/]({ggplot2} extensions - gallery )
 
+#### {ggfittext}
+
+"ggplot2 geoms to fit text into boxes"
+
+* GitHub page: [wilkox/ggfittext](https://github.com/wilkox/ggfittext)
+
+* Reference page: [ggfittext](https://wilkox.org/ggfittext/)
+
+
 
 ### tips and tricks
 
