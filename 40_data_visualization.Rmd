@@ -16,6 +16,8 @@ But start here:
 
 * Kennedy Elliot, [Everything we know about how humans interpret graphics](https://www.youtube.com/watch?v=s0J6EDvlN30), video of talk given at OpenVis conference, 2016-04-25 & 26.
 
+* Jill H. Larkin and Herbert A. Simon, "Why a diagram is (sometimes) worth ten thousand words", _Cognitive Science_, 1987 [@Larkin_Simon_1987]
+
 * Elijah Meeks, ["What Charts Do"](https://medium.com/@Elijah_Meeks/what-charts-do-48ed96f70a74) (2018-05-21) is a succinct summary that's worth reading.
 
 * Cole Nussbaumer Knaflic, _Storytelling with Data_ [@NussbaumerKnaflic_2015]. A great introduction to the fundamentals of good visualization. The [companion blog](https://www.storytellingwithdata.com/) has an on-going series of further dives into the topic.
