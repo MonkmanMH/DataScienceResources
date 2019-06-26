@@ -186,7 +186,11 @@ The ColorBrewer palettes were designed by Dr. Cythia Brewer  -- a variety of pal
 
 [ColorBrewer 2.0](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) -- tool for selecting colour schemes (centred on maps, but they work just as well for other forms of data visualization)
 
-Brewer, Cynthia A., Geoffrey W. Hatchard and Mark A. Harrower, 2003, ColorBrewer in Print: A Catalog of Color Schemes for Maps, Cartography and Geographic Information Science [@Brewer_etal_2003].
+Cynthia A. Brewer (2003). A Transition in Improving Maps: The ColorBrewer Example. Cartography and Geographic Information Science [@Brewer_2003] 
+
+Cynthia A. Brewer, Geoffrey W. Hatchard, and Mark A. Harrower (2003) ColorBrewer in Print: A Catalog of Color Schemes for Maps, Cartography and Geographic Information Science [@Brewer_etal_2003].
+
+
 
 
 #### the R package [{RColorBrewer}]()
