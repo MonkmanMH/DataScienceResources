@@ -85,6 +85,7 @@ Design Space of Data Visualization"](https://www.sciencedirect.com/science/artic
   - [the github repo for the book](https://github.com/clauswilke/dataviz) (in case you want to plagiarize the code for a specific figure)
 
 
+
 ### Data Visualization Society (Medium)
 
 Medium's [Data Visualization Society](https://medium.com/data-visualization-society) "Data Visualization Society aims to collect and establish best practices, fostering a community that supports members as they grow and develop data visualization skills."
@@ -173,4 +174,49 @@ There are many extension packages that allow you to make other visualizations in
 Plotly for R allows you to "Create interactive, D3 and WebGL charts in R" (their words, not mine). A great resource for upping the content of online visualizations.
 
 * Carson Sievert, [_Plotly for R_](http://plotly-book.cpsievert.me/)
+
+
+***
+
+## Colour
+
+### ColorBrewer
+
+The ColorBrewer palettes were designed by Dr. Cythia Brewer  -- a variety of palettes designed for data visualization (including maps)
+
+[ColorBrewer 2.0](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) -- tool for selecting colour schemes (centred on maps, but they work just as well for other forms of data visualization)
+
+Brewer, Cynthia A., Geoffrey W. Hatchard and Mark A. Harrower, 2003, ColorBrewer in Print: A Catalog of Color Schemes for Maps, Cartography and Geographic Information Science [@Brewer_etal_2003].
+
+
+#### the R package [{RColorBrewer}]()
+
+* [RColorBrewer's Palettes](https://www.r-graph-gallery.com/38-rcolorbrewers-palettes/) from The R Graph Gallery
+
+* Stewart MacArthur, 2010-12-08, ["R: Using RColorBrewer to colour your figures in R"](https://www.r-bloggers.com/r-using-rcolorbrewer-to-colour-your-figures-in-r/)
+
+
+
+### other colour notes and guides
+
+* Alberto Cairo, 2019-06-26, ["Our understanding of rainbow colour schemes remains incomplete"](http://www.thefunctionalart.com/2019/06/our-understanding-of-rainbow-color.html)
+
+* Robert Simmon, ["Use of Color in Data Visualization"](https://earthobservatory.nasa.gov/resources/blogs/intro_to_color_for_visualization.pdf) {pdf}
+
+* Alan Wilson, 2017-02-27, ["The Power of The Palette: Why Color is Key in Data Visualization and How to Use It"](https://theblog.adobe.com/the-power-of-the-palette-why-color-is-key-in-data-visualization-and-how-to-use-it/) at Adobe Blog
+
+
+
+
+### palettes in R
+
+* Clay Ford, 2016-06-10, ["Setting up Color Palettes in R"](https://data.library.virginia.edu/setting-up-color-palettes-in-r/)
+
+
+* [R color cheatsheet](https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/colorPaletteCheatsheet.pdf)
+
+
+
+-30-
+
 
