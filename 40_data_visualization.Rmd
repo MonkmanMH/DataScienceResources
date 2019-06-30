@@ -85,6 +85,10 @@ Design Space of Data Visualization"](https://www.sciencedirect.com/science/artic
   - [the github repo for the book](https://github.com/clauswilke/dataviz) (in case you want to plagiarize the code for a specific figure)
 
 
+* Google, [_Data Visualization_](https://material.io/design/communication/data-visualization.html#), part of Google's [Material](https://material.io/)
+
+  - Mark Wilson, 2019-06-28, ["Google’s six rules for great data design"](https://www.fastcompany.com/90369607/googles-six-rules-for-great-data-design) (at FastCompany)
+
 
 ### Data Visualization Society (Medium)
 
