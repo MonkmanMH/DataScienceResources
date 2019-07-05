@@ -14,6 +14,28 @@ This chapter compiles what I consider to be the essential texts; articles and bl
 David Smale, [Free R Reading Material](https://committedtotape.shinyapps.io/freeR/),  A Shiny app collection "of books about the R programming language and Data Science, that you can read for free!"
 
 
+
+### R Release Names
+
+"All of the release names are references to Peanuts strips/films." 
+
+Lucy D'Agostino McGowan, 2017-07-28, [R release names](https://livefreeordichotomize.com/2017/09/28/r-release-names/)
+
+
+Releases since 2017-07-28:
+
+* R 3.5.2 ["Eggshell Igloos"](https://www.gocomics.com/peanuts/1960/01/25) (original strip: 1960-01-25)
+
+* R 3.5.3 ["Great Truth"](https://www.gocomics.com/peanuts/1959/03/11) (original strip: 1959-03-11)
+
+* R 3.6.0 ["Planting of a Tree"](https://www.gocomics.com/peanuts/1963/03/03) (original strip: 1963-03-03)
+
+* R 3.6.1 ["Action of the Toes"](https://www.gocomics.com/peanuts/1971/03/22) (original strip: 1971-03-22)
+
+(Another source for the strips is the [peanuts.fandom.com comics archive](https://peanuts.fandom.com/wiki/Category:Comic_strips))
+
+
+
 ## R Introductions
 
 Nathaniel D. Phillips, [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/)
