@@ -36,6 +36,9 @@ CRAN page: [kableExtra: Construct Complex Table with 'kable' and Pipe Syntax](ht
 
 github page: [Construct Complex Table with knitr::kable() + pipe](https://github.com/haozhu233/kableExtra)
 
+vignette: Hao Zhu, 2019-03-15, [Create Awesome HTML Table with knitr::kable and kableExtra](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html)
+
+
 **articles**
 
 https://haozhu233.github.io/kableExtra/
