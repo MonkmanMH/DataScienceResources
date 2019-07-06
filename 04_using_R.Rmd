@@ -14,6 +14,8 @@ This chapter compiles what I consider to be the essential texts; articles and bl
 David Smale, [Free R Reading Material](https://committedtotape.shinyapps.io/freeR/),  A Shiny app collection "of books about the R programming language and Data Science, that you can read for free!"
 
 
+Jennifer Bryan and Jim Hester, [What They Forgot to Teach You About R](https://whattheyforgot.org/) -- "designed for experienced R and RStudio users who want to (re)design their R lifestyle. We focus on building holistic and project-oriented workflows that address the most common sources of friction in data analysis, _outside of doing the statistical analysis itself_."
+
 Colin Fay, 2018-09-24, [Why do we use arrow as an assignment operator?](https://colinfay.me/r-assignment/) -- answering the second-most-asked question about R.
 
 
