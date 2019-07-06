@@ -19,6 +19,8 @@ Yihui Xie, J. J. Allaire, Garrett Grolemund (2018) [R Markdown: The Definitive G
 * [R Markdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
 
 
+Nicholas Tierney, 2019-07-02, [RMarkdown for Scientists](https://rmd4sci.njtierney.com/) -- "This is a book on rmarkdown, aimed for scientists. It was initially developed as a 3 hour workshop, but is now developed into a resource that will grow and change over time as a living book."
+
 Yan Holtz, [Pimp my RMD: a few tips for R Markdown](https://holtzy.github.io/Pimp-my-rmd/) (most recent update: 2018-12-10) -- a nice summary of tips, tricks, and tweaks for  your RMD files
 
 
