@@ -14,10 +14,14 @@ This chapter compiles what I consider to be the essential texts; articles and bl
 David Smale, [Free R Reading Material](https://committedtotape.shinyapps.io/freeR/),  A Shiny app collection "of books about the R programming language and Data Science, that you can read for free!"
 
 
+Colin Fay, 2018-09-24, [Why do we use arrow as an assignment operator?](https://colinfay.me/r-assignment/) -- answering the second-most-asked question about R.
+
 
 ### R Release Names
 
-"All of the release names are references to Peanuts strips/films." 
+The most-asked question about R. 
+
+Answer: "All of the release names are references to Peanuts strips/films." 
 
 Lucy D'Agostino McGowan, 2017-07-28, [R release names](https://livefreeordichotomize.com/2017/09/28/r-release-names/)
 
