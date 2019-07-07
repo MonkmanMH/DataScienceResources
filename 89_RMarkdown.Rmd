@@ -101,6 +101,28 @@ GitHub: [noamross/redoc](https://github.com/noamross/redoc)
 
 
 
+### {tufte}
+
+An extension to {bookdown}, allows the creation of handouts in the style developed by Edward Tufte.
+
+See:
+
+* [Chapter 6: Tufte Handouts](https://bookdown.org/yihui/rmarkdown/tufte-handouts.html) in Yihui Xie, J. J. Allaire, Garrett Grolemund (2018) [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) 
+
+* [Tufte Handouts](https://garrettgman.github.io/rmarkdown/tufte_handout_format.html)
+
+  - [example code for Tufte Handout](https://raw.githubusercontent.com/rstudio/tufte/master/inst/rmarkdown/templates/tufte_html/skeleton/skeleton.Rmd)
+  
+  -  [tufte_handout: Tufte handout formats (PDF and HTML)](https://rdrr.io/cran/tufte/man/tufte_handout.html) -- function reference
+
+#### {tint}: tint is not tufte
+
+Package to extend range of formatting choices under the {tufte} package
+
+* [tint](http://dirk.eddelbuettel.com/code/tint.html)
+
+
+
 ***
 
 ## {Shiny}
