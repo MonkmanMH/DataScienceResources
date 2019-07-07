@@ -247,6 +247,15 @@ Kyle Walker, 2015-05-17, [Global population change with a slopegraph in ggplot2]
 
 ## Waffle plots
 
+**Package**
+
+CRAN page: [waffle: Create Waffle Chart Visualizations in R](https://cran.r-project.org/package=waffle)
+
+GitHub page: {waffle}(https://github.com/hrbrmstr/waffle): Make waffle (square pie) charts in R
+
+
+**articles**
+
 [Infographic-style charts using the R waffle package](https://nsaunders.wordpress.com/2017/09/08/infographic-style-charts-using-the-r-waffle-package/amp/)
 
 
