@@ -102,13 +102,13 @@ Angela Bassa, ["Managing a Data Science Team"](https://hbr.org/2018/10/managing-
 [Building a Data Science Team](https://www.coursera.org/learn/build-data-science-team) (Coursera)
 
 
-### Business analytics
+### Business analytics & business intelligence
 
 Sahil Arora, ["Top Data Analytics Skills Required to Become a Data Analyst"](https://www.digitalvidya.com/blog/data-analytics-skills/), Digital Vidya, 2017-03-24
 
 Samantha Leonard, ["6 Must-Have Skills For Data Analysts"](https://www.northeastern.edu/levelblog/2018/08/31/6-must-have-skills-data-analyst/), Northeastern University, 2018-08-31
 
-
+Jay Gendron, (2016) [Introduction to R for Business Intelligence](https://www.oreilly.com/library/view/introduction-to-r/9781785280252/)
 
 
 ### Data science
