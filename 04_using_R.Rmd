@@ -56,6 +56,15 @@ Hadley Wickham, _Advanced R_ [@Wickham_advancedR]
 
 Hadley Wickham, _R Packages_ [@Wickham_R-packages]
 
+
+## Data wrangling
+
+(See {The tidyverse}, below)
+
+#### {datapasta}
+
+Vignette: [How to Datapasta](https://cran.r-project.org/web/packages/datapasta/vignettes/how-to-datapasta.html)
+
 ***
 
 ## The tidyverse
@@ -121,22 +130,22 @@ See the companion chapter on the topics of [Text Analysis and Text Mining].
 
 [The tidyverse R packages on github](https://github.com/hadley/tidyverse)
 
-#### `broom`
+#### {broom}
 
 
-#### `dplyr`
+#### {dplyr}
 
 `dplyr` now gets its own page, labelled [**Data Wrangling**](DataWrangling.md)
 
 
-#### `purrr`
+#### {purrr}
 
 * [A purrr tutorial](https://github.com/Cascadia-R/purrr-tutorial) -- Cascadia-R, 2017-06-03
 
 * Charlotte Wickham, [purr tutorial](https://github.com/cwickham/purrr-tutorial) -- github
 
 
-##### `usethis`
+##### {usethis}
 
 [usethis 1.5.0](https://www.tidyverse.org/articles/2019/04/usethis-1.5.0/) (April 2019)
 
