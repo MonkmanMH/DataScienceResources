@@ -57,6 +57,16 @@ Hadley Wickham, _Advanced R_ [@Wickham_advancedR]
 Hadley Wickham, _R Packages_ [@Wickham_R-packages]
 
 
+### Debugging R
+
+Hadley Wickham, ["Debugging"](https://adv-r.hadley.nz/debugging.html), Chapter 22 in _Advanced R_ [@Wickham_advancedR]
+
+Jonathan McPherson, 2019-05-20, [Debugging with RStudio](https://support.rstudio.com/hc/en-us/articles/205612627-Debugging-with-RStudio)
+
+Jennifer Bryan and Jim Hester, ["Debugging R code"](https://whattheyforgot.org/debugging-r-code.html), Chapter 11 in _What They Forgot to Teach You About R_
+
+
+
 ## Data wrangling
 
 (See {The tidyverse}, below)
