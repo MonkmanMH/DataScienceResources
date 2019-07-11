@@ -186,6 +186,13 @@ Plotly for R allows you to "Create interactive, D3 and WebGL charts in R" (their
 
 ## Colour
 
+### {colorspace}
+
+"A Toolbox for Manipulating and Assessing Colors and Palettes"
+
+* [{colorspace} homepage](http://colorspace.r-forge.r-project.org/)
+
+
 ### ColorBrewer
 
 The ColorBrewer palettes were designed by Dr. Cythia Brewer  -- a variety of palettes designed for data visualization (including maps)
