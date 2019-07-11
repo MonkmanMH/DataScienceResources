@@ -145,6 +145,8 @@ Medium's [Data Visualization Society](https://medium.com/data-visualization-soci
 
 * Will Chase, 2019-05-29, [R you ready to make charts?](https://www.williamrchase.com/slides/ggplot_intro.html#64), Philly dataviz meetup
 
+* Dana Paige Seidel, [Default ggplot2 aesthetics by geom](https://gist.github.com/dpseidel/57f28ccc034ccfdd0cf25b6c6c82a635)
+
 
 ### extensions
 
