@@ -213,7 +213,7 @@ The over of Joy Division's debut album [_Unknown Pleasures_](https://en.wikipedi
   - [Data Visualization, Reinterpreted by VISUALIZED](https://vimeo.com/51365288): Peter Saville on the Design + Effect of Joy Division's "Unknown Pleasures" - ([from Visualized](https://vimeo.com/visualized))
 
 
-
+* Andrew B. Collier, 219-07-15, [Recreating 'Unknown Pleasures' graphic](https://datawookie.netlify.com/blog/2019/07/recreating-unknown-pleasures-graphic/) -- using {ggplot} and {gganimate}
 
 
 ## Slopegraphs
