@@ -78,6 +78,15 @@ An over-arching structure of what a project could (or should?) look like can be 
 * Noble, William Stafford (2009-07-31) [A Quick Guide to Organizing Computational Biology Projects](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424),  _PLoS Comput Biol_ 5(7): e1000424. 
 
 
+### Version Control with Git & GitHub
+
+* Jenny Bryan, the STAT 545 TAs, Jim Hester [Happy Git and GitHub for the useR](https://happygitwithr.com/)
+
+* Mine Çetinkaya-Rundel (2019-07-15) [R & GitHub sitting in a tree...](https://speakerdeck.com/minecr/r-and-github-sitting-in-a-tree-dot-dot-dot)
+
+
+
+
 ### R-specific workflow
 
 
