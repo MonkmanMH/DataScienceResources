@@ -175,10 +175,14 @@ Economics	&	Econometrics"](https://www.tse-fr.eu/sites/default/files/TSE/documen
 
 * see also [{redoc}], "a package to enable a two-way R Markdown Microsoft Word workflow. It generates Word documents that can be de-rendered back into R Markdown, retaining edits on the Word document, including tracked changes."
 
+* see also [this list](https://twitter.com/jessenleon/status/1150749113014738946)
+
 
 ### Reproducible data
 
 * Greg Finak (2018-09-18) [Building Reproducible Data Packages with DataPackageR](https://ropensci.org/blog/2018/09/18/datapackager/)
+
+* Luis Darcy Verde Arregoitia (2018) [Good practices for sharing analysis-ready data in mammalogy and biodiversity research](http://www.italian-journal-of-mammalogy.it/Good-practices-for-sharing-analysis-ready-data-in-mammalogy-and-biodiversity-research,101564,0,2.html), Hystrix It. J. Mamm. 2018;29(2):155–161
 
 
 
