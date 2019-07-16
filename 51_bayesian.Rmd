@@ -37,6 +37,11 @@ David Robinson, [_Introduction to Empirical Bayes_](https://gumroad.com/l/empiri
 Daniel Lüdecke, 2018-06-06, [R functions for Bayesian Model Statistics and Summaries](https://strengejacke.wordpress.com/2018/06/06/r-functions-for-bayesian-model-statistics-and-summaries-rstats-stan-brms/)
 
 
+
+Rasmus Bååth (2019-07-15) [Get up to speed with Bayesian data analysis in R](https://docs.google.com/presentation/d/1Lv5_IBi_PXbtp8FbA8-qBI0PwJAvPlP9OZ-6t6l6gwM/edit#slide=id.p), from UseR2019
+
+
+
 #### other
 
 Tarek Amr, ["Experimenting the Bayesian way"](https://www.datascience.com/blog/experimenting-the-bayesian-way); summary of Bayesian approach with Python examples (2018-07-18)
