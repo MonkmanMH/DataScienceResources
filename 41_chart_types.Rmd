@@ -8,6 +8,12 @@
 Naomi Robbins (2013), _Creating More Effective Graphs_, Chart House.
 
 
+## Bar charts (and their variants)
+
+Andy Kirk (2019-07-19) [Five Ways To...Present Bar Charts](https://www.visualisingdata.com/2019/07/five-ways-to-present-bar-charts/) -- first in a series of "Five Ways To..."
+
+* Thomas Mock: [{ggplot2} code for the article](https://gist.github.com/jthomasmock/2db9db2c534a48af9e2330758be90b8b)
+
 
 
 ## Box plots (a way to visualize distributions)

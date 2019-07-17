@@ -44,9 +44,9 @@ An over-arching structure of what a project could (or should?) look like can be 
 3. Collaborative
 
 
-* Hilary Parker, 2017-08-30, [Opinionated Analysis Development](https://peerj.com/preprints/3210/)
+Hilary Parker, 2017-08-30, [Opinionated Analysis Development](https://peerj.com/preprints/3210/)
 
-  - some of Hilary Parker's earlier / supporting thoughts on this topic can be found in [her talk "Opinionated Analysis Development" from rstudio::conf2017 (2017-01-14)](https://www.rstudio.com/resources/videos/opinionated-analysis-development/) ([slides alone at slideshare](https://www.slideshare.net/hilaryparker/opinionated-analysis-development)), as well as the slides from her [keynote at EARL SF (2017-06-15)](https://www.slideshare.net/hilaryparker/opinionated-analysis-development-earl-sf-keynote)
+- some of Hilary Parker's earlier / supporting thoughts on this topic can be found in [her talk "Opinionated Analysis Development" from rstudio::conf2017 (2017-01-14)](https://www.rstudio.com/resources/videos/opinionated-analysis-development/) ([slides alone at slideshare](https://www.slideshare.net/hilaryparker/opinionated-analysis-development)), as well as the slides from her [keynote at EARL SF (2017-06-15)](https://www.slideshare.net/hilaryparker/opinionated-analysis-development-earl-sf-keynote)
 
 
 
@@ -54,35 +54,35 @@ An over-arching structure of what a project could (or should?) look like can be 
 
 **Jenny Bryan on workflow:**
 
-* Jenny Bryan, [Project-oriented workflow](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/)
+Jenny Bryan, [Project-oriented workflow](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/)
 
-* Jenny Bryan, [Ode to the here package](https://github.com/jennybc/here_here)
+Jenny Bryan, [Ode to the here package](https://github.com/jennybc/here_here)
 
-* Wilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, Teal TK (2017) Good enough practices in scientific computing. PLoS Comput Biol 13(6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510
+Wilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, Teal TK (2017) Good enough practices in scientific computing. PLoS Comput Biol 13(6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510
 
-* Jenny Bryan (2017) [Workflow: you should have one](https://speakerdeck.com/jennybc/workflow-you-should-have-one), Keynote talk at EARL London 2017.  
+Jenny Bryan (2017) [Workflow: you should have one](https://speakerdeck.com/jennybc/workflow-you-should-have-one), Keynote talk at EARL London 2017.  
 
-  - [Supporting documentation: earl-london-2017-bryan](https://github.com/jennybc/earl-london-2017-bryan#readme)
+- [Supporting documentation: earl-london-2017-bryan](https://github.com/jennybc/earl-london-2017-bryan#readme)
 
 
 
 **other authors**
 
-* Keiran Healy, [_The Plain Person's Guide to Plain Text Social Science_](https://kieranhealy.org/files/papers/plain-person-text.pdf) {pdf}
+Keiran Healy, [_The Plain Person's Guide to Plain Text Social Science_](https://kieranhealy.org/files/papers/plain-person-text.pdf) {pdf}
 
-* Kass RE, Caffo BS, Davidian M, Meng X-L, Yu B, Reid N (2016) ["Ten Simple Rules for Effective Statistical Practice"](http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1004961). PLoS Comput Biol 12(6): e1004961. doi:10.1371/journal.pcbi.1004961
+Kass RE, Caffo BS, Davidian M, Meng X-L, Yu B, Reid N (2016) ["Ten Simple Rules for Effective Statistical Practice"](http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1004961). PLoS Comput Biol 12(6): e1004961. doi:10.1371/journal.pcbi.1004961
 
-* Ray Li (2016) ["7 habits of highly effective data analysis"](http://dataconomy.com/2016/02/7-habits-of-highly-effective-data-analysis/). [Dataconomy.com](Dataconomy.com), 2016-02-16.
+Ray Li (2016) ["7 habits of highly effective data analysis"](http://dataconomy.com/2016/02/7-habits-of-highly-effective-data-analysis/). [Dataconomy.com](Dataconomy.com), 2016-02-16.
 
 
-* Noble, William Stafford (2009-07-31) [A Quick Guide to Organizing Computational Biology Projects](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424),  _PLoS Comput Biol_ 5(7): e1000424. 
+Noble, William Stafford (2009-07-31) [A Quick Guide to Organizing Computational Biology Projects](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424),  _PLoS Comput Biol_ 5(7): e1000424. 
 
 
 ### Version Control with Git & GitHub
 
-* Jenny Bryan, the STAT 545 TAs, Jim Hester [Happy Git and GitHub for the useR](https://happygitwithr.com/)
+Jenny Bryan, the STAT 545 TAs, Jim Hester [Happy Git and GitHub for the useR](https://happygitwithr.com/)
 
-* Mine Çetinkaya-Rundel (2019-07-15) [R & GitHub sitting in a tree...](https://speakerdeck.com/minecr/r-and-github-sitting-in-a-tree-dot-dot-dot)
+Mine Çetinkaya-Rundel (2019-07-15) [R & GitHub sitting in a tree...](https://speakerdeck.com/minecr/r-and-github-sitting-in-a-tree-dot-dot-dot)
 
 
 
@@ -91,9 +91,9 @@ An over-arching structure of what a project could (or should?) look like can be 
 
 
 
-* Gabe Becker (2017) [Enhancing reproducibility, comparability and discoverability of results in multi-analyst settings](https://www.slideshare.net/GabrielBecker11/enhancing-reproducibility-comparability-and-discoverability-of-results-in-multianalyst-settings), presentation at EARL (Enterprise Applications of R Language), San Francisco, June 5-7, 2017
+Gabe Becker (2017) [Enhancing reproducibility, comparability and discoverability of results in multi-analyst settings](https://www.slideshare.net/GabrielBecker11/enhancing-reproducibility-comparability-and-discoverability-of-results-in-multianalyst-settings), presentation at EARL (Enterprise Applications of R Language), San Francisco, June 5-7, 2017
 
-  -- this came to my attention via the Not So Standard Deviations podcast, [episode 40 "It's the CDs All Over Again"](https://www.patreon.com/posts/episode-40-its-11713845) (2017-06-13). The discussion of Gabe Becker's presentation begins at ~13' 10".
+* this came to my attention via the Not So Standard Deviations podcast, [episode 40 "It's the CDs All Over Again"](https://www.patreon.com/posts/episode-40-its-11713845) (2017-06-13). The discussion of Gabe Becker's presentation begins at ~13' 10".
   
   - some of Hilary Parker's observations: the topic doesn't get much air time, his talk takes wide view of issues in an organization, trade-offs in collaborative environment (not one analyst); in multi-analyst system (e.g. where both a researcher/biologist and a statistician are both working with the same data) have to reconcile results, there might be parallel studies where results need to be reconciled, >> this creates a need for the data to be created in similar environments. 
   
@@ -106,7 +106,7 @@ An over-arching structure of what a project could (or should?) look like can be 
   - Roger Peng: most organizations don't realize that they are explicitly making these trade-offs, can't maximize all. Have to make a choice, and that's very unsatisfactory for people.
 
 
-* Emily Robinson, [Red Flags in Data Science Interviews](http://hookedondata.org/Red-Flags-in-Data-Science-Interviews/)
+Emily Robinson, [Red Flags in Data Science Interviews](http://hookedondata.org/Red-Flags-in-Data-Science-Interviews/)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">New blog post, co-written with <a href="https://twitter.com/skyetetra?ref_src=twsrc%5Etfw">/@/skyetetra</a>! 12 red flags to watch out for in data science interviews 🚩<a href="https://t.co/hM2E7I46Da">https://t.co/hM2E7I46Da</a> <a href="https://t.co/jFVA7mmjjU">pic.twitter.com/jFVA7mmjjU</a></p>&mdash; Emily Robinson (/@/robinson_es) <a href="https://twitter.com/robinson_es/status/1014164367292747778?ref_src=twsrc%5Etfw">July 3, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -116,7 +116,7 @@ An over-arching structure of what a project could (or should?) look like can be 
 
 #### {janitor}
 
-* [{janitor}](sfirke.github.io/janitor/index.html) -- "has simple functions for examining and cleaning dirty data. It was built with beginning and intermediate R users in mind and is optimized for user-friendliness. Advanced R users can already do everything covered here, but with janitor they can do it faster and save their thinking for the fun stuff."
+[{janitor}](sfirke.github.io/janitor/index.html) -- "has simple functions for examining and cleaning dirty data. It was built with beginning and intermediate R users in mind and is optimized for user-friendliness. Advanced R users can already do everything covered here, but with janitor they can do it faster and save their thinking for the fun stuff."
 
 CRAN: [janitor: Simple Tools for Examining and Cleaning Dirty Data](https://cran.r-project.org/web/packages/janitor/index.html)
 
@@ -125,7 +125,7 @@ GitHub: [sfirke/janitor](https://github.com/sfirke/janitor)
 
 #### {packrat}
 
-* [Packrat is a dependency management system for R](http://rstudio.github.io/packrat/)
+[{Packrat} is a dependency management system for R](http://rstudio.github.io/packrat/)
 
 
 CRAN: [packrat: A Dependency Management System for Projects and their R Package Dependencies](https://cran.r-project.org/web/packages/packrat/index.html)
@@ -134,10 +134,12 @@ GitHub: [rstudio/packrat](https://github.com/rstudio/packrat)
 
 ** Articles**
 
-* Miles McBain (2019-04-09) [A workflow for lightweight R dependency management](https://milesmcbain.xyz/packrat-lite/)
+Miles McBain (2019-04-09) [A workflow for lightweight R dependency management](https://milesmcbain.xyz/packrat-lite/)
 
 
 
+
+***
 
 ## Reproducible research
 
@@ -145,32 +147,37 @@ GitHub: [rstudio/packrat](https://github.com/rstudio/packrat)
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-* [reproducibleresearch.net](http://reproducibleresearch.net/)
+[reproducibleresearch.net](http://reproducibleresearch.net/)
 
-* Roger Peng (2014-06-06) [The Real Reason Reproducible Research is Important](https://simplystatistics.org/2014/06/06/the-real-reason-reproducible-research-is-important/)
 
-* Roger Peng, 2015-06-15, ["The reproducibility crisis in science: A statistical counterattack"](http://onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2015.00827.x/full), [_Significance_](http://rss.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)1740-9713/)
+Justin Kitzes, Daniel Turek, Fatma Deniz (Eds.), [The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences](https://www.practicereproducibleresearch.org/) -- online book with 31 case studies of reproducible research workflows.
 
-* Rich FitzJohn, Matt Pennell, Amy Zanne, Will Cornwell (2014-06-09) [Reproducible research is still a challenge](https://ropensci.org/blog/2014/06/09/reproducibility/) (at [rOpenSci](https://ropensci.org/))
 
-* Melissa Assel, MS; Andrew J. Vickers, PhD (2018-02-06) ["Statistical Code for Clinical Research Papers in a High-Impact Specialist Medical Journal"](http://annals.org/aim/article-abstract/2671924/statistical-code-clinical-research-papers-high-impact-specialist-medical-journal), _Annals of Internal Medicine_
+Roger Peng (2014-06-06) [The Real Reason Reproducible Research is Important](https://simplystatistics.org/2014/06/06/the-real-reason-reproducible-research-is-important/)
 
-* V.	Orozco,	C.	Bontemps,	E.	Maigné,	V.	Piguet,	A.	Hofstetter,	A.	Lacroix,		
+Roger Peng, 2015-06-15, ["The reproducibility crisis in science: A statistical counterattack"](http://onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2015.00827.x/full), [_Significance_](http://rss.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)1740-9713/)
+
+Rich FitzJohn, Matt Pennell, Amy Zanne, Will Cornwell (2014-06-09) [Reproducible research is still a challenge](https://ropensci.org/blog/2014/06/09/reproducibility/) (at [rOpenSci](https://ropensci.org/))
+
+Melissa Assel, MS; Andrew J. Vickers, PhD (2018-02-06) ["Statistical Code for Clinical Research Papers in a High-Impact Specialist Medical Journal"](http://annals.org/aim/article-abstract/2671924/statistical-code-clinical-research-papers-high-impact-specialist-medical-journal), _Annals of Internal Medicine_
+
+V.	Orozco,	C.	Bontemps,	E.	Maigné,	V.	Piguet,	A.	Hofstetter,	A.	Lacroix,		
 F.	Levert,	J.M.	Rousselle	(2018-07) ["How	To	Make	A	Pie:	Reproducible	Research	for	Empirical	
 Economics	&	Econometrics"](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/wp/2018/wp_tse_933.pdf)
 
-* Jeffrey M. Perkel, ["A toolkit for data transparency takes shape"](https://www.nature.com/articles/d41586-018-05990-5), _Nature_, 2018-08-20.
+Jeffrey M. Perkel, ["A toolkit for data transparency takes shape"](https://www.nature.com/articles/d41586-018-05990-5), _Nature_, 2018-08-20.
 
-* Daniel Barron (2018-08-13) [How Freely Should Scientists Share Their Data?](https://blogs.scientificamerican.com/observations/how-freely-should-scientists-share-their-data/), _Scientific American_ blog
+Daniel Barron (2018-08-13) [How Freely Should Scientists Share Their Data?](https://blogs.scientificamerican.com/observations/how-freely-should-scientists-share-their-data/), _Scientific American_ blog
 
-* Karl Broman (2019-02-17) [Collaboratingreproducibly](https://www.biostat.wisc.edu/~kbroman/presentations/rrcollab_aaas2019.pdf), slides for talk given at the AAAS meeting in Washington, DC. (See also  https://github.com/kbroman/Talk_AAAS2019)
+Karl Broman (2019-02-17) [Collaboratingreproducibly](https://www.biostat.wisc.edu/~kbroman/presentations/rrcollab_aaas2019.pdf), slides for talk given at the AAAS meeting in Washington, DC. (See also  https://github.com/kbroman/Talk_AAAS2019)
+
 
 
 ### Reproducible research with R
 
-* Jeremy Anglin, [Reproducible analysis with knitr, R Markdown, and RStudio](https://github.com/jeromyanglim/rmarkdown-rmeetup-2012)
+Jeremy Anglin, [Reproducible analysis with knitr, R Markdown, and RStudio](https://github.com/jeromyanglim/rmarkdown-rmeetup-2012)
  
-* Ben Marwick, 20 July 2017, [Reproducible Research Compendia via R packages](https://rawgit.com/benmarwick/Marwick-Berlin-R-users-2017/master/Marwick-Berlin-R-users-2017.html#1), presentation at Berlin R Users
+Ben Marwick, 20 July 2017, [Reproducible Research Compendia via R packages](https://rawgit.com/benmarwick/Marwick-Berlin-R-users-2017/master/Marwick-Berlin-R-users-2017.html#1), presentation at Berlin R Users
 
 
 * see also [{redoc}], "a package to enable a two-way R Markdown Microsoft Word workflow. It generates Word documents that can be de-rendered back into R Markdown, retaining edits on the Word document, including tracked changes."
@@ -180,47 +187,47 @@ Economics	&	Econometrics"](https://www.tse-fr.eu/sites/default/files/TSE/documen
 
 ### Reproducible data
 
-* Greg Finak (2018-09-18) [Building Reproducible Data Packages with DataPackageR](https://ropensci.org/blog/2018/09/18/datapackager/)
+Greg Finak (2018-09-18) [Building Reproducible Data Packages with DataPackageR](https://ropensci.org/blog/2018/09/18/datapackager/)
 
-* Luis Darcy Verde Arregoitia (2018) [Good practices for sharing analysis-ready data in mammalogy and biodiversity research](http://www.italian-journal-of-mammalogy.it/Good-practices-for-sharing-analysis-ready-data-in-mammalogy-and-biodiversity-research,101564,0,2.html), Hystrix It. J. Mamm. 2018;29(2):155–161
+Luis Darcy Verde Arregoitia (2018) [Good practices for sharing analysis-ready data in mammalogy and biodiversity research](http://www.italian-journal-of-mammalogy.it/Good-practices-for-sharing-analysis-ready-data-in-mammalogy-and-biodiversity-research,101564,0,2.html), Hystrix It. J. Mamm. 2018;29(2):155–161
 
 
 
 ### spreadsheets: the anti-reproducible research
 
-* Karl Broman and Kara Woo, ["Data organization in spreadsheets"] [@Broman_Woo_2017].
+Karl Broman and Kara Woo, ["Data organization in spreadsheets"] [@Broman_Woo_2017].
 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I read &quot;Data analysis without scripting&quot; as &quot;Dystopian moonscape of unrecorded user actions&quot;. I may not be Tableau&#39;s target market. <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a></p>&mdash; Gordon Shotwell (/@/gshotwell) <a href="https://twitter.com/gshotwell/status/577485681146097664">March 16, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-* Jenny Bryan's [spreadsheets](https://speakerdeck.com/jennybc/spreadsheets) talk given May & June 2016 reframes Shotwell as "Spreadsheets: a dystopian moonscape of unrecorded user actions."
+Jenny Bryan's [spreadsheets](https://speakerdeck.com/jennybc/spreadsheets) talk given May & June 2016 reframes Shotwell as "Spreadsheets: a dystopian moonscape of unrecorded user actions."
 
 ![https://speakerdeck.com/jennybc/spreadsheets?slide=4](dystopian_moonscape.jpg)
 
   - live in-person (https://pbs.twimg.com/media/CmDykgRWAAE-_MP.jpg)
   
-* Ignasi Bartomeus and F Rodriguez-Sanchez,  _Non-reproducible workflows: a horror movie_ :
+Ignasi Bartomeus and F Rodriguez-Sanchez,  _Non-reproducible workflows: a horror movie_ :
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">That awesome video on reproducibility with <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> by <a href="https://twitter.com/ibartomeus?ref_src=twsrc%5Etfw">/@/ibartomeus</a> and <a href="https://twitter.com/frod_san?ref_src=twsrc%5Etfw">/@/frod_san</a> you can find here: <a href="https://t.co/indBflvupv">https://t.co/indBflvupv</a> <a href="https://t.co/QcdonwVTk8">https://t.co/QcdonwVTk8</a></p>&mdash; David Smith (/@/revodavid) <a href="https://twitter.com/revodavid/status/917779772385656832?ref_src=twsrc%5Etfw">October 10, 2017</a></blockquote>
 
     - with more at [Reproducibilidad](http://ecoinfaeet.github.io/2016/07/06/reproducibilidad/)
 
 
-* Gordon Shotwell, 2017-02-02, [R for Excel Users](http://blog.shotwell.ca/post/r_for_excel_users/)
+Gordon Shotwell, 2017-02-02, [R for Excel Users](http://blog.shotwell.ca/post/r_for_excel_users/)
 
-* Luis A. Apiolaza, 2017-11-11, [Reducing friction in R to avoid Excel](http://www.quantumforest.com/2017/11/reducing-friction-to-avoid-excel/)
+Luis A. Apiolaza, 2017-11-11, [Reducing friction in R to avoid Excel](http://www.quantumforest.com/2017/11/reducing-friction-to-avoid-excel/)
 
 
 
 
 ## Collaboration
 
-* Amit Bhattacharyya, 2017-11-01, [Become a Better Statistician by Actively Collaborating](http://magazine.amstat.org/blog/2017/11/01/collaborating/) (at [_Amstatnews_](http://magazine.amstat.org/))
+Amit Bhattacharyya, 2017-11-01, [Become a Better Statistician by Actively Collaborating](http://magazine.amstat.org/blog/2017/11/01/collaborating/) (at [_Amstatnews_](http://magazine.amstat.org/))
 
 
-* Peter Seibel, 2017-11-19, [Repo style wars: mono vs multi](http://www.gigamonkeys.com/mono-vs-multi/)
+Peter Seibel, 2017-11-19, [Repo style wars: mono vs multi](http://www.gigamonkeys.com/mono-vs-multi/)
 
 
 
@@ -254,9 +261,9 @@ Roger Peng (2018) [Context Compatibility in Data Analysis](https://simplystatist
 
 ## File storage and naming conventions
 
-* [Sustainability of Digital Formats: Planning for Library of Congress Collections](http://www.digitalpreservation.gov/formats/index.shtml)
+[Sustainability of Digital Formats: Planning for Library of Congress Collections](http://www.digitalpreservation.gov/formats/index.shtml)
 
-* Jenny Bryan, [naming things](http://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf),
+Jenny Bryan, [naming things](http://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf),
 Reproducible Science Workshop, 2015
 
 
@@ -265,9 +272,9 @@ Reproducible Science Workshop, 2015
 
 ## Data practice
 
-* Karl Broman, [data organization](http://kbroman.org/dataorg/)
+Karl Broman, [data organization](http://kbroman.org/dataorg/)
 
-* Karl Broman and Kara Woo, ["Data organization in spreadsheets"] [@Broman_Woo_2017].
+Karl Broman and Kara Woo, ["Data organization in spreadsheets"] [@Broman_Woo_2017].
 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">For data scientists thinking about biases in your data, don&#39;t start by reading the computer science literature. Read epidemiology instead. You need data street smarts, not mathy book smarts. Otherwise the first data set you meet is going to beat you up and take your lunch money!</p>&mdash; Kareem ❤️ statistics (/@/kareem_carr) <a href="https://twitter.com/kareem_carr/status/1094993530097991680?ref_src=twsrc%5Etfw">February 11, 2019</a></blockquote>
@@ -276,7 +283,7 @@ Reproducible Science Workshop, 2015
 
 ### Versioned data
 
-* Daniel Falster, Richard G FitzJohn, Matthew W. Pennell, William K. Cornwell (2017-11-10) [Versioned data: why it is needed and how it can be achieved (easily and cheaply)](https://peerj.com/preprints/3401/)
+Daniel Falster, Richard G FitzJohn, Matthew W. Pennell, William K. Cornwell (2017-11-10) [Versioned data: why it is needed and how it can be achieved (easily and cheaply)](https://peerj.com/preprints/3401/)
 
 
 ***
@@ -310,9 +317,9 @@ John D. Blischak, Emily R. Davenport, Greg Wilson (2016-01-19) ["A Quick Introdu
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Writing documentation is all about making future you remember things that present you knows future you will forget&quot; -- <a href="https://twitter.com/data_stephanie?ref_src=twsrc%5Etfw">/@/data_stephanie</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/Rladies?src=hash&amp;ref_src=twsrc%5Etfw">#Rladies</a></p>&mdash; R-Ladies Chicago (/@/RLadiesChicago) <a href="https://twitter.com/RLadiesChicago/status/963576859152744456?ref_src=twsrc%5Etfw">February 14, 2018</a></blockquote>
 
-* Sébastien Rochette, 2019-07-10, [Rmd first: When development starts with documentation](https://www.r-bloggers.com/rmd-first-when-development-starts-with-documentation/)
+Sébastien Rochette, 2019-07-10, [Rmd first: When development starts with documentation](https://www.r-bloggers.com/rmd-first-when-development-starts-with-documentation/)
 
-  - see also [RMarkdown]
+* see also [RMarkdown]
   
 
 ### Literate programming
