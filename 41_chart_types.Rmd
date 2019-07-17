@@ -106,14 +106,16 @@ Package: {ggeneology}
 Rebecca L. Barter & Bin Yu, 2017-01-30, ["Superheat: An R package for creating beautiful and extendable heatmaps for visualizing complext data"](https://arxiv.org/pdf/1512.01524.pdf)
 
 
+[Heatmaps in R](https://plot.ly/r/heatmaps/), from [ploty](https://plot.ly/)
 
 
-## Histograms and their variants
 
+## Histograms
+
+_see also [Mosaic (a.k.a. Marimekko) charts]_
 
 [Variable width column charts](https://learnr.wordpress.com/2009/03/29/ggplot2_marimekko_mosaic_chart/) (in ggplot2)
 
-[Mosaic or Marimekko charts](https://learnr.wordpress.com/2009/03/29/ggplot2_marimekko_mosaic_chart/) (in ggplot2)
 
 Aran Lunzer and Amelia McNamara, [What's so hard about histograms?](http://tinlizzie.org/histograms/)
 
@@ -124,6 +126,27 @@ Aran Lunzer and Amelia McNamara, [What's so hard about histograms?](http://tinli
 
 Tim RiffeEmail author, Jonas Schöley and Francisco Villavicencio (2017) ["A unified framework of demographic time"](http://genus.springeropen.com/articles/10.1186/s41118-017-0024-4), _Genus: Journal of Population Sciences_, 2017 73:7
 
+
+
+## Mosaic (a.k.a. Marimekko) charts
+
+_Mosaic plots are a variant of [Histograms]_
+
+
+
+Haley Jeppson and Heike Hofmann (2018-09-12) [Mosaic plots with ggplot2](https://cran.r-project.org/web/packages/ggmosaic/vignettes/ggmosaic.html)
+
+
+Hadley Wickham and Heike Hofmann, ["Product Plots"][@Wickham-Hofmann_2011]
+
+
+[Mosaic or Marimekko charts](https://learnr.wordpress.com/2009/03/29/ggplot2_marimekko_mosaic_chart/) (in ggplot2)
+
+
+Perceptual Edge, [A Design Problem](https://www.perceptualedge.com/example13.php)
+
+
+Alberto Cairo (2019-07-09) [A mosaic plot that exemplifies good design practices](http://www.thefunctionalart.com/2019/07/a-mosaic-plot-that-exemplifies-good.html)
 
 
 
