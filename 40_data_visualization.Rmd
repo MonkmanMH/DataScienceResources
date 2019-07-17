@@ -12,6 +12,11 @@ But start here:
 
 * Alberto Cairo, _The Functional Art_ [@Cairo_2013] and _The Truthful Art_ [@Cairo_2016] are framed in the context of Cairo's professional expertise in "data journalism".
 
+  -- Cairo's blog has a number of very good posts, including:
+  
+  -- [Keep those legends ](http://www.thefunctionalart.com/2019/07/keep-those-legends.html) (2019-07-17)
+  
+
 * William S. Cleveland's books, _Visualizing Data_ [@Cleveland_1993] and _The Elements of Graphing Data_ [@Cleveland_1994], are classics in the field of statistical graphics.
 
 * Kennedy Elliot, [Everything we know about how humans interpret graphics](https://www.youtube.com/watch?v=s0J6EDvlN30), video of talk given at OpenVis conference, 2016-04-25 & 26.
