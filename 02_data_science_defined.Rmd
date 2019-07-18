@@ -57,7 +57,7 @@ Roger Peng, [_R Programming for Data Science_] [@Peng2018]
 Chester Ismay and Albert Y. Kim, 2019-02-24, [_Modern Dive: Statistical Inference via Data Science (A moderndive into R and the tidyverse)_](http://moderndive.com/) [@Ismay_Kim_2018] (was _An Introduction to Statistical and Data Sciences via R_)
 
 
-* Chester Ismay, 2017-03-02, [Getting used to R, RStudio, and R Markdown](https://ismayc.github.io/rbasics-book/)
+Chester Ismay and Patrick C. Kennedy, 2018-05-23, [Getting used to R, RStudio, and R Markdown](https://ismayc.github.io/rbasics-book/)
 
 
 
