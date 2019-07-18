@@ -93,7 +93,7 @@ github: [hadley/dplyr](https://github.com/hadley/dplyr)
 * Gary Hutson, 2018-05-24, [**DPLYR**: A Beginners Guide](https://www.r-bloggers.com/dplyr-a-beginners-guide/)
 
 
-Isabella Ghemett, 2019-07-18, [`group_split()` function](https://threadreaderapp.com/thread/1151579390771224576.html) -- twitter thread with a short example
+Isabella R. Ghement, 2019-07-18, [`group_split()` function](https://threadreaderapp.com/thread/1151579390771224576.html) -- twitter thread with a short example
 
 Francois Romain, 2019-07-10, [n() cool #dplyr things](https://speakerdeck.com/romainfrancois/n-cool-number-dplyr-things), presentation at UseR2019, Toulouse
 
