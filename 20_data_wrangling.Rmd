@@ -1,10 +1,51 @@
-# Data Wrangling (emphasis on **dplyr**) {#datawrangling}
-
+# Data Wrangling (emphasis on tidy data) {#datawrangling}
 
 
 ## Introduction
 
 Data is rarely in condition to use it...there's invariably something amiss.  Data wrangling (a.k.a. data carpentry) is the process of getting it ready for analysis.
+
+And all too often, data are messy. There are rows with no contents, colour-coded cells, and inconsistent values.
+
+One important way that data can be cleaned is to ensure that the structure is tidy. What do we mean by tidy data?
+
+> There are three interrelated rules which make a dataset tidy:
+> * Each variable must have its own column.
+> * Each observation must have its own row.
+> * Each value must have its own cell.
+
+And 
+
+> Why ensure that your data is tidy? There are two main advantages:
+> 
+> 1. There’s a general advantage to picking one consistent way of storing data. If you have a consistent data structure, it’s easier to learn the tools that work with it because they have an underlying uniformity.
+>
+> 2. There’s a specific advantage to placing variables in columns because it allows R’s vectorised nature to shine. As you learned in mutate and summary functions, most built-in R functions work with vectors of values. That makes transforming tidy data feel particularly natural.
+
+(from [@Wickham_Grolemund2016])
+
+
+This won't solve things like inconsistent values and colour-coded cells, but it will solve some other messiness.
+
+For more about the principles of tidy data, see Hadley Wickham's article "Tidy data", in _The Journal of Statistical Software_ [@tidydata]
+
+  + [alternate link:](http://vita.had.co.nz/papers/tidy-data.html)
+  + [informal and code-heavy version](https://cran.r-project.org/package=tidyr/vignettes/tidy-data.html)
+ 
+
+### Other tidyverse references
+
+Karl Broman and Kara Woo, ["Data organization in spreadsheets"](https://github.com/kbroman/Paper_DataOrg) (github page with source manuscript) -- application of tidy principles to spreadsheets.
+
+* see also Karl Broman's tutorial, ["Data organization: organizing data in spreadsheets)
+
+
+Bruno Rodriguez, [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/)
+
+
+Jesse Sadler, [Excel vs R: A Brief Introduction to R  (With examples using dplyr and ggplot](http://kbroman.org/dataorg/](https://www.jessesadler.com/post/excel-vs-r/) (2017-10-02)
+
+
 
 
 ## Theory and methods
@@ -13,28 +54,30 @@ Data is rarely in condition to use it...there's invariably something amiss.  Dat
 [Stat 545: Data wrangling, exploration, and analysis with R](http://stat545.com/index.html) -- course materials associated with the University of British Columbia's Statistics 545 course. Prepared in large part by Dr. Jenny Bryan.
 
 
-### Tidy evaluation
 
-* programming with **dplyr**
+***
 
-Edwin Thoen, 2017-08-25 [Tidy evaluation, most common actions](https://edwinth.github.io/blog/dplyr-recipes/)
-
-### Reading messy files
-
-Luis D. Verde, 2018-12-14, [Tidyeval meets PDF table hell](http://luisdva.github.io/rstats/Tidyeval-pdf-hell/) -- great solution to the common problem of broken rows ("values that are broken up into two lines for whatever reason (often to optimize space on a page in a table in a typeset pdf)"). 
+## Tools
 
 
-### Working with dates
+### {datapasta} -
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Updated Turing Test concept:<br>A spreadsheet of dates, hand-entered by interns more than a decade ago, featuring such well-known time formats as &quot;1996ish&quot;, &quot;1941/xd01944&quot;, &quot;1955?&quot; and &quot;WWII.&quot;<br>I&#39;m not worried about AI until someone shows me the algorithm that can make sense of this. <a href="https://t.co/IhzofigX2b">pic.twitter.com/IhzofigX2b</a></p>&mdash; Brooke Watson (/@/brookLYNevery1) <a href="https://twitter.com/brookLYNevery1/status/954368989181902848?ref_src=twsrc%5Etfw">January 19, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Vignette: [How to Datapasta](https://cran.r-project.org/web/packages/datapasta/vignettes/how-to-datapasta.html)
 
 
-## R
 
-Arranged by package
+### {janitor} -
 
-### **dplyr**
+***
+
+## The tidyverse
+
+[The tidyverse: ](http://tidyverse.org/)
+
+[The tidyverse R packages on github](https://github.com/hadley/tidyverse)
+
+
+### {dplyr} - 
 
 **package**
 
@@ -51,7 +94,8 @@ github: [hadley/dplyr](https://github.com/hadley/dplyr)
 
 
 
-### **forcats**
+
+### {forcats} - 
 
 [reference page](https://forcats.tidyverse.org/)
 
@@ -60,9 +104,12 @@ Working with factors
 [Be the boss of your factors](https://stat545.com/block029_factors.html#change-order-of-the-levels-because-i-said-so)
 
 
+Emily Robinson, _Categorical data in the tidyverse_ {link to DataCamp course removed}
 
 
-### **purrr**
+
+### {purrr} - 
+
 
 [reference page](https://purrr.tidyverse.org/)
 
@@ -82,6 +129,56 @@ Jenny Bryan, [purrr tutorial](https://jennybc.github.io/purrr-tutorial/index.htm
 Emorie D Beck, [Intro to purrr](https://emoriebeck.github.io/R-tutorials/purrr/)
 
 Sharon Machlis, [R Tip: Access nested list items with purrr](https://www.infoworld.com/video/90327/r-tip-access-nested-list-items-with-purrr) {video}
+
+
+[A purrr tutorial](https://github.com/Cascadia-R/purrr-tutorial) -- Cascadia-R, 2017-06-03
+
+Charlotte Wickham, [purr tutorial](https://github.com/cwickham/purrr-tutorial) -- github
+
+
+
+***
+
+### more about tidy data
+
+* Hadley Wickham & Garrett Grolemund, [_R for Data Science_](http://r4ds.had.co.nz/)
+
+* Hadley Wickham
+  + [Tidy data and tidy tools (video of presentation, December 2011)](https://vimeo.com/33727555)
+
+* Garrett Grolemund
+  + [Data Tidying](http://garrettgman.github.io/tidying/) (part of [Data Science with R](http://garrettgman.github.io/))
+  
+* Chester Ismay and Ted Laderas, [A gRadual-intRoduction to the tidyverse](https://github.com/Cascadia-R/gRadual-intRoduction-tidyverse?utm_content=buffer98896&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
+
+
+
+
+## Working with dates
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Updated Turing Test concept:<br>A spreadsheet of dates, hand-entered by interns more than a decade ago, featuring such well-known time formats as &quot;1996ish&quot;, &quot;1941/xd01944&quot;, &quot;1955?&quot; and &quot;WWII.&quot;<br>I&#39;m not worried about AI until someone shows me the algorithm that can make sense of this. <a href="https://t.co/IhzofigX2b">pic.twitter.com/IhzofigX2b</a></p>&mdash; Brooke Watson (/@/brookLYNevery1) <a href="https://twitter.com/brookLYNevery1/status/954368989181902848?ref_src=twsrc%5Etfw">January 19, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+{lubridate}
+
+
+
+  
+### Tidy evaluation
+
+* programming with **dplyr**
+
+Edwin Thoen, 2017-08-25 [Tidy evaluation, most common actions](https://edwinth.github.io/blog/dplyr-recipes/)
+
+
+
+### Tidy text
+
+If  you're going to undertake text mining and natural language processing, your text (i.e. your data) needs to be tidy.  Fortunately, there's an R package for that: `tidytext`.
+
+See the companion chapter on the topics of [Text Analysis and Text Mining].
+
 
 
 -30-

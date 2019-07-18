@@ -23,7 +23,7 @@ In particular, survey data
 [R database interfaces](http://www.burns-stat.com/r-database-interfaces/)
 
 
-### **rio**
+### {rio} -
 
 **package**
 
@@ -33,7 +33,7 @@ vignette: [Import, Export, and Convert Data Files](https://cran.r-project.org/pa
 
 
 
-### **googledrive**
+### {googledrive} -
 
 **package**
 
@@ -43,7 +43,7 @@ tidyverse page: [`googledrive`](https://tidyverse.github.io/googledrive/)
 
 
 
-### **foreign**
+### {foreign} -
 
 **package**
 
@@ -54,17 +54,30 @@ CRAN page: [foreign: Read Data Stored by Minitab, S, SAS, SPSS, Stata, Systat, W
 * [How to open an SPSS file into R](http://www.milanor.net/blog/how-to-open-an-spss-file-into-r/), by Davide Massidda (2014-03-26)
 
 
+### {haven} - 
 
-### Stata files
+**package**
 
-**`read.dta`**
+**articles**
+
+
+## PDF files
+
+Luis D. Verde, 2018-12-14, [Tidyeval meets PDF table hell](http://luisdva.github.io/rstats/Tidyeval-pdf-hell/) -- great solution to the common problem of broken rows ("values that are broken up into two lines for whatever reason (often to optimize space on a page in a table in a typeset pdf)"). 
+
+
+
+
+## Stata files
+
+### {read.dta} -
 
 Reads a file in Stata version 5–12 binary format into a data frame.
 
 CRAN page: [`read.dta`: Read Stata Binary Files](http://stat.ethz.ch/R-manual/R-devel/library/foreign/html/read.dta.html)
 
 
-**readstata13**
+### {readstata13} -
 
 Function to read and write the 'Stata' file format.
 
@@ -72,9 +85,9 @@ CRAN Page: [readstata13: Import 'Stata' Data Files](readstata13: Import 'Stata' 
 
 
 
+## Time series database files
 
-
-### **TSdbi** and related packages
+### {TSdbi} and related packages
 
 **package**
 
@@ -90,3 +103,4 @@ Note: `TSdbi` has some related extension packages:
 * CRAN page: [TSsdmx: 'TSdbi' Extension to Connect with 'SDMX'](https://cran.r-project.org/package=TSsdmx)
 
 
+-30-

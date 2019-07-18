@@ -78,7 +78,7 @@ Ray Li (2016) ["7 habits of highly effective data analysis"](http://dataconomy.c
 Noble, William Stafford (2009-07-31) [A Quick Guide to Organizing Computational Biology Projects](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424),  _PLoS Comput Biol_ 5(7): e1000424. 
 
 
-### Version Control with Git & GitHub
+## Version Control with Git & GitHub
 
 Jenny Bryan, the STAT 545 TAs, Jim Hester [Happy Git and GitHub for the useR](https://happygitwithr.com/)
 
@@ -112,9 +112,9 @@ Emily Robinson, [Red Flags in Data Science Interviews](http://hookedondata.org/R
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-### R packages supporting robust workflow
+## R packages supporting robust workflow
 
-#### {janitor}
+### {janitor} -
 
 [{janitor}](sfirke.github.io/janitor/index.html) -- "has simple functions for examining and cleaning dirty data. It was built with beginning and intermediate R users in mind and is optimized for user-friendliness. Advanced R users can already do everything covered here, but with janitor they can do it faster and save their thinking for the fun stuff."
 
@@ -123,7 +123,7 @@ CRAN: [janitor: Simple Tools for Examining and Cleaning Dirty Data](https://cran
 GitHub: [sfirke/janitor](https://github.com/sfirke/janitor)
 
 
-#### {packrat}
+### {packrat} -
 
 [{Packrat} is a dependency management system for R](http://rstudio.github.io/packrat/)
 
@@ -136,6 +136,12 @@ GitHub: [rstudio/packrat](https://github.com/rstudio/packrat)
 
 Miles McBain (2019-04-09) [A workflow for lightweight R dependency management](https://milesmcbain.xyz/packrat-lite/)
 
+
+### {usethis} - 
+
+"usethis is a workflow package: it automates repetitive tasks that arise during project setup and development, both for R packages and non-package projects"
+
+[usethis 1.5.0](https://www.tidyverse.org/articles/2019/04/usethis-1.5.0/) (April 2019)
 
 
 
