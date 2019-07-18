@@ -28,7 +28,7 @@ https://twitter.com/AllieSherier/status/1098988779833040903
 ### Packages
 
 
-#### `kableExtra`
+#### {kableExtra} -
 
 **package**
 
@@ -45,7 +45,7 @@ https://haozhu233.github.io/kableExtra/
 
 
 
-#### `gt`
+#### {gt} -
 
 
 

@@ -51,7 +51,7 @@ Neil Collins, _How to Create Reports In R Markdown_, a series of blog posts
 
 ## Packages
 
-### {blogdown}
+### {blogdown} -
 
 Yihui Xie, Amber Thomas, Alison Presmanes Hill, [blogdown: Creating Websites with R Markdown][@Xie_etal_blogdown_2019]
 
@@ -76,13 +76,13 @@ Malcolm Barrett, [Move R Markdown HTML slides to Blogdown and Push to Web](https
 
 
 
-### {bookdown}
+### {bookdown} -
 
 Yihui Xie, [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
 
 
 
-### {posterdown}
+### {posterdown} -
 
 For academic conference-style posters.
 
@@ -93,7 +93,7 @@ For academic conference-style posters.
 
 
 
-### {redoc}
+### {redoc} -
 
 [redoc - Reversible Reproducible Documents](https://noamross.github.io/redoc/)
 
@@ -103,7 +103,7 @@ GitHub: [noamross/redoc](https://github.com/noamross/redoc)
 
 
 
-### {tufte}
+### {tufte} -
 
 An extension to {bookdown}, allows the creation of handouts in the style developed by Edward Tufte.
 
@@ -127,7 +127,7 @@ Package to extend range of formatting choices under the {tufte} package
 
 ***
 
-## {Shiny}
+## {Shiny} -
 
 Colin Fay, 2019-04-29, [Building a Shiny App as a Package](https://www.r-bloggers.com/building-a-shiny-app-as-a-package/) (via [R-bloggers.com](https://www.r-bloggers.com/))
 
