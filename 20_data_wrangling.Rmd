@@ -97,6 +97,11 @@ Isabella R. Ghement, 2019-07-18, [`group_split()` function](https://threadreader
 
 Francois Romain, 2019-07-10, [n() cool #dplyr things](https://speakerdeck.com/romainfrancois/n-cool-number-dplyr-things), presentation at UseR2019, Toulouse
 
+Garrick Aden-Buie, [Tidy Animated Verbs](https://www.garrickadenbuie.com/project/tidyexplain/) -- demonstrating the various types of joins
+
+[SQL Joins Explained](https://www.sql-join.com/)
+
+
 
 ### {forcats} - 
 
