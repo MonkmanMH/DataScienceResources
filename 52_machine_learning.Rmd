@@ -8,7 +8,7 @@ Machine learning is a growing field of data analysis where the building of model
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-### Theory and methods
+## Theory and methods
 
 * [Computational learning theory](https://en.wikipedia.org/wiki/Computational_learning_theory)
 
@@ -26,15 +26,17 @@ Nicholas Harvey, [CPSC 531H: Machine Learning Theory](https://www.cs.ubc.ca/~nic
 Audrey Lorberfeld, 2019-03-01, [Machine Learning Algorithms In Layman’s Terms, Part 1](https://towardsdatascience.com/machine-learning-algorithms-in-laymans-terms-part-1-d0368d769a7b)
 
 
-#### Deep learning 
+### Deep learning 
 
 Sigrid Keydana, 2019-03-14, [Math, code, concepts: A third road to deep learning](https://blogs.rstudio.com/tensorflow/posts/2019-03-15-concepts-way-to-dl/) {at the [TensorFlow for R](https://blogs.rstudio.com/tensorflow/) blog}
 
 
+***
 
-### R
 
-Laurent Gatto, 2017-10-18, [An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html)
+## R
+
+Laurent Gatto, 2019-04-24, [An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html)
 
 J.J. Allaire, [Machine Learning with R and TensorFlow](https://www.youtube.com/watch?v=atiYXm7JZv0&feature=youtu.be), keynote at rstudio::conf 2018 (youtube video)
 
@@ -50,8 +52,19 @@ Jason Brownlee, 2016-02-23, [Your First Machine Learning Project in R Step-By-St
 Brad Boehmke & Brandon Greenwell, [_Hands-on Machine Learning with R_](https://bradleyboehmke.github.io/HOML/)
 
 
+Khushbu Shah, 2016-06-06, ["What are the Best Machine Learning Packages in R?"](https://www.r-bloggers.com/what-are-the-best-machine-learning-packages-in-r/)
 
-#### {h2o}
+
+
+
+### {caret} -
+
+
+Jason Brownlee (2016-02-03) [Your First Machine Learning Project in R Step-By-Step](https://machinelearningmastery.com/machine-learning-in-r-step-by-step/) -- at [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
+
+
+
+### {h2o} -
 
 **package**
 
@@ -62,3 +75,9 @@ CRAN page: [h2o: R Interface for H2O](https://cran.r-project.org/package=h2o)
 Erin LeDell, 2017, [Automatic Machine Learning in R](https://github.com/h2oai/h2o-meetups/blob/master/2017_07_05_useR_Brussels_H2O_AutoML_in_R/useR2017_automl_july2017.pdf?utm_content=bufferaca4e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) -- presentation at UseR! Brussels
 
 
+
+### {mlr} - 
+
+[Machine Learning in R ](https://mlr.mlr-org.com/)
+
+-30-
