@@ -172,6 +172,10 @@ Charlotte Wickham, [purr tutorial](https://github.com/cwickham/purrr-tutorial) -
 
 
 
+### {anytime}
+
+[{anytime}: Convert Any Input to Parsed Date or Datetime](http://dirk.eddelbuettel.com/code/anytime.html) -- vignette
+
   
 ### Tidy evaluation
 
