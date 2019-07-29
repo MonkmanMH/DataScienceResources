@@ -174,6 +174,8 @@ There are many extension packages that allow you to make other visualizations in
 * Laura Ellis, 2018-08-01, [Highlighting with {ggplot2}: The Old School and New School Way](https://www.littlemissdata.com/blog/highlight)
 
 
+* Sharon Machlis, 2019-07-24, [How to write your own ggplot2 functions in R](https://www.infoworld.com/article/3410295/how-to-write-your-own-ggplot2-functions-in-r.html)
+
 ** _Note:_**
 
 
