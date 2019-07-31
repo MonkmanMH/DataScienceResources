@@ -1,0 +1,131 @@
+# Data science pedagogy
+
+
+
+Joyce Cahoon, [Things I Wish I Knew Before I Started Teaching](https://jcahoon.netlify.com/post/2019/07/13/things-i-wish-i-knew-before-i-started-teaching/)
+
+
+Advice for new lecturers:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Interview went well yesterday, thanks for all the messages of support. My favourite question... You are talking to a new lecturer and they are asking for advice. What are 3 pieces of advice you would give them about teaching? thread 1/4</p>&mdash; Dr Jenny Richmond (@JenRichmondPhD) <a href="https://twitter.com/JenRichmondPhD/status/1154197750243741696?ref_src=twsrc%5Etfw">July 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+and a reply:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">These are good. I would add:<br>- Not every lecture will go well. Learn from the bad ones but don’t obsess over them. <br>- Teaching is a gas and expands to fill available space. If you need to also do something else (like teaching or admin) protect that time even if ... <a href="https://t.co/corUeemG1Q">https://t.co/corUeemG1Q</a></p>&mdash; Dan Simpson (@dan_p_simpson) <a href="https://twitter.com/dan_p_simpson/status/1154262404395491328?ref_src=twsrc%5Etfw">July 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+***
+
+## Lesson planning
+
+https://www.algonquincollege.com/profres/lesson-planning/
+
+https://carleton.ca/edc/teachingresources/course-design/lesson-planning/
+
+
+## Inclusivity 
+
+https://www.chronicle.com/interactives/20190719_inclusive_teaching
+
+
+
+***
+
+
+## RStudio cloud
+
+RStudio [Class materials for Teach the Tidyverse, a Train-the-trainer workshop](https://github.com/rstudio-education/teach-the-tidyverse)
+
+(whole thread)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This semester I have switched to teaching my <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> course in Rstudio Cloud. It works like a charm and the students enjoy it too. There is no endless debugging individual computers &amp; students can get right to the fun since I can make sure everything works in advance. <a href="https://t.co/6VRYVQg2S7">pic.twitter.com/6VRYVQg2S7</a></p>&mdash; Fabio Votta📊🦉 (@favstats) <a href="https://twitter.com/favstats/status/1082761269961281536?ref_src=twsrc%5Etfw">January 8, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+***
+
+## More R-based teaching tools
+
+[PsyTeachR](https://github.com/psyteachr/webex)
+
+
+
+***
+
+
+[Steal this syllabus! (or, how I taught Scientific Writing)](https://scientistseessquirrel.wordpress.com/2018/05/01/steal-this-syllabus-or-how-i-taught-scientific-writing/)
+
+
+## Ideas on what to teach / learn
+
+
+### plagiarize from these
+
+Genomics in R
+https://carpentrieslab.github.io/genomics-r-intro/
+
+Data Science in the Tidyverse (Amelia McNamara)
+https://github.com/AmeliaMN/data-science-in-tidyverse
+
+
+data science for economists: 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;m teaching a &quot;data science for economists&quot; course this semester. <br><br>If you&#39;re interested in learning more about <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>, Git(Hub), programming, databases, cloud computation, ML, etc., I&#39;ll be making all of my course material publicly available here: <a href="https://t.co/ApJo7Nuo7d">https://t.co/ApJo7Nuo7d</a> <a href="https://t.co/9gbMb2winV">pic.twitter.com/9gbMb2winV</a></p>&mdash; Grant McDermott (@grant_mcdermott) <a href="https://twitter.com/grant_mcdermott/status/1083072663440961536?ref_src=twsrc%5Etfw">January 9, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+Nick Huntington-Klein, [ECON 305:](http://www.nickchk.com/econ305.html) (2019)
+
+
+https://medium.com/airbnb-engineering/empowering-data-science-with-data-engineering-education-ef2acabd3042
+
+* source: https://twitter.com/peteskomoroch/status/1086868119514038273
+
+
+Data Carpentry One Day Workshop
+
+* https://uf-carpentry.github.io/2018-10-04-ufii-one-day/
+
+
+R Programming (on Coursera): https://www.coursera.org/learn/r-programming
+
+
+### course structure ideas
+
+**_R learning sprint_**
+
+See whole thread:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I sent him a quick list of things I wanted to cover: <br>-Set up the basic R workspace (eg R script vs R project)<br>-Read &amp; write data (CSV, Excel, and Stata)<br>-Reshape<br>-Run simple tabs (means, variances, etc.)<br>-Working with strings and number formats<br>-Switch bw data sets</p>&mdash; Jon Schwabish (@jschwabish) <a href="https://twitter.com/jschwabish/status/1075150270290649088?ref_src=twsrc%5Etfw">December 18, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+### next
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">If you were learning the basics of R for the first time, what would you want to know in the first two hours?</p>&mdash; Colin J. Carlson (@ColinJCarlson) <a href="https://twitter.com/ColinJCarlson/status/1082480937101942784?ref_src=twsrc%5Etfw">January 8, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+replies:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Basic vocab stuff. What are &quot;functions&quot;, &quot;objects&quot;, &quot;values&quot;, &quot;vectors&quot;, &quot;environments&quot;, etc. What does it mean to &quot;assign&quot;? Really basic things.</p>&mdash; Nelson Stauffer (@NelsonStauffer) <a href="https://twitter.com/NelsonStauffer/status/1082498812629774336?ref_src=twsrc%5Etfw">January 8, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">how to read in data, how to graph the data, how to find help to do whatever I want to do in R next, how to trouble shoot error messages</p>&mdash; Auriel Fournier (@RallidaeRule) <a href="https://twitter.com/RallidaeRule/status/1082619705804943360?ref_src=twsrc%5Etfw">January 8, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Assuming I had no coding experience at all... how to &quot;see&quot; and change your R objects. Things like head, str,... and how to create and manipulate dataframes, matrices, etc.</p>&mdash; Dr Maureen Berg, microboiologist (@MaureenBug) <a href="https://twitter.com/MaureenBug/status/1082482010214477825?ref_src=twsrc%5Etfw">January 8, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Assuming they&#39;re coming from non-coding or excel background, give instant success. Read a CSV and make a bar graph, then change it to a beeswarm plot, then add color and style and make it interactive with a quick ggplotly.</p>&mdash; William Chase (@W_R_Chase) <a href="https://twitter.com/W_R_Chase/status/1082501683576557569?ref_src=twsrc%5Etfw">January 8, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">For beginners, I suggest importing/exporting multiple file types, data inspection/cleaning (head, class, level, removing empties/NAN, removing, sorting, &amp; naming rows and columns), data structures, line code for removing stored info (variables &amp; graphics), &amp; SUBSET!!!</p>&mdash; Sarah PhillipsGarcia (@EcoEvoGal) <a href="https://twitter.com/EcoEvoGal/status/1082485924284358658?ref_src=twsrc%5Etfw">January 8, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+## Other topics
+
+[ECONOMY, SOCIETY, AND PUBLIC POLICY](https://econw19.classes.andrewheiss.com/) (MPA 612, BYU)
+
+
+-30-
