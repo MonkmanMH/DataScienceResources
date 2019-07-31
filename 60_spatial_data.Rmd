@@ -19,6 +19,17 @@ Choropleth maps
 
 ## Theory and methods
 
+### Map projections
+
+A rich and complicated topic in and of itself: how can the surface of a sphere be represented in a two dimensional plane without distortion? (Answer: it can't, but the distortion can be minimized to suit the purpose of the map.) 
+
+* Randall B. Smith, 2011, [Introduction to Map Projections](https://www.microimages.com/documentation/Tutorials/project.pdf) (PDF file)
+
+* ESRI, [Understanding Map Projections](http://downloads2.esri.com/support/documentation/ao_/710Understanding_Map_Projections.pdf) (PDF file)
+
+* Alberto Cairo, 2019-07-31, [The Mercator projection isn't “a monstrosity"](http://www.thefunctionalart.com/2019/07/the-mercator-projection-isnt-monstrosity.html)
+
+
 
 ### Canadian geography: shapefiles
 
