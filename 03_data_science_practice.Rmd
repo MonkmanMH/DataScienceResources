@@ -153,6 +153,11 @@ Miles McBain (2019-04-09) [A workflow for lightweight R dependency management](h
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+Or:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Every scientific project will be redone in its entirety about 10-20 times from start to publication. Plan your work flow accordingly, e.g. a piece of R code that takes a data file and produces the analysis and figure/s. Change the data? Just rerun the code.</p>&mdash; Trevor A. Branch (@TrevorABranch) <a href="https://twitter.com/TrevorABranch/status/1157006269292507136?ref_src=twsrc%5Etfw">August 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
 [reproducibleresearch.net](http://reproducibleresearch.net/)
 
 
