@@ -30,6 +30,18 @@ https://www.chronicle.com/interactives/20190719_inclusive_teaching
 
 ***
 
+## Teaching R
+
+Wisdom from Roger Peng:
+
+> You have to decide how to teach this topic...you have to decide how to present this material, and in what order. 
+> Are you teaching people how to analyze data, or are you teaching people a programming language?
+
+Not So Standard Deviations, [Episode 84 "All the Easy Issues"](http://nssdeviations.com/84-all-the-easy-issues) (discussion starting at ~39:45)
+
+
+***
+
 
 ## RStudio cloud
 
