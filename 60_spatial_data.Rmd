@@ -45,6 +45,7 @@ A rich and complicated topic in and of itself: how can the surface of a sphere b
 
 * [Provincial Electoral Districts - Electoral Boundaries Redistribution, 2008](https://catalogue.data.gov.bc.ca/dataset/provincial-electoral-districts-electoral-boundaries-redistribution-2008)
 
+
 ### Geographic references
 
 [Spatial Reference](http://www.spatialreference.org/) -- URL/URI-based references to spatial reference systems, including EPSG and ESRI.
@@ -65,6 +66,10 @@ Robin Lovelace, Jakub Nowosad, and Jannes Muenchow, [_Geocomputation with R_](ht
 * [presentations page](https://geocompr.github.io/presentations/)
 
 Edzer Pebesma and Roger Bivand, [_Spatial Data Science_](https://keen-swartz-3146c4.netlify.com/) -- textbook, work in progress.
+
+
+Manuel Gimond, [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html) -- "compilation of lecture notes for my Introduction to GIS and Spatial Analysis course (ES214)" at Colby College, Maine.
+
 
 
 ### Spatial Data in R: blogposts, tutorials, etc.
@@ -103,6 +108,8 @@ Vivek Patil (2015) [Animated choropleths using animation, ggplot2, rCharts, goog
 
 Francisco Rodriguez-Sanchez, 2013-12-18, [Spatial data in R: Using R as a GIS](https://pakillo.github.io/R-GIS-tutorial/) {github version at [Pakillo/R-GIS-tutorial](https://github.com/Pakillo/R-GIS-tutorial/blob/master/R-GIS_tutorial.md)}
 
+Mithil Shah, 2016-04-18, [R and GIS – working with shapefiles](http://www.studytrails.com/r/r-and-gis-working-with-shapefiles/)
+
 
 [R Spatial Cheatsheet](http://www.maths.lancs.ac.uk/~rowlings/Teaching/UseR2012/cheatsheet.html) {from Barry Rowlingson's [Geosppatial Data in R and Beyond](http://www.maths.lancs.ac.uk/~rowlings/Teaching/UseR2012/index.html) tutorial site}
 
@@ -111,6 +118,11 @@ Francisco Rodriguez-Sanchez, 2013-12-18, [Spatial data in R: Using R as a GIS](h
 [Maps in R](https://sesync-ci.github.io/maps-in-R-lesson/)
 
 Sharp Sight Labs, [Simple practice: basic maps with the Tidyverse](http://sharpsightlabs.com/blog/simple-practice-maps-tidyverse/)
+
+
+[Introduction to Geospatial Raster and Vector Data with R](https://datacarpentry.org/r-raster-vector-geospatial/) -- [Data Carpentry](https://datacarpentry.org/) lesson
+
+
 
 **tips and tricks**
 
@@ -125,11 +137,19 @@ Sharp Sight Labs, [Simple practice: basic maps with the Tidyverse](http://sharps
 [Making Maps with R](http://www.molecularecologist.com/2012/09/making-maps-with-r/)
 
 
+[Opening shapefile in R?](https://gis.stackexchange.com/questions/19064/opening-shapefile-in-r)
+
+
+
 ### Canadian examples: maps in R
 
 [Canadian census map division in R](http://www.scriptscoop2.com/t/9bec270a9183/canadian-census-map-division-in-r.html)
 
 [Choropleth Maps with R and ggplot2](http://unconj.ca/blog/choropleth-maps-with-r-and-ggplot2.html)
+
+
+
+***
 
 
 ## R Packages
