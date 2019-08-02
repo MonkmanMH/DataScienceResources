@@ -7,7 +7,7 @@
 
 What is data science without _data_?  Here's a few indexes and compendiums of data sources, including R packages that conveniently either bundle those data or provide mechanisms to access data from remote sources.
 
-
+* Kim, A. Y, Ismay, C., & Chunn, J. (2018). The fivethirtyeight R Package: "Tame Data" Principles for Introductory Statistics and Data Science Courses. _Technology Innovations in Statistics Education_, 11(1). Retrieved from https://escholarship.org/uc/item/0rx1231m
 
 ## Sources
 
