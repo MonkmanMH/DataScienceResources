@@ -36,13 +36,18 @@ Simon Fraser University Library: [Gender, Sexuality & Women's Studies Informatio
 ## R packages
 
 
-### **cancensus**
+### {bcdata}
+
+[bcdata](https://bcgov.github.io/bcdata/) -- An R package 📦 for searching & retrieving data from the B.C. Data Catalogue.
+
+
+### {cancensus}
 
 [Census of Canada (including the National Household Survey)](https://github.com/mountainMath/cancensus)
 
 
 
-### **cansim**
+### {cansim}
 
 **package**
 
@@ -53,7 +58,7 @@ Simon Fraser University Library: [Gender, Sexuality & Women's Studies Informatio
 Dmitry Shkolnik (2018-08-01) [The CANSIM package, Canadian tourism, and slopegraphs](https://www.dshkol.com/2018/cansim-package-tourism-slopegraphs/)
 
 
-### **CANSIM2R**
+### {CANSIM2R}
 
 [CANSIM2R: Directly Extracts Complete CANSIM Data Tables](https://cran.r-project.org/package=CANSIM2R)
 
@@ -62,14 +67,21 @@ github: [CANSIM2R](https://github.com/MarcoLugo/CANSIM2R)
 * Andrew Clarke (2017-08-09) [StatCan API's Discovered](https://www.mytinyshinys.com/2017/08/09/statcanapi/)
 
 
-### **gapminder**
+### {fivethirtyeight}
+
+[fivethirtyeight](https://fivethirtyeight-r.netlify.com/articles/fivethirtyeight.html)
+
+
+### {gapminder}
 
 [gapminder: Data from Gapminder](https://cran.r-project.org/package=gapminder) An excerpt of the data available at [Gapminder.org]. For each of 142 countries, the package provides values for life expectancy, GDP per capita, and population, every five years, from 1952 to 2007. 
 
 
-### **Lahman**
+### {Lahman}
 
 [Lahman: Sean 'Lahman' Baseball Database](https://cran.r-project.org/package=Lahman/)  Provides the tables from the 'Sean Lahman Baseball Database' as a set of R data.frames. It uses the data on pitching, hitting and fielding performance and other tables from 1871 through 2015, as recorded in the 2016 version of the database.
+
+
 
 
 
