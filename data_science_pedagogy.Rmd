@@ -28,6 +28,12 @@ https://www.chronicle.com/interactives/20190719_inclusive_teaching
 
 
 
+## Data sources
+
+Kim, A. Y, Ismay, C., & Chunn, J. (2018). The fivethirtyeight R Package: "Tame Data" Principles for Introductory Statistics and Data Science Courses. _Technology Innovations in Statistics Education_, 11(1). Retrieved from https://escholarship.org/uc/item/0rx1231m
+
+
+
 ***
 
 ## Teaching R
