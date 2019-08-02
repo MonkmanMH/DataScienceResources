@@ -71,5 +71,11 @@ Jennifer Bryan and Jim Hester, ["Debugging R code"](https://whattheyforgot.org/d
 Jessica Minnier, 2019-07-29, [Sharpening the Tools in Your Data Science Toolbox](https://jminnier-talks.netlify.com/2019_07_jsm_datascienceskills/2019_07_jsm_datascience#1)
 
 
-***
 
+### The R community
+
+David Keyes, 2019-07-29, [If You Care About Equity, Use R](https://rfortherestofus.com/2019/07/equity/)
+
+
+
+-30-
