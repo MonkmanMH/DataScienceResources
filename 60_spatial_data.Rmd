@@ -98,6 +98,8 @@ Jacinta Holloway, [raster2data](https://github.com/thejholloway/raster2data)
 
 * "This repository provides some introductory guidance for working with spatial image files, like rasters, and converting these to dataframes in R in order to perform statistical analyses. Includes an example satellite image and R code."
 
+Arda Kosar, 2018-05-01, [A Beginner’s Exploration of Shiny and Leaflet for Interactive Mapping](https://www.datascience.com/blog/beginners-guide-to-shiny-and-leaflet-for-interactive-mapping)
+
 Robin Lovelace (2014) ["R, an Integrated Statistical Programming Environment and GIS"](http://robinlovelace.net/r/2014/11/28/r-as-a-gis-geoinformatics.html) {blog post}
 
 Robin Lovelace, James Cheshire and others, 2015-, [_Introduction to visualising spatial data in R_](https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf) {or up-to-date version on github, [Robinlovelace/Creating-maps-in-R](https://github.com/Robinlovelace/Creating-maps-in-R) {tutorial}
@@ -190,7 +192,9 @@ CRAN page: [ggmap: Spatial Visualization with ggplot2]
 
 [Creating a custom soil attribute plot using ggmap](http://blog.revolutionanalytics.com/2015/01/creating-a-custom-soil-attribute-plot-using-ggmap.html)
 
-[ggmap: Spatial Visualization with ggplot2](https://journal.r-project.org/archive/2013-1/kahle-wickham.pdf) by David Kahle and Hadley Wickham, _The R Journal_ Vol. 5/1, June 2013, pp.144-161.
+Laura Ellis, 2018-04-15, [Map Plots Created With R And ggmap](https://www.littlemissdata.com/blog/maps)
+
+David Kahle and Hadley Wickham, [ggmap: Spatial Visualization with ggplot2](https://journal.r-project.org/archive/2013-1/kahle-wickham.pdf) _The R Journal_ Vol. 5/1, June 2013, pp.144-161.
 
 [Plotting Choropleths from Shapefiles in R with ggmap – Toronto Neighbourhoods by Population](http://www.r-bloggers.com/plotting-choropleths-from-shapefiles-in-r-with-ggmap-toronto-neighbourhoods-by-population/)
 
@@ -244,6 +248,8 @@ RStudio on github: [rstudio/leaflet](https://github.com/rstudio/leaflet)
 **articles**
 
 [Leaflet for R](http://rstudio.github.io/leaflet/)
+
+[Using Leaflet with Shiny](https://rstudio.github.io/leaflet/shiny.html)
 
 Robin Lovelace, [The leaflet package for online mapping in R](https://www.r-bloggers.com/the-leaflet-package-for-online-mapping-in-r/)
 
