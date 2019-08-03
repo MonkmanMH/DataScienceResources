@@ -111,7 +111,7 @@ Andrés Gutiérrez, 2017-04-16, _Small Area Estimation 101_(https://hagutierrezr
 * alternate via [R-Bloggers](https://www.r-bloggers.com/small-area-estimation-101/))
 
 
-#### {sae}
+#### `{sae}`
 
 **package**
 
@@ -122,7 +122,7 @@ CRAN page: [sae: Small Area Estimation](https://cran.r-project.org/package=sae)
 Molina, Isabel and Yolanda Marhuenda (2015) ["sae: An R Package for Small Area Estimation"](https://journal.r-project.org/archive/2015-1/molina-marhuenda.pdf), _The R Journal_ Vol. 7/1, June 2015
 
 
-#### {sae2}
+#### `{sae2}`
 
 **package**
 

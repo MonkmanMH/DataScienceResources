@@ -60,7 +60,8 @@ Jessica Calarco, July 31, 2018-07-31, [Conference Talks](http://www.jessicacalar
 ### R
 
 
-#### `xaringan` - presentations in R Markdown
+#### `{xaringan}`
+
 
 **package**
 

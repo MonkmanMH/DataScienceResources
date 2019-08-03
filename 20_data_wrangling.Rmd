@@ -62,13 +62,13 @@ Jesse Sadler, [Excel vs R: A Brief Introduction to R  (With examples using dplyr
 ## Tools
 
 
-### {datapasta} -
+### `{datapasta}`
 
 Vignette: [How to Datapasta](https://cran.r-project.org/web/packages/datapasta/vignettes/how-to-datapasta.html)
 
 
 
-### {janitor} -
+### `{janitor}`
 
 ***
 
@@ -79,7 +79,7 @@ Vignette: [How to Datapasta](https://cran.r-project.org/web/packages/datapasta/v
 [The tidyverse R packages on github](https://github.com/hadley/tidyverse)
 
 
-### {dplyr} - 
+### `{dplyr}`
 
 **package**
 
@@ -105,7 +105,7 @@ Garrick Aden-Buie, [Tidy Animated Verbs](https://www.garrickadenbuie.com/project
 
 
 
-### {forcats} - 
+### `{forcats}`
 
 [reference page](https://forcats.tidyverse.org/)
 
@@ -118,7 +118,7 @@ Emily Robinson, _Categorical data in the tidyverse_ {link to DataCamp course rem
 
 
 
-### {purrr} - 
+### `{purrr}`
 
 
 [reference page](https://purrr.tidyverse.org/)
@@ -170,18 +170,23 @@ Charlotte Wickham, [purr tutorial](https://github.com/cwickham/purrr-tutorial) -
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-{lubridate}
+### `{lubridate}`
+
+[Do more with dates and times in R](https://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html)
+
+
+[tidyverse page](https://lubridate.tidyverse.org/)
 
 
 
-### {anytime}
+### `{anytime}`
 
 [{anytime}: Convert Any Input to Parsed Date or Datetime](http://dirk.eddelbuettel.com/code/anytime.html) -- vignette
 
   
 ### Tidy evaluation
 
-* programming with **dplyr**
+* programming with {dplyr}
 
 Edwin Thoen, 2017-08-25 [Tidy evaluation, most common actions](https://edwinth.github.io/blog/dplyr-recipes/)
 
