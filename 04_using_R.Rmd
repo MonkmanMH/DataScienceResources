@@ -71,8 +71,45 @@ Jennifer Bryan and Jim Hester, ["Debugging R code"](https://whattheyforgot.org/d
 Jessica Minnier, 2019-07-29, [Sharpening the Tools in Your Data Science Toolbox](https://jminnier-talks.netlify.com/2019_07_jsm_datascienceskills/2019_07_jsm_datascience#1)
 
 
+### The R-Python interface
 
-### The R community
+
+#### {feather}
+
+{feather} is designed to read and write feather files, a lightweight binary columnar data store designed for maximum speed. There is a [parallel Python package](https://github.com/wesm/feather).
+
+
+* CRAN: [feather: R Bindings to the Feather 'API'](https://cran.r-project.org/web/packages/feather/index.html)
+
+* Hadley Wickham, 2016-03-29, [Feather: A Fast On-Disk Format for Data Frames for R and Python, powered by Apache Arrow](https://blog.rstudio.com/2016/03/29/feather/)
+
+
+
+#### {reticulate}
+
+The reticulate package provides a comprehensive set of tools for interoperability between Python and R.
+
+* [R Interface to Python](https://rstudio.github.io/reticulate/)
+
+* JJ Allaire, 2018-03-26, [reticulate: R interface to Python](https://blog.rstudio.com/2018/03/26/reticulate-r-interface-to-python/)
+
+* Jo Hardin, 2019-07-16, [reticulate: running Python within RStudio](https://teachdatascience.com/reticulate/) at teachdatascience.com 
+
+
+* [{reticulate} cheat sheet](https://resources.rstudio.com/rstudio-developed/reticulate)
+
+
+
+#### {rpy2}
+
+
+JD Long, twitter thread on {rpy2} documentation: [twitter thread](https://twitter.com/CMastication/status/1157645891672707072?s=20)
+
+
+
+***
+
+## The R community
 
 David Keyes, 2019-07-29, [If You Care About Equity, Use R](https://rfortherestofus.com/2019/07/equity/)
 
