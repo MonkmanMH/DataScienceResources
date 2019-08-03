@@ -48,7 +48,7 @@ http://andrewgelman.com/2017/03/04/interpret-confidence-intervals/
 
 ## Packages
 
-#### {broom}
+#### `{broom}`
 
 CRAN: [broom: Convert Statistical Analysis Objects into Tidy Tibbles](https://cran.r-project.org/package=broom)
 
@@ -59,7 +59,7 @@ CRAN: [broom: Convert Statistical Analysis Objects into Tidy Tibbles](https://cr
 David Robinson (2015-03-19) [broom: a package for tidying statistical models into data frames](http://varianceexplained.org/r/broom-intro/)
 
 
-#### {brms}
+#### `{brms}`
 
 [brms: Bayesian Regression Models using Stan](https://cran.r-project.org/package=brms)
 
@@ -68,13 +68,13 @@ David Robinson (2015-03-19) [broom: a package for tidying statistical models int
 [github page](https://github.com/paul-buerkner/brms)
 
 
-##### {brmstools}
+##### `{brmstools}`
 
 * [tools and helpers for `brms`](https://mvuorre.github.io/brmstools/)
 
 
 
-#### {modelr}
+#### `{modelr}`
 
 [github page](https://github.com/tidyverse/modelr)
 
@@ -102,7 +102,7 @@ University of Virginia Library Research Data Services, ["Getting Started with Qu
 
 ### R
 
-#### {quantreg}
+#### `{quantreg}`
 
 **package**
 
@@ -141,7 +141,7 @@ Paywalled articles:
 
 ### R
 
-#### {dominanceanalysis}
+#### `{dominanceanalysis}`
 
 CRAN page: [dominanceanalysis: Dominance Analysis](https://cran.r-project.org/package=dominanceanalysis/)
 
@@ -151,12 +151,12 @@ CRAN page: [dominanceanalysis: Dominance Analysis](https://cran.r-project.org/pa
 * Dominance Analysis (Azen and Bodescu), for multiple regression models: OLS (univariate, multivariate), GLM and HLM 
 
 
-#### {relaimpo}
+#### `{relaimpo}`
 
 CRAN page: [relaimpo: Relative Importance of Regressors in Linear Models](https://cran.r-project.org/package=relaimpo/)
 
 
-#### {yhat}
+#### `{yhat}`
 
 CRAN page: [yhat: Interpreting Regression Effects](https://cran.r-project.org/package=yhat/)
 

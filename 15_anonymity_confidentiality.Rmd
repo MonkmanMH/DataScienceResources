@@ -182,9 +182,9 @@ Meghan O’Malley, Lawrence R. Ernst, ["Practical Considerations in Applying the
 John Mount (1012) ["Modeling Trick: Masked Variables"](http://www.win-vector.com/blog/2012/07/modeling-trick-masked-variables/)
 
 
-### **sdcMicro**
+### `{sdcMicro}`
 
-`sdcMicro` is the best available SDC tool I have found in the R space, so I've given it top-billing rather than my usual alpabetical listing.
+{sdcMicro} is the best available SDC tool I have found in the R space, so I've given it top-billing rather than my usual alpabetical listing.
 
 **package**
 
@@ -209,7 +209,7 @@ Daniel Abril, Guillermo Navarro-Arribas and Vicenç Torra (2015) ["Data Privacy 
 
 
 
-### **sdcMicroGUI**
+### `{sdcMicroGUI}`
 
 **package**
 
@@ -221,12 +221,12 @@ Matthias Templ, Bernhard Meindl and Alexander Kowarik, [Tutorial for sdcMicroGUI
 
 
 
-### **sdcTable**
+### `{sdcTable}`
 
 CRAN page: [sdcTable: Methods for Statistical Disclosure Control in Tabular Data](https://cran.r-project.org/package=sdcTable)
 
 
-### **easySdcTable**
+### `{easySdcTable}`
 
 ** package**
 
@@ -236,7 +236,7 @@ vignette: [`easySdcTable` Vignette](https://cran.r-project.org/package=easySdcTa
 
 
 
-### **digest**
+### `{digest}`
 
 **package**
 
@@ -248,7 +248,7 @@ Jan Górecki (2014), ["Data anonymization in R"](https://jangorecki.github.io/bl
 * [alternate source](https://www.r-bloggers.com/data-anonymization-in-r/)
 
 
-### **obfuscateR**
+### `{obfuscateR}`
 
 (Note: this package has not been submitted to CRAN, and is clearly in development/stalled)
 
@@ -263,3 +263,5 @@ github page: [PedramNavid/obfuscateR](https://github.com/PedramNavid/obfuscateR)
 Benjamin Bengfort, ["A Practical Guide to Anonymizing Datasets with Python & Faker: How Not to Lose Friends and Alienate People"](http://blog.districtdatalabs.com/a-practical-guide-to-anonymizing-datasets-with-python-faker), 2016
 
  
+ 
+-30-

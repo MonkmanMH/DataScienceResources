@@ -37,7 +37,7 @@ Earo Wang, ["Melt the clock: Tidy time series analysis"](https://resources.rstud
 
 
 
-#### {tsfeatures}
+#### `{tsfeatures}`
 
 Methods for extracting various features from time series data
 
@@ -53,7 +53,7 @@ CRAN: [tsfeatures: Time Series Feature Extraction](https://cran.r-project.org/pa
 
 
 
-#### {tsibble}
+#### `{tsibble}`
 
 **package**
 
@@ -68,7 +68,7 @@ Earo Wang, 2018-12-20, ["Reintroducing tsibble: data tools that melt the clock"]
 Earo Wang and Dianne Cook and Rob J Hyndman, January 2019, "A new tidy data structure to support exploration and modeling of temporal data"[@wang-tsibble-2019]
 
 
-#### {padr}
+#### `{padr}`
 
 **package**
 
@@ -79,7 +79,7 @@ CRAN page: [padr: Quickly Get Datetime Data Ready for Analysis](https://cran.r-p
 Andrew Clark, 2017-07-19, [padr package example](https://www.mytinyshinys.com/2017/07/19/user2017-padr/)
 
 
-#### {zoo}
+#### `{zoo}`
 
 **package**
 
@@ -104,7 +104,7 @@ Kamala Kanta Mishra, [Selecting Forecasting Methods in Data Science](http://www.
 Kostiantyn Kravchuk, ["Forecasting: Time Series Exploration Exercises (Part-1)"](https://www.r-bloggers.com/forecasting-time-series-exploration-exercises-part-1/) (2017-04-10)
 
 
-#### {fable}
+#### `{fable}`
 
 "...provides methods and tools for displaying and analysing univariate time series forecasts including exponential smoothing via state space models and automatic ARIMA modelling. Data, model and forecast objects are all stored in a tidy format."
 
@@ -113,7 +113,7 @@ Kostiantyn Kravchuk, ["Forecasting: Time Series Exploration Exercises (Part-1)"]
 documentation: [`fable`](https://fable.tidyverts.org/)
 
 
-#### {prophet}
+#### `{prophet}`
 
 **package**
 
@@ -156,7 +156,7 @@ U.S. Census Bureau, [The X-13ARIMA-SEATS Seasonal Adjustment Program](https://ww
 ### R
 
 
-#### {ggseas}
+#### `{ggseas}`
 
 **package**
 
@@ -173,7 +173,7 @@ Ellis, Peter. 2016-03-28. ["Seasonal decomposition in the ggplot2 universe with 
 Ellis, Peter. 2016-02-08. ["ggseas package for seasonal adjustment on the fly with ggplot2"](http://ellisp.github.io/blog/2016/02/08/ggseas/), blog entry.
 
 
-#### {seasonal}
+#### `{seasonal}`
 
 **[seasonal: R-interface to X-13ARIMA-SEATS](http://www.seasonal.website/seasonal.html)**
 
@@ -189,7 +189,7 @@ github page: [christophsax/seasonal](https://github.com/christophsax/seasonal)
 
 
 
-#### {x12}
+#### `{x12}`
 
 **package**
 
@@ -202,7 +202,7 @@ Rytis (2013-02-08) [_Using X12-ARIMA with R_](https://blogs.fsfe.org/rytis/2013/
 
 
 
-#### {x13binary}
+#### `{x13binary}`
 
 (US Census Bureau X-13, packaged for easy loading. Loads as a dependency for most of the other seasonal adjustment packages.)
 

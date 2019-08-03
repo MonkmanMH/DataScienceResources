@@ -57,14 +57,14 @@ Khushbu Shah, 2016-06-06, ["What are the Best Machine Learning Packages in R?"](
 
 
 
-### {caret} -
+### `{caret}`
 
 
 Jason Brownlee (2016-02-03) [Your First Machine Learning Project in R Step-By-Step](https://machinelearningmastery.com/machine-learning-in-r-step-by-step/) -- at [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 
 
 
-### {h2o} -
+### `{h2o}`
 
 **package**
 
@@ -76,8 +76,10 @@ Erin LeDell, 2017, [Automatic Machine Learning in R](https://github.com/h2oai/h2
 
 
 
-### {mlr} - 
+### `{mlr}` 
 
 [Machine Learning in R ](https://mlr.mlr-org.com/)
+
+
 
 -30-

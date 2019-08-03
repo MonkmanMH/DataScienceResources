@@ -91,7 +91,7 @@ A.K.A. bar and line graphs. Don't use them!
 
 ## Genealogical data
 
-Package: {ggeneology}
+#### `{ggeneology}`
 
 * Lindsay Rutter, Susan VanderPlas, Dianne Cook, Michelle A. Graham (2019) ["ggenealogy: An R Package for Visualizing Genealogical Data"](https://www.jstatsoft.org/article/view/v089i13), _Journal of Statistical Software_, Vol 89 (13)
 
@@ -140,7 +140,7 @@ Haley Jeppson and Heike Hofmann (2018-09-12) [Mosaic plots with ggplot2](https:/
 Hadley Wickham and Heike Hofmann, ["Product Plots"][@Wickham-Hofmann_2011]
 
 
-[Mosaic or Marimekko charts](https://learnr.wordpress.com/2009/03/29/ggplot2_marimekko_mosaic_chart/) (in ggplot2)
+[Mosaic or Marimekko charts](https://learnr.wordpress.com/2009/03/29/ggplot2_marimekko_mosaic_chart/) (in {ggplot2})
 
 
 Perceptual Edge, [A Design Problem](https://www.perceptualedge.com/example13.php)
@@ -153,7 +153,10 @@ Alberto Cairo (2019-07-09) [A mosaic plot that exemplifies good design practices
 
 ## Network graphs
 
+#### `{DiagramR}`
+
 {DiagramR}: Graph and network visualization using tabular data in R
+
 
 * [github repo](https://github.com/rich-iannone/DiagrammeR)
 
@@ -182,7 +185,7 @@ Lauren Boucher (2016-03-10) [What are the different types of population pyramids
 
 [Population Pyramids for Select Canadian Provinces, 2015-2035](https://github.com/atheriel/visualizations/tree/master/provincial-demography)
 
-* uses `ggplot2` to create pyramids
+* uses {ggplot2} to create pyramids
 
 [Simpler population pyramid in ggplot2](https://stackoverflow.com/questions/14680075/simpler-population-pyramid-in-ggplot2)
 
@@ -219,7 +222,10 @@ acarioli (2016-01-11) [Population pyramids in ggplot](https://aledemogr.wordpres
 
 ** ridgeline plots in R **
 
-[`ggridges` package by Claus Wilke](https://cran.r-project.org/package=ggridges) -- CRAN page
+
+#### `{ggridges}`
+
+[{ggridges} package by Claus Wilke](https://cran.r-project.org/package=ggridges) -- CRAN page
 
 Alex Whan, 2016-03-24, [ggplot2 and Joy Division](http://alexwhan.com/2016-03-24-joy-division-plot) - at Incrutable Errors
 
@@ -259,7 +265,7 @@ Cole Nussbaumer Knaflic, 2015, _Storytelling with Data_, pp.47-49.
 Kyle Walker, 2015-05-17, [Global population change with a slopegraph in ggplot2](https://rpubs.com/walkerke/slopegraph)
 
 
-### `slopegraph`
+#### `{slopegraph}`
 
 [github](https://github.com/leeper/slopegraph)
 
@@ -269,12 +275,16 @@ Kyle Walker, 2015-05-17, [Global population change with a slopegraph in ggplot2]
 
 ## Ternary plots
 
+#### `{ggtern}`
+
 [`ggtern` - an extension to `ggplot2`](http://www.ggtern.com/) for plotting ternary diagrams.
 
 
 
 
 ## Waffle plots
+
+#### `{waffle}`
 
 **Package**
 

@@ -129,7 +129,7 @@ Medium's [Data Visualization Society](https://medium.com/data-visualization-soci
 
 
 
-## {ggplot2] -- the pre-eminent way to create charts and graphs in R
+## `{ggplot2}` -- the pre-eminent way to create charts and graphs in R
 
 * [{ggplot2}: part of the tidyverse](http://ggplot2.tidyverse.org/index.html) -- reference materials, examples, etc etc. Start here.
 
@@ -157,7 +157,7 @@ There are many extension packages that allow you to make other visualizations in
 
 * Gallery of {ggplot2} extensions: [ggplot2-exts.org/gallery/]({ggplot2} extensions - gallery )
 
-#### {ggfittext}
+#### `{ggfittext}`
 
 "ggplot2 geoms to fit text into boxes"
 
@@ -197,7 +197,7 @@ Colour is a vital part of good data visualization; the following links support t
 * [R color cheatsheet](https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/colorPaletteCheatsheet.pdf)
 
 
-### {colorspace}
+### `{colorspace}`
 
 "A Toolbox for Manipulating and Assessing Colors and Palettes"
 
@@ -220,7 +220,7 @@ Cynthia A. Brewer, Geoffrey W. Hatchard, and Mark A. Harrower (2003) ColorBrewer
 
 
 
-#### the R package [{RColorBrewer}]()
+#### the R package `{RColorBrewer}`
 
 * [RColorBrewer's Palettes](https://www.r-graph-gallery.com/38-rcolorbrewers-palettes/) from The R Graph Gallery
 

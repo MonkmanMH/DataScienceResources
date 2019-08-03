@@ -62,7 +62,7 @@ Martin Monkman, 2013-12-01, ["A few random things"](http://bayesball.blogspot.ca
 [correlated random variables: a gist](https://gist.github.com/MonkmanMH/a8b58f9cb140d702139b75467806c6d1)
 
 
-#### Random() {base R}
+#### Random() `{base R}`
 
 **package**
 
@@ -70,14 +70,14 @@ CRAN page: [Random {base}: Random number generation](http://stat.ethz.ch/R-manua
 
 
 
-#### {random}
+#### `{random}`
 
 **package**
 
 CRAN page: [random: True Random Numbers using RANDOM.ORG](https://cran.r-project.org/package=random/)
 
 
-#### {sampling}
+#### `{sampling}`
 
 **package**
 
@@ -88,3 +88,5 @@ CRAN page: [sampling: Survey Sampling](https://cran.r-project.org/package=sampli
 Examples of how the package can be applied
 
 
+
+-30-

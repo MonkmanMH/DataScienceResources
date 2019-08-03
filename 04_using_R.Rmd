@@ -74,7 +74,7 @@ Jessica Minnier, 2019-07-29, [Sharpening the Tools in Your Data Science Toolbox]
 ### The R-Python interface
 
 
-#### {feather}
+#### `{feather}`
 
 {feather} is designed to read and write feather files, a lightweight binary columnar data store designed for maximum speed. There is a [parallel Python package](https://github.com/wesm/feather).
 
@@ -85,7 +85,7 @@ Jessica Minnier, 2019-07-29, [Sharpening the Tools in Your Data Science Toolbox]
 
 
 
-#### {reticulate}
+#### `{reticulate}`
 
 The reticulate package provides a comprehensive set of tools for interoperability between Python and R.
 
@@ -100,10 +100,11 @@ The reticulate package provides a comprehensive set of tools for interoperabilit
 
 
 
-#### {rpy2}
+#### `{rpy2}`
 
 
 JD Long, twitter thread on {rpy2} documentation: [twitter thread](https://twitter.com/CMastication/status/1157645891672707072?s=20)
+
 
 
 

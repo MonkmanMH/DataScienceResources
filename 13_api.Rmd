@@ -34,7 +34,7 @@ Jose Gonzalez, [Using Google Maps API and R](https://gist.github.com/josecarlosg
 
 ### Packages
 
-#### `httr`
+#### `{httr}`
 
 CRAN: [httr: Tools for Working with URLs and HTTP](https://cran.r-project.org/package=httr/)
 
