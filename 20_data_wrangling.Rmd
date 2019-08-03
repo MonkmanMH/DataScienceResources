@@ -1,5 +1,7 @@
 # Data Wrangling (emphasis on tidy data) {#datawrangling}
 
+> If 80% of the data scientist's job is data cleaning, perhaps that _is_ the job. (Source: Anon.)
+
 
 ## Introduction
 

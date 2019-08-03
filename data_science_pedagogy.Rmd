@@ -1,5 +1,11 @@
 # Data science pedagogy
 
+## Introduction
+
+Since it's a relatively new field, it's not surprising that the best way to teach data science is still evolving. Below are some resources for those who are sorting out how to teach this cross-silo discipline.
+
+
+## General
 
 
 Joyce Cahoon, [Things I Wish I Knew Before I Started Teaching](https://jcahoon.netlify.com/post/2019/07/13/things-i-wish-i-knew-before-i-started-teaching/)
@@ -15,18 +21,26 @@ and a reply:
 
 ***
 
-## Lesson planning
+### Lesson planning
 
 https://www.algonquincollege.com/profres/lesson-planning/
 
 https://carleton.ca/edc/teachingresources/course-design/lesson-planning/
 
 
-## Inclusivity 
+### Inclusivity 
 
 https://www.chronicle.com/interactives/20190719_inclusive_teaching
 
 
+
+*** 
+
+## Data sources
+
+Kim, A. Y, Ismay, C., & Chunn, J. (2018). The fivethirtyeight R Package: "Tame Data" Principles for Introductory Statistics and Data Science Courses. _Technology Innovations in Statistics Education_, 11(1). Retrieved from https://escholarship.org/uc/item/0rx1231m
+
+See also [@datasources]
 
 ***
 
@@ -39,6 +53,10 @@ Wisdom from Roger Peng:
 
 Not So Standard Deviations, [Episode 84 "All the Easy Issues"](http://nssdeviations.com/84-all-the-easy-issues) (discussion starting at ~39:45)
 
+
+### Text books, etc
+
+See [@Statistics and other quantitative methods: courses and text books]
 
 ***
 
