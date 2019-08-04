@@ -12,15 +12,17 @@ Shana Pearlman (2016-09-07), [What are APIs and how do APIs work?](https://blogs
 ### General resources
 
 
-[Zapier course: An Introduction to APIs](https://zapier.com/learn/apis/)
+Brian Cooksey, [Zapier course: An Introduction to APIs](https://zapier.com/learn/apis/)
 
-
+Matthew Guay (2018-03-29), [What Are Webhooks? A Simple Guide to Connecting Web Apps with Webhooks](https://zapier.com/blog/what-are-webhooks/)
 
 ***
 
 
 
 ## APIs in R
+
+Lucy D'Agostino McGowan, 2018-07-31, [Harnessing the Power of the Web via R Clients for Web APIs](https://www.lucymcgowan.com/talk/asa_joint_statistical_meeting_2018/) -- presentation at the 2018 Joint Statistical Meeting
 
 Amanda Gadrow, [Using Web APIs from R](https://www.rstudio.com/resources/videos/using-web-apis-from-r/) {RStudio conference 2017 presentation}
 
