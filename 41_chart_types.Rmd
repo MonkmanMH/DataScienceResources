@@ -108,6 +108,7 @@ Rebecca L. Barter & Bin Yu, 2017-01-30, ["Superheat: An R package for creating b
 
 [Heatmaps in R](https://plot.ly/r/heatmaps/), from [ploty](https://plot.ly/)
 
+Mick Watson, 2015-04-05, [You probably don’t understand heatmaps](http://www.opiniomics.org/you-probably-dont-understand-heatmaps/)
 
 
 ## Histograms
