@@ -124,6 +124,8 @@ Medium's [Data Visualization Society](https://medium.com/data-visualization-soci
 
 * [R Graph Catalog](http://shiny.stat.ubc.ca/r-graph-catalog/) -- an unbeatable resource for making good graphs in R, described by the creators as "a complement to _Creating More Effective Graphs_ by Naomi Robbins."  [@Robbins_2013]
 
+* [The R Graph Gallery](https://www.r-graph-gallery.com/)
+
 * Michael Friendly and David Meyer (2016) _Discrete Data Analysis with R_ [@Friendly_Meyer_2016]
 
 * Kieran Healy _Data Visualization: A practical introduction_. [@Healy_2019]
