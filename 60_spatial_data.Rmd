@@ -81,6 +81,8 @@ twitter thread on "geocomputation in R":
 
 
 
+Mark Padgham, Geoff Boeing, et al., 2019-08-07, [An Introduction to Software Tools, Data, and Services for Geospatial Analysis of Stroke Services](https://www.frontiersin.org/articles/10.3389/fneur.2019.00743/full), _Frontiers in Neurology_, 07 August 2019 | https://doi.org/10.3389/fneur.2019.00743
+
 Andrew Tran, 2019, [Mapping with R NICAR19 session](https://github.com/andrewbtran/NICAR/tree/master/2019/mapping)
 
 
