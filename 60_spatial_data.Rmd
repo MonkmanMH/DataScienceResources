@@ -94,6 +94,8 @@ Nick Eubank, [Merging Spatial Data](http://www.nickeubank.com/wp-content/uploads
 
 Matthias Forkel (2015) [Analysis of spatial data in R](ftp://ftp.bgc-jena.mpg.de/pub/outgoing/mforkel/Rcourse/spatialR_2015.pdf) {PDF version of presentation/lecture slide deck}
 
+Kieran Healy, 2018-12-09, [Canada Map](https://kieranhealy.org/blog/archives/2018/12/09/canada-map/)
+
 Tomislav Hengl, [_A Practical Guide to Geostatistical Mapping_](http://spatial-analyst.net/book/) {PDF ebook available via Lulu}
 
 Jacinta Holloway, [raster2data](https://github.com/thejholloway/raster2data)
