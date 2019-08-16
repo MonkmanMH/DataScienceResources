@@ -42,6 +42,9 @@ A rich and complicated topic in and of itself: how can the surface of a sphere b
 
 British Columbia's standard is [BC Albers (EPSG:3005)](http://epsg.io/3005)
 
+[Coordinate Reference System and Spatial Projection](https://www.earthdatascience.org/courses/earth-analytics/spatial-data-r/intro-to-coordinate-reference-systems/) -- from [Spatial Data in R](https://www.earthdatascience.org/courses/earth-analytics/spatial-data-r/), part of an Earth Analytics course.
+
+
 
 ## Canadian geography: shapefiles
 
