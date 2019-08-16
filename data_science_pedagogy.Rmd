@@ -63,6 +63,12 @@ Not So Standard Deviations, [Episode 84 "All the Easy Issues"](http://nssdeviati
 
 See [@Statistics and other quantitative methods: courses and text books]
 
+### Why `<-` and not `=`
+
+See this thread:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/ A not so short history/thread on my transformation how I taught (and thought of) variable assignment in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>: <br><br>&#39;&lt;-&#39; has major conceptual/semantic advantages over &#39;=&#39; <a href="https://t.co/K9JyontXI3">https://t.co/K9JyontXI3</a></p>&mdash; Derek Beaton (\@derek__beaton) <a href="https://twitter.com/derek__beaton/status/1162131286720491520?ref_src=twsrc%5Etfw">August 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 ***
 
 
