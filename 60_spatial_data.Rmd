@@ -89,13 +89,6 @@ twitter thread on "geocomputation in R":
 
 * https://twitter.com/deanmarchiori/status/1116143933656981504
 
-
-
-Mark Padgham, Geoff Boeing, et al., 2019-08-07, [An Introduction to Software Tools, Data, and Services for Geospatial Analysis of Stroke Services](https://www.frontiersin.org/articles/10.3389/fneur.2019.00743/full), _Frontiers in Neurology_, 07 August 2019 | https://doi.org/10.3389/fneur.2019.00743
-
-Andrew Tran, 2019, [Mapping with R NICAR19 session](https://github.com/andrewbtran/NICAR/tree/master/2019/mapping)
-
-
 Aleszu Bajak, 2018-12-20, ["How to map point data and polygon shapefiles in R"](http://www.storybench.org/how-to-map-point-data-and-polygon-shapefiles-in-r/)
 
 Frank Davenport (2012) ["Notes from A Recent Spatial R Class I Gave"](http://davenportspatialanalytics.squarespace.com/blog/2012/6/19/notes-from-a-recent-spatial-r-class-i-gave.html)
@@ -120,12 +113,22 @@ Robin Lovelace, James Cheshire and others, 2015-, [_Introduction to visualising 
 
 Sharon Machlis (2016) [Create maps in R in 10 (fairly) easy steps](http://www.computerworld.com/article/3038270/data-analytics/create-maps-in-r-in-10-fairly-easy-steps.html), Computerworld (2016-03-01)
 
+Mel Moreno and Mathieu Basille, 2018-10-25, [Drawing beautiful maps programmatically with R, sf and ggplot2](https://www.r-spatial.org/r/2018/10/25/ggplot2-sf.html)
+
+
+Mark Padgham, Geoff Boeing, et al., 2019-08-07, [An Introduction to Software Tools, Data, and Services for Geospatial Analysis of Stroke Services](https://www.frontiersin.org/articles/10.3389/fneur.2019.00743/full), _Frontiers in Neurology_, 07 August 2019 | https://doi.org/10.3389/fneur.2019.00743
+
+
 Vivek Patil (2015) [Animated choropleths using animation, ggplot2, rCharts, googleVis, and Shiny](http://patilv.com/Animated-choropleths-using-animation-ggplot2-rCharts-googleVis-and-Shiny/) (2014-01-17)
 
 Francisco Rodriguez-Sanchez, 2013-12-18, [Spatial data in R: Using R as a GIS](https://pakillo.github.io/R-GIS-tutorial/) {github version at [Pakillo/R-GIS-tutorial](https://github.com/Pakillo/R-GIS-tutorial/blob/master/R-GIS_tutorial.md)}
 
 Mithil Shah, 2016-04-18, [R and GIS – working with shapefiles](http://www.studytrails.com/r/r-and-gis-working-with-shapefiles/)
 
+
+Andrew Tran, 2019, [Mapping with R NICAR19 session](https://github.com/andrewbtran/NICAR/tree/master/2019/mapping)
+
+#### other
 
 [R Spatial Cheatsheet](http://www.maths.lancs.ac.uk/~rowlings/Teaching/UseR2012/cheatsheet.html) {from Barry Rowlingson's [Geosppatial Data in R and Beyond](http://www.maths.lancs.ac.uk/~rowlings/Teaching/UseR2012/index.html) tutorial site}
 
@@ -140,7 +143,7 @@ Sharp Sight Labs, [Simple practice: basic maps with the Tidyverse](http://sharps
 
 
 
-**tips and tricks**
+#### tips and tricks
 
 
 [creating a spatial object](http://stackoverflow.com/questions/29736577/how-to-convert-data-frame-to-spatial-coordinates)
