@@ -19,6 +19,9 @@ Choropleth maps
 
 ## Theory and methods
 
+[_A Gentle Introduction to GIS_](https://docs.qgis.org/testing/en/docs/gentle_gis_introduction/index.html)
+
+
 ### Map projections
 
 A rich and complicated topic in and of itself: how can the surface of a sphere be represented in a two dimensional plane without distortion? (Answer: it can't, but the distortion can be minimized to suit the purpose of the map.) 
@@ -31,7 +34,16 @@ A rich and complicated topic in and of itself: how can the surface of a sphere b
 
 
 
-### Canadian geography: shapefiles
+### Geographic references (coordinate reference systems)
+
+[Spatial Reference](http://www.spatialreference.org/) -- URL/URI-based references to spatial reference systems, including EPSG and ESRI.
+
+[Coordinate Reference Systems](https://docs.qgis.org/testing/en/docs/gentle_gis_introduction/coordinate_reference_systems.html) -- from [_A Gentle Introduction to GIS_](https://docs.qgis.org/testing/en/docs/gentle_gis_introduction/index.html)
+
+British Columbia's standard is [BC Albers (EPSG:3005)](http://epsg.io/3005)
+
+
+## Canadian geography: shapefiles
 
 **Statistics Canada** has made available a variety of boundary files.
 
@@ -44,11 +56,6 @@ A rich and complicated topic in and of itself: how can the surface of a sphere b
 * [Boundaries](https://catalogue.data.gov.bc.ca/dataset?q=iso_topic_string%3A%2Aboundaries%2A)
 
 * [Provincial Electoral Districts - Electoral Boundaries Redistribution, 2008](https://catalogue.data.gov.bc.ca/dataset/provincial-electoral-districts-electoral-boundaries-redistribution-2008)
-
-
-### Geographic references
-
-[Spatial Reference](http://www.spatialreference.org/) -- URL/URI-based references to spatial reference systems, including EPSG and ESRI.
 
 
 ***
