@@ -24,6 +24,16 @@ and a reply:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">These are good. I would add:<br>- Not every lecture will go well. Learn from the bad ones but don’t obsess over them. <br>- Teaching is a gas and expands to fill available space. If you need to also do something else (like teaching or admin) protect that time even if ... <a href="https://t.co/corUeemG1Q">https://t.co/corUeemG1Q</a></p>&mdash; Dan Simpson (@dan_p_simpson) <a href="https://twitter.com/dan_p_simpson/status/1154262404395491328?ref_src=twsrc%5Etfw">July 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+
+***
+
+### Tools for learning
+
+Amelia McNamara, 2015, [Bridging the Gap Between Tools for Learning and for Doing Statistics](https://escholarship.org/uc/item/1mm9303x) -- PhD Dissertation, UCLA
+
+Amelia McNamara, 2019, [Why the tidyverse?](http://www.amelia.mn/WhyTheTidyverse.pdf) -- slides for noRth 2019 talk
+
+
 ***
 
 ### Lesson planning
@@ -37,6 +47,11 @@ https://carleton.ca/edc/teachingresources/course-design/lesson-planning/
 
 https://www.chronicle.com/interactives/20190719_inclusive_teaching
 
+
+Jane Margolis and Allan Fisher, 2001, [Unlocking the Clubhouse: Women in Computing](https://mitpress.mit.edu/books/unlocking-clubhouse) -- "Understanding and overcoming the gender gap in computer science education."
+
+
+* Philip Guo, January 2014, [My book notes on Unlocking the Clubhouse](http://pgbovine.net/unlocking-the-clubhouse-notes.htm)
 
 
 *** 
