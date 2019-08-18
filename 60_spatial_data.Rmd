@@ -105,6 +105,10 @@ Jacinta Holloway, [raster2data](https://github.com/thejholloway/raster2data)
 
 * "This repository provides some introductory guidance for working with spatial image files, like rasters, and converting these to dataframes in R in order to perform statistical analyses. Includes an example satellite image and R code."
 
+
+Katie Jolly, 2019-08-15, [Geographic Data Science in R](http://www.katiejolly.io/rnorth-19/) -- presentation at R North 2019 conference.
+
+
 Arda Kosar, 2018-05-01, [A Beginner’s Exploration of Shiny and Leaflet for Interactive Mapping](https://www.datascience.com/blog/beginners-guide-to-shiny-and-leaflet-for-interactive-mapping)
 
 Robin Lovelace (2014) ["R, an Integrated Statistical Programming Environment and GIS"](http://robinlovelace.net/r/2014/11/28/r-as-a-gis-geoinformatics.html) {blog post}
