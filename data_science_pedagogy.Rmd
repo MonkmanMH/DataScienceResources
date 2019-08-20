@@ -74,6 +74,9 @@ Wisdom from Roger Peng:
 Not So Standard Deviations, [Episode 84 "All the Easy Issues"](http://nssdeviations.com/84-all-the-easy-issues) (discussion starting at ~39:45)
 
 
+[Learning R - Resources](https://github.com/data-datum/learning_R) -- a list of resources for learning R
+
+
 ### Text books, etc
 
 See [@Statistics and other quantitative methods: courses and text books]
