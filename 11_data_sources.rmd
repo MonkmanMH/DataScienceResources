@@ -33,6 +33,10 @@ Simon Fraser University Library: [Gender, Sexuality & Women's Studies Informatio
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+[FiveThirtyEight: Our Data](https://data.fivethirtyeight.com/) -- "the data and code behind some of our articles and graphics".
+
+* [GitHub repo](https://github.com/fivethirtyeight/data)
+
 
 ## R packages
 

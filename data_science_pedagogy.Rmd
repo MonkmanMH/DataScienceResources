@@ -1,4 +1,4 @@
-# Data science pedagogy
+# Data science pedagogy & andragogy 
 
 ## Introduction
 
@@ -7,10 +7,15 @@ Since it's a relatively new field, it's not surprising that the best way to teac
 
 ## General
 
+Greg Wilson, [Teaching Tech Together: How to create and deliver lessons that work
+and build a teaching community around them](https://teachtogether.tech/) -- everything the sub-title says, and more
+
 
 Joyce Cahoon, [Things I Wish I Knew Before I Started Teaching](https://jcahoon.netlify.com/post/2019/07/13/things-i-wish-i-knew-before-i-started-teaching/)
 
 Felienne Hermans, 2019, [Explicit Direct Instruction in Programming Education](https://resources.rstudio.com/rstudio-conf-2019/opening-keynote-day2), keynote at RStudio::conf2019
+
+
 
 
 Advice for new lecturers:
@@ -20,6 +25,56 @@ Advice for new lecturers:
 and a reply:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">These are good. I would add:<br>- Not every lecture will go well. Learn from the bad ones but don’t obsess over them. <br>- Teaching is a gas and expands to fill available space. If you need to also do something else (like teaching or admin) protect that time even if ... <a href="https://t.co/corUeemG1Q">https://t.co/corUeemG1Q</a></p>&mdash; Dan Simpson (@dan_p_simpson) <a href="https://twitter.com/dan_p_simpson/status/1154262404395491328?ref_src=twsrc%5Etfw">July 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+***
+
+## Andragogy
+
+> Andragogy: the method and practice of teaching adult learners; adult education.
+
+
+Knowles developed four principles of andragogy:
+
+1. **Involved adult learners**  -- learners need to be involved in the planning and evaluation of their instruction
+
+2. **Experience** (including mistakes) provides the basis for the learning activities
+
+3. **Relevance and impact** -- adults are most interested in learning subjects that have immediate relevance and impact to their job or personal life
+
+4. **Problem centred** rather than content-centred
+
+(adapted from https://knowlestheories.weebly.com/principles-of-andragogy.html)
+
+
+Malcolm S. Knowles, [_The Modern Practice of Adult Education_](https://pdfs.semanticscholar.org/8948/296248bbf58415cbd21b36a3e4b37b9c08b1.pdf) -- chapter 4, "What is Andragogy?"
+
+
+[Andragogy Visually Explained for Teachers](https://www.educatorstechnology.com/2015/03/andragogy-visually-explained-for-teachers.html), 2015-03-26
+
+Bruce D. Watson, 2015-05-05, [Adult learning theory and the six principles of adult learning](https://brucedwatson.wordpress.com/2015/05/05/adult-learning-theory-and-the-six-principles-of-adult-learning/)
+
+https://www.med.mun.ca/getdoc/99c39da7-a8ac-40c8-9d6b-91b1a7bb3d0e/Principles-of-Adult-Learning-separate-file.aspx
+
+https://calp.ca/blog/adult-learning-principles.htm
+
+https://www.cpd.utoronto.ca/wp-content/uploads/2018/02/Quick-Tips-Adult-Learning-Principles.pdf
+
+https://fmf.cfpc.ca/wp-content/uploads/2016/11/F134230_What-Do-Adult-Learners-Want.pdf
+
+David C. M. Taylor & Hossam Hamdy (2013) Adult learning theories: Implications for learning and teaching in medical education: AMEE Guide No. 83[@Taylor_Hamdy_2013]
+
+Ryerson University, Learning & Teaching Office, [Engaging Adult Learners](https://www.ryerson.ca/content/dam/lt/resources/handouts/EngagingAdultLearners.pdf)
+
+
+***
+
+### Tools for learning
+
+Amelia McNamara, 2015, [Bridging the Gap Between Tools for Learning and for Doing Statistics](https://escholarship.org/uc/item/1mm9303x) -- PhD Dissertation, UCLA
+
+Amelia McNamara, 2019, [Why the tidyverse?](http://www.amelia.mn/WhyTheTidyverse.pdf) -- slides for noRth 2019 talk
+
 
 ***
 
@@ -34,6 +89,11 @@ https://carleton.ca/edc/teachingresources/course-design/lesson-planning/
 
 https://www.chronicle.com/interactives/20190719_inclusive_teaching
 
+
+Jane Margolis and Allan Fisher, 2001, [Unlocking the Clubhouse: Women in Computing](https://mitpress.mit.edu/books/unlocking-clubhouse) -- "Understanding and overcoming the gender gap in computer science education."
+
+
+* Philip Guo, January 2014, [My book notes on Unlocking the Clubhouse](http://pgbovine.net/unlocking-the-clubhouse-notes.htm)
 
 
 *** 
@@ -56,9 +116,18 @@ Wisdom from Roger Peng:
 Not So Standard Deviations, [Episode 84 "All the Easy Issues"](http://nssdeviations.com/84-all-the-easy-issues) (discussion starting at ~39:45)
 
 
+[Learning R - Resources](https://github.com/data-datum/learning_R) -- a list of resources for learning R
+
+
 ### Text books, etc
 
 See [@Statistics and other quantitative methods: courses and text books]
+
+### Why `<-` and not `=`
+
+See this thread:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/ A not so short history/thread on my transformation how I taught (and thought of) variable assignment in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>: <br><br>&#39;&lt;-&#39; has major conceptual/semantic advantages over &#39;=&#39; <a href="https://t.co/K9JyontXI3">https://t.co/K9JyontXI3</a></p>&mdash; Derek Beaton (\@derek__beaton) <a href="https://twitter.com/derek__beaton/status/1162131286720491520?ref_src=twsrc%5Etfw">August 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ***
 

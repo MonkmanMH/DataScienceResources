@@ -19,6 +19,9 @@ Choropleth maps
 
 ## Theory and methods
 
+[_A Gentle Introduction to GIS_](https://docs.qgis.org/testing/en/docs/gentle_gis_introduction/index.html)
+
+
 ### Map projections
 
 A rich and complicated topic in and of itself: how can the surface of a sphere be represented in a two dimensional plane without distortion? (Answer: it can't, but the distortion can be minimized to suit the purpose of the map.) 
@@ -31,7 +34,19 @@ A rich and complicated topic in and of itself: how can the surface of a sphere b
 
 
 
-### Canadian geography: shapefiles
+### Geographic references (coordinate reference systems)
+
+[Spatial Reference](http://www.spatialreference.org/) -- URL/URI-based references to spatial reference systems, including EPSG and ESRI.
+
+[Coordinate Reference Systems](https://docs.qgis.org/testing/en/docs/gentle_gis_introduction/coordinate_reference_systems.html) -- from [_A Gentle Introduction to GIS_](https://docs.qgis.org/testing/en/docs/gentle_gis_introduction/index.html)
+
+British Columbia's standard is [BC Albers (EPSG:3005)](http://epsg.io/3005)
+
+[Coordinate Reference System and Spatial Projection](https://www.earthdatascience.org/courses/earth-analytics/spatial-data-r/intro-to-coordinate-reference-systems/) -- from [Spatial Data in R](https://www.earthdatascience.org/courses/earth-analytics/spatial-data-r/), part of an Earth Analytics course.
+
+
+
+## Canadian geography: shapefiles
 
 **Statistics Canada** has made available a variety of boundary files.
 
@@ -44,11 +59,6 @@ A rich and complicated topic in and of itself: how can the surface of a sphere b
 * [Boundaries](https://catalogue.data.gov.bc.ca/dataset?q=iso_topic_string%3A%2Aboundaries%2A)
 
 * [Provincial Electoral Districts - Electoral Boundaries Redistribution, 2008](https://catalogue.data.gov.bc.ca/dataset/provincial-electoral-districts-electoral-boundaries-redistribution-2008)
-
-
-### Geographic references
-
-[Spatial Reference](http://www.spatialreference.org/) -- URL/URI-based references to spatial reference systems, including EPSG and ESRI.
 
 
 ***
@@ -79,11 +89,6 @@ twitter thread on "geocomputation in R":
 
 * https://twitter.com/deanmarchiori/status/1116143933656981504
 
-
-
-Andrew Tran, 2019, [Mapping with R NICAR19 session](https://github.com/andrewbtran/NICAR/tree/master/2019/mapping)
-
-
 Aleszu Bajak, 2018-12-20, ["How to map point data and polygon shapefiles in R"](http://www.storybench.org/how-to-map-point-data-and-polygon-shapefiles-in-r/)
 
 Frank Davenport (2012) ["Notes from A Recent Spatial R Class I Gave"](http://davenportspatialanalytics.squarespace.com/blog/2012/6/19/notes-from-a-recent-spatial-r-class-i-gave.html)
@@ -92,11 +97,17 @@ Nick Eubank, [Merging Spatial Data](http://www.nickeubank.com/wp-content/uploads
 
 Matthias Forkel (2015) [Analysis of spatial data in R](ftp://ftp.bgc-jena.mpg.de/pub/outgoing/mforkel/Rcourse/spatialR_2015.pdf) {PDF version of presentation/lecture slide deck}
 
+Kieran Healy, 2018-12-09, [Canada Map](https://kieranhealy.org/blog/archives/2018/12/09/canada-map/)
+
 Tomislav Hengl, [_A Practical Guide to Geostatistical Mapping_](http://spatial-analyst.net/book/) {PDF ebook available via Lulu}
 
 Jacinta Holloway, [raster2data](https://github.com/thejholloway/raster2data)
 
 * "This repository provides some introductory guidance for working with spatial image files, like rasters, and converting these to dataframes in R in order to perform statistical analyses. Includes an example satellite image and R code."
+
+
+Katie Jolly, 2019-08-15, [Geographic Data Science in R](http://www.katiejolly.io/rnorth-19/) -- presentation at R North 2019 conference.
+
 
 Arda Kosar, 2018-05-01, [A Beginner’s Exploration of Shiny and Leaflet for Interactive Mapping](https://www.datascience.com/blog/beginners-guide-to-shiny-and-leaflet-for-interactive-mapping)
 
@@ -106,12 +117,22 @@ Robin Lovelace, James Cheshire and others, 2015-, [_Introduction to visualising 
 
 Sharon Machlis (2016) [Create maps in R in 10 (fairly) easy steps](http://www.computerworld.com/article/3038270/data-analytics/create-maps-in-r-in-10-fairly-easy-steps.html), Computerworld (2016-03-01)
 
+Mel Moreno and Mathieu Basille, 2018-10-25, [Drawing beautiful maps programmatically with R, sf and ggplot2](https://www.r-spatial.org/r/2018/10/25/ggplot2-sf.html)
+
+
+Mark Padgham, Geoff Boeing, et al., 2019-08-07, [An Introduction to Software Tools, Data, and Services for Geospatial Analysis of Stroke Services](https://www.frontiersin.org/articles/10.3389/fneur.2019.00743/full), _Frontiers in Neurology_, 07 August 2019 | https://doi.org/10.3389/fneur.2019.00743
+
+
 Vivek Patil (2015) [Animated choropleths using animation, ggplot2, rCharts, googleVis, and Shiny](http://patilv.com/Animated-choropleths-using-animation-ggplot2-rCharts-googleVis-and-Shiny/) (2014-01-17)
 
 Francisco Rodriguez-Sanchez, 2013-12-18, [Spatial data in R: Using R as a GIS](https://pakillo.github.io/R-GIS-tutorial/) {github version at [Pakillo/R-GIS-tutorial](https://github.com/Pakillo/R-GIS-tutorial/blob/master/R-GIS_tutorial.md)}
 
 Mithil Shah, 2016-04-18, [R and GIS – working with shapefiles](http://www.studytrails.com/r/r-and-gis-working-with-shapefiles/)
 
+
+Andrew Tran, 2019, [Mapping with R NICAR19 session](https://github.com/andrewbtran/NICAR/tree/master/2019/mapping)
+
+#### other
 
 [R Spatial Cheatsheet](http://www.maths.lancs.ac.uk/~rowlings/Teaching/UseR2012/cheatsheet.html) {from Barry Rowlingson's [Geosppatial Data in R and Beyond](http://www.maths.lancs.ac.uk/~rowlings/Teaching/UseR2012/index.html) tutorial site}
 
@@ -126,7 +147,7 @@ Sharp Sight Labs, [Simple practice: basic maps with the Tidyverse](http://sharps
 
 
 
-**tips and tricks**
+#### tips and tricks
 
 
 [creating a spatial object](http://stackoverflow.com/questions/29736577/how-to-convert-data-frame-to-spatial-coordinates)

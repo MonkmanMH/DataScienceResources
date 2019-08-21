@@ -1,4 +1,4 @@
-# Time series 
+# Time series & longitudinal data
 
 ***
 
@@ -30,14 +30,13 @@ Troy Walters, _Time Series Analysis in R_ (series of blog posts at datasciencepl
 
 ### R
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Work w/ time series? Check out <a href="https://twitter.com/earowang?ref_src=twsrc%5Etfw">@earowang</a>&#39;s 🌟 talk from <a href="https://twitter.com/hashtag/rstudioconf?src=hash&amp;ref_src=twsrc%5Etfw">#rstudioconf</a>:<br>⏰ &quot;Melt the clock: tidy time series analysis&quot;<br>📽 <a href="https://t.co/5xkkMpAsxn">https://t.co/5xkkMpAsxn</a><br>📺 <a href="https://t.co/yvyU6RpW8U">https://t.co/yvyU6RpW8U</a><br>{tsibble} <a href="https://t.co/Gth8ZimfOz">https://t.co/Gth8ZimfOz</a><br>{fable} <a href="https://t.co/YTfWMo4VYV">https://t.co/YTfWMo4VYV</a><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/timeseries?src=hash&amp;ref_src=twsrc%5Etfw">#timeseries</a> <a href="https://t.co/CtCHnChzA6">pic.twitter.com/CtCHnChzA6</a></p>&mdash; Mara Averick (@dataandme) <a href="https://twitter.com/dataandme/status/1104019464222330977?ref_src=twsrc%5Etfw">March 8, 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Work w/ time series? Check out <a href="https://twitter.com/earowang?ref_src=twsrc%5Etfw">@earowang</a>&#39;s 🌟 talk from <a href="https://twitter.com/hashtag/rstudioconf?src=hash&amp;ref_src=twsrc%5Etfw">#rstudioconf</a>:<br>⏰ &quot;Melt the clock: tidy time series analysis&quot;<br>📽 <a href="https://t.co/5xkkMpAsxn">https://t.co/5xkkMpAsxn</a><br>📺 <a href="https://t.co/yvyU6RpW8U">https://t.co/yvyU6RpW8U</a><br>{tsibble} <a href="https://t.co/Gth8ZimfOz">https://t.co/Gth8ZimfOz</a><br>{fable} <a href="https://t.co/YTfWMo4VYV">https://t.co/YTfWMo4VYV</a><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/timeseries?src=hash&amp;ref_src=twsrc%5Etfw">#timeseries</a> <a href="https://t.co/CtCHnChzA6">pic.twitter.com/CtCHnChzA6</a></p>&mdash; Mara Averick (\@dataandme) <a href="https://twitter.com/dataandme/status/1104019464222330977?ref_src=twsrc%5Etfw">March 8, 2019</a></blockquote>
 
 
 Earo Wang, ["Melt the clock: Tidy time series analysis"](https://resources.rstudio.com/rstudio-conf-2019/melt-the-clock-tidy-time-series-analysis) (presentation at RStudio conference, 2019)
 
 
-
-#### `{tsfeatures}`
+### `{tsfeatures}`
 
 Methods for extracting various features from time series data
 
@@ -53,7 +52,7 @@ CRAN: [tsfeatures: Time Series Feature Extraction](https://cran.r-project.org/pa
 
 
 
-#### `{tsibble}`
+### `{tsibble}`
 
 **package**
 
@@ -68,7 +67,7 @@ Earo Wang, 2018-12-20, ["Reintroducing tsibble: data tools that melt the clock"]
 Earo Wang and Dianne Cook and Rob J Hyndman, January 2019, "A new tidy data structure to support exploration and modeling of temporal data"[@wang-tsibble-2019]
 
 
-#### `{padr}`
+### `{padr}`
 
 **package**
 
@@ -79,7 +78,7 @@ CRAN page: [padr: Quickly Get Datetime Data Ready for Analysis](https://cran.r-p
 Andrew Clark, 2017-07-19, [padr package example](https://www.mytinyshinys.com/2017/07/19/user2017-padr/)
 
 
-#### `{zoo}`
+### `{zoo}`
 
 **package**
 
@@ -104,7 +103,7 @@ Kamala Kanta Mishra, [Selecting Forecasting Methods in Data Science](http://www.
 Kostiantyn Kravchuk, ["Forecasting: Time Series Exploration Exercises (Part-1)"](https://www.r-bloggers.com/forecasting-time-series-exploration-exercises-part-1/) (2017-04-10)
 
 
-#### `{fable}`
+### `{fable}`
 
 "...provides methods and tools for displaying and analysing univariate time series forecasts including exponential smoothing via state space models and automatic ARIMA modelling. Data, model and forecast objects are all stored in a tidy format."
 
@@ -113,7 +112,7 @@ Kostiantyn Kravchuk, ["Forecasting: Time Series Exploration Exercises (Part-1)"]
 documentation: [`fable`](https://fable.tidyverts.org/)
 
 
-#### `{prophet}`
+### `{prophet}`
 
 **package**
 
@@ -125,6 +124,20 @@ documentation: [Prophet: forecasting at scale](https://facebookincubator.github.
 
 ["Prophet: How Facebook operationalizes time series forecasting at scale"](http://blog.revolutionanalytics.com/2017/02/facebook-prophet.html) at Revolutions Analytics (2017-02-24)
 
+
+***
+
+## Longitudinal data
+
+
+### `{brolgar}`
+
+[{brolgar} website](http://brolgar.njtierney.com/) -- BRowse Over Longitudinal Data Graphically and Analytically in R
+
+* [GitHub](https://github.com/njtierney/brolgar)
+
+
+Nick Tierney, 2019-08-13, [Explore longitudinal data with brolgar](https://www.njtierney.com/post/2019/08/13/introducing-brolgar/)
 
 
 

@@ -81,7 +81,11 @@ Yihui Xie, 2017-10-03, [Help Me: xaringan / remark.js CSS Themes?](https://yihui
 
 Daniel Anderson, 2018-06-02, (Contribute to Open Source with Pretty Slides)[http://www.datalorax.com/talks/cascadia18/#1]
 
+
 Alison Presmanes Hill, 2017-12-18, [R-Ladies presentation ninja](https://alison.rbind.io/post/r-ladies-slides/)
+
+Alison Hill, 2019-01-16, [Meet xaringan: Making slides in R Markdown](https://arm.rbind.io/slides/xaringan.html#1) -- Presentation at RStudio Conference 2019
+
 
 Nan-Hung Hsieh, [TAMU Presentation Template](https://nanhung.rbind.io/slide/tamu-slide-template.html#1)
 
