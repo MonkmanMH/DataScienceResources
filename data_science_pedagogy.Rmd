@@ -10,6 +10,8 @@ Since it's a relatively new field, it's not surprising that the best way to teac
 
 Joyce Cahoon, [Things I Wish I Knew Before I Started Teaching](https://jcahoon.netlify.com/post/2019/07/13/things-i-wish-i-knew-before-i-started-teaching/)
 
+Felienne Hermans, 2019, [Explicit Direct Instruction in Programming Education](https://resources.rstudio.com/rstudio-conf-2019/opening-keynote-day2), keynote at RStudio::conf2019
+
 
 Advice for new lecturers:
 
