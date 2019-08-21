@@ -45,6 +45,8 @@ Knowles developed four principles of andragogy:
 (adapted from https://knowlestheories.weebly.com/principles-of-andragogy.html)
 
 
+Malcolm S. Knowles, [_The Modern Practice of Adult Education_](https://pdfs.semanticscholar.org/8948/296248bbf58415cbd21b36a3e4b37b9c08b1.pdf) -- chapter 4, "What is Andragogy?"
+
 
 [Andragogy Visually Explained for Teachers](https://www.educatorstechnology.com/2015/03/andragogy-visually-explained-for-teachers.html), 2015-03-26
 
@@ -57,6 +59,8 @@ https://calp.ca/blog/adult-learning-principles.htm
 https://www.cpd.utoronto.ca/wp-content/uploads/2018/02/Quick-Tips-Adult-Learning-Principles.pdf
 
 https://fmf.cfpc.ca/wp-content/uploads/2016/11/F134230_What-Do-Adult-Learners-Want.pdf
+
+David C. M. Taylor & Hossam Hamdy (2013) Adult learning theories: Implications for learning and teaching in medical education: AMEE Guide No. 83[@Taylor_Hamdy_2013]
 
 
 
