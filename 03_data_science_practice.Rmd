@@ -192,6 +192,9 @@ Karl Broman (2019-02-17) [Collaboratingreproducibly](https://www.biostat.wisc.ed
 
 ### Reproducible research with R
 
+[R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/) -- "an introduction to R for non-programmers using gapminder data", part of the Software Carpentries
+
+
 Jeremy Anglin, [Reproducible analysis with knitr, R Markdown, and RStudio](https://github.com/jeromyanglim/rmarkdown-rmeetup-2012)
  
 Ben Marwick, 20 July 2017, [Reproducible Research Compendia via R packages](https://rawgit.com/benmarwick/Marwick-Berlin-R-users-2017/master/Marwick-Berlin-R-users-2017.html#1), presentation at Berlin R Users
