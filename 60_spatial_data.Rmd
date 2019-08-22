@@ -127,6 +127,10 @@ Vivek Patil (2015) [Animated choropleths using animation, ggplot2, rCharts, goog
 
 Francisco Rodriguez-Sanchez, 2013-12-18, [Spatial data in R: Using R as a GIS](https://pakillo.github.io/R-GIS-tutorial/) {github version at [Pakillo/R-GIS-tutorial](https://github.com/Pakillo/R-GIS-tutorial/blob/master/R-GIS_tutorial.md)}
 
+
+Dominic Royé, 2018-11-03, [Accessing OpenStreetMap data with R](https://dominicroye.github.io/en/2018/accessing-openstreetmap-data-with-r/)
+
+
 Mithil Shah, 2016-04-18, [R and GIS – working with shapefiles](http://www.studytrails.com/r/r-and-gis-working-with-shapefiles/)
 
 
