@@ -35,6 +35,9 @@ Troy Walters, _Time Series Analysis in R_ (series of blog posts at datasciencepl
 
 Earo Wang, ["Melt the clock: Tidy time series analysis"](https://resources.rstudio.com/rstudio-conf-2019/melt-the-clock-tidy-time-series-analysis) (presentation at RStudio conference, 2019)
 
+#### Rolling averages, sums, etc
+
+Steph Locke, [Understanding Rolling Calculations in R](https://itsalocke.com/blog/understanding-rolling-calculations-in-r/)
 
 ### `{tsfeatures}`
 
