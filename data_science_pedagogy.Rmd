@@ -151,8 +151,16 @@ RStudio [Class materials for Teach the Tidyverse, a Train-the-trainer workshop](
 
 ***
 
+## Syllabi
+
+Andrew Heiss, [PMAP 8521: Program Evaluation](https://evalf19.classes.andrewheiss.com/syllabus/#pep-talk), Georgia State University
+
+* [Pep talk](https://evalf19.classes.andrewheiss.com/syllabus/#pep-talk)
+
+
 
 [Steal this syllabus! (or, how I taught Scientific Writing)](https://scientistseessquirrel.wordpress.com/2018/05/01/steal-this-syllabus-or-how-i-taught-scientific-writing/)
+
 
 
 ## Ideas on what to teach / learn

@@ -73,7 +73,10 @@ Roger S. Bivand, Edzer J. Pebesma, and Virgilio Gómez-Rubio (2008) [_Applied Sp
 
 Robin Lovelace, Jakub Nowosad, and Jannes Muenchow, [_Geocomputation with R_](https://geocompr.robinlovelace.net/)
 
-* [presentations page](https://geocompr.github.io/presentations/)
+* [presentations page](https://www.r-bloggers.com/geographic-projections-and-transformations/)
+
+* [Geographic projections and transformations](https://geocompr.github.io/post/2019/crs-projections-transformations/) -- workbook based on Chapter 6 of _Geocomputation with R_
+
 
 Edzer Pebesma and Roger Bivand, [_Spatial Data Science_](https://keen-swartz-3146c4.netlify.com/) -- textbook, work in progress.
 
