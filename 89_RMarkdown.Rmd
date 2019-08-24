@@ -47,6 +47,13 @@ Neil Collins, _How to Create Reports In R Markdown_, a series of blog posts
 * RStudio, [Creating a Blog: Create a blog to publish a collection of Distill articles](https://rstudio.github.io/distill/blog.html)
 
 
+### YAML
+
+Your RMarkdown documents are going to have a YAML at the top of the page.
+
+[The YAML Fieldguide](http://ymlthis.r-lib.org/articles/yaml-fieldguide.html)
+
+
 ***
 
 ## Packages
