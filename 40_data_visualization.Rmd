@@ -199,8 +199,15 @@ Plotly for R allows you to "Create interactive, D3 and WebGL charts in R" (their
 
 ## Colour
 
-Colour is a vital part of good data visualization; the following links support the use of colour in R.
+Colour is a vital part of good data visualization.
 
+### General resources
+
+Lisa Charlotte Rost, 2018-07-31, [Your Friendly Guide to Colors in Data Visualisation](https://blog.datawrapper.de/colorguide/) -- An overview of color tools
+
+#### General resources: R
+
+The following links support the use of colour in R.
 
 * [R color cheatsheet](https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/colorPaletteCheatsheet.pdf)
 
