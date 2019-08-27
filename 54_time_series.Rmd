@@ -1,4 +1,4 @@
-# Time series & longitudinal data {#timeseries}
+# Time series & longitudinal data
 
 ***
 

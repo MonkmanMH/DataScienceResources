@@ -11,15 +11,32 @@ See also
 
 * [Seasonal adjustment]
 
-* [timeseries]
+* [Time series & longitudinal data]
 
 
 ## Input-Output Modeling
 
-Kam Yu, I.D. Masakova, and A.A. Tatarinov, June 2007, [Input-Output Tables in the Canadian System of National Accounts](https://pdfs.semanticscholar.org/6818/717e23568ede20589ee5e2db77f1f8b760b5.pdf) (pdf)
-
 Kishori Lal, June 2003, [Measurement of output, value added, GDP in Canada and the United States: similarities and differences](http://publications.gc.ca/Collection/Statcan/13F0031M/13F0031MIE2003010.pdf) -- series: The 1997 historical revision of the Canadian
 System of National Accounts, Catalogue no. 13F0031MIE — No. 010, ISBN: 0-662-34318-2 
+
+Erik Poole, September 1999, [A guide to using the input-output model of Statistics Canada](http://publications.gc.ca/collections/collection_2019/statcan/15-602/CS15-602-58-1-eng.pdf) (revised edition), Statistics Canada, National Accounts and Analytical Studies, System of National Accounts, Input-Output Division.
+
+Kam Yu, I.D. Masakova, and A.A. Tatarinov, June 2007, [Input-Output Tables in the Canadian System of National Accounts](https://pdfs.semanticscholar.org/6818/717e23568ede20589ee5e2db77f1f8b760b5.pdf) (pdf)
+
+
+Statistics Canada, 2008, [The Input-Output Structure of the Canadian Economy](http://publications.gc.ca/collections/collection_2011/statcan/15-201-X/15-201-x2011001-eng.pdf), Catalogue no. 15-201-X
+
+
+
+### Data
+
+Statistics Canada, [Symmetric Input-Output Tables](https://www150.statcan.gc.ca/n1/en/catalogue/15-207-X) -- Tables 15-207-X
+
+>_Description:_
+The symmetric industry by industry input-output tables show inter-industry transactions, that is, all purchases of an industry from all other industries as well as expenditures on imports and the components of value added such as wages and gross operating surplus. Similarly, the symmetric final demand tables show all purchases by each final demand category from all industries as well as expenditures on imports. The symmetric input-output tables are analytically derived from the industry by product supply and use tables. The tables are available at the Detail level and at the Link 1997, Link 1961 and Summary aggregations.
+
+Statistics Canada, 2018-11-08, [Supply, Use and Input-Output Tables](http://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=1401)
+
 
 
 ## I-O in R
