@@ -52,6 +52,8 @@ Design Space of Data Visualization"](https://www.sciencedirect.com/science/artic
 
 * Keith Collins (2015-12-23), [The most misleading charts of 2015, fixed](https://qz.com/580859/the-most-misleading-charts-of-2015-fixed/); good discussion of problematic choices with axis scales.
 
+* Datawrapper, [Chartable](https://blog.datawrapper.de/) -- blog including weekly charts and how-to advice
+
 
 * [Financial Times Visual Vocabulary](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary), "A poster (available in English, Japanese, traditional Chinese and simplified Chinese) and web site to assist designers and journalists to select the optimal symbology for data visualisations, by the Financial Times Visual Journalism Team."
 
@@ -76,7 +78,6 @@ Design Space of Data Visualization"](https://www.sciencedirect.com/science/artic
 * Tamara Munzer, [list and links to talks](http://www.cs.ubc.ca/~tmm/talks.html?utm_content=bufferd5cd8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#cj16)
 
 * PolicyViz, [DataViz Cheatsheet](https://policyviz.com/2018/08/07/dataviz-cheatsheet/) (2018-08-07)
-
 
 * Rougier NP, Droettboom M, Bourne PE (2014) "Ten Simple Rules for Better Figures".  [@Rougier_etal_2014]
 
