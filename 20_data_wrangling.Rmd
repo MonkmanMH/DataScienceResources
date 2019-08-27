@@ -70,6 +70,18 @@ Vignette: [How to Datapasta](https://cran.r-project.org/web/packages/datapasta/v
 
 ### `{janitor}`
 
+
+
+### `{vtable}`
+
+CRAN page: [vtable: Variable Table](https://cran.r-project.org/web/packages/vtable/index.html) -- Automatically generates HTML variable documentation including variable names, labels, classes, value labels (if applicable), value ranges, and summary statistics.
+
+[Reference page](http://nickchk.com/vtable.html)
+
+Twitter thread by Nick Huntington-Klein, [2019-03-24](https://threadreaderapp.com/thread/1109917303947223040.html)
+
+
+
 ***
 
 ## The tidyverse
