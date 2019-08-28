@@ -281,6 +281,8 @@ RStudio on github: [rstudio/leaflet](https://github.com/rstudio/leaflet)
 
 Robin Lovelace, [The leaflet package for online mapping in R](https://www.r-bloggers.com/the-leaflet-package-for-online-mapping-in-r/)
 
+Gunnvant Singh, 2018-11-30, [Quick Introduction To Leaflet Maps In R](https://analyticstraining.com/quick-introduction-to-leaflet-maps-in-r/)
+
 Kyle Walker (2015) ["Creating a Leaflet choropleth map with a pop-up in R"](https://rpubs.com/walkerke/leaflet_choropleth) (2015-01-30)
 
 Kyle Walker (2016) ["Using a new Mapbox Studio map in an R Leaflet project"](https://rpubs.com/walkerke/rstudio-mapbox) (2016-05-18)
