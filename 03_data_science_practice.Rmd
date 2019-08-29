@@ -167,8 +167,9 @@ Or:
 [reproducibleresearch.net](http://reproducibleresearch.net/)
 
 
-Justin Kitzes, Daniel Turek, Fatma Deniz (Eds.), [The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences](https://www.practicereproducibleresearch.org/) -- online book with 31 case studies of reproducible research workflows.
+Emily Riederer, 2019-08-29, [Resource Round-Up: Reproducible Research Edition](https://emilyriederer.netlify.com/post/resource-round-up-reproducible-research-edition/) -- annotated bibliography of some essential resources on the topic.
 
+Justin Kitzes, Daniel Turek, Fatma Deniz (Eds.), [The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences](https://www.practicereproducibleresearch.org/) -- online book with 31 case studies of reproducible research workflows.
 
 Roger Peng (2014-06-06) [The Real Reason Reproducible Research is Important](https://simplystatistics.org/2014/06/06/the-real-reason-reproducible-research-is-important/)
 
