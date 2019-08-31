@@ -20,6 +20,10 @@ Simon Fraser University Library: [Gender, Sexuality & Women's Studies Informatio
 
 ### open data sources
 
+[SDG Tracker](https://sdg-tracker.org/) -- "a free, open-access resource where users can track and explore global and country-level progress towards each of the 17 Sustainable Development Goals" established by the United Nations.
+
+* The database is compiled by [Our World in Data](https://ourworldindata.org/) ("Research and data to make progress against the world's largest problems"). Data are available through curated links.
+
 [United Nations Population Prospects](https://esa.un.org/unpd/wpp/) - detailed country population data 
 
 * [populationpyramid.net](https://www.populationpyramid.net/) uses this data
