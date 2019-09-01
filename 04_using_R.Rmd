@@ -112,7 +112,40 @@ JD Long, twitter thread on {rpy2} documentation: [twitter thread](https://twitte
 
 ## The R community
 
+[The R Consortium](https://www.r-consortium.org/) " is a group organized under an open source governance and foundation model to support the worldwide community of users, maintainers and developers of R software. ... The central mission of the R Consortium is to work with and provide support to the R Foundation and key organizations and groups developing, maintaining, distributing and using R software."
+
+[The R Foundation](https://www.r-project.org/foundation/) 
+
+>is a not for profit organization working in the public interest. It has been founded by the members of the R Development Core Team in order to
+>* Provide support for the R project and other innovations in statistical computing. We believe that R has become a mature and valuable tool and we would like to ensure its continued development and the development of future innovations in software for statistical and computational research.
+>* Provide a reference point for individuals, instititutions or commercial enterprises that want to support or interact with the R development community.
+>* Hold and administer the copyright of R software and documentation.
+
 David Keyes, 2019-07-29, [If You Care About Equity, Use R](https://rfortherestofus.com/2019/07/equity/)
+
+
+
+***
+
+## The R toolbox
+
+### CRAN
+
+[The Comprehensive R Archive Network](https://cran.r-project.org/) -- CRAN for short -- "is a network of ftp and web servers around the world that store identical, up-to-date, versions of code and documentation for R." This is the place to get your installation of R, and the production versions of your favourite packages.
+
+### RStudio -- the IDE
+
+"RStudio" can mean one of two things:
+
+* [the integrated development environment (IDE) for R](https://www.rstudio.com/products/rstudio/)
+
+* [the company](https://www.rstudio.com/) which makes the IDE, as well as enterprise software and a variety of packages
+
+### Packages
+
+Antoine Bichat's [favoriteRpackages](https://github.com/abichat/favoriteRpackages)
+
+
 
 
 
