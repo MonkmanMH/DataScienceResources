@@ -9,7 +9,30 @@ In addition to there being many resources available for using R to solve statist
 This chapter compiles what I consider to be the essential texts; articles and blog posts will be at a minimum.
 
 
+***
+
+## The R community
+
+[The R Consortium](https://www.r-consortium.org/) " is a group organized under an open source governance and foundation model to support the worldwide community of users, maintainers and developers of R software. ... The central mission of the R Consortium is to work with and provide support to the R Foundation and key organizations and groups developing, maintaining, distributing and using R software."
+
+[The R Foundation](https://www.r-project.org/foundation/) 
+
+>is a not for profit organization working in the public interest. It has been founded by the members of the R Development Core Team in order to
+>* Provide support for the R project and other innovations in statistical computing. We believe that R has become a mature and valuable tool and we would like to ensure its continued development and the development of future innovations in software for statistical and computational research.
+>* Provide a reference point for individuals, instititutions or commercial enterprises that want to support or interact with the R development community.
+>* Hold and administer the copyright of R software and documentation.
+
+
+Martyn Plummer, [The R Consortium and the R Foundation](https://journal.r-project.org/archive/2015-2/plummer.pdf), _The R Journal_ Vol. 7/2, December 2015
+
+
+David Keyes, 2019-07-29, [If You Care About Equity, Use R](https://rfortherestofus.com/2019/07/equity/)
+
+
+***
+
 ## General & all-encompassing resources
+
 
 David Smale, [Free R Reading Material](https://committedtotape.shinyapps.io/freeR/),  A Shiny app collection "of books about the R programming language and Data Science, that you can read for free!"
 
@@ -19,9 +42,18 @@ Jennifer Bryan and Jim Hester, [What They Forgot to Teach You About R](https://w
 Colin Fay, 2018-09-24, [Why do we use arrow as an assignment operator?](https://colinfay.me/r-assignment/) -- answering the second-most-asked question about R.
 
 
+### Journals
+
+[The R Journal](https://journal.r-project.org/archive/) -- " the open access, refereed journal of the R project for statistical computing. It features short to medium length articles covering topics that should be of interest to users or developers of R."
+
+
+[Journal of Statistical Software](https://www.jstatsoft.org/index) -- not limited to R, the journal "publishes articles, book reviews, code snippets, and software reviews on the subject of statistical software and algorithms."
+
+
+
 ### R Release Names
 
-The most-asked question about R. 
+The most-asked question about R? 
 
 Answer: "All of the release names are references to Peanuts strips/films." 
 
@@ -41,11 +73,37 @@ Releases since 2017-07-28:
 (Another source for the strips is the [peanuts.fandom.com comics archive](https://peanuts.fandom.com/wiki/Category:Comic_strips))
 
 
+***
+
 
 ## R Introductions
 
 Nathaniel D. Phillips, [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/)
 
+
+***
+
+## The R toolbox
+
+### CRAN
+
+[The Comprehensive R Archive Network](https://cran.r-project.org/) -- CRAN for short -- "is a network of ftp and web servers around the world that store identical, up-to-date, versions of code and documentation for R." This is the place to get your installation of R, and the production versions of your favourite packages.
+
+### RStudio -- the IDE
+
+"RStudio" can mean one of two things:
+
+* [the integrated development environment (IDE) for R](https://www.rstudio.com/products/rstudio/)
+
+* [the company](https://www.rstudio.com/) which makes the IDE, as well as enterprise software and a variety of packages
+
+### Packages
+
+Antoine Bichat's [favoriteRpackages](https://github.com/abichat/favoriteRpackages)
+
+
+
+***
 
 
 ## R as a programming environment
@@ -106,44 +164,6 @@ The reticulate package provides a comprehensive set of tools for interoperabilit
 JD Long, twitter thread on {rpy2} documentation: [twitter thread](https://twitter.com/CMastication/status/1157645891672707072?s=20)
 
 
-
-
-***
-
-## The R community
-
-[The R Consortium](https://www.r-consortium.org/) " is a group organized under an open source governance and foundation model to support the worldwide community of users, maintainers and developers of R software. ... The central mission of the R Consortium is to work with and provide support to the R Foundation and key organizations and groups developing, maintaining, distributing and using R software."
-
-[The R Foundation](https://www.r-project.org/foundation/) 
-
->is a not for profit organization working in the public interest. It has been founded by the members of the R Development Core Team in order to
->* Provide support for the R project and other innovations in statistical computing. We believe that R has become a mature and valuable tool and we would like to ensure its continued development and the development of future innovations in software for statistical and computational research.
->* Provide a reference point for individuals, instititutions or commercial enterprises that want to support or interact with the R development community.
->* Hold and administer the copyright of R software and documentation.
-
-David Keyes, 2019-07-29, [If You Care About Equity, Use R](https://rfortherestofus.com/2019/07/equity/)
-
-
-
-***
-
-## The R toolbox
-
-### CRAN
-
-[The Comprehensive R Archive Network](https://cran.r-project.org/) -- CRAN for short -- "is a network of ftp and web servers around the world that store identical, up-to-date, versions of code and documentation for R." This is the place to get your installation of R, and the production versions of your favourite packages.
-
-### RStudio -- the IDE
-
-"RStudio" can mean one of two things:
-
-* [the integrated development environment (IDE) for R](https://www.rstudio.com/products/rstudio/)
-
-* [the company](https://www.rstudio.com/) which makes the IDE, as well as enterprise software and a variety of packages
-
-### Packages
-
-Antoine Bichat's [favoriteRpackages](https://github.com/abichat/favoriteRpackages)
 
 
 
