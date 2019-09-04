@@ -37,11 +37,25 @@ Minitab Express Support, [Help and How-To](https://support.minitab.com/en-us/min
 
 ## Distributions
 
+
+
 ### Beta distribution
 
 [What is the intuition behind beta distribtution? (CrossValidated)](http://stats.stackexchange.com/questions/47771/what-is-the-intuition-behind-beta-distribution)
 
 
+### R
+
+#### `{distributions3}`
+
+"Tools to create and manipulate probability distributions using S3. Generics random(), pdf(), cdf() and quantile() provide replacements for base R's r/d/p/q style functions. Functions and arguments have been named carefully to minimize confusion for students in intro stats courses. The documentation for each distribution contains detailed mathematical notes."
+
+* CRAN: [distributions3: Probability Distributions as S3 Objects](https://cran.r-project.org/package=distributions3/)
+
+* Alex Hayes, [Announcing the distributions3 package](https://www.alexpghayes.com/blog/announcing-the-distributions3-package/)
+
+
+***
 
 ## Randomization and random number generation
 

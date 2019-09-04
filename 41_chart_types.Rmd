@@ -216,6 +216,14 @@ Ilya Kashnitsky, 2017-03-31, ["Who is old? Visualizing the concept of prospectiv
 acarioli (2016-01-11) [Population pyramids in ggplot](https://aledemogr.wordpress.com/2016/01/11/population-pyramids-in-ggplot/)
 
 
+## Raincloud plot
+
+Micah Allen, 2018-03-15, [Introducing Raincloud Plots!](https://micahallen.org/2018/03/15/introducing-raincloud-plots/)
+
+[RainCloudPlots](https://github.com/RainCloudPlots/RainCloudPlots) -- "Code and tutorials to visualise your data that is both beautiful *and* statistically valid"
+
+David Zhao, 2019-09-02, [The ultimate EDA visualization in R](https://towardsdatascience.com/the-ultimate-eda-visualization-in-r-e6aff6afe5c1)
+
 
 
 ## Ridgeline plot
