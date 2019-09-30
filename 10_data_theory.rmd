@@ -14,8 +14,12 @@
 
 
 
+What is data science without _data_?  
 
-What is data science without _data_?  Links to tools to import data from a variety of sources, along with a few indexes and compendiums of data sources.
+
+## Understand your data
+
+Randy Au, 2019-02-15, [Know your data. Really, really, know it](https://towardsdatascience.com/data-science-foundations-know-your-data-really-really-know-it-a6bb97eb991c)
 
 
 ## Bias
