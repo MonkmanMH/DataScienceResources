@@ -119,7 +119,7 @@ Jay Gendron, (2016) [Introduction to R for Business Intelligence](https://www.or
 
 [Mango Solutions' R training](https://www.mango-solutions.com/additional-solutions/r-training) provides structure by user proficiency.
 
-[data_sci_guide](https://github.com/Chris-Engelhardt/data_sci_guide) -- A wealth of data science learning resources. "The overarching goal here is to provide anyone interested in learning data science with a wealth of open source, industry-best learning materials and learning tracks."
+Chris Engelhardt, [data_sci_guide](https://github.com/Chris-Engelhardt/data_sci_guide) -- A wealth of data science learning resources. "The overarching goal here is to provide anyone interested in learning data science with a wealth of open source, industry-best learning materials and learning tracks."
 
 ***
 
