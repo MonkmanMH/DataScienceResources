@@ -240,6 +240,11 @@ replies:
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+Twitter thread with many resources: 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Does anyone know a good resource for teaching an intro to RStudio?<br>- slides with most imp shortcuts including screenshots<br>- best practices (I know opinionated) - maybe an explanation that R!=RStudio?<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Patrick Schratz (@pjs_228) <a href="https://twitter.com/pjs_228/status/1180369562090520576?ref_src=twsrc%5Etfw">October 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
 
 ## Other topics
 
