@@ -29,6 +29,7 @@ Pete Mohanty (2017-11-07) [Automating Summary of Surveys with RMarkdown](https:/
 
 Andrew MacDonald (2018-02-09) [How I use Rmarkdown](http://thestudyofthehousehold.com/post/how-i-use-rmarkdown/) -- three handy tips on how to use markdown.
 
+Nick Strayer (2019-09-04) [Building a data-driven CV with R](https://livefreeordichotomize.com/2019/09/04/building_a_data_driven_cv_with_r/)
 
 
 Neil Collins, _How to Create Reports In R Markdown_, a series of blog posts
