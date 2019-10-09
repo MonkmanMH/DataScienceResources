@@ -24,6 +24,10 @@ Danielle Navarro, [Learning Statistics with R](https://learningstatisticswithr.c
 Danielle Navarro, [Learning Statistics with R: A tutorial for psychology students and other beginners](https://open.umn.edu/opentextbooks/textbooks/learning-statistics-with-r-a-tutorial-for-psychology-students-and-other-beginners)
 
 
+Christopher Prenner, [Sociospatial Data Science](https://chris-prener.github.io/SSDSBook/), 2018
+
+
+
 ### Statistics: general and other tools
 
 Minitab Express Support, [Help and How-To](https://support.minitab.com/en-us/minitab-express/1/help-and-how-to/help-and-how-to/)
