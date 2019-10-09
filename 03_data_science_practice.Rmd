@@ -313,6 +313,8 @@ Daniel Falster, Richard G FitzJohn, Matthew W. Pennell, William K. Cornwell (201
 
 ## Coding practice
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Why writing readable code matters:<br><br>It’s like the turn signals in your car: Even though you (the driver) might know where you’re going, you still need to make your intentions clear to everyone else around you.<a href="https://twitter.com/hashtag/DevDiscuss?src=hash&amp;ref_src=twsrc%5Etfw">#DevDiscuss</a> <a href="https://t.co/5GKrYaEz41">https://t.co/5GKrYaEz41</a></p>&mdash; Olivia Liddell (/@oliravi) <a href="https://twitter.com/oliravi/status/1181741102447116288?ref_src=twsrc%5Etfw">October 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 [Coding etiquette](https://ourcodingclub.github.io/2017/04/25/etiquette.html), a guide to writing clear, informative and easy-to-use #RStats code by /@/CodingClub 
 
 
