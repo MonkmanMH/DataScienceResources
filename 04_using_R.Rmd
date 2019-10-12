@@ -50,8 +50,9 @@ Colin Fay, 2018-09-24, [Why do we use arrow as an assignment operator?](https://
 [Journal of Statistical Software](https://www.jstatsoft.org/index) -- not limited to R, the journal "publishes articles, book reviews, code snippets, and software reviews on the subject of statistical software and algorithms."
 
 
+***
 
-### R Release Names
+## R Release Names
 
 The most-asked question about R? 
 
