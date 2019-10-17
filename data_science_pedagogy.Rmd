@@ -119,6 +119,11 @@ Not So Standard Deviations, [Episode 84 "All the Easy Issues"](http://nssdeviati
 [Learning R - Resources](https://github.com/data-datum/learning_R) -- a list of resources for learning R
 
 
+### Tidying data
+
+https://twitter.com/EvaMaeRey/status/1184633134547001344?s=20
+
+
 ### Text books, etc
 
 See [@Statistics and other quantitative methods: courses and text books]
