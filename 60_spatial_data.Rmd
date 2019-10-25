@@ -328,7 +328,7 @@ GitHub: [`tmap`](https://github.com/mtennekes/tmap)
 
 Corentin M. Barbu, 2015-11-06, ["tmap R package"](http://spatcontrol.net/SpatialControl/2015/11/06/tmap-r-package/)
 
-
+Jakub Nowosad, 2019-10-17, [Map coloring: the color scale styles available in the tmap package](https://geocompr.github.io/post/2019/tmap-color-scales/)
 
 ### `{urbnmapr}`
 
