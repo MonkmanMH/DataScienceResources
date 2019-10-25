@@ -15,6 +15,8 @@ David Donoho (2015) [_50 Years of Data Science_](http://courses.csail.mit.edu/18
 
 Hadley Wickham (2018) [Readings in Applied Data Science](https://github.com/hadley/stats337), course materials for Standford Stats337 (spring 2018)
 
+Iain Carmichael and J.S. Marron (2018) "Data science vs. statistics: two cultures?" [@Carmichael_Marron_2018]
+
 
 David Robinson (2018-01-09) ["What's the difference between data science, machine learning, and artificial intelligence?"](http://varianceexplained.org/r/ds-ml-ai/)
 

@@ -158,6 +158,8 @@ Andrew Heiss, [PMAP 8521: Program Evaluation](https://evalf19.classes.andrewheis
 * [Pep talk](https://evalf19.classes.andrewheiss.com/syllabus/#pep-talk)
 
 
+Iain Carmichael, [STOR 390: Introduction to Data Science](https://idc9.github.io/stor390/), Department of Statistics, University of Washington
+
 
 [Steal this syllabus! (or, how I taught Scientific Writing)](https://scientistseessquirrel.wordpress.com/2018/05/01/steal-this-syllabus-or-how-i-taught-scientific-writing/)
 
