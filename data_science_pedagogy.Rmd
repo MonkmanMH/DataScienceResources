@@ -76,6 +76,9 @@ Amelia McNamara, 2015, [Bridging the Gap Between Tools for Learning and for Doin
 Amelia McNamara, 2019, [Why the tidyverse?](http://www.amelia.mn/WhyTheTidyverse.pdf) -- slides for noRth 2019 talk
 
 
+Evangeline Reynolds, 2019-08-08, [Flipbooks](https://evamaerey.github.io/little_flipbooks_library/about/what_the_flipbook)
+
+
 ***
 
 ### Lesson planning
@@ -117,6 +120,11 @@ Not So Standard Deviations, [Episode 84 "All the Easy Issues"](http://nssdeviati
 
 
 [Learning R - Resources](https://github.com/data-datum/learning_R) -- a list of resources for learning R
+
+
+### Tidying data
+
+https://twitter.com/EvaMaeRey/status/1184633134547001344?s=20
 
 
 ### Text books, etc

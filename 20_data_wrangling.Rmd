@@ -56,6 +56,10 @@ Jesse Sadler, [Excel vs R: A Brief Introduction to R  (With examples using dplyr
 [Stat 545: Data wrangling, exploration, and analysis with R](http://stat545.com/index.html) -- course materials associated with the University of British Columbia's Statistics 545 course. Prepared in large part by Dr. Jenny Bryan.
 
 
+### Joins
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">the steps in a left join <a href="https://t.co/YSFAdxFl1D">pic.twitter.com/YSFAdxFl1D</a></p>&mdash; 🔎Julia Evans🔍 (@b0rk) <a href="https://twitter.com/b0rk/status/1184601536413999104?ref_src=twsrc%5Etfw">October 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ***
 
