@@ -223,6 +223,12 @@ The following links support the use of colour in R.
 
 
 
+### `{fishualize}`
+
+GitHub: [fishualize: Color Palettes Based on Fish Species](https://nschiett.github.io/fishualize/index.html)
+
+
+
 ### ColorBrewer
 
 The ColorBrewer palettes were designed by Dr. Cythia Brewer  -- a variety of palettes designed for data visualization (including maps)
