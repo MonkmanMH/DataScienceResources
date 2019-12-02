@@ -222,6 +222,11 @@ The following links support the use of colour in R.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Looking forward to my <a href="https://twitter.com/UseR2019_Conf?ref_src=twsrc%5Etfw">@UseR2019_Conf</a> presentation about color palettes with <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> pkg <a href="https://twitter.com/hashtag/colorspace?src=hash&amp;ref_src=twsrc%5Etfw">#colorspace</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> <a href="https://twitter.com/hashtag/useR2019?src=hash&amp;ref_src=twsrc%5Etfw">#useR2019</a> <a href="https://twitter.com/hashtag/endrainbow?src=hash&amp;ref_src=twsrc%5Etfw">#endrainbow</a><br><br>When: 14:00<br>Where: Saint-Exupéry<br><br>Web: <a href="https://t.co/pdjmkYiDkV">https://t.co/pdjmkYiDkV</a><br>Interactive apps: <a href="https://t.co/YFC7gjKCKT">https://t.co/YFC7gjKCKT</a><br>Slides: <a href="https://t.co/KOiC1NmrMF">https://t.co/KOiC1NmrMF</a> <a href="https://t.co/cPF9ZF8Cl1">pic.twitter.com/cPF9ZF8Cl1</a></p>&mdash; Achim Zeileis (@AchimZeileis) <a href="https://twitter.com/AchimZeileis/status/1149239509751672832?ref_src=twsrc%5Etfw">July 11, 2019</a></blockquote>
 
 
+### `{prismatic}`
+
+[{prismatic reference site}](https://emilhvitfeldt.github.io/prismatic/)
+
+
 
 ### `{fishualize}`
 
