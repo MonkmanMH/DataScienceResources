@@ -29,6 +29,9 @@ Martyn Plummer, [The R Consortium and the R Foundation](https://journal.r-projec
 David Keyes, 2019-07-29, [If You Care About Equity, Use R](https://rfortherestofus.com/2019/07/equity/)
 
 
+Julia Stewart Lowndes, 2019-12-10, [Open Software Means Kinder Science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/), _Scientific American_ blog
+
+
 ***
 
 ## General & all-encompassing resources
