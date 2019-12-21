@@ -222,7 +222,13 @@ Mine Cetinkaya-Rundel (2019-06-25) [Let them eat cake (first)!](https://speakerd
 
 ### course structure ideas
 
-**_R learning sprint_**
+
+#### Flipped classroom
+
+Alyssa P. Lawson, Caylor R. Davis, and Ji Y. Son, [Not All Flipped Classes are the Same: Using Learning Science to Design Flipped Classrooms](https://scholarworks.iu.edu/journals/index.php/josotl/article/view/25856/33709), _Journal of the Scholarship of Teaching and Learning_, Vol. 19, No. 5, December 2019
+
+
+#### _R learning sprint_
 
 See whole thread:
 
