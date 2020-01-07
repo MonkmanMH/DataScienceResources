@@ -51,6 +51,8 @@ Jason Brownlee, 2016-02-23, [Your First Machine Learning Project in R Step-By-St
 
 Brad Boehmke & Brandon Greenwell, [_Hands-on Machine Learning with R_](https://bradleyboehmke.github.io/HOML/)
 
+* [supplementary website](https://koalaverse.github.io/homlr/)
+
 
 Khushbu Shah, 2016-06-06, ["What are the Best Machine Learning Packages in R?"](https://www.r-bloggers.com/what-are-the-best-machine-learning-packages-in-r/)
 
