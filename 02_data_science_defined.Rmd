@@ -44,6 +44,8 @@ Tim Davies and Mark Frank (2013) [‘There’s no such thing as raw data’. Exp
 
 ## The Practice of Data Science & Statistics
 
+[Data science terminology](https://ubc-mds.github.io/resources_pages/terminology/) -- University of British Columbia, Master of Data Science program
+
 Steph de Silva and John Ormerod, [The Bayesian and The Frequentist](https://www.thebayesianandthefrequentist.com/2019/03/12/to-whom-it-may-concern/) {blog}
 
 Hadley Wickham, [Stats 337: Readings in Applied Data Science](https://github.com/hadley/stats337) -- reading list for Stanford University course, Spring 2018.
