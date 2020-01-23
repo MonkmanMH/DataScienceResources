@@ -12,9 +12,21 @@ github-repo: MonkmanMH/DataScienceResources_book
 description: "A modest and very incomplete listing of resources for tackling data science problems in R."
 ---
 
+
+<img alt="illuminated letter R" src="176px-Moralia_in_Job_MS_dragonslayer.jpg"></img>
+
+
+<small><i>
+Image: [Historiated initial R from the frontispiece of a 12th-century manuscript of St. Gregory's _Moralia in Job_, Dijon, Bibl. Municipale, MS 2](https://en.wikipedia.org/wiki/C%C3%AEteaux_Moralia_in_Job)
+<br>
+[Image source](https://commons.wikimedia.org/wiki/File:Moralia_in_Job_MS_dragonslayer.jpg)
+</i></small>
+
+
+
 # Preface {-}
 
-![Illuminated manuscript R](https://upload.wikimedia.org/wikipedia/commons/e/e7/Moralia_in_Job_MS_dragonslayer.jpg)
+
 
 _Draft_
 
