@@ -14,6 +14,8 @@ description: "A modest and very incomplete listing of resources for tackling dat
 
 # Preface {-}
 
+![Illuminated manuscript R](https://upload.wikimedia.org/wikipedia/commons/e/e7/Moralia_in_Job_MS_dragonslayer.jpg)
+
 _Draft_
 
 This book grew out of my evergrowing collection of reference materials that was saved as an expanding array of markdown files in a github repo. By assembling it as a book, I hope that it will be more accessible and useful to other R users.
