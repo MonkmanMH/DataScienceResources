@@ -13,6 +13,11 @@ description: "A modest and very incomplete listing of resources for tackling dat
 ---
 
 
+
+# Preface {-}
+
+
+
 <img alt="illuminated letter R" src="176px-Moralia_in_Job_MS_dragonslayer.jpg"></img>
 
 
@@ -22,9 +27,6 @@ Image: [Historiated initial R from the frontispiece of a 12th-century manuscript
 [Image source](https://commons.wikimedia.org/wiki/File:Moralia_in_Job_MS_dragonslayer.jpg)
 </i></small>
 
-
-
-# Preface {-}
 
 
 
