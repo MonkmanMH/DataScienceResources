@@ -51,24 +51,33 @@ Some definitions: ["What is the difference between "de-identified", "anonymous",
 
 Justin Brickell and Vitaly Shmatikov, 2008: ["The Cost of Privacy: Destruction of Data-Mining Utility in Anonymized Data Publishing"](http://www.cs.cornell.edu/~shmat/shmat_kdd08.pdf)
 
-{see also [Wikipedia: De-anonymization](https://en.wikipedia.org/wiki/De-anonymization)}
+* see also [Wikipedia: De-anonymization](https://en.wikipedia.org/wiki/De-anonymization)
+
+
+Dary Hsu, ["Techniques to Anonymize Human Data"](http://blog.datasift.com/2015/04/09/techniques-to-anonymize-human-data/), 2015
+
+Gregory J. Matthews, Pétala Gardênia da Silva Estrela Tuy, and Robert K. Arthur, 
+["An examination of statistical disclosure issues related to publication of aggregate statistics in the presence of a known subset of the dataset using Baseball Hall of Fame ballots"](https://www.degruyter.com/view/j/jqas.2017.13.issue-1/jqas-2016-0085/jqas-2016-0085.xml), _Journal of Quantitative Analysis in Sports_, 2017
+
 
 Arvind Narayanan and Vitaly Shmatikov, 2008: ["Robust De-anonymization of Large Datasets (How to Break Anonymity of the Netflix Prize Dataset)"](https://arxiv.org/pdf/cs/0610105.pdf)
 
 Arvind Narayanan and Vitaly Shmatikov, 2008: ["Robust De-anonymization of Large Sparse Datasets"](https://www.cs.utexas.edu/~shmat/shmat_oak08netflix.pdf)
 
-{see also Bruce Schneier, ["Why 'Anonymous' Data Sometimes Isn't"](http://archive.wired.com/politics/security/commentary/securitymatters/2007/12/securitymatters_1213)}
+* see also Bruce Schneier, ["Why 'Anonymous' Data Sometimes Isn't"](http://archive.wired.com/politics/security/commentary/securitymatters/2007/12/securitymatters_1213)
 
-{see also Arvind Narayanan, ["Big Data: Anonymity, Privacy, Ethics"](http://randomwalker.info/data-privacy/), a collection of papers and other resources on the topic} 
+* see also Arvind Narayanan, ["Big Data: Anonymity, Privacy, Ethics"](http://randomwalker.info/data-privacy/), a collection of papers and other resources on the topic 
 
 
-Dary Hsu, ["Techniques to Anonymize Human Data"](http://blog.datasift.com/2015/04/09/techniques-to-anonymize-human-data/), 2015
+Latanya Sweeney, "Information Explosion" in _Confidentiality, Disclosure, and Data Access: Theory and Practical Applications for Statistical Agencies_ (@Sweeney_2001)
+
+Latanya Sweeney, Michael von Loewenfeldt, and Melissa Perry, "Saying it’s Anonymous Doesn't Make It So: Re-identifications of “anonymized” law school data" in _Journal of Technology Science_ (@Sweeney_etal_2018)
+
+* additional publications on the topic of data anonymization and re-identification by Latanya Sweeney can be found as part of her CV at [latanyasweeney.org](http://latanyasweeney.org/cv.html#publications)
 
 
 Pete Warden, ["Why you can't really anonymize your data"](https://www.oreilly.com/ideas/anonymize-data-limits), 2011
 
-Gregory J. Matthews, Pétala Gardênia da Silva Estrela Tuy, and Robert K. Arthur, 
-["An examination of statistical disclosure issues related to publication of aggregate statistics in the presence of a known subset of the dataset using Baseball Hall of Fame ballots"](https://www.degruyter.com/view/j/jqas.2017.13.issue-1/jqas-2016-0085/jqas-2016-0085.xml), _Journal of Quantitative Analysis in Sports_, 2017
 
 
 
