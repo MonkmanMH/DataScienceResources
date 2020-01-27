@@ -2,6 +2,10 @@
 
 > If 80% of the data scientist's job is data cleaning, perhaps that _is_ the job. (Source: Anon.)
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Cleaning data 🧼🧽 <a href="https://t.co/MMCJkTYmgL">pic.twitter.com/MMCJkTYmgL</a></p>&mdash; Chelsea Parlett-Pelleriti (@ChelseaParlett) <a href="https://twitter.com/ChelseaParlett/status/1221251025983565824?ref_src=twsrc%5Etfw">January 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+https://twitter.com/ChelseaParlett/status/1221251025983565824?s=20
+
+
 
 ## Introduction
 
