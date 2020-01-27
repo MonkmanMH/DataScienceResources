@@ -296,7 +296,9 @@ Kyle Walker (2016) ["Using a new Mapbox Studio map in an R Leaflet project"](htt
 
 CRAN: [sf: Simple Features for R](https://cran.r-project.org/package=sf)
 
+**articles**
 
+Timo Grossenbacher, 2019-04-19, [Bivariate maps with ggplot2 and sf](https://timogrossenbacher.ch/2019/04/bivariate-maps-with-ggplot2-and-sf/)
 
 
 ### `{sp}`
