@@ -8,6 +8,9 @@ documentclass: book
 bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
+links-as-notes: true
+colorlinks: true
+cover-image: 439px-Moralia_in_Job_MS_dragonslayer.jpg
 github-repo: MonkmanMH/DataScienceResources_book
 description: "A modest and very incomplete listing of resources for tackling data science problems in R."
 ---
@@ -15,18 +18,6 @@ description: "A modest and very incomplete listing of resources for tackling dat
 
 
 # Preface {-}
-
-
-
-<img alt="illuminated letter R" src="176px-Moralia_in_Job_MS_dragonslayer.jpg"></img>
-
-
-<small><i>
-Image: [Historiated initial R from the frontispiece of a 12th-century manuscript of St. Gregory's _Moralia in Job_, Dijon, Bibl. Municipale, MS 2](https://en.wikipedia.org/wiki/C%C3%AEteaux_Moralia_in_Job)
-<br>
-[Image source](https://commons.wikimedia.org/wiki/File:Moralia_in_Job_MS_dragonslayer.jpg)
-</i></small>
-
 
 
 
@@ -52,13 +43,19 @@ The author would like to acknowledge everyone who has contributed to the books, 
 
 The source code for this ebook can be found at this github repository: https://github.com/MonkmanMH/DataScienceResources 
 
+This book is written in **Markdown**, using the [**bookdown**](https://bookdown.org/yihui/bookdown/) package, and published to the web at [bookdown.org](https://bookdown.org/).
+
+
 
 **Cover image**
 
-For the cover, I wanted to use a photo of the Main Hall of the old Cincinnati Library, which one can find all over the internet. But going to the source, I see that it's _not_ offered by the Public Library of Cincinnati under an open license. But you can follow [this link and see it there](https://www.flickr.com/photos/cincinnatipubliclibrary/3357891281).
+The cover image is the [historiated initial R from the frontispiece of a 12th-century manuscript of St. Gregory's _Moralia in Job_, Dijon, Bibl. Municipale, MS 2](https://en.wikipedia.org/wiki/C%C3%AEteaux_Moralia_in_Job). The manuscript was made at the famous reform monastery of Cîteaux in Burgundy around 1111; the frontispiece was added later.
+
+It was downloaded from [wikipedia commons](https://commons.wikimedia.org/wiki/File:Moralia_in_Job_MS_dragonslayer.jpg); that site notes that the image is in the public domain.
 
 
-This book is written in **Markdown**, using the [**bookdown**](https://bookdown.org/yihui/bookdown/) package, and published to the web at [bookdown.org](https://bookdown.org/).
+I had initially wanted to use a photo of the Main Hall of the old Cincinnati Library, which one can find all over the internet. But going to the source, I see that it's _not_ offered by the Public Library of Cincinnati under an open license. But you can follow [this link and see it there](https://www.flickr.com/photos/cincinnatipubliclibrary/3357891281).
+
 
 
 ```{r eval=FALSE}
