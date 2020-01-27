@@ -211,6 +211,11 @@ Data Carpentry One Day Workshop
 R Programming (on Coursera): https://www.coursera.org/learn/r-programming
 
 
+### {tidyr}
+
+[Reshaping Your Data with tidyr](https://uc-r.github.io/tidyr), UC Business Analytics R Programming Guide (a bit dated, with `gather()` and `spread()`, but a good explanation of the pipe)
+
+
 ### This thread!
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> hive mind and especially <a href="https://twitter.com/djnavarro?ref_src=twsrc%5Etfw">@djnavarro</a> - what do you think is the most essential thing students should be taught on a one (! I know) day R and applied statistics class?</p>&mdash; Elizabeth Davis (@__EODavis) <a href="https://twitter.com/__EODavis/status/1157786328597032961?ref_src=twsrc%5Etfw">August 3, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
