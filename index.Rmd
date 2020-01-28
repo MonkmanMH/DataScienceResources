@@ -17,9 +17,9 @@ description: "A modest and very incomplete listing of resources for tackling dat
 
 
 
-# Preface {-}
+# Preface  {-}
 
-
+<img src="Moralia_in_Job_MS_dragonslayer.jpg" width="350" height="460" alt="Moralia in Job - dragonslayer" />
 
 _Draft_
 
