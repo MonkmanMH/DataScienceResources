@@ -10,7 +10,7 @@ biblio-style: apalike
 link-citations: yes
 links-as-notes: true
 colorlinks: true
-cover-image: 439px-Moralia_in_Job_MS_dragonslayer.jpg
+cover-image: Moralia_in_Job_MS_dragonslayer.jpg
 github-repo: MonkmanMH/DataScienceResources_book
 description: "A modest and very incomplete listing of resources for tackling data science problems in R."
 ---
