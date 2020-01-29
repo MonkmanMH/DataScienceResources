@@ -18,9 +18,14 @@ In particular, survey data
 
 ## R readers
 
-**articles**
+**articles and books**
 
-[R database interfaces](http://www.burns-stat.com/r-database-interfaces/)
+John David Smith, Sophie Yang, M. Edward (Ed) Borasky, Jim Tyhurst, Scott Came, Mary Anne Thygesen, and Ian Frantz, 2020-01-27, [Exploring Enterprise Databases with R: A Tidyverse Approach](https://smithjd.github.io/sql-pet/)
+
+
+[R database interfaces](http://www.burns-stat.com/r-database-interfaces/), Burns Statistics
+
+
 
 
 ### `{rio}`

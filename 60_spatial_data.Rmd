@@ -290,6 +290,23 @@ Kyle Walker (2016) ["Using a new Mapbox Studio map in an R Leaflet project"](htt
 [Leaflet: an open-source JavaScript library for mobile-friendly interactive maps](http://leafletjs.com/)
 
 
+
+### `{mapdeck}`
+
+"Provides a mechanism to plot an interactive map using 'Mapbox GL' (<https://www.mapbox.com/mapbox-gl-js/api/>), a javascript library for interactive maps, and 'Deck.gl' (<http://deck.gl/#/>), a javascript library which uses 'WebGL' for visualising large data sets."
+
+**package**
+
+CRAN: [mapdeck: Interactive Maps Using 'Mapbox GL JS' and 'Deck.gl'](https://cran.r-project.org/package=mapdeck)
+
+[{mapdeck} reference](https://symbolixau.github.io/mapdeck/articles/mapdeck.html)
+
+
+**articles**
+
+[Mapdeck - more than a map](https://resources.symbolix.com.au/2020/01/29/rstudioconf2020/) -- poster presented at rstudio::conf 2020
+
+
 ### `{sf}`
 
 **package**
