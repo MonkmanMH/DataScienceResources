@@ -39,19 +39,9 @@ Tim Davies and Mark Frank (2013) [‘There’s no such thing as raw data’. Exp
 
 * [alternate source 2](http://students.ecs.soton.ac.uk/mwra1g13/msc/comp6037/timed_ex_pdf/p75-davies.pdf)
 
+***
 
-
-
-## The Practice of Data Science & Statistics
-
-[Data science terminology](https://ubc-mds.github.io/resources_pages/terminology/) -- University of British Columbia, Master of Data Science program
-
-Steph de Silva and John Ormerod, [The Bayesian and The Frequentist](https://www.thebayesianandthefrequentist.com/2019/03/12/to-whom-it-may-concern/) {blog}
-
-Hadley Wickham, [Stats 337: Readings in Applied Data Science](https://github.com/hadley/stats337) -- reading list for Stanford University course, Spring 2018.
-
-
-### Using R for Data Science
+## Using R for Data Science
 
 Hadley Wickham & Garrett Grolemund (2016) [_R for Data Science_] [@Wickham_Grolemund2016]
 
@@ -61,10 +51,12 @@ Roger Peng, [_R Programming for Data Science_] [@Peng2018]
 
 Chester Ismay and Albert Y. Kim, 2019-02-24, [_Modern Dive: Statistical Inference via Data Science (A moderndive into R and the tidyverse)_](http://moderndive.com/) [@Ismay_Kim_2018] (was _An Introduction to Statistical and Data Sciences via R_)
 
+JD Long and Paul Teetor, 2019-09-26, [_R Cookbook, 2nd Edition_](https://rc2e.com/)
+
 
 Chester Ismay and Patrick C. Kennedy, 2018-05-23, [Getting used to R, RStudio, and R Markdown](https://ismayc.github.io/rbasics-book/)
 
-
+Gordon Shotwell, 2019-12-30, "Why I use R: They said the war was over..."](https://blog.shotwell.ca/posts/why_i_use_r/)&mdash;a well-articulated explication as to why R is the best tool for data science
 
 
 ### Using R for Data Journalism
@@ -72,6 +64,19 @@ Chester Ismay and Patrick C. Kennedy, 2018-05-23, [Getting used to R, RStudio, a
 [.Rddj: Hand-curated, high quality resources for doing data journalism with R](https://rddj.info/)
 
 [R for Journalists](http://www.scoop.it/t/r-for-journalists) at scoop.it
+
+
+
+***
+
+## The Practice of Data Science & Statistics
+
+[Data science terminology](https://ubc-mds.github.io/resources_pages/terminology/) -- University of British Columbia, Master of Data Science program
+
+Steph de Silva and John Ormerod, [The Bayesian and The Frequentist](https://www.thebayesianandthefrequentist.com/2019/03/12/to-whom-it-may-concern/) {blog}
+
+Hadley Wickham, [Stats 337: Readings in Applied Data Science](https://github.com/hadley/stats337) -- reading list for Stanford University course, Spring 2018.
+
 
 
 ### Data Science and Public Policy
