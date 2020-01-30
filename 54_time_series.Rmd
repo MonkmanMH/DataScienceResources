@@ -103,6 +103,8 @@ Kamala Kanta Mishra, [Selecting Forecasting Methods in Data Science](http://www.
 
 ### R
 
+Rob J Hyndman and George Athanasopoulos, [_Forecasting: Principles and Practice_, 3rd edition](https://otexts.com/fpp3/)
+
 Kostiantyn Kravchuk, ["Forecasting: Time Series Exploration Exercises (Part-1)"](https://www.r-bloggers.com/forecasting-time-series-exploration-exercises-part-1/) (2017-04-10)
 
 
