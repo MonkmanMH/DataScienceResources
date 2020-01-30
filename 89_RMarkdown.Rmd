@@ -82,6 +82,8 @@ Malcolm Barrett, [Move R Markdown HTML slides to Blogdown and Push to Web](https
 
 Yin-Ting Chou (2018-05-06) [Jekyll Website with Github, Github Pages and R Markdown](https://yintingchou.com/posts/jekyll-website-with-github-github-pages-and-r-markdown/)
 
+Alison Hill (2017-06-12) [Up & Running with blogdown](https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/)
+
 Alison Hill, _A Spoonful of Hugo_ series of blog posts:
 
 * [Archetypes](https://alison.rbind.io/post/2019-02-19-hugo-archetypes/) (2019-02-19)
