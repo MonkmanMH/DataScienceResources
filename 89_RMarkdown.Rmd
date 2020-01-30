@@ -11,26 +11,11 @@ This section provides links to resources for using the various packages that use
 
 Yihui Xie, J. J. Allaire, Garrett Grolemund (2018) [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) 
 
-
 [R Markdown](http://rmarkdown.rstudio.com/), main page at R Studio
 
 * [R Markdown Reference Guide](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
 
 * [R Markdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
-
-
-Nicholas Tierney, 2019-07-02, [RMarkdown for Scientists](https://rmd4sci.njtierney.com/) -- "This is a book on rmarkdown, aimed for scientists. It was initially developed as a 3 hour workshop, but is now developed into a resource that will grow and change over time as a living book."
-
-Yan Holtz, [Pimp my RMD: a few tips for R Markdown](https://holtzy.github.io/Pimp-my-rmd/) (most recent update: 2018-12-10) -- a nice summary of tips, tricks, and tweaks for  your RMD files
-
-
-Pete Mohanty (2017-11-07) [Automating Summary of Surveys with RMarkdown](https://rviews.rstudio.com/2017/11/07/automating-summary-of-surveys-with-rmarkdown/)
-
-
-Andrew MacDonald (2018-02-09) [How I use Rmarkdown](http://thestudyofthehousehold.com/post/how-i-use-rmarkdown/) -- three handy tips on how to use markdown.
-
-Nick Strayer (2019-09-04) [Building a data-driven CV with R](https://livefreeordichotomize.com/2019/09/04/building_a_data_driven_cv_with_r/)
-
 
 Neil Collins, _How to Create Reports In R Markdown_, a series of blog posts
 
@@ -41,6 +26,22 @@ Neil Collins, _How to Create Reports In R Markdown_, a series of blog posts
 * [III: Reactive Elements](https://www.sportscidata.com/2019/04/19/how-to-create-interactive-reports-in-r-markdown-shiny-reactive-elements/) (2019-04-19)
 
 * [IV: Shiny App Calendar Heatmap](https://www.sportscidata.com/2019/04/26/how-to-create-reports-in-r-markdown-shiny-app-calendar-heatmap/) (2019-04-26)
+
+
+Yan Holtz, [Pimp my RMD: a few tips for R Markdown](https://holtzy.github.io/Pimp-my-rmd/) (most recent update: 2018-12-10) -- a nice summary of tips, tricks, and tweaks for  your RMD files
+
+
+Pete Mohanty (2017-11-07) [Automating Summary of Surveys with RMarkdown](https://rviews.rstudio.com/2017/11/07/automating-summary-of-surveys-with-rmarkdown/)
+
+
+Andrew MacDonald (2018-02-09) [How I use Rmarkdown](http://thestudyofthehousehold.com/post/how-i-use-rmarkdown/) -- three handy tips on how to use markdown.
+
+Emily Riederer (2019-05-04) [RMarkdown Driven Development (RmdDD)](https://emilyriederer.netlify.com/post/rmarkdown-driven-development/)
+
+Nick Strayer (2019-09-04) [Building a data-driven CV with R](https://livefreeordichotomize.com/2019/09/04/building_a_data_driven_cv_with_r/)
+
+Nicholas Tierney {2019-07-02) [RMarkdown for Scientists](https://rmd4sci.njtierney.com/) -- "This is a book on rmarkdown, aimed for scientists. It was initially developed as a 3 hour workshop, but is now developed into a resource that will grow and change over time as a living book."
+
 
 
 ### Distill
@@ -70,16 +71,26 @@ Yihui Xie, Amber Thomas, Alison Presmanes Hill, [blogdown: Creating Websites wit
 
 Esteban Moro, _Setting up your blog with RStudio and blogdown_
 
-* [I: Creating the blog](http://estebanmoro.org/post/2019-02-02-setting-up-your-blog-with-rstudio-and-blogdown-i-creating-the-blog/), 2019-02-01
+* [I: Creating the blog](http://estebanmoro.org/post/2019-02-02-setting-up-your-blog-with-rstudio-and-blogdown-i-creating-the-blog/) (2019-02-01)
 
-* [II: Workflow](http://estebanmoro.org/post/2019-02-01-setting-up-your-blog-with-rstudio-and-blogdown/), 2019-02-02
+* [II: Workflow](http://estebanmoro.org/post/2019-02-01-setting-up-your-blog-with-rstudio-and-blogdown/) (2019-02-02)
 
-* [III: modify your theme](http://estebanmoro.org/post/2019-02-04-setting-up-your-blog-with-rstudio-and-blogdown-iii-modify-your-theme/)
+* [III: modify your theme](http://estebanmoro.org/post/2019-02-04-setting-up-your-blog-with-rstudio-and-blogdown-iii-modify-your-theme/) (2019-02-04)
 
-
-Yin-Ting Chou, 2018-05-06, [Jekyll Website with Github, Github Pages and R Markdown](https://yintingchou.com/posts/jekyll-website-with-github-github-pages-and-r-markdown/)
 
 Malcolm Barrett, [Move R Markdown HTML slides to Blogdown and Push to Web](https://gist.github.com/malcolmbarrett/7c5935d1734016dcb0b2c81b9bc3b549)
+
+Yin-Ting Chou (2018-05-06) [Jekyll Website with Github, Github Pages and R Markdown](https://yintingchou.com/posts/jekyll-website-with-github-github-pages-and-r-markdown/)
+
+Alison Hill, _A Spoonful of Hugo_ series of blog posts:
+
+* [Archetypes](https://alison.rbind.io/post/2019-02-19-hugo-archetypes/) (2019-02-19)
+
+* [The netlify.toml File](https://alison.rbind.io/post/2019-02-19-hugo-netlify-toml/) (2019-02-20)
+
+* [Page Bundles](https://alison.rbind.io/post/2019-02-21-hugo-page-bundles/) (2019-02-21)
+
+* [Troubleshooting Your Build](https://alison.rbind.io/post/2019-03-04-hugo-troubleshooting/) (2019-03-04)
 
 
 
