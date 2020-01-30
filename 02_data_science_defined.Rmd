@@ -26,7 +26,7 @@ David Robinson (2018-01-09) ["What's the difference between data science, machin
 Mango Solutions (2018-08-15) ["Demystifying Data Science Terminology"](https://www.mango-solutions.com/blog/demystifying-data-science-terminology)
 
 
-Martin Monkman (2019-06-02) ["Same name, different bird"](https://bayesball.blogspot.com/2019/06/same-name-different-bird.html) at [bayesball.blogspot.com](bayesball.blogspot.com)
+Martin Monkman (2019-06-02) ["Same name, different bird"](https://martinmonkman.com/post/2019-06-02_same-name/) 
 
 
 ## Philosophy
