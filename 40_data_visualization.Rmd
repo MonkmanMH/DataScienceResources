@@ -96,6 +96,9 @@ Design Space of Data Visualization"](https://www.sciencedirect.com/science/artic
   - Mark Wilson, 2019-06-28, ["Google’s six rules for great data design"](https://www.fastcompany.com/90369607/googles-six-rules-for-great-data-design) (at FastCompany)
 
 
+
+RJ Andrews, 2020-01-28, ["Illustration Invades Everything": Reflections by Minard on his graphical impact.](https://infowetrust.com/project/minard1861)
+
 ### Animation in Data Visualization
 
 
