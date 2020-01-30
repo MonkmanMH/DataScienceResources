@@ -26,6 +26,10 @@ John David Smith, Sophie Yang, M. Edward (Ed) Borasky, Jim Tyhurst, Scott Came, 
 [R database interfaces](http://www.burns-stat.com/r-database-interfaces/), Burns Statistics
 
 
+## `{readr}`
+
+Alison Hill (2018-07-07-8) [Read Data with Multiple Header Rows into R](https://alison.rbind.io/post/2018-02-23-read-multiple-header-rows/)
+
 
 
 ### `{rio}`
