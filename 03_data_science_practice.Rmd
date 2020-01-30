@@ -200,6 +200,7 @@ Jeremy Anglin, [Reproducible analysis with knitr, R Markdown, and RStudio](https
  
 Ben Marwick, 20 July 2017, [Reproducible Research Compendia via R packages](https://rawgit.com/benmarwick/Marwick-Berlin-R-users-2017/master/Marwick-Berlin-R-users-2017.html#1), presentation at Berlin R Users
 
+Sharla Gelfand (2020-01-30) [Don't repeat yourself, talk to yourself! Repeated reporting in the R universe](https://sharstudioconf.netlify.com/#1) -- presentation at rstudio::conf 2020
 
 * see also [{redoc}], "a package to enable a two-way R Markdown Microsoft Word workflow. It generates Word documents that can be de-rendered back into R Markdown, retaining edits on the Word document, including tracked changes."
 
