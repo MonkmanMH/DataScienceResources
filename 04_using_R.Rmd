@@ -139,6 +139,8 @@ Jonathan McPherson, 2019-05-20, [Debugging with RStudio](https://support.rstudio
 
 Jennifer Bryan and Jim Hester, ["Debugging R code"](https://whattheyforgot.org/debugging-r-code.html), Chapter 11 in _What They Forgot to Teach You About R_
 
+Jenny Bryan (2020-01-30) [Object of type 'closure' is not subsettable](https://github.com/jennybc/debugging#readme)—talk at rstudio::conf 2020 
+
 
 ### R as part of the Data Science Toolbox
 
