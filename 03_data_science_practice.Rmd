@@ -120,6 +120,12 @@ Emily Robinson, [Red Flags in Data Science Interviews](http://hookedondata.org/R
 
 ## R packages supporting robust workflow
 
+[**R project workflows**](https://github.com/jdblischak/r-project-workflows#readme): a GitHub repository compiled by jdblichak
+
+* "This is a non-exhaustive list of R code that assists with the workflow of R projects. Some are R packages, others are Git repositories meant to be used as templates, and some are guides. Here "workflow" is broadly defined, and incldues one or more of the following: file organization, dependency management (e.g. like GNU Make), or report generation."
+
+
+
 ### `{janitor}`
 
 [{janitor}](sfirke.github.io/janitor/index.html) -- "has simple functions for examining and cleaning dirty data. It was built with beginning and intermediate R users in mind and is optimized for user-friendliness. Advanced R users can already do everything covered here, but with janitor they can do it faster and save their thinking for the fun stuff."
