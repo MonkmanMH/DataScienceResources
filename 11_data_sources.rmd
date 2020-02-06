@@ -20,6 +20,8 @@ Simon Fraser University Library: [Gender, Sexuality & Women's Studies Informatio
 
 ### open data sources
 
+#### socio-economic
+
 [SDG Tracker](https://sdg-tracker.org/) -- "a free, open-access resource where users can track and explore global and country-level progress towards each of the 17 Sustainable Development Goals" established by the United Nations.
 
 * The database is compiled by [Our World in Data](https://ourworldindata.org/) ("Research and data to make progress against the world's largest problems"). Data are available through curated links.
@@ -36,6 +38,12 @@ Simon Fraser University Library: [Gender, Sexuality & Women's Studies Informatio
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Anyone know of a good migration dataset? Ideally # of people moving from country i to country j by year</p>&mdash; Savage Jim (/@/jim_savage_) <a href="https://twitter.com/jim_savage_/status/1094672164928802816?ref_src=twsrc%5Etfw">February 10, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+#### science
+
+[NASA Goddard Institute for Space Studies](https://data.giss.nasa.gov/)—a plethora of data including climate simulations and impacts, Earth observations, and other planets.
+
+#### other
 
 [FiveThirtyEight: Our Data](https://data.fivethirtyeight.com/) -- "the data and code behind some of our articles and graphics".
 

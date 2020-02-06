@@ -39,6 +39,8 @@ But start here:
 
 * F.J. Anscombe, "Graphs in Statistical Analysis" -- the classic paper that introduced the justifiably-famous [_Anscombe's Quartet_](https://en.wikipedia.org/wiki/Anscombe%27s_quartet) [@Anscombe_1973]
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">See, people think Anscombe&#39;s quartet is all artificial extreme cases and no one would actually make such a stupid mistake with regression, and then you get figures like Fig 8C <a href="https://t.co/LrPn1fjShp">https://t.co/LrPn1fjShp</a> <a href="https://t.co/sEG3BXpQYj">pic.twitter.com/sEG3BXpQYj</a></p>&mdash; Mark Baxter #ITMFA (@markgbaxter) <a href="https://twitter.com/markgbaxter/status/1224398295096877057?ref_src=twsrc%5Etfw">February 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 * [Enrico Bertini's homepage](http://enrico.bertini.io/) -- a plethora of articles and resources on data visualization
 
 * [Data Visualization Inventors, Founders, and Developers](https://policyviz.com/2019/01/09/data-visualization-inventors-founders-and-developers/) -- credit where credit is due
