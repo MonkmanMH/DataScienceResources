@@ -70,6 +70,7 @@ Releases since 2017-07-28:
 
   - Peter Dalgaard's [original announcement of the release of R-1.0.0 to stat.ethz.ch](https://stat.ethz.ch/pipermail/r-announce/2000/000127.html)
 
+
 * R 3.6.2 ["Dark and Stormy Night"](https://www.gocomics.com/peanuts/1965/07/12) (original strip: 1965-07-12) (R version release date: 2019-12-12)
 
   - the first appearance was the beginning of a running storyline that ran for the five subsequent strips (through 1965-07-17)
