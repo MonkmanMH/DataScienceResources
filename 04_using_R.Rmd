@@ -86,6 +86,10 @@ Releases since 2017-07-28:
   
   - The literary cliche ["It was a dark and stormy night" has its own wikipedia entry](https://en.wikipedia.org/wiki/It_was_a_dark_and_stormy_night)
 
+
+* R 3.6.3 ["Holding the Windsock"](https://www.gocomics.com/peanuts/2000/02/29) (original strip: 2000-02-29—this date also saw the release of R 1.0.0!) (R version release date: 2020-02-29)
+
+
 (Another source for the strips is the [peanuts.fandom.com comics archive](https://peanuts.fandom.com/wiki/Category:Comic_strips))
 
 
