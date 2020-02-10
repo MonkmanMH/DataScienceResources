@@ -47,11 +47,15 @@ Colin Fay, 2018-09-24, [Why do we use arrow as an assignment operator?](https://
 
 ### Journals
 
-[The R Journal](https://journal.r-project.org/archive/) -- " the open access, refereed journal of the R project for statistical computing. It features short to medium length articles covering topics that should be of interest to users or developers of R."
+[The R Journal](https://journal.r-project.org/archive/)—"the open access, refereed journal of the R project for statistical computing. It features short to medium length articles covering topics that should be of interest to users or developers of R."
 
 
-[Journal of Statistical Software](https://www.jstatsoft.org/index) -- not limited to R, the journal "publishes articles, book reviews, code snippets, and software reviews on the subject of statistical software and algorithms."
+[Journal of Statistical Software](https://www.jstatsoft.org/index)—not limited to R, the journal "publishes articles, book reviews, code snippets, and software reviews on the subject of statistical software and algorithms."
 
+
+### Text books by subject
+
+Jacob Kaplan (2020-01-15) [_Crime by the Numbers_](https://crimebythenumbers.com/)—"This book introduces the programming language R and is meant for undergrads or graduate students studying criminology. R is a programming language that is well-suited to the type of work frequently done in criminology - taking messy data and turning it into useful information. While R is a useful tool for many fields of study, this book focuses on the skills criminologists should know and uses crime data for the example data sets."
 
 ***
 
