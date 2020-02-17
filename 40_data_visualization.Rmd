@@ -141,7 +141,7 @@ Medium's [Data Visualization Society](https://medium.com/data-visualization-soci
 
 * [Shiny apps for statistics](https://statistics.calpoly.edu/shiny) -- by the Statistics Department at CalPoly
 
-
+### Packages
 
 ## `{ggplot2}` -- the pre-eminent way to create charts and graphs in R
 
@@ -178,6 +178,18 @@ There are many extension packages that allow you to make other visualizations in
 * GitHub page: [wilkox/ggfittext](https://github.com/wilkox/ggfittext)
 
 * Reference page: [ggfittext](https://wilkox.org/ggfittext/)
+
+
+#### `{patchwork}` -- The Composer of Plots
+
+"The goal of patchwork is to make it ridiculously simple to combine separate ggplots into the same graphic."
+
+* [CRAN page](https://​cloud.r-project.org/​package=patchwork)
+
+* [Reference page](https://patchwork.data-imaginist.com/)
+
+
+
 
 
 
