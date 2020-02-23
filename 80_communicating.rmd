@@ -27,6 +27,38 @@ https://twitter.com/AllieSherier/status/1098988779833040903
 
 ### Packages
 
+#### `{gt}`
+
+
+
+**package**
+
+CRAN page: []()
+
+github page: [Easily generate information-rich, publication-quality tables from R](https://github.com/rstudio/gt)
+
+
+**articles**
+
+[{gt} reference page](https://gt.rstudio.com/)
+
+
+
+
+#### `{gtsummary}`
+
+**package**
+
+CRAN page: [gtsummary: Presentation-Ready Data Summary and Analytic Result Tables](https://cloud.r-project.org/web/packages/gtsummary/index.html)
+
+github page: [ddsjoberg/gtsummary](https://github.com/ddsjoberg/gtsummary)
+
+
+**articles**
+
+[{gtsummary} reference page](http://www.danieldsjoberg.com/gtsummary/)
+
+
 
 #### `{kableExtra}`
 
@@ -44,21 +76,6 @@ vignette: Hao Zhu, 2019-03-15, [Create Awesome HTML Table with knitr::kable and 
 https://haozhu233.github.io/kableExtra/
 
 
-
-#### `{gt}`
-
-
-
-**package**
-
-CRAN page: []()
-
-github page: [Easily generate information-rich, publication-quality tables from R](https://github.com/rstudio/gt)
-
-
-**articles**
-
-[`gt` reference page](https://gt.rstudio.com/)
 
 
 -30-
