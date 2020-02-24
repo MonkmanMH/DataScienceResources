@@ -29,7 +29,13 @@ Ron Pearson, 2011-01-29, [Boxplots and Beyond – Part I](https://www.r-bloggers
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+## Bump plot
 
+A line chart that shows changes in ranking over time (not the absolute value).
+
+* [{ggbump}](https://github.com/davidsjoberg/ggbump) -- "A geom for {ggplot} to create bump plots"
+
+* Kaiser Fung, 2019-04-16, [The Bumps come to the NBA, courtesy of 538](https://junkcharts.typepad.com/junk_charts/2019/04/the-bumps-come-to-the-nba-courtesy-of-538.html) -- some good examples of bump charts, with links to other examples.
 
 
 ## Density plot
