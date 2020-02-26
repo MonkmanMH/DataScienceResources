@@ -10,6 +10,8 @@ Why would you want to use R Markdown?
 
 * Rob Hyndman (2020-01-30) [R Markdown changed my life](https://robjhyndman.com/seminars/rmarkdown/) -- presentation at rstudio::conf 2020
 
+* David Keyes (2019-03-29) [R’s Killer Feature: RMarkdown](https://rfortherestofus.com/2019/03/r-killer-feature-rmarkdown/)
+
 
 ## R Markdown
 

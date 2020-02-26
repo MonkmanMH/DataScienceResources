@@ -64,6 +64,8 @@ Jenny Bryan (2017) [Workflow: you should have one](https://speakerdeck.com/jenny
 
 - [Supporting documentation: earl-london-2017-bryan](https://github.com/jennybc/earl-london-2017-bryan#readme)
 
+Kara Woo (2020-02-13) [What They Forgot to Teach You About R at rstudio::conf 2020](https://education.rstudio.com/blog/2020/02/conf20-wtf/)--all the materials from workshop delivered by Kara Woo, Jim Hester, and Jenny Bryan
+
 
 
 **other authors**
