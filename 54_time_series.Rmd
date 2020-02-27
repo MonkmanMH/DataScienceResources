@@ -15,6 +15,17 @@ See also
 
 ### Theory and methods in R
 
+#### Rob J Hyndman
+
+Rob Hyndman's work in this area is second-to-none.
+
+* [the cleverly named "Hyndsight" blog](https://robjhyndman.com/hyndsight/) has a wealth of great articles on the topic, many of which explicitly reference the use of R.  
+
+* ["Software I've written"](https://robjhyndman.com/software/) is a comprehensive list of the various packages that he has (co)authored
+
+
+#### Other authors
+
 Avril Coghlan, [Little Book of R for Time Series](https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/index.html)
 
 
