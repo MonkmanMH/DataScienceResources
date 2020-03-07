@@ -319,4 +319,9 @@ GitHub page: {waffle}(https://github.com/hrbrmstr/waffle): Make waffle (square p
 
 
 
+## Unit visualization
+
+Antoine Béland and Thomas Hurtut (2020) [Unit Visualizations for Visual Storytelling](https://cpb-us-w2.wpmucdn.com/express.northeastern.edu/dist/d/53/files/2020/02/CJ_2020_paper_37.pdf), 2020, research paper presented at the [2020 Computation + Journalism Symposium](https://cj2020.northeastern.edu/research-papers/) (2020-03-20 to 2020-03-21)
+
+
 -30-
