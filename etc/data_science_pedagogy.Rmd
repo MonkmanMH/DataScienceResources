@@ -83,6 +83,8 @@ Amelia McNamara, 2019, [Why the tidyverse?](http://www.amelia.mn/WhyTheTidyverse
 Evangeline Reynolds, 2019-08-08, [Flipbooks](https://evamaerey.github.io/little_flipbooks_library/about/what_the_flipbook)
 
 
+Mine Çetinkaya-Rundel and Colin Rundel, [Infrastructure and Tools for Teaching Computing Throughout the Statistical Curriculum](https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1397549)
+
 ***
 
 ### Lesson planning
