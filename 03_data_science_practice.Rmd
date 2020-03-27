@@ -120,6 +120,10 @@ Emily Robinson, [Red Flags in Data Science Interviews](http://hookedondata.org/R
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+Noam Ross, [Reproducibility in an Office World: A Brief History of Failures and the Odd Success](https://github.com/noamross/2018-11-06-rladies-talk#reducing-round-trips-making-an-editable-powerpoint-graphic-from-r-with-rvg), presentation to R-Ladies NYC, 2018-11-06
+
+
+
 ## R packages supporting robust workflow
 
 [**R project workflows**](https://github.com/jdblischak/r-project-workflows#readme): a GitHub repository compiled by jdblichak
