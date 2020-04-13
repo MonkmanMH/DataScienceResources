@@ -189,7 +189,13 @@ There are many extension packages that allow you to make other visualizations in
 * [Reference page](https://patchwork.data-imaginist.com/)
 
 
+### themes
 
+{ggplot2} has a number of [themes in the core package](https://ggplot2.tidyverse.org/reference/ggtheme.html), and here are some to extend the range:
+
+* [ggthemes](https://yutannihilation.github.io/allYourFigureAreBelongToUs/ggthemes/) -- includes various publications (e.g. Wall Street Journal, Economist), software (e.g. Excel, Stata), dataviz celebrities (e.g. Tufte, Few), and others
+
+* [ggpomological: A Pomological ggplot2 Theme](https://www.garrickadenbuie.com/project/ggpomological/)
 
 
 
