@@ -83,6 +83,8 @@ Amelia McNamara, 2019, [Why the tidyverse?](http://www.amelia.mn/WhyTheTidyverse
 Evangeline Reynolds, 2019-08-08, [Flipbooks](https://evamaerey.github.io/little_flipbooks_library/about/what_the_flipbook)
 
 
+Mine Çetinkaya-Rundel and Colin Rundel, [Infrastructure and Tools for Teaching Computing Throughout the Statistical Curriculum](https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1397549)
+
 ***
 
 ### Lesson planning
@@ -271,6 +273,13 @@ replies:
 Twitter thread with many resources: 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Does anyone know a good resource for teaching an intro to RStudio?<br>- slides with most imp shortcuts including screenshots<br>- best practices (I know opinionated) - maybe an explanation that R!=RStudio?<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Patrick Schratz (@pjs_228) <a href="https://twitter.com/pjs_228/status/1180369562090520576?ref_src=twsrc%5Etfw">October 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+## Switching to online (COVID-19)
+
+https://www.insidehighered.com/advice/2020/03/17/10-strategies-support-students-and-help-them-learn-during-coronavirus-crisis
+
+Greg Wilson, [Teaching Online at Short Notice](https://docs.google.com/presentation/d/1rE5e2kSFNICNkBJ4iIIgd9eqACi62gxahknKLtw9Hzs/edit#slide=id.g55ddde1eae_0_2) -- slides for webinar, 2020-03-19
 
 
 
