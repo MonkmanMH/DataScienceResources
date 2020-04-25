@@ -37,6 +37,9 @@ Neil Collins, _How to Create Reports In R Markdown_, a series of blog posts
 Yan Holtz, [Pimp my RMD: a few tips for R Markdown](https://holtzy.github.io/Pimp-my-rmd/) (most recent update: 2018-12-10) -- a nice summary of tips, tricks, and tweaks for  your RMD files
 
 
+Thea Knowles, [Dissertating with RMarkdown and Bookdown](https://bookdown.org/thea_knowles/dissertating_rmd_presentation/) -- "A preliminary tutorial led by Thea Knowles for the R-Ladies #LdnOnt workshop series"
+
+
 Pete Mohanty (2017-11-07) [Automating Summary of Surveys with RMarkdown](https://rviews.rstudio.com/2017/11/07/automating-summary-of-surveys-with-rmarkdown/)
 
 
@@ -46,7 +49,7 @@ Emily Riederer (2019-05-04) [RMarkdown Driven Development (RmdDD)](https://emily
 
 Nick Strayer (2019-09-04) [Building a data-driven CV with R](https://livefreeordichotomize.com/2019/09/04/building_a_data_driven_cv_with_r/)
 
-Nicholas Tierney {2019-07-02) [RMarkdown for Scientists](https://rmd4sci.njtierney.com/) -- "This is a book on rmarkdown, aimed for scientists. It was initially developed as a 3 hour workshop, but is now developed into a resource that will grow and change over time as a living book."
+Nicholas Tierney (2019-07-02) [RMarkdown for Scientists](https://rmd4sci.njtierney.com/) -- "This is a book on rmarkdown, aimed for scientists. It was initially developed as a 3 hour workshop, but is now developed into a resource that will grow and change over time as a living book."
 
 
 
