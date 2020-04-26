@@ -70,6 +70,12 @@ Lucy D'Agostino McGowan, 2017-07-28, [R release names](https://livefreeordichoto
 
 Releases since 2017-07-28:
 
+* R 4.0.0 ["Arbor Day"](https://www.gocomics.com/peanuts/1970/04/24) (original strip: 1970-04-24) (R version release date: 2020-04-24)
+
+  - The 1976 TV special [_It's Arbor Day, Charlie Brown_](https://peanuts.fandom.com/wiki/It%27s_Arbor_Day,_Charlie_Brown?fbclid=IwAR1LPS3ksgWm-MZlWZ0YicwyOCzOJK94LDfvZFibaScVrtaLY4O6ZrWzEVE) 
+
+
+
 * R 3.6.3 ["Holding the Windsock"](https://www.gocomics.com/peanuts/2000/02/29) (original strip: 2000-02-29—this date also saw the release of R 1.0.0!) (R version release date: 2020-02-29)
 
   - Peter Dalgaard's [original announcement of the release of R-1.0.0 to stat.ethz.ch](https://stat.ethz.ch/pipermail/r-announce/2000/000127.html)
