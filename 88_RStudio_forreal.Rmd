@@ -1,0 +1,40 @@
+# RStudio {#RStudio}
+
+
+
+## Introduction
+
+RStudio is the foremost IDE for using R.
+
+## RStudio
+
+
+
+### RStudio Cloud
+
+Designed to "do, share, teach and learn data science with R".
+
+* [rstudio.cloud](https://rstudio.cloud/)
+
+
+## Other languages from RStudio
+
+
+### Python
+
+#### `{reticulate}`
+
+[{reticulate}: R Interface to Python](https://rstudio.github.io/reticulate/)
+
+
+
+
+### SQL
+
+
+Irene Steves, 2020-04-29, [Using SQL in RStudio](https://irene.rbind.io/post/using-sql-in-rstudio/)
+
+
+
+
+***
