@@ -164,6 +164,7 @@ Medium's [Data Visualization Society](https://medium.com/data-visualization-soci
 
 * Dana Paige Seidel, [Default ggplot2 aesthetics by geom](https://gist.github.com/dpseidel/57f28ccc034ccfdd0cf25b6c6c82a635)
 
+* Henry Wang, [ggplot2 Theme Elements Demonstration](https://henrywang.nl/ggplot2-theme-elements-demonstration/)
 
 ### extensions
 
@@ -208,11 +209,13 @@ There are many extension packages that allow you to make other visualizations in
 
 * Sharon Machlis, 2019-07-24, [How to write your own ggplot2 functions in R](https://www.infoworld.com/article/3410295/how-to-write-your-own-ggplot2-functions-in-r.html)
 
-** _Note:_**
 
 
 
-### Plotly
+
+***
+
+## Plotly
 
 Plotly for R allows you to "Create interactive, D3 and WebGL charts in R" (their words, not mine). A great resource for upping the content of online visualizations.
 
