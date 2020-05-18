@@ -209,7 +209,7 @@ There are many extension packages that allow you to make other visualizations in
 
 * Sharon Machlis, 2019-07-24, [How to write your own ggplot2 functions in R](https://www.infoworld.com/article/3410295/how-to-write-your-own-ggplot2-functions-in-r.html)
 
-
+* Isabella R. Ghement, 2020-05-18, [twitter thread](https://twitter.com/IsabellaGhement/status/1262450736354390016?s=20) that shows step-by-step how to build and customize scatterplots in R.
 
 
 
