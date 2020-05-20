@@ -174,6 +174,16 @@ Alberto Cairo (2019-07-09) [A mosaic plot that exemplifies good design practices
 
 
 
+## Pie Charts
+
+Over-used and often mis-used and poorly designed, the pie chart is frequently the subject of ridicule and scorn. But this format does have utility (if done well) and supporters.
+
+Robert Kosara, 2016, "A Pair of Pie Chart Papers" [@Kosara_pair_of_pies_2016]
+
+Robert Kosara, 2016, "An Illustrated Tour of the Pie Chart Study Results" [@Kosara_pie_2016]
+
+Elizabeth Ricks, 2020, "What is a Pie Chart" [@Ricks_pie_2020]
+
 
 ## Population Pyramids
 
