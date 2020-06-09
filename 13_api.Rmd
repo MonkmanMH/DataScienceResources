@@ -12,6 +12,9 @@ Shana Pearlman (2016-09-07), [What are APIs and how do APIs work?](https://blogs
 ### General resources
 
 
+Michael Clark, 2018-08-12, [Engaging the Web with R](https://m-clark.github.io/webR/)
+
+
 Brian Cooksey, [Zapier course: An Introduction to APIs](https://zapier.com/learn/apis/)
 
 Matthew Guay (2018-03-29), [What Are Webhooks? A Simple Guide to Connecting Web Apps with Webhooks](https://zapier.com/blog/what-are-webhooks/)
@@ -41,6 +44,12 @@ Jose Gonzalez, [Using Google Maps API and R](https://gist.github.com/josecarlosg
 CRAN: [httr: Tools for Working with URLs and HTTP](https://cran.r-project.org/package=httr/)
 
 Vignette: [Best practices for API packages](https://cran.r-project.org/package=httr/vignettes/api-packages.html)
+
+
+
+## Web scraping
+
+Keith McNulty, 2019-08-16, [Tidy web scraping in R — Tutorial and resources](https://towardsdatascience.com/tidy-web-scraping-in-r-tutorial-and-resources-ac9f72b4fe47)
 
 
 
