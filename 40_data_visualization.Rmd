@@ -285,6 +285,8 @@ Cynthia A. Brewer, Geoffrey W. Hatchard, and Mark A. Harrower (2003) ColorBrewer
 
 * Tom Jager (2018-06-25) [How to Optimize Charts For Color Blind Readers Using Color Blind Friendly Palettes](https://venngage.com/blog/color-blind-friendly-palette/)
 
+* Masataka Okabe and Kei Ito, 2008-09-24, [Color Universal Design (CUD) - How to make figures and presentations that are friendly to Colorblind people](https://jfly.uni-koeln.de/color/)
+
 * Alberto Cairo, 2019-06-26, ["Our understanding of rainbow colour schemes remains incomplete"](http://www.thefunctionalart.com/2019/06/our-understanding-of-rainbow-color.html)
 
 * Robert Simmon, ["Use of Color in Data Visualization"](https://earthobservatory.nasa.gov/resources/blogs/intro_to_color_for_visualization.pdf) {pdf}
