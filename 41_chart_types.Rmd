@@ -311,6 +311,24 @@ Kyle Walker, 2015-05-17, [Global population change with a slopegraph in ggplot2]
 
 
 
+## Violin plots
+
+[wikipedia: Violin plot](https://en.wikipedia.org/wiki/Violin_plot)
+
+* "It is similar to a box plot, with the addition of a rotated kernel density plot on each side."
+
+
+#### `{vioplot}`
+
+**Package**
+
+CRAN page: [vioplot: Violin Plot](https://cran.r-project.org/package=vioplot): "A violin plot is a combination of a box plot and a kernel density plot. This package allows extensive customisation of violin plots."
+
+GitHub page: {vioplot}(https://github.com/TomKellyGenetics/vioplot): "This package allows extensive customisation of violin plots."
+
+
+
+
 
 ## Waffle plots
 
