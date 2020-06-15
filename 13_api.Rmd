@@ -1,10 +1,17 @@
-# APIs in R
+# Interfacing with databases in R
 
 
 
 
 ## Introduction
 
+
+## Extract, Transform & Load (ETL)
+
+Ben Baumer (2019) "A Grammar for Reproducible and Painless Extract-Transform-Load Operations on Medium Data", _Journal of Computational and Graphical Statistics_ [@Baumer_2019]
+
+
+## APIs
 
 Shana Pearlman (2016-09-07), [What are APIs and how do APIs work?](https://blogs.mulesoft.com/biz/tech-ramblings-biz/what-are-apis-how-do-apis-work/)
 
@@ -16,11 +23,8 @@ Brian Cooksey, [Zapier course: An Introduction to APIs](https://zapier.com/learn
 
 Matthew Guay (2018-03-29), [What Are Webhooks? A Simple Guide to Connecting Web Apps with Webhooks](https://zapier.com/blog/what-are-webhooks/)
 
-***
 
-
-
-## APIs in R
+### APIs in R
 
 Lucy D'Agostino McGowan, 2018-07-31, [Harnessing the Power of the Web via R Clients for Web APIs](https://www.lucymcgowan.com/talk/asa_joint_statistical_meeting_2018/) -- presentation at the 2018 Joint Statistical Meeting
 
@@ -29,12 +33,20 @@ Amanda Gadrow, [Using Web APIs from R](https://www.rstudio.com/resources/videos/
 Christoph Waldhauser (2015-11-22), [Accessing APIs from R (and a little R programming)](https://www.r-bloggers.com/accessing-apis-from-r-and-a-little-r-programming/)
 
 
-
-
 Jose Gonzalez, [Using Google Maps API and R](https://gist.github.com/josecarlosgonz/6417633)
 
 
 ### Packages
+
+#### `{etl}`
+
+CRAN: [etl: Extract-Transform-Load Framework for Medium Data](https://cran.r-project.org/package=etl/) -- "A predictable and pipeable framework for performing ETL (extract-transform-load) operations on publicly-accessible medium-sized data set. This package sets up the method structure and implements generic functions. Packages that depend on this package download specific data sets from the Internet, clean them up, and import them into a local or remote relational database management system."
+
+
+Vignette: [Using etl](https://cran.r-project.org/web/packages/etl/vignettes/using_etl.html)
+
+Vignette: [Extending etl](https://cran.r-project.org/web/packages/etl/vignettes/extending_etl.html)
+
 
 #### `{httr}`
 
