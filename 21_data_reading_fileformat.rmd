@@ -7,7 +7,17 @@ You've got some data, now you need to get it into your R environment.
 
 ## Introduction
 
+## Databases
 
+[Databases using R](https://db.rstudio.com/overview) -- from RStudio
+
+John David Smith, Sophie Yang, M. Edward (Ed) Borasky, Jim Tyhurst, Scott Came, Mary Anne Thygesen, and Ian Frantz, 2020-01-27, [Exploring Enterprise Databases with R: A Tidyverse Approach](https://smithjd.github.io/sql-pet/)
+
+
+[R database interfaces](http://www.burns-stat.com/r-database-interfaces/), Burns Statistics
+
+
+***
 
 ## Labelled data
 
@@ -17,13 +27,6 @@ In particular, survey data
 
 
 ## R readers
-
-**articles and books**
-
-John David Smith, Sophie Yang, M. Edward (Ed) Borasky, Jim Tyhurst, Scott Came, Mary Anne Thygesen, and Ian Frantz, 2020-01-27, [Exploring Enterprise Databases with R: A Tidyverse Approach](https://smithjd.github.io/sql-pet/)
-
-
-[R database interfaces](http://www.burns-stat.com/r-database-interfaces/), Burns Statistics
 
 
 ## `{readr}`
