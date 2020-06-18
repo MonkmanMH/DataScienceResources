@@ -1,0 +1,50 @@
+# Data Cleaning and Validation {#datacleaning}
+
+
+
+## Introduction
+
+Data scientists, by some accounts, spend 80% of their time cleaning data. Ensuring that your data is of high quality ensures that your analysis, and thus your conclusions, are also of high quality, is an essential step in the data science process.
+
+
+## Data Quality
+
+[Statistics Canada Quality Guidelines](https://www150.statcan.gc.ca/n1/pub/12-539-x/12-539-x2019001-eng.htm)--6th edition (2019)
+
+
+## Data Cleaning
+
+[Data cleansing](https://en.wikipedia.org/wiki/Data_cleansing)--wikipedia entry
+
+
+
+## Data Validation
+
+[Data validation](https://en.wikipedia.org/wiki/Data_validation)--wikipedia entry
+
+Marco Di Zio, Nadežda Fursova, et al., [Methodology for data validation 1.0](https://ec.europa.eu/eurostat/cros/system/files/methodology_for_data_validation_v1.0_rev-2016-06_final.pdf) (revised edition June 2016), Essnet Validat Foundation {PDF}
+
+
+## R Packages
+
+
+Mark van der Loo and Edwin de Jonge, _Statistical Data Cleaning with Applications in R_ [@Van_der_Loo_de_Jonge_2018]
+
+
+Edwin de Jonge and Mark van der Loo, 2013, [An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf), Discussion Paper, Statistics Netherlands {PDF}
+
+Edwin de Jonge and Mark van der Loo, 2019, [Data Validation Infrastructure for R](https://arxiv.org/pdf/1912.09759.pdf), arXiv:1912.09759v1 {PDF}
+
+
+
+
+### `{validate}`
+
+CRAN: [validate: Data Validation Infrastructure](https://cran.r-project.org/web/packages/validate/) -- "Declare data validation rules and data quality indicators; confront data with them and analyze or visualize the results. The package supports rules that are per-field, in-record, cross-record or cross-dataset. Rules can be automatically analyzed for rule type and connectivity."
+
+
+Vignette: [Introduction to Validate](https://cran.r-project.org/web/packages/validate/vignettes/introduction.html)
+
+
+
+-30-
