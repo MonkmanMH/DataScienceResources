@@ -25,7 +25,7 @@ Data scientists, by some accounts, spend 80% of their time cleaning data. Ensuri
 Marco Di Zio, Nadežda Fursova, et al., [Methodology for data validation 1.0](https://ec.europa.eu/eurostat/cros/system/files/methodology_for_data_validation_v1.0_rev-2016-06_final.pdf) (revised edition June 2016), Essnet Validat Foundation {PDF}
 
 
-## R Packages
+## Using R
 
 
 Mark van der Loo and Edwin de Jonge, _Statistical Data Cleaning with Applications in R_ [@Van_der_Loo_de_Jonge_2018]
@@ -33,9 +33,10 @@ Mark van der Loo and Edwin de Jonge, _Statistical Data Cleaning with Application
 
 Edwin de Jonge and Mark van der Loo, 2013, [An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf), Discussion Paper, Statistics Netherlands {PDF}
 
-Edwin de Jonge and Mark van der Loo, 2019, [Data Validation Infrastructure for R](https://arxiv.org/pdf/1912.09759.pdf), arXiv:1912.09759v1 {PDF}
 
+Samuel E. Buttrey, Lyn R. Whitaker, 2017, _A Data Scientist's Guide to Acquiring, Cleaning, and Managing Data in R_ [@Buttrey_Whitaker_2017]
 
+## R Packages
 
 
 ### `{validate}`
@@ -45,6 +46,9 @@ CRAN: [validate: Data Validation Infrastructure](https://cran.r-project.org/web/
 
 Vignette: [Introduction to Validate](https://cran.r-project.org/web/packages/validate/vignettes/introduction.html)
 
+Articles:
+
+* Edwin de Jonge and Mark van der Loo, 2019, [Data Validation Infrastructure for R](https://arxiv.org/pdf/1912.09759.pdf), arXiv:1912.09759v1 {PDF}
 
 
 -30-
