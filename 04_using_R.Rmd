@@ -70,6 +70,12 @@ Lucy D'Agostino McGowan, 2017-07-28, [R release names](https://livefreeordichoto
 
 Releases since 2017-07-28:
 
+* R 4.0.2 ["Taking Off Again"](https://www.gocomics.com/peanuts/1962/04/14) (original strip: 1962-04-14) (R version release date: 2020-06-22)--two weeks after R 4.0.1 was released, R 4.0.2 was released with a few bug fixes
+
+
+* R 4.0.1 ["See Things Now"](https://www.gocomics.com/peanuts/1962/02/06) (original strip: 1962-02-06) (R version release date: 2020-06-06)
+
+
 * R 4.0.0 ["Arbor Day"](https://www.gocomics.com/peanuts/1970/04/24) (original strip: 1970-04-24) (R version release date: 2020-04-24)
 
   - The 1976 TV special [_It's Arbor Day, Charlie Brown_](https://peanuts.fandom.com/wiki/It%27s_Arbor_Day,_Charlie_Brown?fbclid=IwAR1LPS3ksgWm-MZlWZ0YicwyOCzOJK94LDfvZFibaScVrtaLY4O6ZrWzEVE) 
