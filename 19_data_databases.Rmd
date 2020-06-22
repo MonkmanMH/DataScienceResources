@@ -11,6 +11,21 @@
 Ben Baumer (2019) "A Grammar for Reproducible and Painless Extract-Transform-Load Operations on Medium Data", _Journal of Computational and Graphical Statistics_ [@Baumer_2019]
 
 
+## SQL
+
+
+[SQL learning resources](https://twitter.com/ebovee09/status/1275070663452004359?s=20) -- twitter thread
+
+Irene Steves, [Using SQL in RStudio](https://irene.rbind.io/post/using-sql-in-rstudio/)
+
+[_Select Star SQL_](https://selectstarsql.com/)--"This is an interactive book which aims to be the best place on the internet for learning SQL."
+
+[SQL Tutorial](https://www.w3schools.com/sql/)--from w3schools.com
+
+[Learn SQL](https://www.codecademy.com/learn/learn-sql)--codeacademy.com course
+
+
+
 ## APIs
 
 Shana Pearlman (2016-09-07), [What are APIs and how do APIs work?](https://blogs.mulesoft.com/biz/tech-ramblings-biz/what-are-apis-how-do-apis-work/)

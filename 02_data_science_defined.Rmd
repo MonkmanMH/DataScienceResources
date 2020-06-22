@@ -39,6 +39,9 @@ Tim Davies and Mark Frank (2013) [‘There’s no such thing as raw data’. Exp
 
 * [alternate source 2](http://students.ecs.soton.ac.uk/mwra1g13/msc/comp6037/timed_ex_pdf/p75-davies.pdf)
 
+
+Bertrand Russell, "The Social Responsibilities of Scientists" [@10.2307/1705325]
+
 ***
 
 ## Using R for Data Science
