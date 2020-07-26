@@ -232,6 +232,7 @@ Colour is a vital part of good data visualization.
 
 Lisa Charlotte Rost, 2018-07-31, [Your Friendly Guide to Colors in Data Visualisation](https://blog.datawrapper.de/colorguide/) -- An overview of color tools
 
+
 #### General resources: R
 
 The following links support the use of colour in R.
@@ -299,6 +300,8 @@ Cynthia A. Brewer, Geoffrey W. Hatchard, and Mark A. Harrower (2003) ColorBrewer
 ### palettes in R
 
 * Clay Ford, 2016-06-10, ["Setting up Color Palettes in R"](https://data.library.virginia.edu/setting-up-color-palettes-in-r/)
+
+* Joachim Goedhart, 2019-08-29, [Data Visualization with Flying Colors](https://thenode.biologists.com/data-visualization-with-flying-colors/research/), at thenode.biologists.com
 
 
 * [R color cheatsheet](https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/colorPaletteCheatsheet.pdf)
