@@ -6,14 +6,20 @@
 
 This section provides links to resources for using the various packages that use R Markdown.
 
-Why would you want to use R Markdown?
+**_Why_ would you want to use R Markdown?**
 
 * Rob Hyndman (2020-01-30) [R Markdown changed my life](https://robjhyndman.com/seminars/rmarkdown/) -- presentation at rstudio::conf 2020
 
 * David Keyes (2019-03-29) [R’s Killer Feature: RMarkdown](https://rfortherestofus.com/2019/03/r-killer-feature-rmarkdown/)
 
+**_How_ can you use R Markdown?**
+
+* Thomas Mock, 2020-07-24, [How I share knowledge around R Markdown: A meta collection of some R Markdown strategies](https://themockup.blog/posts/2020-07-25-meta-rmarkdown/)
+
+
 
 ## R Markdown
+
 
 Yihui Xie, J. J. Allaire, Garrett Grolemund (2018) [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) 
 
