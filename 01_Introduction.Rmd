@@ -16,7 +16,7 @@ This "bazaar"[@Raymond_CatB] of development makes it impossible to be an expert 
 
 This is where the R community really shines. The spirit of the bazaar extends to open data, open science, open research, and open development. Your friends in the R community around the world are making their tools and techniques available, and are using social media channels to tell one another about it, which spurs on collaboration and futher innovations, in a never-ending virtuous cycle.
 
-This compendium is simply my attempt to gather together pieces of R methods, based on the problems I've confronted and the personal itch I've scratched, and what I've found at that particular time. 
+This compendium is simply my attempt to gather together pieces of R methods, based on the data science problems I've confronted, and what I've found at that particular time. 
 
 The paragraphs above are a long-winded way of saying that I acknowledge that what's here is woefully incomplete and likely out of date! If you're aware of something newer, more streamlined or efficient, accurate, or just better, please don't hesitate to let me know.
 
