@@ -232,6 +232,9 @@ Colour is a vital part of good data visualization.
 
 Lisa Charlotte Rost, 2018-07-31, [Your Friendly Guide to Colors in Data Visualisation](https://blog.datawrapper.de/colorguide/) -- An overview of color tools
 
+Lisa Charlotte Rost, 2020-09-04, [How to pick more beautiful colors for your data visualizations: Common color mistakes and how to avoid them](https://blog.datawrapper.de/beautifulcolors/) 
+
+
 
 #### General resources: R
 
