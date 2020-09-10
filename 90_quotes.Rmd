@@ -1,0 +1,20 @@
+# Quotes about data, statistics, and data science {#quotes}
+
+
+
+## Introduction
+
+There are many good quotations about data, statistics, and data science—this is a short collection of ones that struck me as pithy, containing nuggets of wisdom.
+
+
+## Science (general)
+
+
+“One may study and observe and know a great many facts but when it comes to the how and the why, one finds one has little knowledge and a great deal of wonderment.” 
+—Grace O. Wiley [@Wiley_1937]
+
+
+
+
+***
+
