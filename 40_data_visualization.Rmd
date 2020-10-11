@@ -168,9 +168,9 @@ Medium's [Data Visualization Society](https://medium.com/data-visualization-soci
 
 ### extensions
 
-There are many extension packages that allow you to make other visualizations in {ggplot2}. Some are catalogued at [www.ggplot2-exts.org](https://www.ggplot2-exts.org/index.html).
+There are many extension packages that allow you to make other visualizations in {ggplot2}. Some are catalogued at [exts.ggplot2.tidyverse.org/](https://exts.ggplot2.tidyverse.org/).
 
-* Gallery of {ggplot2} extensions: [ggplot2-exts.org/gallery/]({ggplot2} extensions - gallery )
+* [Gallery of {ggplot2} extensions:](https://exts.ggplot2.tidyverse.org/gallery/)
 
 #### `{ggfittext}`
 
