@@ -131,12 +131,19 @@ Noam Ross, [Reproducibility in an Office World: A Brief History of Failures and 
 * "This is a non-exhaustive list of R code that assists with the workflow of R projects. Some are R packages, others are Git repositories meant to be used as templates, and some are guides. Here "workflow" is broadly defined, and incldues one or more of the following: file organization, dependency management (e.g. like GNU Make), or report generation."
 
 
+### `{drake}`
+
+CRAN: [drake: A Pipeline Toolkit for Reproducible Computation at Scale](https://CRAN.R-project.org/package=drake) -- "A general-purpose computational engine for data analysis, drake rebuilds intermediate data objects when their dependencies change, and it skips work when the results are already up to date. Not every execution starts from scratch, there is native support for parallel and distributed computing, and completed projects have tangible evidence that they are reproducible. Extensive documentation, from beginner-friendly tutorials to practical examples and more, is available at the reference website <https://docs.ropensci.org/drake/> and the online manual <https://books.ropensci.org/drake/>."
+
+* [The drake R Package User Manual](https://books.ropensci.org/drake/)
+
+
 
 ### `{janitor}`
 
 [{janitor}](sfirke.github.io/janitor/index.html) -- "has simple functions for examining and cleaning dirty data. It was built with beginning and intermediate R users in mind and is optimized for user-friendliness. Advanced R users can already do everything covered here, but with janitor they can do it faster and save their thinking for the fun stuff."
 
-CRAN: [janitor: Simple Tools for Examining and Cleaning Dirty Data](https://cran.r-project.org/web/packages/janitor/index.html)
+CRAN: [janitor: Simple Tools for Examining and Cleaning Dirty Data](https://CRAN.R-project.org/package=janitor)
 
 GitHub: [sfirke/janitor](https://github.com/sfirke/janitor)
 
@@ -146,7 +153,7 @@ GitHub: [sfirke/janitor](https://github.com/sfirke/janitor)
 [{Packrat} is a dependency management system for R](http://rstudio.github.io/packrat/)
 
 
-CRAN: [packrat: A Dependency Management System for Projects and their R Package Dependencies](https://cran.r-project.org/web/packages/packrat/index.html)
+CRAN: [packrat: A Dependency Management System for Projects and their R Package Dependencies](https://CRAN.R-project.org/package=packrat)
 
 GitHub: [rstudio/packrat](https://github.com/rstudio/packrat)
 
@@ -159,7 +166,9 @@ Miles McBain (2019-04-09) [A workflow for lightweight R dependency management](h
 
 "usethis is a workflow package: it automates repetitive tasks that arise during project setup and development, both for R packages and non-package projects"
 
-[usethis 1.5.0](https://www.tidyverse.org/articles/2019/04/usethis-1.5.0/) (April 2019)
+CRAN: [usethis: Automate Package and Project Setup](https://CRAN.R-project.org/package=usethis) -- "Automate package and project setup tasks that are otherwise performed manually. This includes setting up unit testing, test coverage, continuous integration, Git, 'GitHub', licenses, 'Rcpp', 'RStudio' projects, and more."
+
+* [usethis 1.5.0](https://www.tidyverse.org/articles/2019/04/usethis-1.5.0/) (April 2019)
 
 
 

@@ -172,6 +172,7 @@ There are many extension packages that allow you to make other visualizations in
 
 * [Gallery of {ggplot2} extensions:](https://exts.ggplot2.tidyverse.org/gallery/)
 
+
 #### `{ggfittext}`
 
 "ggplot2 geoms to fit text into boxes"
@@ -197,6 +198,7 @@ There are many extension packages that allow you to make other visualizations in
 * [ggthemes](https://yutannihilation.github.io/allYourFigureAreBelongToUs/ggthemes/) -- includes various publications (e.g. Wall Street Journal, Economist), software (e.g. Excel, Stata), dataviz celebrities (e.g. Tufte, Few), and others
 
 * [ggpomological: A Pomological ggplot2 Theme](https://www.garrickadenbuie.com/project/ggpomological/)
+
 
 
 

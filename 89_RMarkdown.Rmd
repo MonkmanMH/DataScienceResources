@@ -20,6 +20,8 @@ This section provides links to resources for using the various packages that use
 
 ## R Markdown
 
+Yihui Xie, Christophe Dervieux, Emily Riederer, [_R Markdown Cookbook_](https://bookdown.org/yihui/rmarkdown-cookbook/), 2020-09-21
+
 
 Yihui Xie, J. J. Allaire, Garrett Grolemund (2018) [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) 
 
