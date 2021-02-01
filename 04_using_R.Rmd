@@ -70,47 +70,52 @@ Lucy D'Agostino McGowan, 2017-07-28, [R release names](https://livefreeordichoto
 
 Releases since 2017-07-28:
 
-* R 4.0.2 ["Taking Off Again"](https://www.gocomics.com/peanuts/1962/04/14) (original strip: 1962-04-14) (R version release date: 2020-06-22)--two weeks after R 4.0.1 was released, R 4.0.2 was released with a few bug fixes
+* R 4.0.3 ["Bunny-Wunnies Freak Out"](https://www.gocomics.com/peanuts/1972/10/23){target="blank"} (original strip: 1972-10-23) (R version release date: 2020-10-10)
+
+  - _The Six Bunny-Wunnies Freak Out_ is detailed at the [Bunny Wunny entry at the Peanuts Wiki](https://peanuts.fandom.com/wiki/Bunny_Wunny){target="blank"} 
 
 
-* R 4.0.1 ["See Things Now"](https://www.gocomics.com/peanuts/1962/02/06) (original strip: 1962-02-06) (R version release date: 2020-06-06)
+* R 4.0.2 ["Taking Off Again"](https://www.gocomics.com/peanuts/1962/04/14){target="blank"} (original strip: 1962-04-14) (R version release date: 2020-06-22)--two weeks after R 4.0.1 was released, R 4.0.2 was released with a few bug fixes
 
 
-* R 4.0.0 ["Arbor Day"](https://www.gocomics.com/peanuts/1970/04/24) (original strip: 1970-04-24) (R version release date: 2020-04-24)
-
-  - The 1976 TV special [_It's Arbor Day, Charlie Brown_](https://peanuts.fandom.com/wiki/It%27s_Arbor_Day,_Charlie_Brown?fbclid=IwAR1LPS3ksgWm-MZlWZ0YicwyOCzOJK94LDfvZFibaScVrtaLY4O6ZrWzEVE) 
+* R 4.0.1 ["See Things Now"](https://www.gocomics.com/peanuts/1962/02/06){target="blank"} (original strip: 1962-02-06) (R version release date: 2020-06-06)
 
 
+* R 4.0.0 ["Arbor Day"](https://www.gocomics.com/peanuts/1970/04/24){target="blank"} (original strip: 1970-04-24) (R version release date: 2020-04-24)
 
-* R 3.6.3 ["Holding the Windsock"](https://www.gocomics.com/peanuts/2000/02/29) (original strip: 2000-02-29—this date also saw the release of R 1.0.0!) (R version release date: 2020-02-29)
-
-  - Peter Dalgaard's [original announcement of the release of R-1.0.0 to stat.ethz.ch](https://stat.ethz.ch/pipermail/r-announce/2000/000127.html)
+  - The 1976 TV special [_It's Arbor Day, Charlie Brown_](https://peanuts.fandom.com/wiki/It%27s_Arbor_Day,_Charlie_Brown?fbclid=IwAR1LPS3ksgWm-MZlWZ0YicwyOCzOJK94LDfvZFibaScVrtaLY4O6ZrWzEVE){target="blank"} 
 
 
-* R 3.6.2 ["Dark and Stormy Night"](https://www.gocomics.com/peanuts/1965/07/12) (original strip: 1965-07-12) (R version release date: 2019-12-12)
+
+* R 3.6.3 ["Holding the Windsock"](https://www.gocomics.com/peanuts/2000/02/29){target="blank"} (original strip: 2000-02-29—this date also saw the release of R 1.0.0!) (R version release date: 2020-02-29)
+
+  - Peter Dalgaard's [original announcement of the release of R-1.0.0 to stat.ethz.ch](https://stat.ethz.ch/pipermail/r-announce/2000/000127.html){target="blank"}
+
+
+* R 3.6.2 ["Dark and Stormy Night"](https://www.gocomics.com/peanuts/1965/07/12) (original strip: 1965-07-12) (R version release date: 2019-12-12){target="blank"}
 
   - the first appearance was the beginning of a running storyline that ran for the five subsequent strips (through 1965-07-17)
 
   - it is a recurring theme in Snoopy's writings; Lucy points this out in the strip from [1997-04-12](https://www.gocomics.com/peanuts/1997/04/22)
 
-  - a complete story was published in 1971 as _Snoopy and the Dark and Stormy Night_ (Holt, Rinehart & Winston); [summary here](http://curiouspages.blogspot.com/2010/02/snoopy-and-it-was-dark-and-stormy-night.html); [full text here](https://mikeconley.ca/blog/2010/02/13/it-was-a-dark-and-stormy-night/) 
+  - a complete story was published in 1971 as _Snoopy and the Dark and Stormy Night_ (Holt, Rinehart & Winston); [summary here](http://curiouspages.blogspot.com/2010/02/snoopy-and-it-was-dark-and-stormy-night.html){target="blank"}; [full text here](https://mikeconley.ca/blog/2010/02/13/it-was-a-dark-and-stormy-night/){target="blank"} 
 
-  - an in-depth assessment of Snoopy's use of "It was a dark and stormy night" can be found at tvtropes, under ["It Was a Dark and Stormy Night"](https://tvtropes.org/pmwiki/pmwiki.php/Main/ItWasADarkAndStormyNight); see the "Newspaper Comics" folder
+  - an in-depth assessment of Snoopy's use of "It was a dark and stormy night" can be found at tvtropes, under ["It Was a Dark and Stormy Night"](https://tvtropes.org/pmwiki/pmwiki.php/Main/ItWasADarkAndStormyNight){target="blank"}; see the "Newspaper Comics" folder
   
-  - The literary cliche ["It was a dark and stormy night" has its own wikipedia entry](https://en.wikipedia.org/wiki/It_was_a_dark_and_stormy_night)
+  - The literary cliche ["It was a dark and stormy night" has its own wikipedia entry](https://en.wikipedia.org/wiki/It_was_a_dark_and_stormy_night){target="blank"}
 
 
-* R 3.6.1 ["Action of the Toes"](https://www.gocomics.com/peanuts/1971/03/22) (original strip: 1971-03-22) (R version release date: 2019-07-05)
+* R 3.6.1 ["Action of the Toes"](https://www.gocomics.com/peanuts/1971/03/22) (original strip: 1971-03-22){target="blank"} (R version release date: 2019-07-05)
 
-* R 3.6.0 ["Planting of a Tree"](https://www.gocomics.com/peanuts/1963/03/03) (original strip: 1963-03-03) (R version release date: 2019-04-26)
+* R 3.6.0 ["Planting of a Tree"](https://www.gocomics.com/peanuts/1963/03/03) (original strip: 1963-03-03){target="blank"} (R version release date: 2019-04-26)
 
-* R 3.5.3 ["Great Truth"](https://www.gocomics.com/peanuts/1959/03/11) (original strip: 1959-03-11) (R version release date: 2019-03-11)
+* R 3.5.3 ["Great Truth"](https://www.gocomics.com/peanuts/1959/03/11) (original strip: 1959-03-11){target="blank"} (R version release date: 2019-03-11)
 
-* R 3.5.2 ["Eggshell Igloos"](https://www.gocomics.com/peanuts/1960/01/25) (original strip: 1960-01-25) (R version release date: 2018-12-20)
+* R 3.5.2 ["Eggshell Igloos"](https://www.gocomics.com/peanuts/1960/01/25) (original strip: 1960-01-25) (R version release date: 2018-12-20){target="blank"}
 
 
 
-(Another source for the strips is the [peanuts.fandom.com comics archive](https://peanuts.fandom.com/wiki/Category:Comic_strips))
+(Another source for the strips is the [peanuts.fandom.com comics archive](https://peanuts.fandom.com/wiki/Category:Comic_strips){target="blank"})
 
 
 ***
