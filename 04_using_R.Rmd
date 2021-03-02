@@ -70,6 +70,13 @@ Lucy D'Agostino McGowan, 2017-07-28, [R release names](https://livefreeordichoto
 
 Releases since 2017-07-28:
 
+* * R 4.0.4 ["Lost Library Book"](https://www.gocomics.com/peanuts/1972/10/23) (original strip: TBD) (R version release date: 2021-02-15)
+
+  - Charlie Brown's lost library book was a weekday series that ran for 
+  
+  - The rerun of the strips started on [2006-02-27](https://www.gocomics.com/peanuts/2006/02/27), and continued through [2006-03-10](https://www.gocomics.com/peanuts/2006/03/10)
+
+
 * R 4.0.3 ["Bunny-Wunnies Freak Out"](https://www.gocomics.com/peanuts/1972/10/23) (original strip: 1972-10-23) (R version release date: 2020-10-10)
 
   - _The Six Bunny-Wunnies Freak Out_ is detailed at the [Bunny Wunny entry at the Peanuts Wiki](https://peanuts.fandom.com/wiki/Bunny_Wunny) 
