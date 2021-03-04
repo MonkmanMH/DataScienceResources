@@ -70,11 +70,11 @@ Lucy D'Agostino McGowan, 2017-07-28, [R release names](https://livefreeordichoto
 
 Releases since 2017-07-28:
 
-* * R 4.0.4 ["Lost Library Book"](https://www.gocomics.com/peanuts/1972/10/23) (original strip: TBD) (R version release date: 2021-02-15)
+* * R 4.0.4 "Lost Library Book" (original strip: [1959-03-02](https://www.gocomics.com/peanuts/1959/03/02)) (R version release date: 2021-02-15)
 
-  - Charlie Brown's lost library book was a weekday series that ran for 11 strips
+  - Charlie Brown's lost library book was a weekday series that ran for 11 strips, starting on [1959-03-02](https://www.gocomics.com/peanuts/1959/03/02), running until [1959-03-13] (https://www.gocomics.com/peanuts/1959/03/13)
   
-  - The rerun of the strips started on [2006-02-27](https://www.gocomics.com/peanuts/2006/02/27), and continued through [2006-03-10](https://www.gocomics.com/peanuts/2006/03/10)
+  - The strips were rerun [2006-02-27](https://www.gocomics.com/peanuts/2006/02/27) through [2006-03-10](https://www.gocomics.com/peanuts/2006/03/10)
 
 
 * R 4.0.3 ["Bunny-Wunnies Freak Out"](https://www.gocomics.com/peanuts/1972/10/23) (original strip: 1972-10-23) (R version release date: 2020-10-10)
@@ -104,6 +104,8 @@ Releases since 2017-07-28:
   - the first appearance was the beginning of a running storyline that ran for the five subsequent strips (through 1965-07-17)
 
   - it is a recurring theme in Snoopy's writings; Lucy points this out in the strip from [1997-04-12](https://www.gocomics.com/peanuts/1997/04/22)
+  
+    - there are a few good puns to be made, such as [1983-05-02](https://www.gocomics.com/peanuts/1983/05/02)
 
   - a complete story was published in 1971 as _Snoopy and the Dark and Stormy Night_ (Holt, Rinehart & Winston); [summary here](http://curiouspages.blogspot.com/2010/02/snoopy-and-it-was-dark-and-stormy-night.html); [full text here](https://mikeconley.ca/blog/2010/02/13/it-was-a-dark-and-stormy-night/) 
 
