@@ -77,6 +77,11 @@ Releases since 2017-07-28:
   - The strips were rerun [2006-02-27](https://www.gocomics.com/peanuts/2006/02/27) through [2006-03-10](https://www.gocomics.com/peanuts/2006/03/10)
 
 
+Peter Dalgaard via twitter pointed out the inherent pun in the name (and the naming of R 4.0.3):
+
+![_R 4.0.4](images\Peter_Dalgaard_r404_name.JPG)
+
+
 * R 4.0.3 ["Bunny-Wunnies Freak Out"](https://www.gocomics.com/peanuts/1972/10/23) (original strip: 1972-10-23) (R version release date: 2020-10-10)
 
   - _The Six Bunny-Wunnies Freak Out_ is detailed at the [Bunny Wunny entry at the Peanuts Wiki](https://peanuts.fandom.com/wiki/Bunny_Wunny) 
