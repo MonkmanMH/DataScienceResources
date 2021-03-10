@@ -79,7 +79,7 @@ Releases since 2017-07-28:
 
 Peter Dalgaard via twitter pointed out the inherent pun in the name (and the naming of R 4.0.3):
 
-![_R 4.0.4](images\Peter_Dalgaard_r404_name.JPG)
+![_The naming of R 4.0.4_](images\Peter_Dalgaard_r404_name.JPG)
 
 
 * R 4.0.3 ["Bunny-Wunnies Freak Out"](https://www.gocomics.com/peanuts/1972/10/23) (original strip: 1972-10-23) (R version release date: 2020-10-10)

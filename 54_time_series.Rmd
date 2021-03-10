@@ -19,6 +19,8 @@ See also
 
 Rob Hyndman's work in this area is second-to-none.
 
+Start with his book with George Athanasopoulos, _Forecasting: Principles and Practice_ (3rd edition) [@Hyndman_Athanasopoulos_2021]
+
 * [the cleverly named "Hyndsight" blog](https://robjhyndman.com/hyndsight/) has a wealth of great articles on the topic, many of which explicitly reference the use of R.  
 
 * ["Software I've written"](https://robjhyndman.com/software/) is a comprehensive list of the various packages that he has (co)authored
