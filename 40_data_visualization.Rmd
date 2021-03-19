@@ -147,6 +147,8 @@ Medium's [Data Visualization Society](https://medium.com/data-visualization-soci
 
 * [{ggplot2}: part of the tidyverse](http://ggplot2.tidyverse.org/index.html) -- reference materials, examples, etc etc. Start here.
 
+* Winston Chang, [_R Graphics Cookbook_, 2nd edition](https://r-graphics.org/)[@Chang_2018]
+
 * [Top 50 {ggplot2} Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
 
 * [A Compendium of Clean Graphs in R](http://shinyapps.org/apps/RGraphCompendium/index.php), by Eric-Jan Wagenmakers and Quentin F. Gronau
