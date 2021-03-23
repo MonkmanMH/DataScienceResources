@@ -306,6 +306,13 @@ Cynthia A. Brewer, Geoffrey W. Hatchard, and Mark A. Harrower (2003) ColorBrewer
 
 ### palettes in R
 
+[{paletteer}](https://emilhvitfeldt.github.io/paletteer/)
+
+* "a comprehensive collection of color palettes in R using a common interface. Think of it as the “caret of palettes”."
+
+
+Other palette resources:
+
 * Clay Ford, 2016-06-10, ["Setting up Color Palettes in R"](https://data.library.virginia.edu/setting-up-color-palettes-in-r/)
 
 * Joachim Goedhart, 2019-08-29, [Data Visualization with Flying Colors](https://thenode.biologists.com/data-visualization-with-flying-colors/research/), at thenode.biologists.com
