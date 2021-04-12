@@ -5,7 +5,9 @@
 
 John Fox and Sanford Weisberg, [_An R Companion to Applied Regression, Second Edition_](http://socserv.socsci.mcmaster.ca/jfox/Books/Companion/), Sage (2011)
 
-Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani, _An Introduction to Statistical Learning: With Applications in R_, Springer (2013)
+Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani, _An Introduction to Statistical Learning: With Applications in R_, Springer (2013) [@James_Witten_Hastie_Tibshirani_2014]
+
+Paul Roback and Julie Legler, _Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in R_, CRC Press, 2020 [@Roback_Legler_2020]
 
 Jeremy Anglin, ["Using R to replicate common SPSS multiple regression output"](http://jeromyanglim.blogspot.ca/2013/12/using-r-to-replicate-common-spss.html) (2013-12-04)
 
@@ -22,13 +24,14 @@ Selva Prabhakaran, [Linear Regression](http://r-statistics.co/Linear-Regression.
 
 #### text books
 
-Michael Friendly and David Meyer, _Discrete Data Analysis with R: Visualization and Modeling Techniques for Categorical and Count Data_, CRC Press (2016)
+Michael Friendly and David Meyer, _Discrete Data Analysis with R: Visualization and Modeling Techniques for Categorical and Count Data_ [@Friendly_Meyer_2016]
 
 * see Chapter 7, "Logistic Regression Models"
 
-Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani, _An Introduction to Statistical Learning: With Applications in R_, Springer (2013)
+Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani, _An Introduction to Statistical Learning: With Applications in R_ [@James_Witten_Hastie_Tibshirani_2014]
 
 * Chapter 4, "Classification", includes a section on Logistic Regression
+
 
 #### online resources
 
