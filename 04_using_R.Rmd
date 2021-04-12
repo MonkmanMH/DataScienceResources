@@ -70,21 +70,30 @@ Lucy D'Agostino McGowan, 2017-07-28, [R release names](https://livefreeordichoto
 
 Releases since 2017-07-28:
 
-* * R 4.0.4 "Lost Library Book" (original strip: [1959-03-02](https://www.gocomics.com/peanuts/1959/03/02)) (R version release date: 2021-02-15)
+* R 4.0.5 "Shake and Throw" (original strip: [1978-07-30](https://www.gocomics.com/peanuts/1978/07/30)) (R version release date: 2021-03-31)
+
+  - [HTTP response status code: 405 Method Not Allowed](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/405)
+
+* R 4.0.4 "Lost Library Book" (original strip: [1959-03-02](https://www.gocomics.com/peanuts/1959/03/02)) (R version release date: 2021-02-15)
 
   - Charlie Brown's lost library book was a weekday series that ran for 11 strips, starting on [1959-03-02](https://www.gocomics.com/peanuts/1959/03/02), running until [1959-03-13] (https://www.gocomics.com/peanuts/1959/03/13)
   
   - The strips were rerun [2006-02-27](https://www.gocomics.com/peanuts/2006/02/27) through [2006-03-10](https://www.gocomics.com/peanuts/2006/03/10)
 
 
-Peter Dalgaard via twitter pointed out the inherent pun in the name (and the naming of R 4.0.3):
+  - Peter Dalgaard via twitter pointed out the inherent pun in the name (and the naming of R 4.0.3):
 
 ![_The naming of R 4.0.4_](images\Peter_Dalgaard_r404_name.JPG)
+
+  - [HTTP response status code: 404 Not Found](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404)
+
 
 
 * R 4.0.3 ["Bunny-Wunnies Freak Out"](https://www.gocomics.com/peanuts/1972/10/23) (original strip: 1972-10-23) (R version release date: 2020-10-10)
 
   - _The Six Bunny-Wunnies Freak Out_ is detailed at the [Bunny Wunny entry at the Peanuts Wiki](https://peanuts.fandom.com/wiki/Bunny_Wunny) 
+
+  - [HTTP response status code: 403 Forbidden](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403)
 
 
 * R 4.0.2 ["Taking Off Again"](https://www.gocomics.com/peanuts/1962/04/14) (original strip: 1962-04-14) (R version release date: 2020-06-22)--two weeks after R 4.0.1 was released, R 4.0.2 was released with a few bug fixes
