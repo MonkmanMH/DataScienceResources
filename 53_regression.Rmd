@@ -7,7 +7,7 @@ John Fox and Sanford Weisberg, [_An R Companion to Applied Regression, Second Ed
 
 Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani, _An Introduction to Statistical Learning: With Applications in R_, Springer (2013) [@James_Witten_Hastie_Tibshirani_2014]
 
-Paul Roback and Julie Legler, _Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in R_, CRC Press, 2020 [@Roback_Legler_2020]
+Paul Roback and Julie Legler, _Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in R_, CRC Press, 2021 [@Roback_Legler_2021]
 
 Jeremy Anglin, ["Using R to replicate common SPSS multiple regression output"](http://jeromyanglim.blogspot.ca/2013/12/using-r-to-replicate-common-spss.html) (2013-12-04)
 
