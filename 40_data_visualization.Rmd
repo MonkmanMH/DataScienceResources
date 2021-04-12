@@ -81,6 +81,9 @@ Design Space of Data Visualization"](https://www.sciencedirect.com/science/artic
 
 * PolicyViz, [DataViz Cheatsheet](https://policyviz.com/2018/08/07/dataviz-cheatsheet/) (2018-08-07)
 
+
+* Elizabeth Ricks, ["How do I know which graph to use?"](https://www.storytellingwithdata.com/blog/2021/4/6/how-do-i-know-which-graph-to-use)—blog article at storytellingwithdata.com
+
 * Rougier NP, Droettboom M, Bourne PE (2014) "Ten Simple Rules for Better Figures".  [@Rougier_etal_2014]
 
 
