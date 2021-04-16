@@ -1,10 +1,12 @@
 # R Release Names
 
-The most-asked question about R? 
+The most-asked question about R? "Why do R releases have _unusual_ names?"
 
 Answer: "All of the release names are references to Peanuts strips/films." 
 
-Lucy D'Agostino McGowan, 2017-07-28, [R release names](https://livefreeordichotomize.com/2017/09/28/r-release-names/)
+In this blog post, Lucy D'Agostino McGowan cataloged those that had been released to that point (2017-07-28, up to 3.5.1).
+
+* ["R release names"](https://livefreeordichotomize.com/2017/09/28/r-release-names/)
 
 
 Releases since 2017-07-28:
@@ -13,18 +15,19 @@ Releases since 2017-07-28:
 
   - [HTTP response status code: 405 Method Not Allowed](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/405)
 
+
 * R 4.0.4 "Lost Library Book" (original strip: [1959-03-02](https://www.gocomics.com/peanuts/1959/03/02)) (R version release date: 2021-02-15)
 
   - Charlie Brown's lost library book was a weekday series that ran for 11 strips, starting on [1959-03-02](https://www.gocomics.com/peanuts/1959/03/02), running until [1959-03-13] (https://www.gocomics.com/peanuts/1959/03/13)
   
   - The strips were rerun [2006-02-27](https://www.gocomics.com/peanuts/2006/02/27) through [2006-03-10](https://www.gocomics.com/peanuts/2006/03/10)
 
+  - [HTTP response status code: 404 Not Found](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404)
 
   - Peter Dalgaard via twitter pointed out the pun inherent in the name (and the naming of R 4.0.3):
 
 ![_The naming of R 4.0.4_](images\Peter_Dalgaard_r404_name.JPG)
 
-  - [HTTP response status code: 404 Not Found](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404)
 
 
 
@@ -35,7 +38,7 @@ Releases since 2017-07-28:
   - [HTTP response status code: 403 Forbidden](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403)
 
 
-* R 4.0.2 ["Taking Off Again"](https://www.gocomics.com/peanuts/1962/04/14) (original strip: 1962-04-14) (R version release date: 2020-06-22)--two weeks after R 4.0.1 was released, R 4.0.2 was released with a few bug fixes
+* R 4.0.2 ["Taking Off Again"](https://www.gocomics.com/peanuts/1962/04/14) (original strip: 1962-04-14) (R version release date: 2020-06-22)—two weeks after R 4.0.1 was released, R 4.0.2 was released with a few bug fixes
 
 
 * R 4.0.1 ["See Things Now"](https://www.gocomics.com/peanuts/1962/02/06) (original strip: 1962-02-06) (R version release date: 2020-06-06)
