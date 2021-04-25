@@ -171,6 +171,10 @@ Medium's [Data Visualization Society](https://medium.com/data-visualization-soci
 
 * Henry Wang, [ggplot2 Theme Elements Demonstration](https://henrywang.nl/ggplot2-theme-elements-demonstration/)
 
+* [{ggplot2}: A complete guide to scales](https://ggplot2tor.com/scales/) "There are numerous scales in ggplot2. Too many to memorize. This app makes it easy for you to find the right scales and arguments for your variable types and aesthetics."
+
+
+
 ### extensions
 
 There are many extension packages that allow you to make other visualizations in {ggplot2}. Some are catalogued at [exts.ggplot2.tidyverse.org/](https://exts.ggplot2.tidyverse.org/).
