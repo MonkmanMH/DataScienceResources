@@ -318,6 +318,11 @@ Cynthia A. Brewer, Geoffrey W. Hatchard, and Mark A. Harrower (2003) ColorBrewer
 * "a comprehensive collection of color palettes in R using a common interface. Think of it as the “caret of palettes”."
 
 
+[{MetBrewer}](https://github.com/BlakeRMills/MetBrewer)
+
+* "Color palette package in R inspired by works at the Metropolitan Museum of Art in New York" by [BlakeRMills](https://github.com/BlakeRMills)
+
+
 Other palette resources:
 
 * Clay Ford, 2016-06-10, ["Setting up Color Palettes in R"](https://data.library.virginia.edu/setting-up-color-palettes-in-r/)
