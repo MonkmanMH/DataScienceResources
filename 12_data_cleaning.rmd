@@ -51,4 +51,9 @@ Articles:
 * Edwin de Jonge and Mark van der Loo, 2019, [Data Validation Infrastructure for R](https://arxiv.org/pdf/1912.09759.pdf), arXiv:1912.09759v1 {PDF}
 
 
+
+### `{vim}`
+
+Joachim Schork, ["Report Missing Values in Data Frame in R"](https://statisticsglobe.com/report-missing-values-in-data-frame-in-r)
+
 -30-
