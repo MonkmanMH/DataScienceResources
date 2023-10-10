@@ -200,6 +200,11 @@ There are many extension packages that allow you to make other visualizations in
 * [Reference page](https://patchwork.data-imaginist.com/)
 
 
+#### `{see}` -- Model Visualization Toolbox for 'easystats` and 'ggplot2`
+
+* [Reference page](see: Model Visualisation Toolbox for ‘easystats’ and ‘ggplot2’)
+
+
 ### themes
 
 {ggplot2} has a number of [themes in the core package](https://ggplot2.tidyverse.org/reference/ggtheme.html), and here are some to extend the range:
@@ -246,12 +251,43 @@ Lisa Charlotte Rost, 2018-07-31, [Your Friendly Guide to Colors in Data Visualis
 Lisa Charlotte Rost, 2020-09-04, [How to pick more beautiful colors for your data visualizations: Common color mistakes and how to avoid them](https://blog.datawrapper.de/beautifulcolors/) 
 
 
-
 #### General resources: R
 
 The following links support the use of colour in R.
 
 * [R color cheatsheet](https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/colorPaletteCheatsheet.pdf)
+
+
+### colour (or color) blindness
+
+* Masataka Okabe and Kei Ito, 2008-09-24, [Color Universal Design (CUD) - How to make figures and presentations that are friendly to Colorblind people](https://jfly.uni-koeln.de/color/)
+
+* Tom Jager (2018-06-25) [How to Optimize Charts For Color Blind Readers Using Color Blind Friendly Palettes](https://venngage.com/blog/color-blind-friendly-palette/)
+
+
+* Natalie Houston, ["Creating Color-Blind Accessible Figures"](https://www.reed.edu/economics/parker/311/Creating-Color-Blind-Accessible-Figures-ProfHacker---Blogs---The-Chronicle-of-Higher-Education.pdf), _ProfHacker_, _The Chronicle of Higher Education_, 2015-02-09
+
+
+#### R packages to address colour blindness
+
+{ggokabeito}: 'Okabe-Ito' Scales for 'ggplot2' and 'ggraph'
+
+* "ggokabeito provides ggplot2 and ggraph scales to easily use the discrete, colorblind-friendly ‘Okabe-Ito’ palette in your data visualizations"
+
+* [{ggokabeito} reference page](https://malcolmbarrett.github.io/ggokabeito/)
+
+* [CRAN page](https://CRAN.R-project.org/package=ggokabeito)
+
+functions in the {see} package:
+
+* [Okabe-Ito color palette](https://easystats.github.io/see/reference/scale_color_okabeito.html)
+
+
+{colorblindr}: An R package to simulate colorblindness on R figures.
+
+* [github repo](https://github.com/clauswilke/colorblindr)
+
+* [Graphical User Interface to Check Images for Color Constraints](http://hclwizard.org:3000/cvdemulator/)
 
 
 ### `{colorspace}`
@@ -298,9 +334,6 @@ Cynthia A. Brewer, Geoffrey W. Hatchard, and Mark A. Harrower (2003) ColorBrewer
 
 ### other colour notes and guides
 
-* Tom Jager (2018-06-25) [How to Optimize Charts For Color Blind Readers Using Color Blind Friendly Palettes](https://venngage.com/blog/color-blind-friendly-palette/)
-
-* Masataka Okabe and Kei Ito, 2008-09-24, [Color Universal Design (CUD) - How to make figures and presentations that are friendly to Colorblind people](https://jfly.uni-koeln.de/color/)
 
 * Alberto Cairo, 2019-06-26, ["Our understanding of rainbow colour schemes remains incomplete"](http://www.thefunctionalart.com/2019/06/our-understanding-of-rainbow-color.html)
 
