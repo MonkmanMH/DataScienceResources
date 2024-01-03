@@ -20,7 +20,7 @@ Andy Kirk (2019-07-19) [Five Ways To...Present Bar Charts](https://www.visualisi
 
 R package [`boxplot`](https://stat.ethz.ch/R-manual/R-devel/library/graphics/html/boxplot.html)
 
-Laura DeCicco, 2018-08-10, [Exploring ggplot2 boxplots - Defining limits and adjusting style](https://owi.usgs.gov/blog/boxplots/)
+Laura DeCicco, 2018-08-10, [Exploring ggplot2 boxplots - Defining limits and adjusting style](https://web.archive.org/web/20230623161729/https://waterdata.usgs.gov/blog/boxplots/) (via The Wayback Machine at web.archive.org)
 
 Ron Pearson, 2011-01-29, [Boxplots and Beyond – Part I](https://www.r-bloggers.com/boxplots-and-beyond-part-i/) (first in a multi-part series on various distribution plots)
 
@@ -58,7 +58,7 @@ A line chart that shows changes in ranking over time (not the absolute value).
 
 * Nina Zumel (2013-02-18) [Revisiting Cleveland’s The Elements of Graphing Data in ggplot2](http://www.win-vector.com/blog/2013/02/revisiting-clevelands-the-elements-of-graphing-data-in-ggplot2/)
 
-* [Datavis with R: Drawing a Cleveland dot plot with ggplot2](http://www.joyce-robbins.com/blog/2016/06/02/datavis-with-rdrawing-a-cleveland-dot-plot-with-ggplot2/)
+* [Datavis with R: Drawing a Cleveland dot plot with ggplot2](https://web.archive.org/web/20190907194822/http://www.joyce-robbins.com/blog/2016/06/02/datavis-with-rdrawing-a-cleveland-dot-plot-with-ggplot2/) (via The Wayback Machine at web.archive.org)
 
 
 
@@ -66,7 +66,7 @@ A line chart that shows changes in ranking over time (not the absolute value).
 
 A.K.A. bar and line graphs. Don't use them!
 
-* Rafael Irizarry, 2019/02/21, ["Open letter to journal editors: dynamite plots must die"](https://simplystatistics.org/2019/02/21/dynamite-plots-must-die/)
+* Rafael Irizarry, 2019/02/21, ["Open letter to journal editors: dynamite plots must die"](https://simplystatistics.org/posts/2019-02-21-dynamite-plots-must-die/)
 
 * GB Drummond and SL Vowler, 2011, ["Show the data, don't conceal them"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3087125/), _British Journal of Pharmacology_, 2011 May; 163(2): 208–210.
 
@@ -78,7 +78,7 @@ A.K.A. bar and line graphs. Don't use them!
 > an eikosogram is a picture of probability. It visually partitions a unit square into rectangular regions whose areas give the numerical values of various probabilities. The construction is such that each rectangular region is identified with the value of one or more categorical variates. 
 > _R.W. Oldford_
 
-* R.W. Oldford (2018-08-16) [Introduction to eikosograms](https://cran.r-project.org/package=eikosograms/vignettes/introduction.html)
+* Wayne Oldford, Erle Holgersen, Ben Lafreniere, Tianlu Zhu (2018-08-22) [{eikosograms} CRAN page](https://CRAN.R-project.org/package=eikosograms)
 
 
 
@@ -120,7 +120,7 @@ Rebecca L. Barter & Bin Yu, 2017-01-30, ["Superheat: An R package for creating b
 
 [Heatmaps in R](https://plot.ly/r/heatmaps/), from [ploty](https://plot.ly/)
 
-Mick Watson, 2015-04-05, [You probably don’t understand heatmaps](http://www.opiniomics.org/you-probably-dont-understand-heatmaps/)
+Mick Watson, 2015-04-05, [You probably don’t understand heatmaps](https://web.archive.org/web/20191207151904/http://www.opiniomics.org/you-probably-dont-understand-heatmaps/)  (via The Wayback Machine at web.archive.org)
 
 
 ## Histograms
@@ -216,7 +216,7 @@ Lauren Boucher (2016-03-10) [What are the different types of population pyramids
 
 ** Kyle Walker's stuff **
 
-Kyle Walker (2014-06-07) [Interactive international population pyramids with R, rCharts](https://walkerke.github.io/2014/06/rcharts-pyramids/)
+Kyle Walker (2014-06-07) [Interactive international population pyramids with R, rCharts](https://www.r-bloggers.com/2014/06/interactive-international-population-pyramids-with-r-rcharts/)
 
 Kyle Walker (2014-07-06) [International population pyramids with ggplot2](https://rpubs.com/walkerke/pyramids_ggplot2)
 
@@ -240,7 +240,7 @@ acarioli (2016-01-11) [Population pyramids in ggplot](https://aledemogr.wordpres
 
 ## Raincloud plot
 
-Micah Allen, 2018-03-15, [Introducing Raincloud Plots!](https://micahallen.org/2018/03/15/introducing-raincloud-plots/)
+Micah Allen, Davide Poggiali, Kirstie Whitaker, Tom Rhys Marshall, Jordy van Langen, Rogier A. Kievit, 2021-01-21, ["Raincloud plots: a multi-platform tool for robust data visualization"](https://doi.org/10.12688/wellcomeopenres.15191.2), _Wellcome Open Res_ 2021, 4:63
 
 [RainCloudPlots](https://github.com/RainCloudPlots/RainCloudPlots) -- "Code and tutorials to visualise your data that is both beautiful *and* statistically valid"
 
@@ -251,7 +251,7 @@ David Zhao, 2019-09-02, [The ultimate EDA visualization in R](https://towardsdat
 ## Ridgeline plot
 
 
-** ridgeline plots in R **
+**ridgeline plots in R**
 
 
 #### `{ggridges}`
@@ -268,7 +268,7 @@ Henrik Lindberg, [Sports: Time of Day](https://github.com/halhen/viz-pub/tree/ma
 
 
 
-** _Unknown Pleasures_ **
+**_Unknown Pleasures_**
 
 The over of Joy Division's debut album [_Unknown Pleasures_](https://en.wikipedia.org/wiki/Unknown_Pleasures) (1979) is perhaps the most famous ridgeline plot.
 
@@ -313,7 +313,7 @@ Kyle Walker, 2015-05-17, [Global population change with a slopegraph in ggplot2]
 
 #### `{ggtern}`
 
-[`ggtern` - an extension to `ggplot2`](http://www.ggtern.com/) for plotting ternary diagrams.
+Nicholas Hamilton, [ggtern: An Extension to 'ggplot2', for the Creation of Ternary Diagrams](https://CRAN.R-project.org/package=ggtern ): CRAN page
 
 
 
@@ -350,7 +350,7 @@ GitHub page: {vioplot}(https://github.com/TomKellyGenetics/vioplot): "This packa
 
 CRAN page: [waffle: Create Waffle Chart Visualizations in R](https://cran.r-project.org/package=waffle)
 
-GitHub page: {waffle}(https://github.com/hrbrmstr/waffle): Make waffle (square pie) charts in R
+GitHub page: [{waffle}: Make waffle (square pie) charts in R](https://github.com/hrbrmstr/waffle)
 
 
 **articles**
@@ -361,7 +361,7 @@ GitHub page: {waffle}(https://github.com/hrbrmstr/waffle): Make waffle (square p
 
 ## Unit visualization
 
-Antoine Béland and Thomas Hurtut (2020) [Unit Visualizations for Visual Storytelling](https://cpb-us-w2.wpmucdn.com/express.northeastern.edu/dist/d/53/files/2020/02/CJ_2020_paper_37.pdf), 2020, research paper presented at the [2020 Computation + Journalism Symposium](https://cj2020.northeastern.edu/research-papers/) (2020-03-20 to 2020-03-21)
+Antoine Béland and Thomas Hurtut (2020) [Unit Visualizations for Visual Storytelling](https://bpb-us-w2.wpmucdn.com/sites.northeastern.edu/dist/d/53/files/2020/02/CJ_2020_paper_37.pdf), 2020, research paper presented at the [2020 Computation + Journalism Symposium](https://cj2020.northeastern.edu/research-papers/) (2020-03-20 to 2020-03-21)
 
 
 -30-
