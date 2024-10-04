@@ -13,7 +13,7 @@ Cartographic design principles
 
 Choropleth maps
 
-* vis4net, ["Why we didn’t use a cartogram in the Brexit map"](http://vis4.net/blog/posts/to-cartogram-or-not-to-cartogram-the-brexit/) (2016)
+* vis4net, ["Why we didn’t use a cartogram in the Brexit map"](https://www.vis4.net/blog/to-cartogram-or-not-to-cartogram-the-brexit/) (2016)
 
 
 
